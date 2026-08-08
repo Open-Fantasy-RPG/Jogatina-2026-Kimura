@@ -49,7 +49,8 @@ Aeloria continua não sendo personagem de linha de frente.
 | Espaços de magia nível 1 | **3 por Descanso Longo** |
 | Bardic Inspiration d6 | **3 por Descanso Longo** |
 | Cloud's Jaunt | **2 por Descanso Longo** |
-| Expertise | **Enganação +7; Acrobacia +6** |
+| Expertise | **Performance +7; Acrobacia +6** |
+| Enganação | **+5 com proficiência normal** |
 | Jack of All Trades | **+1 em testes de habilidade sem proficiência** |
 
 ## Magias de combate
@@ -120,6 +121,12 @@ Ela só pode manter uma magia de Concentração por vez.
 - Ação Bônus: **Cloud's Jaunt** até 30 pés.
 - Movimento normal para ampliar distância.
 
+## Performance fora de combate
+
+Com **Performance +7**, Aeloria é especialmente forte em apresentações musicais, recitais, atuação, histórias dramáticas, disputas artísticas e tentativas de conquistar ou manter a atenção de uma plateia. Esse é também o principal teste para performances usadas para construir sua reputação no mundo, quando o mestre considerar apropriado.
+
+Performance não substitui **Persuasão +5** quando ela quer convencer alguém nem **Enganação +5** quando quer sustentar uma mentira.
+
 ## Jack of All Trades em jogo
 
 No nível 2, testes de habilidade sem proficiência recebem **+1** além do modificador do atributo.
@@ -135,4 +142,4 @@ Jack of All Trades não se soma às perícias em que Aeloria já aplica profici�
 
 ## Regra de ouro
 
-No nível 2, Aeloria ficou mais versátil. **Faerie Fire** melhora o dano do grupo, Expertise fortalece seus extremos sociais e físicos, e Jack of All Trades faz com que mesmo testes fora de sua especialidade tenham alguma ajuda.
+No nível 2, Aeloria ficou mais versátil. **Faerie Fire** melhora o dano do grupo, Performance reforça sua identidade artística, Acrobacia sustenta o controle corporal e Jack of All Trades faz com que mesmo testes fora de sua especialidade tenham alguma ajuda.
