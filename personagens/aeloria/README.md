@@ -33,18 +33,18 @@ Ela viaja há décadas. Busca segurança, dinheiro e poder, mas sua ambição ce
 - **Furtividade:** +4.
 - **Jack of All Trades:** +1 em testes de habilidade sem proficiência.
 - **Truques:** Prestidigitation e Vicious Mockery.
-- **Magias preparadas da Barda:** Healing Word, Cure Wounds, Heroism, Dissonant Whispers, Faerie Fire e **Invisibility**.
+- **Magias preparadas da Barda:** Healing Word, Heroism, Dissonant Whispers, Faerie Fire, **Invisibility** e **Suggestion**.
 - **College of Glamour:** Mantle of Inspiration e Beguiling Magic.
 - **Sempre preparadas pela subclasse:** Charm Person e Mirror Image.
 - **Espaços de magia:** 4 de 1º círculo e 2 de 2º círculo.
 
-A ficha de **nível 3** é agora a ficha canônica. As fichas de níveis 1 e 2 permanecem como histórico mecânico.
+A ficha de **nível 3** é a ficha canônica. As fichas de níveis 1 e 2 permanecem como histórico mecânico.
 
 ## Última experiência de campanha
 
 Nos esgotos de **Asuras Jewel**, Aeloria confirmou na prática que Performance, Persuasão e Carisma são ferramentas relevantes. Também contribuiu com dano e assistência em combate, enquanto **Cloud's Jaunt** teve papel decisivo para fuga e reposicionamento.
 
-Essa experiência orientou a evolução para College of Glamour e a escolha de Invisibility: presença social, suporte, controle e mobilidade continuam sendo os pilares da personagem.
+Essa experiência orientou a evolução para College of Glamour e as escolhas de Invisibility e Suggestion: presença social, suporte, controle e mobilidade continuam sendo os pilares da personagem.
 
 ## Documentos
 
