@@ -1,136 +1,87 @@
 # Aeloria — Habilidades e Magias — Nível 3
 
-## Espécie: Goliate 2024
+Este documento detalha as habilidades da personagem. Para consulta rápida durante a mesa, use [ficha-nivel-3.md](ficha-nivel-3.md).
 
-### Deslocamento — 35 pés
+## Espécie — Goliate 2024
 
-Aeloria se move 35 pés por turno.
+### Cloud's Jaunt
+
+- **Ação Bônus**;
+- teleporte de até **30 pés** para espaço desocupado visível;
+- **2 usos por Descanso Longo** no nível 3;
+- não é magia preparada e não consome slot.
 
 ### Powerful Build
 
-- vantagem em testes de habilidade feitos para encerrar a condição **Grappled**;
-- conta como uma categoria de tamanho maior ao calcular capacidade de carga.
+Aeloria mantém os benefícios físicos da espécie Goliate, incluindo capacidade de carga e resistência a agarrões conforme a regra da espécie.
 
-### Giant Ancestry — Cloud's Jaunt
+### Large Form
 
-Como **Ação Bônus**, Aeloria teleporta-se magicamente até **30 pés** para um espaço desocupado que consiga ver.
-
-Usos iguais ao Bônus de Proficiência. No nível 3: **2 usos por Descanso Longo**.
-
-Cloud's Jaunt não é uma magia preparada e não consome espaço de magia.
-
-### Large Form — futuro, nível de personagem 5
-
-Ainda não está disponível.
+Disponível apenas no nível de personagem 5.
 
 ---
 
-# Classe: Barda nível 3
-
-## Pontos de Vida
-
-Aeloria tinha **11 PV** no nível 2. Na subida para o nível 3 rolou **3 no d8** e somou CON +1, recebendo **+4 PV**.
-
-**PV máximo atual: 15.**
+# Barda nível 3
 
 ## Bardic Inspiration — d6
 
 - **Ação Bônus**;
-- alcance **60 pés**;
-- alvo precisa ver ou ouvir Aeloria;
-- concede **1d6 de Inspiração Bárdica**;
-- **3 usos por Descanso Longo**.
-
-Bardic Inspiration é diferente de **Heroic Inspiration**, concedida pelo talento Musician.
+- alcance 60 pés;
+- **3 usos por Descanso Longo**;
+- concede **1d6 de Inspiração Bárdica** conforme a regra da classe.
 
 ## Expertise
 
-Aeloria mantém as duas perícias com Expertise escolhidas no nível 2:
+- **Performance +7**;
+- **Acrobacia +6**.
 
-- **Performance +7** — CAR +3 + proficiência dobrada +4;
-- **Acrobacia +6** — DES +2 + proficiência dobrada +4.
-
-Outras perícias principais:
-
-- **Persuasão +5**;
-- **Enganação +5**;
-- **Furtividade +4**.
+Outras perícias principais: Persuasão +5, Enganação +5 e Furtividade +4.
 
 ## Jack of All Trades
 
-Aeloria adiciona **metade do Bônus de Proficiência, arredondado para baixo**, a testes de habilidade nos quais não esteja aplicando seu Bônus de Proficiência.
-
-No nível 3, o Bônus de Proficiência continua +2, então Jack of All Trades permanece em **+1**.
-
-| Atributo do teste sem proficiência | Mod. | Jack | Total |
-|---|---:|---:|---:|
-| Força | +0 | +1 | **+1** |
-| Destreza | +2 | +1 | **+3** |
-| Constituição | +1 | +1 | **+2** |
-| Inteligência | -1 | +1 | **+0** |
-| Sabedoria | +0 | +1 | **+1** |
-| Carisma | +3 | +1 | **+4** |
-
-Jack of All Trades não se soma a Proficiência ou Expertise.
+Adiciona **+1** aos testes de habilidade em que Aeloria não esteja aplicando Proficiência ou Expertise. Não acumula com elas.
 
 ---
 
 # College of Glamour
 
-Aeloria escolheu **College of Glamour** como sua subclasse no nível 3.
-
 ## Mantle of Inspiration
 
-Aeloria pode gastar um uso de **Bardic Inspiration** como **Ação Bônus** para proteger e reposicionar aliados conforme a habilidade da subclasse.
+Aeloria gasta **1 uso de Bardic Inspiration como Ação Bônus** para conceder proteção temporária e permitir reposicionamento de aliados conforme a habilidade da subclasse.
 
-Uso prático:
-
-- ajudar aliados cercados a sair de posições ruins;
-- reorganizar a formação do grupo;
-- preparar uma retirada;
-- complementar o Cloud's Jaunt, que continua sendo a ferramenta pessoal de mobilidade de Aeloria.
-
-**Custo:** 1 uso de Bardic Inspiration.
+É a principal ferramenta de suporte de campo do Glamour.
 
 ## Beguiling Magic
 
-Aeloria recebe duas magias sempre preparadas pela subclasse:
+Mantém **Charm Person** e **Mirror Image** sempre preparadas, sem consumir as 6 preparações normais da Barda. As magias ainda gastam slots normalmente quando lançadas.
 
-- **Charm Person**;
-- **Mirror Image**.
-
-Essas magias **não contam** contra as 6 magias preparadas normais da Barda. Elas ainda consomem espaços de magia quando são lançadas.
-
-Beguiling Magic também interage com magias de Encantamento e Ilusão conforme as regras do College of Glamour.
+Beguiling Magic também interage com magias de Encantamento e Ilusão conforme a habilidade da subclasse.
 
 ---
 
-# Spellcasting — nível 3
+# Spellcasting
 
+- **Carisma +3** como atributo de conjuração;
+- **CD 13** para resistir às magias;
+- **+5** em ataques mágicos;
 - **2 truques**;
 - **6 magias preparadas pela Barda**;
-- **4 espaços de magia de 1º círculo**;
-- **2 espaços de magia de 2º círculo**;
-- **Charm Person** e **Mirror Image** sempre preparadas pelo College of Glamour;
-- Carisma como atributo de conjuração;
-- **CD 13** para resistir às magias;
-- **+5** em ataques mágicos, quando aplicável.
+- **4 slots de 1º círculo**;
+- **2 slots de 2º círculo**.
 
 ## Truques
 
 ### Prestidigitation
 
-Utilidade e pequenos efeitos sensoriais. Não causa dano e não substitui uma magia de ilusão completa.
+Utilidade, pequenos efeitos sensoriais e suporte narrativo para apresentações. Não causa dano.
 
 ### Vicious Mockery
 
-- 1 Ação;
-- alcance 60 pés;
-- resistência de Sabedoria contra **CD 13**;
-- falha: **1d6 de dano psíquico** e prejudica o próximo ataque do alvo conforme a magia;
-- sucesso: sem efeito.
-
-É a principal opção ofensiva de Aeloria sem gastar espaço de magia.
+- Ação;
+- 60 pés;
+- SAB contra **CD 13**;
+- falha: **1d6 psíquico** e penalidade no próximo ataque conforme a magia;
+- não consome slot.
 
 ---
 
@@ -140,152 +91,130 @@ Utilidade e pequenos efeitos sensoriais. Não causa dano e não substitui uma ma
 
 ### Healing Word
 
-- Ação Bônus;
-- alcance 60 pés;
-- cura emergencial à distância;
-- consome espaço de magia.
+- **Ação Bônus**;
+- 60 pés;
+- cura **2d4 + 3 PV** com slot de 1º círculo;
+- não exige Concentração.
 
-Compete pela Ação Bônus com Bardic Inspiration, Mantle of Inspiration e Cloud's Jaunt.
-
-### Cure Wounds
-
-- 1 Ação;
-- toque;
-- cura maior quando Aeloria consegue chegar ao aliado;
-- consome espaço de magia.
+Uso principal: cura emergencial à distância.
 
 ### Heroism
 
-Magia de suporte defensivo que exige **Concentração**.
+- Ação;
+- toque;
+- até 1 minuto;
+- **Concentração**;
+- imunidade a Amedrontado;
+- **3 PV temporários** no início de cada turno do alvo enquanto durar.
 
 ### Dissonant Whispers
 
-- 1 Ação;
-- resistência de Sabedoria contra **CD 13**;
-- causa dano psíquico e pode provocar afastamento conforme a magia.
-
-Continua sendo a principal opção de dano de Aeloria usando espaço de magia.
+- Ação;
+- 60 pés;
+- SAB contra **CD 13**;
+- falha: **3d6 psíquico** e afastamento usando Reação, quando disponível;
+- sucesso: metade do dano e sem afastamento;
+- não exige Concentração.
 
 ### Faerie Fire
 
-- 1 Ação;
-- área de efeito;
-- resistência de Destreza contra **CD 13**;
-- exige **Concentração**;
-- criaturas afetadas ficam marcadas e os ataques contra elas podem receber Vantagem conforme a magia.
-
-**Uso prático:** suporte ofensivo no início de combates contra vários inimigos.
-
----
+- Ação;
+- alcance 60 pés, cubo de 20 pés;
+- DES contra **CD 13**;
+- até 1 minuto;
+- **Concentração**;
+- ataques contra criaturas afetadas têm Vantagem quando elas podem ser vistas;
+- criaturas afetadas não se beneficiam de Invisibilidade.
 
 ## 2º círculo
 
 ### Invisibility
 
-Magia escolhida por Aeloria ao chegar ao nível 3.
-
-- 1 Ação;
+- Ação;
 - toque;
-- duração de até 1 hora enquanto mantiver **Concentração**;
-- torna a criatura alvo Invisível enquanto o efeito permanecer;
-- consome **1 espaço de magia de 2º círculo**.
+- até 1 hora;
+- **Concentração**;
+- alvo fica Invisível;
+- termina depois que o alvo ataca, causa dano ou lança magia.
 
-**Uso prático:**
+Uso principal: infiltração, reconhecimento e fuga.
 
-- infiltração;
-- reconhecimento;
-- escapar sem chamar atenção;
-- esconder um aliado;
-- atravessar locais perigosos evitando confronto direto.
+### Suggestion
 
-Invisibility compete por Concentração com Heroism e Faerie Fire.
+**Substituiu Cure Wounds no nível 3.**
+
+- Ação;
+- 30 pés;
+- SAB contra **CD 13**;
+- até **8 horas**;
+- **Concentração**;
+- alvo precisa ouvir e compreender Aeloria;
+- a sugestão precisa ser realizável e não pode exigir dano evidente contra o próprio alvo ou seus aliados;
+- na falha, o alvo tenta seguir a sugestão enquanto o efeito durar;
+- termina se a tarefa for concluída, a Concentração acabar ou Aeloria/seus aliados causarem dano ao alvo.
+
+Uso principal: influência, controle social, evitar combate e redirecionar decisões.
 
 ---
 
-# Magias sempre preparadas — College of Glamour
+# Sempre preparadas — College of Glamour
 
 ## Charm Person — 1º círculo
 
-Não ocupa uma das 6 preparações normais da Barda.
+- Ação;
+- 30 pés;
+- SAB contra **CD 13**;
+- 1 hora;
+- não exige Concentração;
+- afeta Humanoide;
+- na falha, o alvo fica Enfeitiçado e amigável com Aeloria;
+- o alvo sabe que foi enfeitiçado quando a magia termina.
 
-- consome espaço de magia quando lançada;
-- alvo faz salvaguarda de Sabedoria contra **CD 13**;
-- serve para influência social mágica;
-- a condição Enfeitiçado não significa controle mental total.
-
-**Uso prático:** facilitar uma interação social importante quando influência mágica fizer sentido, lembrando que a magia pode ter consequências sociais quando o efeito terminar.
+Não é controle mental completo.
 
 ## Mirror Image — 2º círculo
 
-Não ocupa uma das 6 preparações normais da Barda.
+- Ação;
+- pessoal;
+- 1 minuto;
+- não exige Concentração;
+- cria **3 duplicatas**;
+- quando um ataque acertaria Aeloria, rola-se 1d6 para cada duplicata restante; se qualquer resultado for 3+, uma duplicata é atingida e destruída em seu lugar.
 
-- 1 Ação;
-- afeta a própria Aeloria;
-- cria duplicatas ilusórias defensivas;
-- consome **1 espaço de magia de 2º círculo**;
-- **não exige Concentração**.
-
-**Uso prático:** defesa quando Aeloria espera ser atacada.
-
-A grande vantagem é poder usar Mirror Image e ainda manter uma magia de Concentração, como Faerie Fire, Heroism ou Invisibility.
+Pode funcionar simultaneamente com uma magia de Concentração.
 
 ---
-
-# Espaços de magia — nível 3
-
-| Círculo | Espaços disponíveis após Descanso Longo |
-|---|---:|
-| 1º círculo | **4** |
-| 2º círculo | **2** |
-
-Charm Person e Mirror Image estarem sempre preparadas não criam espaços extras. Todas as magias usam os mesmos espaços disponíveis.
 
 # Concentração
 
-Aeloria possui três magias preparadas que exigem Concentração:
+Aeloria só pode manter uma destas por vez:
 
-- **Heroism**;
-- **Faerie Fire**;
-- **Invisibility**.
+- Heroism;
+- Faerie Fire;
+- Invisibility;
+- Suggestion.
 
-Ela só pode manter **uma dessas magias por vez**.
-
-**Mirror Image não exige Concentração.**
-
----
-
-# Antecedente: Entertainer
-
-## Feat de Origem — Musician
-
-- proficiência com três instrumentos musicais escolhidos;
-- ao terminar um Descanso Curto ou Longo, pode tocar um instrumento com que seja proficiente e conceder **Heroic Inspiration** a um número de aliados igual ao Bônus de Proficiência;
-- no nível 3, PB +2: até **2 aliados**.
-
-Aeloria carrega regularmente apenas sua **harpa de mão/lira**. Os demais instrumentos representam conhecimento, não equipamento carregado.
+**Mirror Image, Healing Word, Dissonant Whispers e Charm Person não exigem Concentração.**
 
 ---
 
-# Economia de Ação Bônus
+# Antecedente — Entertainer / Musician
 
-No nível 3, Aeloria tem quatro recursos importantes que disputam sua Ação Bônus:
+Aeloria conhece três instrumentos por sua formação, mas carrega regularmente apenas sua **harpa de mão/lira**. Os instrumentos adicionais representam conhecimento, não itens obrigatoriamente carregados.
 
-- **Bardic Inspiration**;
-- **Mantle of Inspiration**;
-- **Healing Word**;
-- **Cloud's Jaunt**.
+Ao concluir um Descanso Curto ou Longo, o talento Musician pode conceder Heroic Inspiration a aliados conforme a regra do talento e o Bônus de Proficiência atual.
 
-A escolha entre eles é uma das principais decisões táticas de cada turno.
+---
 
-# Prioridade simples em jogo — nível 3
+# Prioridades práticas
 
-1. **Grupo preso ou mal posicionado:** Mantle of Inspiration.
-2. **Aeloria precisa fugir/reposicionar:** Cloud's Jaunt.
-3. **Infiltração ou fuga prolongada:** Invisibility.
-4. **Aeloria precisa de defesa sem gastar Concentração:** Mirror Image.
-5. **Vários inimigos podem ser marcados:** Faerie Fire.
-6. **Alguém caiu ou precisa de cura urgente:** Healing Word.
-7. **Inimigo precisa sofrer dano e controle:** Dissonant Whispers.
-8. **Sem necessidade de gastar recursos:** Vicious Mockery.
-9. **Interação social com magia:** Charm Person quando apropriado.
-10. **Fora de combate:** Performance +7, Persuasão +5, Enganação +5, Prestidigitation e Jack of All Trades.
+1. **Aliado caiu:** Healing Word.
+2. **Grupo mal posicionado:** Mantle of Inspiration.
+3. **Aeloria precisa reposicionar:** Cloud's Jaunt.
+4. **Vários inimigos:** Faerie Fire.
+5. **Dano + afastamento:** Dissonant Whispers.
+6. **Defesa pessoal:** Mirror Image.
+7. **Infiltração/fuga:** Invisibility.
+8. **Influenciar uma decisão:** Suggestion.
+9. **Sem gastar slot:** Vicious Mockery.
+10. **Cenas sociais:** Performance +7, Persuasão +5, Enganação +5 e Charm Person quando apropriado.
