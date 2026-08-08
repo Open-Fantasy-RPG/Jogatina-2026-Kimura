@@ -45,6 +45,18 @@ O Entertainer 2024 permite ajustes entre **Força, Destreza e Carisma**. Para Ae
 - Ataque mágico: Proficiência (+2) + CAR (+3) = +5.
 - Inspiração Bárdica: usos iguais ao modificador de CAR = 3.
 
+## Bardic Inspiration — resumo prático
+
+Aeloria pode usar uma **Ação Bônus** para inspirar uma criatura a até **60 pés** que possa vê-la ou ouvi-la. A criatura recebe um **d6 de Inspiração Bárdica**.
+
+Quando essa criatura **falhar em um Teste d20** dentro da duração da inspiração, ela pode rolar o d6 e somar ao resultado. Se o novo total atingir a dificuldade necessária, a falha pode virar sucesso.
+
+No nível 1, Aeloria possui **3 usos por Descanso Longo**, por causa do modificador de Carisma +3.
+
+**Exemplo:** um aliado precisa obter 15, tira 12 e possui Inspiração Bárdica. Ele rola 1d6 e obtém 4. O resultado passa a 16 e a ação tem sucesso.
+
+**Interpretação da Aeloria:** a inspiração pode vir de uma nota curta da harpa, um acorde, um olhar firme ou poucas palavras. Ela não precisa fazer discursos ou gritar ordens.
+
 ## Salvaguardas
 
 A Barda possui proficiência em **Destreza** e **Carisma**.
@@ -75,11 +87,23 @@ A Barda escolhe quaisquer três perícias. Sugestão para Aeloria:
 
 Essas escolhas reforçam uma viajante experiente, socialmente forte e acumuladora de histórias.
 
-## Instrumento
+## Instrumentos
+
+### Instrumento carregado
 
 **Harpa de mão / lira de viagem** — instrumento assinatura e único instrumento que Aeloria carrega regularmente.
 
-A personagem pode possuir proficiências adicionais em instrumentos por regras de classe, antecedente ou talento, mas isso não significa que carregue esses instrumentos. **Flauta e tambor não fazem parte do equipamento ou da identidade da personagem.**
+### Instrumentos conhecidos
+
+Aeloria possui proficiências adicionais em instrumentos por causa da classe, do antecedente e do talento **Musician**. Essas proficiências representam **instrumentos que ela sabe tocar**, aprendidos ao longo de décadas de viagem, e não objetos que estejam automaticamente em seu inventário.
+
+Portanto:
+
+- Aeloria **carrega apenas a harpa de mão/lira**;
+- pode tocar normalmente outros instrumentos nos quais possua proficiência caso encontre um deles durante a aventura;
+- **flauta e tambor não fazem parte do equipamento ou da identidade da personagem**.
+
+Os instrumentos adicionais conhecidos podem ser definidos depois, sem alterar o equipamento carregado.
 
 Se a mesa exigir apenas itens existentes na lista de equipamento, trate a harpa de mão mecanicamente como uma **lira**, mantendo “harpa de mão” como descrição visual.
 
