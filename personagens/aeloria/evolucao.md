@@ -9,13 +9,13 @@ Este arquivo não trava escolhas futuras. É uma rota sugerida para manter Aelor
 - Evitar transformar Aeloria em combatente de linha de frente.
 - Manter magia voltada a cura, controle, proteção e presença social.
 - Preservar mobilidade e ferramentas de fuga.
-- Subclasse sugerida: **College of Glamour**.
+- Subclasse confirmada: **College of Glamour**.
 
 O College of Glamour combina com Aeloria porque transforma presença e performance em ferramentas de controle, proteção e reposicionamento, sem exigir que ela vire uma personagem de dano bruto.
 
 ---
 
-## Nível 2
+## Nível 2 — concluído
 
 A Barda ganhou **Expertise** e **Jack of All Trades**.
 
@@ -26,72 +26,77 @@ A Barda ganhou **Expertise** e **Jack of All Trades**.
 
 No nível 2, com Bônus de Proficiência +2:
 
-- Performance fica em **+7**;
-- Acrobacia fica em **+6**.
-
-Enganação permanece em **+5** com proficiência normal.
+- Performance ficou em **+7**;
+- Acrobacia ficou em **+6**;
+- Enganação permaneceu em **+5** com proficiência normal.
 
 ### Magia
 
-No nível 2, Aeloria adicionou **Faerie Fire** às magias preparadas, fortalecendo seu papel de suporte ofensivo.
+Aeloria adicionou **Faerie Fire** às magias preparadas, fortalecendo seu papel de suporte ofensivo.
 
 ### Confirmação em campanha
 
-A sessão nos esgotos de Asuras Jewel confirmou que a construção está funcionando. Performance, Persuasão e Carisma foram úteis; Aeloria conseguiu alternar assistência com dano; e **Cloud's Jaunt foi especialmente importante para fuga e reposicionamento**.
-
-Esses fatos passam a orientar as escolhas seguintes.
+A sessão nos esgotos de Asuras Jewel confirmou que a construção funciona na mesa. Performance, Persuasão e Carisma foram úteis; Aeloria alternou assistência com dano; e **Cloud's Jaunt foi especialmente importante para fuga e reposicionamento**.
 
 ---
 
-## Nível 3 — em definição
+## Nível 3 — concluído
 
-Aeloria ainda mantém a ficha de nível 2 como ficha canônica até a evolução ser fechada.
+A ficha canônica atual é [ficha-nivel-3.md](ficha-nivel-3.md).
 
-### Mudanças gerais da Barda
+### Estado mecânico
 
-No nível 3:
+- **PV máximo: 15**;
+- Bônus de Proficiência continua **+2**;
+- Bardic Inspiration continua **d6**;
+- continuam **2 truques**;
+- **6 magias preparadas pela Barda**;
+- **4 espaços de 1º círculo**;
+- **2 espaços de 2º círculo**;
+- subclasse: **College of Glamour**.
 
-- Bônus de Proficiência continua +2;
-- Bardic Inspiration continua d6;
-- continuam 2 truques;
-- passam a ser 6 magias preparadas da classe;
-- 4 espaços de magia de 1º círculo;
-- 2 espaços de magia de 2º círculo;
-- entra a subclasse de Barda;
-- PV aumentam em 1d8 + CON +1, usando o método de rolagem adotado para Aeloria.
+Na subida de nível, Aeloria rolou **3 no d8** e somou CON +1, recebendo **+4 PV**.
 
-### Subclasse sugerida — College of Glamour
+### College of Glamour
 
-A sugestão ficou mais forte depois da experiência em campanha.
+**Mantle of Inspiration** transforma Bardic Inspiration em uma ferramenta de proteção e reposicionamento para aliados, complementando a mobilidade pessoal de Cloud's Jaunt.
 
-**Mantle of Inspiration** usa Bardic Inspiration para proteger aliados com PV temporários e permitir reposicionamento sem Ataques de Oportunidade. Isso complementa diretamente a importância que Cloud's Jaunt já demonstrou: Aeloria não apenas escapa de posições ruins, como passa a ajudar aliados a fazer o mesmo.
+**Beguiling Magic** concede **Charm Person** e **Mirror Image** sempre preparadas pela subclasse. Essas magias não contam contra as 6 preparações normais da Barda, embora continuem consumindo espaços quando lançadas.
 
-**Beguiling Magic** reforça o lado social e de controle. A subclasse mantém **Charm Person** e **Mirror Image** sempre preparados e acrescenta efeitos ligados a Encantamento e Ilusão.
+### Magia escolhida no nível 3
 
-Isso combina com uma campanha que já envolveu traficantes, autoridades hostis, investigação e atividade mágica clandestina sob Asuras Jewel.
+A sexta magia preparada da Barda ficou definida como **Invisibility**, de 2º círculo.
 
-### Nova magia preparada
+A escolha reforça:
 
-Com o aumento para 6 magias preparadas da classe, a principal decisão é a nova magia.
+- infiltração;
+- reconhecimento;
+- fuga;
+- proteção de aliados;
+- mobilidade sem confronto direto.
 
-Boas opções para o estilo demonstrado na mesa:
+Aeloria mantém como magias preparadas normais:
 
-- **Suggestion** — influência direta, útil em cenas sociais e de controle;
-- **Detect Thoughts** — investigação, interrogatórios e descoberta de informação;
-- **Invisibility** — infiltração e fuga;
-- **Shatter** — dano em área quando o grupo precisar de maior pressão ofensiva;
-- **Lesser Restoration** — suporte contra condições.
+- Healing Word;
+- Cure Wounds;
+- Heroism;
+- Dissonant Whispers;
+- Faerie Fire;
+- Invisibility.
 
-A proposta principal fica entre **Suggestion** e **Detect Thoughts**. A escolha deve ser feita antes de fechar a ficha nível 3.
+Além delas, College of Glamour mantém sempre preparadas:
 
-### Pilares confirmados para o nível 3
+- Charm Person;
+- Mirror Image.
+
+### Pilares confirmados
 
 1. presença social;
 2. suporte;
 3. controle com dano situacional;
 4. mobilidade e reposicionamento.
 
-Ver também [proposta-nivel-3.md](proposta-nivel-3.md) e o [histórico da campanha](historico-campanha/README.md).
+Ver também [habilidades-e-magias.md](habilidades-e-magias.md) e o [histórico da campanha](historico-campanha/README.md).
 
 ---
 
@@ -133,7 +138,7 @@ Quando assume Large Form, não precisa “virar um monstro”. A imagem pode ser
 
 Nova habilidade da subclasse.
 
-Se estiver no College of Glamour, este nível fortalece o lado de presença e comando da personagem.
+Como Aeloria está no College of Glamour, este nível fortalece o lado de presença e comando da personagem.
 
 Aeloria passa a funcionar melhor como controladora social e de campo, sem abandonar cura e suporte.
 
@@ -141,7 +146,7 @@ Aeloria passa a funcionar melhor como controladora social e de campo, sem abando
 
 ## Níveis 7–8
 
-No nível 7, a Barda recebe **Countercharm**, agora como ferramenta reativa contra efeitos de medo e encanto.
+No nível 7, a Barda recebe **Countercharm**, como ferramenta reativa contra efeitos de medo e encanto.
 
 No nível 8, nova melhoria de atributo/feat.
 
@@ -149,7 +154,7 @@ No nível 8, nova melhoria de atributo/feat.
 
 Levar **Carisma a 20** usando a opção que melhor encaixar na construção final.
 
-Se CAR já tiver chegado a 20 por feat anterior, invista em Destreza, Constituição ou feat defensivo/de concentração.
+Se CAR já tiver chegado a 20 por feat anterior, investir em Destreza, Constituição ou feat defensivo/de concentração.
 
 ---
 
@@ -163,7 +168,7 @@ Sugestões futuras:
 - **Persuasão**;
 - outra perícia que tenha se tornado importante na campanha.
 
-A escolha deve refletir a Aeloria que realmente surgiu na mesa.
+A escolha deve refletir a Aeloria que realmente surgir na mesa.
 
 ---
 
@@ -173,13 +178,11 @@ A escolha deve refletir a Aeloria que realmente surgiu na mesa.
 
 A Barda 2024 passa a poder incorporar opções das listas de **Clérigo, Druida e Mago** ao preparar novas magias conforme as regras da classe.
 
-Para Aeloria, priorize cura superior, proteção de grupo, mobilidade, controle de campo e magia com estética de vento, névoa, céu ou deslocamento quando mecanicamente útil.
+Para Aeloria, priorizar cura superior, proteção de grupo, mobilidade, controle de campo e magia com estética de vento, névoa, céu ou deslocamento quando mecanicamente útil.
 
 ---
 
 ## Níveis 11–13
-
-Aeloria entra na faixa de magia de alto impacto.
 
 Prioridades:
 
@@ -249,6 +252,6 @@ Ao subir de nível, pergunte:
 
 > “Isso ajuda Aeloria a proteger, reposicionar, influenciar ou ser lembrada?”
 
-A partir da experiência em Asuras Jewel, acrescente uma segunda pergunta:
+E, a partir da experiência em Asuras Jewel:
 
 > “Isso melhora uma ferramenta que realmente está sendo usada na mesa?”
