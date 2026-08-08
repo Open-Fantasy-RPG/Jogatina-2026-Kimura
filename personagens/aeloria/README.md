@@ -25,7 +25,8 @@ Ela viaja há décadas. Busca segurança, dinheiro e poder, mas sua ambição ce
 
 - **PV máximo:** 11.
 - **Bônus de Proficiência:** +2.
-- **Expertise:** Enganação +7 e Acrobacia +6.
+- **Expertise:** Performance +7 e Acrobacia +6.
+- **Enganação:** +5 com proficiência normal.
 - **Jack of All Trades:** +1 em testes de habilidade sem proficiência.
 - **Truques:** Prestidigitation e Vicious Mockery.
 - **Magias preparadas:** Healing Word, Cure Wounds, Heroism, Dissonant Whispers e Faerie Fire.
