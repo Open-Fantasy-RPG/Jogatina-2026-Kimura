@@ -35,7 +35,15 @@ Se o mestre preferir usar apenas instrumentos listados diretamente nas regras, t
 
 Não é um item mágico no nível 1.
 
-A **harpa de mão/lira é o único instrumento que Aeloria carrega regularmente**. Proficiências adicionais concedidas pelas regras não representam instrumentos adicionais em seu inventário. Flauta e tambor não fazem parte do equipamento da personagem.
+A **harpa de mão/lira é o único instrumento que Aeloria carrega regularmente**.
+
+### Instrumentos conhecidos
+
+Aeloria sabe tocar outros instrumentos graças às proficiências recebidas pela classe, pelo antecedente e pelo talento **Musician**. Esses instrumentos representam conhecimento acumulado ao longo de décadas de viagem, não itens extras no inventário.
+
+Na prática, se Aeloria encontrar durante a aventura um instrumento no qual tenha proficiência, ela sabe tocá-lo normalmente. Os nomes desses instrumentos adicionais podem ser definidos futuramente.
+
+**Flauta e tambor não fazem parte do equipamento ou da identidade atual da personagem.**
 
 ## Objetos pessoais
 
@@ -79,6 +87,12 @@ Ela funciona melhor atrás ou ao lado dos combatentes mais resistentes, mantendo
 - Ação: **Vicious Mockery** em um inimigo perigoso.
 - Ação Bônus: **Bardic Inspiration** se um aliado ainda não estiver inspirado.
 - Movimento: manter distância segura e linha de visão.
+
+### Bardic Inspiration em combate
+
+Bardic Inspiration usa **Ação Bônus** e concede um **d6** a um aliado a até 60 pés que possa ver ou ouvir Aeloria. Quando esse aliado falhar em um Teste d20 dentro da duração da inspiração, pode rolar o d6 e somá-lo ao resultado, possivelmente transformando a falha em sucesso.
+
+Aeloria possui **3 usos por Descanso Longo** no nível 1.
 
 ### Quando alguém cai
 
