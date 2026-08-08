@@ -55,19 +55,23 @@ Aeloria tinha 9 PV no nível 1. Na subida para o nível 2 foi rolado **1 no d8**
 | Perícia | Cálculo | Total |
 |---|---|---:|
 | **Acrobacia — Expertise** | DES +2 + Proficiência dobrada +4 | **+6** |
-| Performance | CAR +3 + Proficiência +2 | **+5** |
+| **Performance — Expertise** | CAR +3 + Proficiência dobrada +4 | **+7** |
 | Persuasão | CAR +3 + Proficiência +2 | **+5** |
-| **Enganação — Expertise** | CAR +3 + Proficiência dobrada +4 | **+7** |
+| Enganação | CAR +3 + Proficiência +2 | **+5** |
 | Furtividade | DES +2 + Proficiência +2 | **+4** |
 
 ## Expertise
 
 No nível 2, Aeloria ganha **Expertise em duas perícias nas quais já é proficiente**. As escolhas são:
 
-- **Enganação +7**;
+- **Performance +7**;
 - **Acrobacia +6**.
 
 Expertise dobra o Bônus de Proficiência aplicado à perícia. Como o Bônus de Proficiência atual é +2, essas perícias recebem **+4 de proficiência**, em vez de +2.
+
+### Uso de Performance
+
+Performance representa mais do que tocar um instrumento. Aeloria pode usá-la para apresentações musicais, recitais, histórias dramáticas, disputas artísticas, chamar ou manter a atenção de uma plateia e construir reputação quando sua capacidade de entreter for relevante. Persuasão continua sendo usada quando o objetivo é convencer alguém, e Enganação quando o objetivo é fazer alguém acreditar em algo falso.
 
 ## Jack of All Trades
 
@@ -126,7 +130,7 @@ Se o mestre pedir um teste de habilidade que não use uma perícia específica e
 | Espaços de magia de nível 1 | **3 por Descanso Longo** |
 | Bardic Inspiration d6 | **3 por Descanso Longo** |
 | Cloud's Jaunt | **2 por Descanso Longo** |
-| Expertise | **Enganação e Acrobacia** |
+| Expertise | **Performance e Acrobacia** |
 | Jack of All Trades | **+1 em testes de habilidade sem proficiência** |
 
 ## Ataques e opções ofensivas
