@@ -35,12 +35,7 @@ Se o mestre preferir usar apenas instrumentos listados diretamente nas regras, t
 
 Não é um item mágico no nível 1.
 
-## Outros instrumentos sugeridos
-
-- Flauta.
-- Tambor de mão.
-
-O feat Musician e as proficiências da classe tornam natural que Aeloria tenha domínio de vários instrumentos, mesmo que a harpa continue sendo sua assinatura.
+A **harpa de mão/lira é o único instrumento que Aeloria carrega regularmente**. Proficiências adicionais concedidas pelas regras não representam instrumentos adicionais em seu inventário. Flauta e tambor não fazem parte do equipamento da personagem.
 
 ## Objetos pessoais
 
