@@ -6,11 +6,14 @@ Repositório de apoio para a campanha de RPG.
 
 ### Aeloria
 
-Goliate de ancestralidade dos Gigantes das Nuvens, Barda nível 1, criada para D&D 2024.
+Goliate de ancestralidade dos Gigantes das Nuvens, **Barda nível 3 — College of Glamour**, criada para D&D 2024.
 
 - [Dossiê da personagem](personagens/aeloria/README.md)
-- [Ficha — nível 1](personagens/aeloria/ficha-nivel-1.md)
+- [Ficha atual — nível 3](personagens/aeloria/ficha-nivel-3.md)
+- [Ficha histórica — nível 2](personagens/aeloria/ficha-nivel-2.md)
+- [Ficha histórica — nível 1](personagens/aeloria/ficha-nivel-1.md)
 - [História](personagens/aeloria/historia.md)
+- [Histórico da campanha](personagens/aeloria/historico-campanha/README.md)
 - [Aparência e interpretação](personagens/aeloria/interpretacao.md)
 - [Habilidades e magias](personagens/aeloria/habilidades-e-magias.md)
 - [Equipamentos e combate](personagens/aeloria/equipamentos-e-combate.md)
