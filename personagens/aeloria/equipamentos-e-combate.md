@@ -1,8 +1,6 @@
-# Aeloria — Equipamentos e Combate
+# Aeloria — Equipamentos e Combate — Nível 2
 
-## Equipamento inicial sugerido
-
-Usando as opções padrão de Barda 2024 e o antecedente Entertainer:
+## Equipamento
 
 ### Da classe Barda
 
@@ -21,120 +19,120 @@ Usando as opções padrão de Barda 2024 e o antecedente Entertainer:
 - Roupas de viajante.
 - 11 PO.
 
-### Total monetário inicial sugerido
-
-**30 PO**, além dos itens acima, se a mesa estiver usando exatamente os pacotes de equipamento padrão.
-
 ## Instrumento assinatura
 
-### Harpa de mão
+**Harpa de mão/lira de viagem** — único instrumento que Aeloria carrega regularmente. Se necessário mecanicamente, trate a harpa de mão como uma lira.
 
-Aeloria carrega uma pequena harpa de viagem, construída para resistir à estrada. Madeira clara, metal fosco nas extremidades e linhas curvas gravadas na moldura.
-
-Se o mestre preferir usar apenas instrumentos listados diretamente nas regras, trate o item mecanicamente como uma **lira** e mantenha “harpa de mão” apenas como aparência.
-
-Não é um item mágico no nível 1.
-
-A **harpa de mão/lira é o único instrumento que Aeloria carrega regularmente**.
-
-### Instrumentos conhecidos
-
-Aeloria sabe tocar outros instrumentos graças às proficiências recebidas pela classe, pelo antecedente e pelo talento **Musician**. Esses instrumentos representam conhecimento acumulado ao longo de décadas de viagem, não itens extras no inventário.
-
-Na prática, se Aeloria encontrar durante a aventura um instrumento no qual tenha proficiência, ela sabe tocá-lo normalmente. Os nomes desses instrumentos adicionais podem ser definidos futuramente.
-
-**Flauta e tambor não fazem parte do equipamento ou da identidade atual da personagem.**
-
-## Objetos pessoais
-
-Itens narrativos sem benefício mecânico automático:
-
-- pequeno diário de viagens com nomes de lugares, melodias e fragmentos de histórias;
-- pano azul usado para proteger a harpa durante viagens;
-- broche de metal fosco em forma de espiral;
-- algumas moedas antigas que ela não lembra mais de onde vieram.
+Aeloria conhece outros instrumentos pelas proficiências de classe, antecedente e Musician, mas isso não significa que os carregue.
 
 ## Armas
 
 ### Adagas
-
-As duas adagas são ferramentas de emergência, não parte central da identidade de Aeloria.
 
 Com DES 14 e proficiência:
 
 - ataque: **+4**;
 - dano: **1d4 + 2 perfurante**.
 
-Ela pode usá-las em combate corpo a corpo ou arremessá-las conforme as propriedades da arma.
-
 ## Defesa
 
-Com armadura de couro:
+- **CA 13** com armadura de couro.
+- **PV máximo 11**.
+- Dados de Vida: **2d8**.
 
-- CA = **13**.
-- PV = **9**.
+Aeloria continua não sendo personagem de linha de frente.
 
-Isso significa que Aeloria **não deve ficar parada na linha de frente**. Seu tamanho físico pode causar uma impressão errada: mecanicamente, ela continua sendo uma Barda de nível 1 com poucos PV.
-
-## Papel em combate
-
-Aeloria é uma personagem de **suporte e controle leve**.
-
-Ela funciona melhor atrás ou ao lado dos combatentes mais resistentes, mantendo distância suficiente para ver aliados e inimigos.
-
-### Turno padrão sem emergência
-
-- Ação: **Vicious Mockery** em um inimigo perigoso.
-- Ação Bônus: **Bardic Inspiration** se um aliado ainda não estiver inspirado.
-- Movimento: manter distância segura e linha de visão.
-
-### Bardic Inspiration em combate
-
-Bardic Inspiration usa **Ação Bônus** e concede um **d6** a um aliado a até 60 pés que possa ver ou ouvir Aeloria. Quando esse aliado falhar em um Teste d20 dentro da duração da inspiração, pode rolar o d6 e somá-lo ao resultado, possivelmente transformando a falha em sucesso.
-
-Aeloria possui **3 usos por Descanso Longo** no nível 1.
-
-### Quando alguém cai
-
-- Ação Bônus: **Healing Word**.
-- Ação: Vicious Mockery, Dash, Dodge ou outra ação adequada à situação.
-
-### Quando Aeloria é cercada
-
-- Ação Bônus: **Cloud's Jaunt** para se reposicionar até 30 pés.
-- Depois: usar movimento normal para ampliar ainda mais a distância se necessário.
-
-### Quando precisa causar dano real
-
-- **Dissonant Whispers** é sua principal magia ofensiva de nível 1.
-- Use espaços com cuidado: Aeloria possui apenas **2 espaços de nível 1** no nível 1.
-
-### Quando o grupo precisa resistir
-
-- **Heroism** em um aliado que ficará exposto.
-- Lembre que exige Concentração; dano recebido pode colocar a manutenção da magia em risco.
-
-## Economia de Ações Bônus
-
-Aeloria tem várias opções importantes de Ação Bônus:
-
-- Bardic Inspiration.
-- Healing Word.
-- Cloud's Jaunt.
-
-Não pode usar todas no mesmo turno. Essa é a principal decisão tática da personagem.
-
-## Economia de recursos no nível 1
+## Recursos de combate — nível 2
 
 | Recurso | Quantidade |
 |---|---:|
-| Espaços de magia nível 1 | 2 por Descanso Longo |
-| Bardic Inspiration | 3 por Descanso Longo |
-| Cloud's Jaunt | 2 por Descanso Longo |
-| Musician / Encouraging Song | disponível ao terminar Descanso Curto ou Longo |
+| Espaços de magia nível 1 | **3 por Descanso Longo** |
+| Bardic Inspiration d6 | **3 por Descanso Longo** |
+| Cloud's Jaunt | **2 por Descanso Longo** |
+| Expertise | **Enganação +7; Acrobacia +6** |
+| Jack of All Trades | **+1 em testes de habilidade sem proficiência** |
+
+## Magias de combate
+
+### Faerie Fire
+
+Nova ferramenta de suporte ofensivo no nível 2. Use cedo quando conseguir afetar vários inimigos. Alvos que falharem em DES contra **CD 13** ficam marcados; ataques contra eles têm Vantagem enquanto Aeloria mantiver Concentração e o atacante puder vê-los.
+
+### Healing Word
+
+Cura emergencial a distância: **2d4+3 PV**, Ação Bônus, 60 pés.
+
+### Cure Wounds
+
+Cura maior de proximidade: **2d8+3 PV**, Ação, toque.
+
+### Heroism
+
+Suporte defensivo com Concentração. Não pode permanecer ativo ao mesmo tempo que Faerie Fire.
+
+### Dissonant Whispers
+
+Principal dano com slot: SAB **CD 13**, **3d6 psíquico** na falha + afastamento se o alvo puder usar Reação; metade do dano no sucesso e sem afastamento.
+
+### Vicious Mockery
+
+Ataque sem gastar slot: SAB **CD 13**, **1d6 psíquico** na falha + Desvantagem no próximo ataque do alvo antes do fim do próximo turno dele.
+
+## Economia de Ações Bônus
+
+Aeloria possui três recursos importantes que usam Ação Bônus:
+
+- Bardic Inspiration;
+- Healing Word;
+- Cloud's Jaunt.
+
+Escolha um conforme a necessidade do turno.
+
+## Concentração
+
+Aeloria possui duas opções preparadas que exigem Concentração:
+
+- **Faerie Fire**;
+- **Heroism**.
+
+Ela só pode manter uma magia de Concentração por vez.
+
+## Turno padrão sugerido
+
+### Abertura contra vários inimigos
+
+- Ação: **Faerie Fire**.
+- Ação Bônus: Bardic Inspiration se necessário.
+- Movimento: buscar posição segura.
+
+### Sem necessidade de gastar slots
+
+- Ação: **Vicious Mockery**.
+- Ação Bônus: Bardic Inspiration se necessário.
+
+### Emergência de cura
+
+- Ação Bônus: **Healing Word**.
+- Ação: Vicious Mockery, Dodge, Dash ou outra ação adequada.
+
+### Precisa escapar
+
+- Ação Bônus: **Cloud's Jaunt** até 30 pés.
+- Movimento normal para ampliar distância.
+
+## Jack of All Trades em jogo
+
+No nível 2, testes de habilidade sem proficiência recebem **+1** além do modificador do atributo.
+
+| Exemplo | Total atual |
+|---|---:|
+| Percepção | **+1** |
+| Investigação | **+0** |
+| Intimidação | **+4** |
+| Atletismo | **+1** |
+
+Jack of All Trades não se soma às perícias em que Aeloria já aplica proficiência ou Expertise.
 
 ## Regra de ouro
 
-Aeloria parece fisicamente poderosa, mas sua força de jogo está em **fazer os outros funcionarem melhor**.
-
-Ela vence batalhas criando espaço, recuperando aliados, prejudicando ataques inimigos e escolhendo o momento certo de gastar recursos.
+No nível 2, Aeloria ficou mais versátil. **Faerie Fire** melhora o dano do grupo, Expertise fortalece seus extremos sociais e físicos, e Jack of All Trades faz com que mesmo testes fora de sua especialidade tenham alguma ajuda.
