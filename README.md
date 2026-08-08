@@ -2,6 +2,14 @@
 
 Repositório de apoio para a campanha de RPG.
 
+## Compendium
+
+- [Compendium D&D 5e](compendium/README.md)
+- [Referência ao 5e.tools](compendium/5etools/README.md)
+- [SRD / Creative Commons](compendium/srd/README.md)
+
+O compêndio local deve conter apenas material redistribuível, referências e conteúdo próprio da campanha. Conteúdo comercial integral de livros não é espelhado neste repositório.
+
 ## Personagens
 
 ### Aeloria
