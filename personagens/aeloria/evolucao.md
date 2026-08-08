@@ -18,16 +18,21 @@ O College of Glamour combina com Aeloria porque transforma presença e performan
 
 A Barda ganha **Expertise** e **Jack of All Trades**.
 
-### Sugestão de Expertise
+### Expertise escolhida
 
 - **Performance**.
-- **Persuasão**.
+- **Acrobacia**.
 
-Isso faz Aeloria se tornar excepcional justamente naquilo que define sua identidade: tocar e ocupar espaços sociais.
+No nível 2, com Bônus de Proficiência +2:
+
+- Performance fica em **+7**;
+- Acrobacia fica em **+6**.
+
+Essa escolha reforça os dois traços mais característicos de Aeloria: sua presença artística e o controle corporal leve apesar do grande porte. Enganação permanece em **+5** com proficiência normal.
 
 ### Magia
 
-A quantidade de magias preparadas aumenta. Priorize utilidade e controle conforme a campanha.
+No nível 2, Aeloria adicionou **Faerie Fire** às magias preparadas, fortalecendo seu papel de suporte ofensivo.
 
 ---
 
@@ -118,9 +123,10 @@ Se CAR já tiver chegado a 20 por feat anterior, invista em:
 
 A Barda recebe nova **Expertise**.
 
-Sugestões:
+Sugestões futuras:
 
-- **Enganação**.
+- **Enganação**;
+- **Persuasão**;
 - outra perícia que tenha se tornado importante na campanha.
 
 A escolha deve refletir a Aeloria que realmente surgiu na mesa, não apenas a ficha planejada no nível 1.
@@ -215,7 +221,7 @@ A classe passa a lidar diretamente com magias máximas ligadas a vida e morte, f
 
 ### Início
 
-Suporte móvel, cura de emergência, dano psíquico leve e presença social.
+Suporte móvel, cura de emergência, dano psíquico leve, presença social e Performance excepcional.
 
 ### Meio da campanha
 
