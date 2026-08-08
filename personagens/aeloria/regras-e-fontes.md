@@ -26,14 +26,14 @@ A ficha não usa os bônus raciais fixos da versão antiga do Goliate. Nas regra
 
 ### Atributos
 
-A ficha usa **point buy de 27 pontos**.
+A personagem recebeu os seguintes valores base para distribuição: **12, 10, 13, 15, 9 e 11**.
 
-Antes do antecedente:
+Distribuição escolhida antes do antecedente:
 
-- FOR 12
+- FOR 11
 - DES 13
-- CON 13
-- INT 10
+- CON 12
+- INT 9
 - SAB 10
 - CAR 15
 
@@ -44,10 +44,10 @@ Entertainer permite aumentar atributos entre **Força, Destreza e Carisma**. Foi
 
 Resultado:
 
-- FOR 12
+- FOR 11
 - DES 14
-- CON 13
-- INT 10
+- CON 12
+- INT 9
 - SAB 10
 - CAR 17
 
@@ -68,6 +68,8 @@ O feat fornece proficiências adicionais com instrumentos e permite conceder **H
 
 No nível 1, PB +2: até 2 aliados por uso da canção ao fim do descanso.
 
+As proficiências adicionais não significam que Aeloria carregue vários instrumentos. Seu instrumento pessoal e assinatura é a **harpa de mão/lira de viagem**; flauta e tambor não fazem parte de seu equipamento.
+
 ### Barda nível 1
 
 Valores usados:
@@ -77,7 +79,7 @@ Valores usados:
 - três perícias à escolha;
 - armadura leve;
 - armas simples;
-- três instrumentos;
+- proficiências em instrumentos conforme classe, antecedente e Musician;
 - Bardic Inspiration d6;
 - 2 truques;
 - 4 magias de nível 1 preparadas;
