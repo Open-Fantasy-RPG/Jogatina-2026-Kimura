@@ -1,6 +1,6 @@
 # Aeloria — Plano de Evolução
 
-Este arquivo não trava escolhas futuras. É uma rota sugerida para manter Aeloria como **Barda de suporte, controle e presença**, preservando a identidade de Gigante das Nuvens.
+Este arquivo não trava escolhas futuras. É uma rota sugerida para manter Aeloria como **Barda de suporte, controle e presença**, preservando a identidade de Gigante das Nuvens e incorporando o que realmente funciona durante a campanha.
 
 ## Direção geral
 
@@ -8,15 +8,16 @@ Este arquivo não trava escolhas futuras. É uma rota sugerida para manter Aelor
 - Prioridade 2: manter boa **Destreza** e sobrevivência.
 - Evitar transformar Aeloria em combatente de linha de frente.
 - Manter magia voltada a cura, controle, proteção e presença social.
+- Preservar mobilidade e ferramentas de fuga.
 - Subclasse sugerida: **College of Glamour**.
 
-O College of Glamour combina com Aeloria porque transforma presença e performance em ferramentas de controle e proteção, sem exigir que ela vire uma personagem explosiva ou agressiva.
+O College of Glamour combina com Aeloria porque transforma presença e performance em ferramentas de controle, proteção e reposicionamento, sem exigir que ela vire uma personagem de dano bruto.
 
 ---
 
 ## Nível 2
 
-A Barda ganha **Expertise** e **Jack of All Trades**.
+A Barda ganhou **Expertise** e **Jack of All Trades**.
 
 ### Expertise escolhida
 
@@ -28,32 +29,69 @@ No nível 2, com Bônus de Proficiência +2:
 - Performance fica em **+7**;
 - Acrobacia fica em **+6**.
 
-Essa escolha reforça os dois traços mais característicos de Aeloria: sua presença artística e o controle corporal leve apesar do grande porte. Enganação permanece em **+5** com proficiência normal.
+Enganação permanece em **+5** com proficiência normal.
 
 ### Magia
 
 No nível 2, Aeloria adicionou **Faerie Fire** às magias preparadas, fortalecendo seu papel de suporte ofensivo.
 
+### Confirmação em campanha
+
+A sessão nos esgotos de Asuras Jewel confirmou que a construção está funcionando. Performance, Persuasão e Carisma foram úteis; Aeloria conseguiu alternar assistência com dano; e **Cloud's Jaunt foi especialmente importante para fuga e reposicionamento**.
+
+Esses fatos passam a orientar as escolhas seguintes.
+
 ---
 
-## Nível 3
+## Nível 3 — em definição
+
+Aeloria ainda mantém a ficha de nível 2 como ficha canônica até a evolução ser fechada.
+
+### Mudanças gerais da Barda
+
+No nível 3:
+
+- Bônus de Proficiência continua +2;
+- Bardic Inspiration continua d6;
+- continuam 2 truques;
+- passam a ser 6 magias preparadas da classe;
+- 4 espaços de magia de 1º círculo;
+- 2 espaços de magia de 2º círculo;
+- entra a subclasse de Barda;
+- PV aumentam em 1d8 + CON +1, usando o método de rolagem adotado para Aeloria.
 
 ### Subclasse sugerida — College of Glamour
 
-Aeloria passa a usar sua presença de forma mais sobrenatural e refinada.
+A sugestão ficou mais forte depois da experiência em campanha.
 
-A subclasse 2024 reforça encantamento, ilusão e proteção de aliados. É o ponto em que a fama, a postura e a música começam a ter peso mecânico mais forte.
+**Mantle of Inspiration** usa Bardic Inspiration para proteger aliados com PV temporários e permitir reposicionamento sem Ataques de Oportunidade. Isso complementa diretamente a importância que Cloud's Jaunt já demonstrou: Aeloria não apenas escapa de posições ruins, como passa a ajudar aliados a fazer o mesmo.
 
-### Magias de 2º nível
+**Beguiling Magic** reforça o lado social e de controle. A subclasse mantém **Charm Person** e **Mirror Image** sempre preparados e acrescenta efeitos ligados a Encantamento e Ilusão.
 
-Boas direções:
+Isso combina com uma campanha que já envolveu traficantes, autoridades hostis, investigação e atividade mágica clandestina sob Asuras Jewel.
 
-- defesa sem concentração;
-- ilusão;
-- mobilidade;
-- controle de grupos.
+### Nova magia preparada
 
-Escolha conforme a composição real da mesa.
+Com o aumento para 6 magias preparadas da classe, a principal decisão é a nova magia.
+
+Boas opções para o estilo demonstrado na mesa:
+
+- **Suggestion** — influência direta, útil em cenas sociais e de controle;
+- **Detect Thoughts** — investigação, interrogatórios e descoberta de informação;
+- **Invisibility** — infiltração e fuga;
+- **Shatter** — dano em área quando o grupo precisar de maior pressão ofensiva;
+- **Lesser Restoration** — suporte contra condições.
+
+A proposta principal fica entre **Suggestion** e **Detect Thoughts**. A escolha deve ser feita antes de fechar a ficha nível 3.
+
+### Pilares confirmados para o nível 3
+
+1. presença social;
+2. suporte;
+3. controle com dano situacional;
+4. mobilidade e reposicionamento.
+
+Ver também [proposta-nivel-3.md](proposta-nivel-3.md) e o [histórico da campanha](historico-campanha/README.md).
 
 ---
 
@@ -111,11 +149,7 @@ No nível 8, nova melhoria de atributo/feat.
 
 Levar **Carisma a 20** usando a opção que melhor encaixar na construção final.
 
-Se CAR já tiver chegado a 20 por feat anterior, invista em:
-
-- Destreza;
-- Constituição;
-- feat defensivo ou de concentração.
+Se CAR já tiver chegado a 20 por feat anterior, invista em Destreza, Constituição ou feat defensivo/de concentração.
 
 ---
 
@@ -129,27 +163,17 @@ Sugestões futuras:
 - **Persuasão**;
 - outra perícia que tenha se tornado importante na campanha.
 
-A escolha deve refletir a Aeloria que realmente surgiu na mesa, não apenas a ficha planejada no nível 1.
+A escolha deve refletir a Aeloria que realmente surgiu na mesa.
 
 ---
 
 ## Nível 10
 
-Marco central da classe.
-
 ### Magical Secrets
 
 A Barda 2024 passa a poder incorporar opções das listas de **Clérigo, Druida e Mago** ao preparar novas magias conforme as regras da classe.
 
-Para Aeloria, priorize:
-
-- cura superior;
-- proteção de grupo;
-- mobilidade;
-- controle de campo;
-- magia com estética de vento, névoa, céu ou deslocamento, quando mecanicamente útil.
-
-Evite escolher magia só pela estética se ela prejudicar muito a função da personagem.
+Para Aeloria, priorize cura superior, proteção de grupo, mobilidade, controle de campo e magia com estética de vento, névoa, céu ou deslocamento quando mecanicamente útil.
 
 ---
 
@@ -157,15 +181,13 @@ Evite escolher magia só pela estética se ela prejudicar muito a função da pe
 
 Aeloria entra na faixa de magia de alto impacto.
 
-Nesta fase, a personagem já não é apenas “a barda que ajuda”. Ela pode definir encontros inteiros com preparação, controle e reposicionamento.
-
 Prioridades:
 
-1. manter opções de cura emergencial;
-2. ter ao menos uma excelente magia de controle;
-3. ter defesa para proteger Concentração;
+1. manter cura emergencial;
+2. ter excelente controle;
+3. proteger Concentração;
 4. manter uma opção ofensiva confiável;
-5. não carregar magias redundantes demais.
+5. evitar magias redundantes.
 
 ---
 
@@ -173,19 +195,15 @@ Prioridades:
 
 Nova habilidade de subclasse.
 
-No College of Glamour, este é um grande salto na força da presença sobrenatural de Aeloria.
-
-Narrativamente, é um bom momento para a reputação dela ter ultrapassado regiões específicas. A fama deixa de ser apenas objetivo e começa a virar consequência.
+No College of Glamour, este é um grande salto na força da presença sobrenatural de Aeloria. Narrativamente, é um bom momento para sua reputação ultrapassar regiões específicas.
 
 ---
 
 ## Níveis 15–17
 
-A Bardic Inspiration cresce e a magia chega aos níveis mais altos.
+A Bardic Inspiration cresce e a magia chega aos níveis mais altos. A ancestralidade Goliate também escala indiretamente porque os usos de **Cloud's Jaunt** acompanham o Bônus de Proficiência.
 
-A ancestralidade Goliate também escala indiretamente porque os usos de **Cloud's Jaunt** acompanham o Bônus de Proficiência.
-
-Aeloria se torna extremamente móvel para uma conjuradora de suporte: reposiciona-se, protege aliados e mantém presença à distância.
+Aeloria se torna extremamente móvel para uma conjuradora de suporte.
 
 ---
 
@@ -195,17 +213,13 @@ Aeloria se torna extremamente móvel para uma conjuradora de suporte: reposicion
 
 A classe melhora a recuperação de Bardic Inspiration quando Aeloria entra em combate com poucos usos disponíveis.
 
-Neste ponto, inspiração deixa de ser um recurso que ela precisa guardar com tanto medo.
-
 ---
 
 ## Nível 19
 
 ### Epic Boon
 
-Escolha deve ser feita quando a campanha realmente chegar aqui, baseada no estilo que Aeloria tiver desenvolvido.
-
-Não vale fixar agora uma opção sem saber quais livros, feats e regras a mesa permitirá no futuro.
+A escolha deve ser feita quando a campanha realmente chegar aqui, baseada no estilo desenvolvido na mesa.
 
 ---
 
@@ -214,8 +228,6 @@ Não vale fixar agora uma opção sem saber quais livros, feats e regras a mesa 
 ### Words of Creation
 
 Aeloria alcança o ápice da Barda 2024.
-
-A classe passa a lidar diretamente com magias máximas ligadas a vida e morte, fechando de forma adequada o arco de uma personagem cuja obsessão sempre foi aquilo que permanece depois que o tempo passa.
 
 ## Resumo da construção
 
@@ -237,4 +249,6 @@ Ao subir de nível, pergunte:
 
 > “Isso ajuda Aeloria a proteger, reposicionar, influenciar ou ser lembrada?”
 
-Se a resposta for sim, provavelmente combina com a personagem.
+A partir da experiência em Asuras Jewel, acrescente uma segunda pergunta:
+
+> “Isso melhora uma ferramenta que realmente está sendo usada na mesa?”
