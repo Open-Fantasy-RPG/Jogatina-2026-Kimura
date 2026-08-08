@@ -1,99 +1,78 @@
-# Aeloria — Habilidades e Magias
+# Aeloria — Habilidades e Magias — Nível 2
 
 ## Espécie: Goliate 2024
 
 ### Deslocamento — 35 pés
 
-Aeloria se move um pouco mais rápido que a média dos humanoides.
-
-**Na mesa:** 35 pés de deslocamento por turno.  
-**Na narrativa:** passos longos e leves, como se o vento ajudasse o movimento.
+Aeloria se move 35 pés por turno.
 
 ### Powerful Build
-
-A constituição física Goliate ajuda Aeloria a lidar com peso e agarrões.
-
-**Na mesa:**
 
 - vantagem em testes de habilidade feitos para encerrar a condição **Grappled**;
 - conta como uma categoria de tamanho maior ao calcular capacidade de carga.
 
-**Na narrativa:** ela não parece uma guerreira bruta, mas seu corpo continua tendo a estrutura física de uma Goliate.
-
 ### Giant Ancestry — Cloud's Jaunt
 
-Aeloria descende da linhagem dos Gigantes das Nuvens.
+Como **Ação Bônus**, Aeloria teleporta-se magicamente até **30 pés** para um espaço desocupado que consiga ver.
 
-**Na mesa:** como **Ação Bônus**, teleporta-se magicamente até **30 pés** para um espaço desocupado que consiga ver. Pode usar o benefício um número de vezes igual ao **Bônus de Proficiência** e recupera todos os usos após um Descanso Longo.
-
-No nível 1: **2 usos por Descanso Longo**.
-
-**Uso prático:**
-
-- sair de perto de um inimigo sem gastar o deslocamento normal;
-- reposicionar-se para curar um aliado;
-- alcançar cobertura ou terreno elevado;
-- atravessar pequenos obstáculos quando consegue ver o destino.
-
-**Visual sugerido:** por um instante, sua silhueta parece se dissolver numa névoa fina e reaparece alguns metros adiante. Sem trovão e sem explosão.
+Usos iguais ao Bônus de Proficiência. No nível 2: **2 usos por Descanso Longo**.
 
 ### Large Form — futuro, nível de personagem 5
 
-Não está disponível no nível 1.
-
-A partir do nível 5, Aeloria poderá assumir temporariamente tamanho Grande, ganhando vantagens ligadas à força e ao deslocamento. Está anotado apenas para evolução futura.
+Ainda não está disponível.
 
 ---
 
-# Classe: Barda nível 1
+# Classe: Barda nível 2
+
+## Pontos de Vida
+
+Aeloria tinha **9 PV** no nível 1. Na subida de nível rolou **1 no d8** e somou CON +1, recebendo **+2 PV**.
+
+**PV máximo atual: 11.**
 
 ## Bardic Inspiration — d6
 
-Bardic Inspiration representa a capacidade de Aeloria de **melhorar o desempenho de outra pessoa por meio de sua presença, música ou palavras**.
+- **Ação Bônus**;
+- alcance **60 pés**;
+- alvo precisa ver ou ouvir Aeloria;
+- concede **1d6 de Inspiração Bárdica**;
+- quando o alvo falhar em um Teste d20 durante a duração, pode somar o d6 e possivelmente transformar a falha em sucesso;
+- **3 usos por Descanso Longo**.
 
-### Como funciona
+Bardic Inspiration é diferente de **Heroic Inspiration**, concedida pelo talento Musician.
 
-- custa **1 Ação Bônus** de Aeloria;
-- alcance de **60 pés**;
-- o alvo precisa poder **ver ou ouvir** Aeloria;
-- o alvo recebe um **d6 de Inspiração Bárdica**;
-- quando falhar em um **Teste d20** durante a duração da inspiração, pode rolar esse d6 e somar ao resultado;
-- se a soma for suficiente, a falha pode se transformar em sucesso;
-- no nível 1, Aeloria possui **3 usos por Descanso Longo**, pois seu modificador de Carisma é +3.
+## Expertise
 
-### Exemplo prático
+No nível 2, Aeloria recebe Expertise em duas perícias escolhidas:
 
-Um aliado precisa atingir 15 em um teste. Ele rola 12 e falha. Como possui Inspiração Bárdica de Aeloria, rola 1d6 e consegue 4. O resultado passa para 16 e o teste pode se tornar um sucesso.
+- **Enganação +7** — CAR +3 + proficiência dobrada +4;
+- **Acrobacia +6** — DES +2 + proficiência dobrada +4.
 
-### Como aparece na narrativa
+## Jack of All Trades
 
-Aeloria não precisa fazer um discurso. A inspiração pode ser:
+Aeloria adiciona **metade do Bônus de Proficiência, arredondado para baixo**, a testes de habilidade nos quais não esteja aplicando seu Bônus de Proficiência.
 
-- uma nota curta da harpa;
-- um acorde que marca o momento certo;
-- um olhar calmo;
-- uma frase simples;
-- um gesto de confiança.
+No nível 2, Bônus de Proficiência +2 significa **+1** de Jack of All Trades.
 
-A inspiração dela é serena. Ela não empurra os outros com entusiasmo exagerado; ela faz a pessoa sentir que consegue executar aquilo que já sabia fazer.
+| Atributo do teste sem proficiência | Mod. | Jack | Total |
+|---|---:|---:|---:|
+| Força | +0 | +1 | **+1** |
+| Destreza | +2 | +1 | **+3** |
+| Constituição | +1 | +1 | **+2** |
+| Inteligência | -1 | +1 | **+0** |
+| Sabedoria | +0 | +1 | **+1** |
+| Carisma | +3 | +1 | **+4** |
 
-### Importante: não confundir com Heroic Inspiration
-
-**Bardic Inspiration** é uma habilidade da classe Barda e usa o **d6** descrito acima.
-
-**Heroic Inspiration** é outro recurso do jogo. Aeloria também pode concedê-la por meio do talento **Musician** ao terminar descansos. Os dois recursos são separados.
-
-### Decisão tática
-
-Bardic Inspiration usa Ação Bônus, assim como **Healing Word** e **Cloud's Jaunt**. Aeloria precisa escolher qual desses recursos é mais importante naquele turno.
+Exemplos: Percepção +1, Investigação +0, Intimidação +4 e Atletismo +1, desde que Aeloria não possua outra fonte de proficiência aplicável ao teste.
 
 ## Spellcasting
 
-No nível 1, Aeloria possui:
+No nível 2:
 
 - **2 truques**;
-- **4 magias de nível 1 preparadas**;
-- **2 espaços de magia de nível 1**;
+- **5 magias de nível 1 preparadas**;
+- **3 espaços de magia de nível 1**;
 - Carisma como atributo de conjuração;
 - **CD 13** para resistir às magias;
 - **+5** em ataques mágicos, quando aplicável.
@@ -104,81 +83,66 @@ No nível 1, Aeloria possui:
 
 ## Prestidigitation
 
-Pequenos efeitos mágicos de apresentação e utilidade.
-
-**Uso prático:** criar detalhes sensoriais discretos, limpar ou sujar algo pequeno, alterar características simples de objetos ou produzir pequenos efeitos apropriados ao truque, dentro dos limites definidos pela magia.
-
-**Papel da Aeloria:** é a magia que reforça o lado de artista. Pode acompanhar uma música com pequenos efeitos, mas **não substitui uma magia de ilusão completa** e não deve ser usada como controle de combate.
+Utilidade e pequenos efeitos sensoriais. Não causa dano e não substitui uma magia de ilusão completa.
 
 ## Vicious Mockery
 
-Ataque mágico de baixo dano com efeito defensivo.
-
-**Na mesa:**
-
 - 1 Ação;
 - alcance 60 pés;
-- teste de resistência de Sabedoria contra **CD 13**;
+- resistência de Sabedoria contra **CD 13**;
 - falha: **1d6 de dano psíquico** e Desvantagem no próximo ataque do alvo antes do fim do próximo turno dele;
 - sucesso: sem efeito.
 
-**Uso prático:** é o ataque padrão quando Aeloria não quer gastar espaço de magia. O dano é pequeno; o valor real está em prejudicar o próximo ataque do inimigo.
-
-**Interpretação:** não precisa ser uma “piada”. Pode ser uma frase curta, uma nota cortante ou uma lembrança musical desconfortável.
+É o ataque padrão de Aeloria quando ela não quer gastar espaço de magia.
 
 ---
 
-# Magias de nível 1 preparadas
+# Magias preparadas — 1º círculo
 
 ## Healing Word
 
-A cura de combate mais prática de Aeloria.
-
-**Na mesa:**
-
 - Ação Bônus;
 - alcance 60 pés;
-- cura **2d4 + 3 PV** usando espaço de nível 1.
+- cura **2d4 + 3 PV** com espaço de nível 1.
 
-**Uso prático:** levantar ou estabilizar rapidamente a situação de um aliado à distância sem gastar a Ação principal.
-
-**Limitação tática:** compete pela Ação Bônus com Bardic Inspiration e Cloud's Jaunt.
+Cura emergencial à distância. Compete pela Ação Bônus com Bardic Inspiration e Cloud's Jaunt.
 
 ## Cure Wounds
 
-Cura maior, porém exige proximidade e Ação.
-
-**Na mesa:**
-
 - 1 Ação;
 - toque;
-- cura **2d8 + 3 PV** usando espaço de nível 1.
+- cura **2d8 + 3 PV** com espaço de nível 1.
 
-**Uso prático:** melhor quando Aeloria consegue chegar com segurança até o aliado ou durante momentos em que uma cura maior vale perder a Ação.
+Cura maior quando Aeloria consegue chegar ao aliado.
 
 ## Heroism
 
-Magia de suporte para um aliado que precisa se manter firme.
-
-**Na mesa:** exige Concentração e melhora a resistência emocional do alvo, fornecendo benefício defensivo enquanto a magia durar conforme as regras da magia.
-
-**Uso prático:** boa antes ou durante uma luta em que um aliado vai receber pressão constante.
-
-**Interpretação:** Aeloria toca uma linha musical contínua, quase respirada, que dá ao aliado sensação de estabilidade.
+Magia de suporte defensivo que exige **Concentração**. Boa para um aliado que ficará sob pressão constante.
 
 ## Dissonant Whispers
 
-Principal opção de dano usando espaço de magia.
+- 1 Ação;
+- resistência de Sabedoria contra **CD 13**;
+- falha: **3d6 de dano psíquico** e, se tiver Reação disponível, o alvo precisa se afastar por uma rota segura;
+- sucesso: metade do dano e sem afastamento.
 
-**Na mesa:**
+Principal opção de dano de Aeloria usando espaço de magia.
+
+## Faerie Fire
+
+Nova magia preparada no nível 2.
 
 - 1 Ação;
-- teste de resistência de Sabedoria contra CD 13;
-- falha: **3d6 de dano psíquico** e, se tiver Reação disponível, o alvo precisa se afastar usando uma rota segura;
-- sucesso: metade do dano, sem deslocamento forçado;
-- escala com espaços superiores.
+- área de efeito;
+- resistência de Destreza contra **CD 13**;
+- exige **Concentração**;
+- criaturas afetadas ficam delineadas por luz;
+- não podem se beneficiar de invisibilidade;
+- ataques contra uma criatura afetada têm **Vantagem**, desde que o atacante possa vê-la.
 
-**Uso prático:** use em um inimigo perigoso que esteja perto dos aliados. Além do dano, o deslocamento pode melhorar o posicionamento do grupo.
+**Uso prático:** excelente no início de um combate contra vários inimigos. Aeloria gasta uma magia para aumentar a eficiência ofensiva de todo o grupo.
+
+**Atenção:** Faerie Fire e Heroism exigem Concentração. Aeloria não pode manter as duas ao mesmo tempo.
 
 ---
 
@@ -186,32 +150,20 @@ Principal opção de dano usando espaço de magia.
 
 ## Feat de Origem — Musician
 
-Aeloria desenvolveu técnica musical suficiente para inspirar o grupo durante descansos.
-
-**Benefícios práticos:**
-
 - proficiência com três instrumentos musicais escolhidos;
-- ao terminar um Descanso Curto ou Longo, pode tocar um instrumento com que seja proficiente e conceder **Heroic Inspiration** a um número de aliados igual ao Bônus de Proficiência.
+- ao terminar um Descanso Curto ou Longo, pode tocar um instrumento com que seja proficiente e conceder **Heroic Inspiration** a um número de aliados igual ao Bônus de Proficiência;
+- no nível 2: até **2 aliados** por descanso.
 
-No nível 1: até **2 aliados** por descanso.
-
-### Instrumentos conhecidos x instrumentos carregados
-
-As proficiências concedidas por classe, antecedente e **Musician** significam que Aeloria **sabe tocar** instrumentos adicionais. Isso não significa que ela os carregue.
-
-- **Harpa de mão/lira:** instrumento pessoal, assinatura e único instrumento carregado regularmente.
-- **Instrumentos adicionais:** conhecimentos musicais adquiridos ao longo de décadas de viagem. Se encontrar um instrumento no qual tenha proficiência, Aeloria sabe tocá-lo normalmente.
-- **Flauta e tambor:** não fazem parte do equipamento nem da identidade definida para Aeloria.
-
-Os nomes dos demais instrumentos conhecidos podem ser definidos futuramente sem mudar o inventário atual.
+Aeloria carrega regularmente apenas sua **harpa de mão/lira**. Os demais instrumentos representam conhecimento, não equipamento carregado.
 
 ---
 
-# Prioridade simples em jogo
+# Prioridade simples em jogo — nível 2
 
-1. **Alguém caiu ou precisa de cura urgente:** Healing Word.
-2. **Aliado vai fazer algo decisivo:** Bardic Inspiration.
-3. **Aeloria está mal posicionada:** Cloud's Jaunt.
-4. **Inimigo precisa ser afastado ou sofrer dano forte:** Dissonant Whispers.
-5. **Nada exige recurso limitado:** Vicious Mockery.
-6. **Fora de combate:** Performance, Persuasão, Prestidigitation e Musician.
+1. **Vários inimigos podem ser marcados:** Faerie Fire.
+2. **Alguém caiu ou precisa de cura urgente:** Healing Word.
+3. **Aliado vai fazer algo decisivo:** Bardic Inspiration.
+4. **Aeloria está mal posicionada:** Cloud's Jaunt.
+5. **Inimigo precisa ser afastado ou sofrer dano forte:** Dissonant Whispers.
+6. **Nada exige recurso limitado:** Vicious Mockery.
+7. **Fora de combate:** use as perícias sociais, Prestidigitation, Expertise e Jack of All Trades.
