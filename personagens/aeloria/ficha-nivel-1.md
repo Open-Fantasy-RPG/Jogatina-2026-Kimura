@@ -11,14 +11,14 @@
 
 ## Atributos
 
-Distribuição construída por **point buy de 27 pontos**, antes dos ajustes do antecedente:
+Aeloria usa os valores base disponíveis para a personagem: **12, 10, 13, 15, 9 e 11**. Eles foram distribuídos priorizando Carisma, Destreza e Constituição.
 
 | Atributo | Base | Antecedente | Final | Mod. |
 |---|---:|---:|---:|---:|
-| Força | 12 | — | **12** | +1 |
+| Força | 11 | — | **11** | +0 |
 | Destreza | 13 | +1 | **14** | +2 |
-| Constituição | 13 | — | **13** | +1 |
-| Inteligência | 10 | — | **10** | +0 |
+| Constituição | 12 | — | **12** | +1 |
+| Inteligência | 9 | — | **9** | -1 |
 | Sabedoria | 10 | — | **10** | +0 |
 | Carisma | 15 | +2 | **17** | +3 |
 
@@ -51,10 +51,10 @@ A Barda possui proficiência em **Destreza** e **Carisma**.
 
 | Salvaguarda | Bônus |
 |---|---:|
-| Força | +1 |
+| Força | +0 |
 | Destreza | **+4** |
 | Constituição | +1 |
-| Inteligência | +0 |
+| Inteligência | -1 |
 | Sabedoria | +0 |
 | Carisma | **+5** |
 
@@ -71,19 +71,17 @@ A Barda escolhe quaisquer três perícias. Sugestão para Aeloria:
 
 - **Persuasão** — CAR +5
 - **Intuição** — SAB +2
-- **História** — INT +2
+- **História** — INT +1
 
 Essas escolhas reforçam uma viajante experiente, socialmente forte e acumuladora de histórias.
 
-## Instrumentos
+## Instrumento
 
-Aeloria possui várias proficiências em instrumentos por combinação de classe, antecedente e talento Musician. Para manter a identidade simples:
+**Harpa de mão / lira de viagem** — instrumento assinatura e único instrumento que Aeloria carrega regularmente.
 
-1. **Harpa de mão / lira de viagem** — instrumento assinatura.
-2. Flauta.
-3. Tambor de mão.
+A personagem pode possuir proficiências adicionais em instrumentos por regras de classe, antecedente ou talento, mas isso não significa que carregue esses instrumentos. **Flauta e tambor não fazem parte do equipamento ou da identidade da personagem.**
 
-Se a mesa exigir apenas itens existentes na lista de equipamento, trate a harpa de mão mecanicamente como uma **lira**, mantendo “harpa de mão” apenas como descrição visual.
+Se a mesa exigir apenas itens existentes na lista de equipamento, trate a harpa de mão mecanicamente como uma **lira**, mantendo “harpa de mão” como descrição visual.
 
 ## Idiomas
 
@@ -97,10 +95,10 @@ A escolha final de idiomas pode ser ajustada ao mundo do mestre sem alterar a id
 
 ## Ataques básicos
 
-| Ataque | Bônus | Dano | Observação |
+| Ataque | Bônus/CD | Dano | Observação |
 |---|---:|---:|---|
-| Adaga | +4 | 1d4+2 perfurante | Arremessável e leve |
-| Vicious Mockery | CD 13 SAB | 1d6 psíquico | Também prejudica o próximo ataque do alvo |
-| Dissonant Whispers | CD 13 SAB | 3d6 psíquico | Usa espaço de magia; metade no sucesso |
+| Adaga | +4 | 1d4+2 perfurante | Usa Destreza; arremessável e leve |
+| Vicious Mockery | CD 13 SAB | 1d6 psíquico | Usa a CD baseada em Carisma; prejudica o próximo ataque do alvo |
+| Dissonant Whispers | CD 13 SAB | 3d6 psíquico | Usa a CD baseada em Carisma; gasta espaço de magia; metade no sucesso |
 
 Aeloria não foi construída para dano físico. Sua função principal é **suporte, cura, controle leve e presença social**.
