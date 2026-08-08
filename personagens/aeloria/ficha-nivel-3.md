@@ -29,14 +29,16 @@
 
 ## Atributos
 
-| Atributo | Valor | Mod. |
-|---|---:|---:|
-| Força | 11 | +0 |
-| Destreza | 14 | +2 |
-| Constituição | 12 | +1 |
-| Inteligência | 9 | -1 |
-| Sabedoria | 10 | +0 |
-| Carisma | **17** | **+3** |
+| Atributo | Base | Adicionais | Total | Mod. |
+|---|---:|---:|---:|---:|
+| Força | 11 | — | **11** | +0 |
+| Destreza | 13 | **+1 Antecedente** | **14** | +2 |
+| Constituição | 12 | — | **12** | +1 |
+| Inteligência | 9 | — | **9** | -1 |
+| Sabedoria | 10 | — | **10** | +0 |
+| Carisma | 15 | **+2 Antecedente** | **17** | **+3** |
+
+**Origem dos adicionais:** o antecedente **Entertainer** concede os ajustes usados na criação da Aeloria: **+2 Carisma** e **+1 Destreza**.
 
 ## Salvaguardas e perícias
 
