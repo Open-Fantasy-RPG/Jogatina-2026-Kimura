@@ -49,20 +49,43 @@ A partir do nível 5, Aeloria poderá assumir temporariamente tamanho Grande, ga
 
 ## Bardic Inspiration — d6
 
-Aeloria inspira outra criatura com música, palavras ou gesto.
+Bardic Inspiration representa a capacidade de Aeloria de **melhorar o desempenho de outra pessoa por meio de sua presença, música ou palavras**.
 
-**Na mesa:**
+### Como funciona
 
-- Ação Bônus;
-- alcance de 60 pés;
-- o alvo precisa poder ver ou ouvir Aeloria;
-- recebe um **d6 de Inspiração Bárdica**;
-- quando falhar em um Teste d20 dentro da duração da inspiração, pode rolar o d6 e somar ao resultado, possivelmente transformando a falha em sucesso;
-- Aeloria possui **3 usos por Descanso Longo**, pois seu modificador de Carisma é +3.
+- custa **1 Ação Bônus** de Aeloria;
+- alcance de **60 pés**;
+- o alvo precisa poder **ver ou ouvir** Aeloria;
+- o alvo recebe um **d6 de Inspiração Bárdica**;
+- quando falhar em um **Teste d20** durante a duração da inspiração, pode rolar esse d6 e somar ao resultado;
+- se a soma for suficiente, a falha pode se transformar em sucesso;
+- no nível 1, Aeloria possui **3 usos por Descanso Longo**, pois seu modificador de Carisma é +3.
 
-**Uso prático:** dê inspiração antes de uma ação importante ou no começo de uma situação perigosa. Como também usa Ação Bônus para Healing Word e Cloud's Jaunt, escolha bem o turno.
+### Exemplo prático
 
-**Visual sugerido:** uma nota curta na harpa, um olhar firme ou uma frase simples. A inspiração dela é calma, não um discurso inflamado.
+Um aliado precisa atingir 15 em um teste. Ele rola 12 e falha. Como possui Inspiração Bárdica de Aeloria, rola 1d6 e consegue 4. O resultado passa para 16 e o teste pode se tornar um sucesso.
+
+### Como aparece na narrativa
+
+Aeloria não precisa fazer um discurso. A inspiração pode ser:
+
+- uma nota curta da harpa;
+- um acorde que marca o momento certo;
+- um olhar calmo;
+- uma frase simples;
+- um gesto de confiança.
+
+A inspiração dela é serena. Ela não empurra os outros com entusiasmo exagerado; ela faz a pessoa sentir que consegue executar aquilo que já sabia fazer.
+
+### Importante: não confundir com Heroic Inspiration
+
+**Bardic Inspiration** é uma habilidade da classe Barda e usa o **d6** descrito acima.
+
+**Heroic Inspiration** é outro recurso do jogo. Aeloria também pode concedê-la por meio do talento **Musician** ao terminar descansos. Os dois recursos são separados.
+
+### Decisão tática
+
+Bardic Inspiration usa Ação Bônus, assim como **Healing Word** e **Cloud's Jaunt**. Aeloria precisa escolher qual desses recursos é mais importante naquele turno.
 
 ## Spellcasting
 
@@ -172,7 +195,15 @@ Aeloria desenvolveu técnica musical suficiente para inspirar o grupo durante de
 
 No nível 1: até **2 aliados** por descanso.
 
-Isso é diferente de **Bardic Inspiration**. Heroic Inspiration pertence às regras gerais do jogo; Bardic Inspiration é um recurso específico da classe Barda.
+### Instrumentos conhecidos x instrumentos carregados
+
+As proficiências concedidas por classe, antecedente e **Musician** significam que Aeloria **sabe tocar** instrumentos adicionais. Isso não significa que ela os carregue.
+
+- **Harpa de mão/lira:** instrumento pessoal, assinatura e único instrumento carregado regularmente.
+- **Instrumentos adicionais:** conhecimentos musicais adquiridos ao longo de décadas de viagem. Se encontrar um instrumento no qual tenha proficiência, Aeloria sabe tocá-lo normalmente.
+- **Flauta e tambor:** não fazem parte do equipamento nem da identidade definida para Aeloria.
+
+Os nomes dos demais instrumentos conhecidos podem ser definidos futuramente sem mudar o inventário atual.
 
 ---
 
