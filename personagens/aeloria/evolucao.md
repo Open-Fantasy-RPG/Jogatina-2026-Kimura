@@ -120,7 +120,7 @@ A Barda recebe nova **Expertise**.
 
 Sugestões:
 
-- **Intuição**.
+- **Enganação**.
 - outra perícia que tenha se tornado importante na campanha.
 
 A escolha deve refletir a Aeloria que realmente surgiu na mesa, não apenas a ficha planejada no nível 1.
