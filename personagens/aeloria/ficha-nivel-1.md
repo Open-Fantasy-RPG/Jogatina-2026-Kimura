@@ -82,10 +82,10 @@ A Barda possui proficiência em **Destreza** e **Carisma**.
 A Barda escolhe quaisquer três perícias. Para Aeloria:
 
 - **Persuasão** — CAR +5
-- **Intuição** — SAB +2
+- **Enganação** — CAR +5
 - **Furtividade** — DES +4
 
-Aeloria é socialmente forte e sabe ler pessoas, mas também aprendeu a se mover de forma controlada e silenciosa apesar de seu grande porte. Sua Furtividade representa experiência de estrada, controle corporal e passos leves — coerentes com sua associação ao vento e às nuvens.
+Aeloria é socialmente forte e sabe conduzir conversas, omitir intenções e sustentar versões convincentes quando necessário. Sua Furtividade representa experiência de estrada, controle corporal e passos leves — coerentes com sua associação ao vento e às nuvens.
 
 ## Instrumentos
 
