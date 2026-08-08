@@ -5,6 +5,7 @@ Esta pasta registra eventos da campanha vividos por Aeloria em ordem cronológic
 ## Sessões
 
 - [2026-08-08 — Esgotos de Asuras Jewel](sessao-2026-08-08-esgotos-asuras-jewel.md)
+- [2026-08-08 — Cidade Alta, Manômetro Quebrado e Prisão](sessao-2026-08-08-cidade-alta-e-prisao.md)
 
 ## Regra de registro
 
