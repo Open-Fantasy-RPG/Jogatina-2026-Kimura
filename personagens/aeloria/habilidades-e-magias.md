@@ -46,8 +46,12 @@ Bardic Inspiration é diferente de **Heroic Inspiration**, concedida pelo talent
 
 No nível 2, Aeloria recebe Expertise em duas perícias escolhidas:
 
-- **Enganação +7** — CAR +3 + proficiência dobrada +4;
+- **Performance +7** — CAR +3 + proficiência dobrada +4;
 - **Acrobacia +6** — DES +2 + proficiência dobrada +4.
+
+**Enganação permanece +5**, com CAR +3 e proficiência normal +2.
+
+Performance pode representar música, recital, atuação, narrativa dramática, disputa artística, capacidade de prender a atenção de uma plateia e apresentações usadas para construir reputação. Ela não substitui Persuasão ou Enganação quando o objetivo do teste for convencer alguém ou sustentar uma mentira.
 
 ## Jack of All Trades
 
@@ -166,4 +170,4 @@ Aeloria carrega regularmente apenas sua **harpa de mão/lira**. Os demais instru
 4. **Aeloria está mal posicionada:** Cloud's Jaunt.
 5. **Inimigo precisa ser afastado ou sofrer dano forte:** Dissonant Whispers.
 6. **Nada exige recurso limitado:** Vicious Mockery.
-7. **Fora de combate:** use as perícias sociais, Prestidigitation, Expertise e Jack of All Trades.
+7. **Fora de combate:** use Performance +7, as demais perícias sociais, Prestidigitation e Jack of All Trades.
