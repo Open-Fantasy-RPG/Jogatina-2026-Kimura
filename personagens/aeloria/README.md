@@ -17,6 +17,7 @@ Ela viaja há décadas. Busca segurança, dinheiro e poder, mas sua ambição ce
 | Ancestralidade | Gigante das Nuvens |
 | Classe | Barda |
 | Nível atual | **2** |
+| Próxima evolução | **Nível 3 em definição** |
 | Antecedente | Artista / Entertainer |
 | Instrumento assinatura | Harpa de mão / lira de viagem |
 | Objetivo principal | Tornar-se inesquecível |
@@ -32,11 +33,22 @@ Ela viaja há décadas. Busca segurança, dinheiro e poder, mas sua ambição ce
 - **Magias preparadas:** Healing Word, Cure Wounds, Heroism, Dissonant Whispers e Faerie Fire.
 - **Espaços de magia de 1º círculo:** 3.
 
+A ficha de nível 2 permanece canônica enquanto as escolhas do nível 3 ainda estão sendo fechadas.
+
+## Última experiência de campanha
+
+Nos esgotos de **Asuras Jewel**, Aeloria confirmou na prática que Performance, Persuasão e Carisma são ferramentas relevantes. Também contribuiu com dano e assistência em combate, enquanto **Cloud's Jaunt** teve papel decisivo para fuga e reposicionamento.
+
+A experiência reforçou quatro pilares para a evolução: **presença social, suporte, controle/dano situacional e mobilidade**.
+
 ## Documentos
 
 - [Ficha mecânica atual — nível 2](ficha-nivel-2.md)
 - [Ficha histórica — nível 1](ficha-nivel-1.md)
+- [Proposta de evolução — nível 3](proposta-nivel-3.md)
 - [História](historia.md)
+- [Histórico da campanha](historico-campanha/README.md)
+- [Última sessão — Esgotos de Asuras Jewel](historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel.md)
 - [Aparência, personalidade e interpretação](interpretacao.md)
 - [Habilidades e magias — nível 2](habilidades-e-magias.md)
 - [Equipamentos e combate — nível 2](equipamentos-e-combate.md)
