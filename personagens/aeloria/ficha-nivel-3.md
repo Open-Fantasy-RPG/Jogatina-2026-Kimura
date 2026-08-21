@@ -18,7 +18,7 @@
 |---|---:|
 | PV máximos | **15** |
 | Dados de Vida | **3d8** |
-| CA | **13** — armadura de couro |
+| CA | **13** — armadura de couro; **12** — sem armadura (variante) |
 | Iniciativa | **+2** |
 | Deslocamento | **35 pés** |
 | CD das Magias | **13** |
@@ -105,18 +105,18 @@ No mesmo turno, Aeloria normalmente precisa escolher entre **Cloud's Jaunt, Bard
 
 ## Visão geral
 
-| Magia | Círculo | Uso | Alcance | Concentração | Teste / efeito-chave |
-|---|---:|---|---|---|---|
-| Prestidigitation | Truque | Ação | 10 pés | Não | Utilidade e pequenos efeitos sensoriais |
-| Vicious Mockery | Truque | Ação | 60 pés | Não | SAB CD 13; **1d6 psíquico** na falha + prejudica próximo ataque |
-| Healing Word | 1º | Ação Bônus | 60 pés | Não | Cura **2d4 + 3 PV** |
-| Heroism | 1º | Ação | Toque | **Sim** | Imunidade a Amedrontado + **3 PV temporários** no início de cada turno |
-| Dissonant Whispers | 1º | Ação | 60 pés | Não | SAB CD 13; **3d6 psíquico** + afastamento na falha |
-| Faerie Fire | 1º | Ação | 60 pés / cubo 20 pés | **Sim** | DES CD 13; ataques contra afetados têm Vantagem |
-| Charm Person* | 1º | Ação | 30 pés | Não | SAB CD 13; Enfeitiçado por até 1 hora |
-| Invisibility | 2º | Ação | Toque | **Sim** | Invisível por até 1 hora; termina ao atacar, causar dano ou lançar magia |
-| Suggestion | 2º | Ação | 30 pés | **Sim** | SAB CD 13; alvo segue sugestão plausível por até 8 horas |
-| Mirror Image* | 2º | Ação | Pessoal | Não | 3 duplicatas desviam ataques |
+| Magia              | Círculo | Uso        | Alcance              | Concentração | Teste / efeito-chave                                                     |
+| ------------------ | ------: | ---------- | -------------------- | ------------ | ------------------------------------------------------------------------ |
+| Prestidigitation   |  Truque | Ação       | 10 pés               | Não          | Utilidade e pequenos efeitos sensoriais                                  |
+| Vicious Mockery    |  Truque | Ação       | 60 pés               | Não          | SAB CD 13; **1d6 psíquico** na falha + prejudica próximo ataque          |
+| Healing Word       |      1º | Ação Bônus | 60 pés               | Não          | Cura **2d4 + 3 PV**                                                      |
+| Heroism            |      1º | Ação       | Toque                | **Sim**      | Imunidade a Amedrontado + **3 PV temporários** no início de cada turno   |
+| Dissonant Whispers |      1º | Ação       | 60 pés               | Não          | SAB CD 13; **3d6 psíquico** + afastamento na falha                       |
+| Faerie Fire        |      1º | Ação       | 60 pés / cubo 20 pés | **Sim**      | DES CD 13; ataques contra afetados têm Vantagem                          |
+| Charm Person*      |      1º | Ação       | 30 pés               | Não          | SAB CD 13; Enfeitiçado por até 1 hora                                    |
+| Invisibility       |      2º | Ação       | Toque                | **Sim**      | Invisível por até 1 hora; termina ao atacar, causar dano ou lançar magia |
+| Suggestion         |      2º | Ação       | 30 pés               | **Sim**      | SAB CD 13; alvo segue sugestão plausível por até 8 horas                 |
+| Mirror Image*      |      2º | Ação       | Pessoal              | Não          | 3 duplicatas desviam ataques                                             |
 
 \* **Sempre preparada pelo College of Glamour** e não ocupa uma das 6 preparações normais da Barda.
 
