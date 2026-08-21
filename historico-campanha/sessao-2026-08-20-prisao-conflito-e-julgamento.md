@@ -2,7 +2,7 @@
 
 **Data de registro:** 2026-08-20
 **Continuação direta de:** [Cidade Alta, Manômetro Quebrado e Prisão](sessao-2026-08-08-cidade-alta-e-prisao.md)
-**Transcrição completa:** [disponível aqui](transcricao-2026-08-20-prisao-conflito-e-julgamento.txt)
+**Transcrição completa:** [disponível aqui](transcricao-2026-08-20-prisao-conflito-e-julgamento.md)
 
 ## Situação inicial
 
