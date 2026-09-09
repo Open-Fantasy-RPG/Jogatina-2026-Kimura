@@ -4,6 +4,7 @@ Esta pasta registra eventos da campanha vividos por Aeloria em ordem cronológic
 
 ## Sessões
 
+- [2026-09-03 — Fuga de Azura e Chegada a Eldervan](sessao-2026-09-03-fuga-de-azura-a-eldervan.md)
 - [2026-08-20 — Prisão, Conflito no Pátio e Julgamento](sessao-2026-08-20-prisao-conflito-e-julgamento.md)
 - [2026-08-08 — Esgotos de Asuras Jewel](sessao-2026-08-08-esgotos-asuras-jewel.md)
 - [2026-08-08 — Cidade Alta, Manômetro Quebrado e Prisão](sessao-2026-08-08-cidade-alta-e-prisao.md)
