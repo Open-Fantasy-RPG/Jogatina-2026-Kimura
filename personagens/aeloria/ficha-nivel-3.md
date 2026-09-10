@@ -14,16 +14,16 @@
 
 ## Números principais
 
-| Estatística | Valor |
-|---|---:|
-| PV máximos | **15** |
-| Dados de Vida | **3d8** |
-| CA | **13** — armadura de couro; **12** — sem armadura (variante) |
-| Iniciativa | **+2** |
-| Deslocamento | **35 pés** |
-| CD das Magias | **13** |
-| Ataque Mágico | **+5** |
-| Bardic Inspiration | **1d6 — 3 usos/Descanso Longo** |
+| Estatística        |                                                        Valor |
+| ------------------ | -----------------------------------------------------------: |
+| PV máximos         |                                                       **15** |
+| Dados de Vida      |                                                      **3d8** |
+| CA                 | **13** — armadura de couro; **12** — sem armadura (variante) |
+| Iniciativa         |                                                       **+2** |
+| Deslocamento       |                                                   **35 pés** |
+| CD das Magias      |                                                       **13** |
+| Ataque Mágico      |                                                       **+5** |
+| Bardic Inspiration |                              **1d6 — 3 usos/Descanso Longo** |
 
 **PV no nível 3:** 11 PV anteriores + rolagem 3 no d8 + CON +1 = **15 PV**.
 

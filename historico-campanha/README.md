@@ -9,6 +9,11 @@ Esta pasta registra eventos da campanha vividos por Aeloria em ordem cronológic
 - [2026-08-08 — Esgotos de Asuras Jewel](sessao-2026-08-08-esgotos-asuras-jewel.md)
 - [2026-08-08 — Cidade Alta, Manômetro Quebrado e Prisão](sessao-2026-08-08-cidade-alta-e-prisao.md)
 
+## Transcrições
+
+- [2026-09-03 — Fuga de Azura e Batalha dos Blink Dogs](transcricao-2026-09-03-fuga-de-azura-e-batalha-dos-blink-dogs.md)
+- [2026-08-20 — Prisão, Conflito no Pátio e Julgamento](transcricao-2026-08-20-prisao-conflito-e-julgamento.md)
+
 ## Regra de registro
 
 Cada sessão deve preservar:
