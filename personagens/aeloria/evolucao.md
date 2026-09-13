@@ -82,15 +82,25 @@ Sempre preparadas pelo College of Glamour:
 
 ---
 
-## Nível 4
+## Nível 4 — concluído
 
-### Aumento de atributo
+Ficha canônica: [ficha-nivel-4.md](ficha-nivel-4.md).
 
-Sugestão: **+2 Carisma**, levando CAR 17 → **19**.
+### Escolha: Artista e infiltradora
 
-Alternativa: feat que aumente Carisma em +1 e ofereça utilidade relevante.
+- feat **Actor**: +1 CAR, levando 17 para **18**;
+- novo truque: **Minor Illusion**;
+- nova magia preparada: **Disguise Self**;
+- 7 magias preparadas pela Barda;
+- 3 slots de 2º círculo;
+- CD de magia **14** e ataque mágico **+6**;
+- Bardic Inspiration: **4 usos** por Descanso Longo.
 
-A prioridade é aumentar CD das magias e recursos baseados em Carisma.
+Actor permite imitação e melhora atuação/enganação enquanto disfarçada. Disguise Self cria identidade visual; Minor Illusion produz distração e cena. Juntas, escolhas sustentam infiltração sem abandonar suporte e controle.
+
+### PV
+
+**Pendente.** No início da próxima sessão, rolar **1d8 + 1** e somar a 15 PV. Não houve rolagem nesta evolução.
 
 ---
 
@@ -120,7 +130,7 @@ Nova habilidade do College of Glamour, fortalecendo presença, comando e control
 
 No nível 7, a Barda recebe **Countercharm**.
 
-No nível 8, nova melhoria de atributo/feat. Prioridade: aproximar Carisma de 20.
+No nível 8, nova melhoria de atributo/feat. Prioridade: **+2 Carisma**, levando CAR 18 para 20, salvo mudança relevante na campanha.
 
 ---
 

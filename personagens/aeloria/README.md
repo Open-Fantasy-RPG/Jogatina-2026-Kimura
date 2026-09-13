@@ -4,7 +4,7 @@
 
 ## Conceito
 
-Aeloria é uma **Goliate de ancestralidade dos Gigantes das Nuvens**, **Barda nível 3 — College of Glamour**, já na meia-idade. Sua força não está em brutalidade, mas em presença. Ela ocupa o ambiente naturalmente e, quando toca, as pessoas percebem o mundo ao redor de outra forma: o ar parece mais leve, tecidos se movem, conversas diminuem e a sala parece respirar no ritmo da música.
+Aeloria é uma **Goliate de ancestralidade dos Gigantes das Nuvens**, **Barda nível 4 — College of Glamour**, já na meia-idade. Sua força não está em brutalidade, mas em presença. Ela ocupa o ambiente naturalmente e, quando toca, as pessoas percebem o mundo ao redor de outra forma: o ar parece mais leve, tecidos se movem, conversas diminuem e a sala parece respirar no ritmo da música.
 
 Ela viaja há décadas. Busca segurança, dinheiro e poder, mas sua ambição central é **fama** — não como vaidade vazia, e sim como resistência ao esquecimento. Aeloria quer deixar algo que sobreviva ao tempo.
 
@@ -16,7 +16,7 @@ Ela viaja há décadas. Busca segurança, dinheiro e poder, mas sua ambição ce
 | Espécie | Goliate |
 | Ancestralidade | Gigante das Nuvens |
 | Classe | Barda |
-| Nível atual | **3** |
+| Nível atual | **4** |
 | Subclasse | **College of Glamour** |
 | Antecedente | Artista / Entertainer |
 | Instrumento assinatura | Harpa de mão / lira de viagem |
@@ -24,21 +24,22 @@ Ela viaja há décadas. Busca segurança, dinheiro e poder, mas sua ambição ce
 
 ## Estado mecânico atual
 
-- **PV máximo:** 15.
-- **Dados de Vida:** 3d8.
+- **PV máximo:** pendente — rolar **1d8 + 1** no início da próxima sessão e somar a 15.
+- **Dados de Vida:** 4d8.
 - **Bônus de Proficiência:** +2.
-- **Expertise:** Performance +7 e Acrobacia +6.
-- **Persuasão:** +5.
-- **Enganação:** +5.
+- **Expertise:** Performance +8 e Acrobacia +6.
+- **Persuasão:** +6.
+- **Enganação:** +6.
 - **Furtividade:** +4.
 - **Jack of All Trades:** +1 em testes de habilidade sem proficiência.
-- **Truques:** Prestidigitation e Vicious Mockery.
-- **Magias preparadas da Barda:** Healing Word, Heroism, Dissonant Whispers, Faerie Fire, **Invisibility** e **Suggestion**.
+- **Truques:** Prestidigitation, Vicious Mockery e **Minor Illusion**.
+- **Magias preparadas da Barda:** Healing Word, Heroism, Dissonant Whispers, Faerie Fire, **Disguise Self**, Invisibility e Suggestion.
 - **College of Glamour:** Mantle of Inspiration e Beguiling Magic.
 - **Sempre preparadas pela subclasse:** Charm Person e Mirror Image.
-- **Espaços de magia:** 4 de 1º círculo e 2 de 2º círculo.
+- **Espaços de magia:** 4 de 1º círculo e 3 de 2º círculo.
+- **Feat:** Actor; CAR 18, CD 14 e ataque mágico +6.
 
-A ficha de **nível 3** é a ficha canônica. As fichas de níveis 1 e 2 permanecem como histórico mecânico.
+A ficha de **nível 4** é a ficha canônica. PV ainda não foram definidos. Fichas de níveis 1 a 3 permanecem como histórico mecânico.
 
 ## Última experiência de campanha
 
@@ -48,11 +49,13 @@ Essa experiência orientou a evolução para College of Glamour e as escolhas de
 
 ## Documentos
 
-- [Ficha mecânica atual — nível 3](ficha-nivel-3.md)
+- [Ficha mecânica atual — nível 4](ficha-nivel-4.md)
+- [Ficha visual detalhada — nível 4](ficha-nivel-4-magias-completas-v2.png)
+- [Ficha histórica — nível 3](ficha-nivel-3.md)
 - [Ficha histórica — nível 2](ficha-nivel-2.md)
 - [Ficha histórica — nível 1](ficha-nivel-1.md)
 - [História](historia.md)
-- [Histórico da campanha](Jogatina-2026-Kimura/historico-campanha/README.md)
+- [Histórico da campanha](historico-campanha/README.md)
 - [Última sessão — Esgotos de Asuras Jewel](sessao-2026-08-08-esgotos-asuras-jewel.md)
 - [Aparência, personalidade e interpretação](interpretacao.md)
 - [Habilidades e magias](habilidades-e-magias.md)

@@ -24,6 +24,14 @@ A ficha não usa os bônus raciais fixos da versão antiga do Goliate. Nas regra
 
 ## Decisões registradas
 
+### Barda nível 4
+
+Aeloria escolheu o feat de 4º nível **Actor**. Ele aumentou CAR de 17 para **18**; por isso, modificador de Carisma passou para +4, CD de magia para **14**, ataque mágico para **+6** e usos de Bardic Inspiration para **4** por Descanso Longo.
+
+No nível 4, Barda possui 3 truques, 7 magias preparadas, 4 espaços de 1º círculo e 3 de 2º círculo. Aeloria adicionou **Minor Illusion** e **Disguise Self** sem substituir as escolhas anteriores.
+
+PV do nível 4 ficam pendentes até início da próxima sessão. Quando rolar, usar **1d8 + modificador de CON (+1)** e somar o resultado aos 15 PV anteriores.
+
 ### Atributos
 
 A personagem recebeu os seguintes valores base para distribuição: **12, 10, 13, 15, 9 e 11**.
@@ -97,7 +105,7 @@ No nível 1:
 - usos iguais ao modificador de Carisma;
 - recuperação em Descanso Longo.
 
-Com CAR 17 (+3), Aeloria possui 3 usos.
+No nível 1, com CAR 17 (+3), Aeloria possuía 3 usos. No nível 4, Actor elevou CAR para 18 (+4), portanto ela possui **4 usos**.
 
 ### Goliate — Gigante das Nuvens
 

@@ -1,6 +1,6 @@
-# Aeloria — Habilidades e Magias — Nível 3
+# Aeloria — Habilidades e Magias — Nível 4
 
-Este documento detalha as habilidades da personagem. Para consulta rápida durante a mesa, use [ficha-nivel-3.md](ficha-nivel-3.md).
+Este documento detalha as habilidades da personagem. Para consulta rápida durante a mesa, use [ficha-nivel-4.md](ficha-nivel-4.md).
 
 ## Espécie — Goliate 2024
 
@@ -8,7 +8,7 @@ Este documento detalha as habilidades da personagem. Para consulta rápida duran
 
 - **Ação Bônus**;
 - teleporte de até **30 pés** para espaço desocupado visível;
-- **2 usos por Descanso Longo** no nível 3;
+- **2 usos por Descanso Longo** no nível 4;
 - não é magia preparada e não consome slot.
 
 ### Powerful Build
@@ -21,21 +21,21 @@ Disponível apenas no nível de personagem 5.
 
 ---
 
-# Barda nível 3
+# Barda nível 4
 
 ## Bardic Inspiration — d6
 
 - **Ação Bônus**;
 - alcance 60 pés;
-- **3 usos por Descanso Longo**;
+- **4 usos por Descanso Longo**;
 - concede **1d6 de Inspiração Bárdica** conforme a regra da classe.
 
 ## Expertise
 
-- **Performance +7**;
+- **Performance +8**;
 - **Acrobacia +6**.
 
-Outras perícias principais: Persuasão +5, Enganação +5 e Furtividade +4.
+Outras perícias principais: Persuasão +6, Enganação +6 e Furtividade +4.
 
 ## Jack of All Trades
 
@@ -47,13 +47,13 @@ Adiciona **+1** aos testes de habilidade em que Aeloria não esteja aplicando Pr
 
 ## Mantle of Inspiration
 
-Aeloria gasta **1 uso de Bardic Inspiration como Ação Bônus** para conceder proteção temporária e permitir reposicionamento de aliados conforme a habilidade da subclasse.
+Aeloria gasta **1 uso de Bardic Inspiration como Ação Bônus**. Aliados escolhidos recebem **2d6 PV temporários** e podem usar Reação para mover até seu deslocamento sem provocar ataques de oportunidade.
 
 É a principal ferramenta de suporte de campo do Glamour.
 
 ## Beguiling Magic
 
-Mantém **Charm Person** e **Mirror Image** sempre preparadas, sem consumir as 6 preparações normais da Barda. As magias ainda gastam slots normalmente quando lançadas.
+Mantém **Charm Person** e **Mirror Image** sempre preparadas, sem consumir as 7 preparações normais da Barda. As magias ainda gastam slots normalmente quando lançadas.
 
 Beguiling Magic também interage com magias de Encantamento e Ilusão conforme a habilidade da subclasse.
 
@@ -61,13 +61,13 @@ Beguiling Magic também interage com magias de Encantamento e Ilusão conforme a
 
 # Spellcasting
 
-- **Carisma +3** como atributo de conjuração;
-- **CD 13** para resistir às magias;
-- **+5** em ataques mágicos;
-- **2 truques**;
-- **6 magias preparadas pela Barda**;
+- **Carisma +4** como atributo de conjuração;
+- **CD 14** para resistir às magias;
+- **+6** em ataques mágicos;
+- **3 truques**;
+- **7 magias preparadas pela Barda**;
 - **4 slots de 1º círculo**;
-- **2 slots de 2º círculo**.
+- **3 slots de 2º círculo**.
 
 ## Truques
 
@@ -79,9 +79,15 @@ Utilidade, pequenos efeitos sensoriais e suporte narrativo para apresentações.
 
 - Ação;
 - 60 pés;
-- SAB contra **CD 13**;
+- SAB contra **CD 14**;
 - falha: **1d6 psíquico** e penalidade no próximo ataque conforme a magia;
 - não consome slot.
+
+### Minor Illusion
+
+- Ação; 30 pés; até 1 minuto; sem Concentração;
+- cria som ou imagem imóvel de objeto de até 5 pés;
+- uma criatura pode usar ação Estudar e vencer Investigação (INT) contra **CD 14** para identificar a ilusão; interação física também a revela.
 
 ---
 
@@ -93,7 +99,7 @@ Utilidade, pequenos efeitos sensoriais e suporte narrativo para apresentações.
 
 - **Ação Bônus**;
 - 60 pés;
-- cura **2d4 + 3 PV** com slot de 1º círculo;
+- cura **2d4 + 4 PV** com slot de 1º círculo;
 - não exige Concentração.
 
 Uso principal: cura emergencial à distância.
@@ -105,13 +111,13 @@ Uso principal: cura emergencial à distância.
 - até 1 minuto;
 - **Concentração**;
 - imunidade a Amedrontado;
-- **3 PV temporários** no início de cada turno do alvo enquanto durar.
+- **4 PV temporários** no início de cada turno do alvo enquanto durar.
 
 ### Dissonant Whispers
 
 - Ação;
 - 60 pés;
-- SAB contra **CD 13**;
+- SAB contra **CD 14**;
 - falha: **3d6 psíquico** e afastamento usando Reação, quando disponível;
 - sucesso: metade do dano e sem afastamento;
 - não exige Concentração.
@@ -120,11 +126,18 @@ Uso principal: cura emergencial à distância.
 
 - Ação;
 - alcance 60 pés, cubo de 20 pés;
-- DES contra **CD 13**;
+- DES contra **CD 14**;
 - até 1 minuto;
 - **Concentração**;
 - ataques contra criaturas afetadas têm Vantagem quando elas podem ser vistas;
 - criaturas afetadas não se beneficiam de Invisibilidade.
+
+### Disguise Self
+
+- Ação; pessoal; 1 hora; sem Concentração;
+- altera aparência e itens visíveis, mas não disposição de membros;
+- inspeção física revela a ilusão; uma criatura também pode usar ação Estudar e vencer Investigação (INT) contra **CD 14**;
+- combina com Actor para identidade falsa.
 
 ## 2º círculo
 
@@ -145,7 +158,7 @@ Uso principal: infiltração, reconhecimento e fuga.
 
 - Ação;
 - 30 pés;
-- SAB contra **CD 13**;
+- SAB contra **CD 14**;
 - até **8 horas**;
 - **Concentração**;
 - alvo precisa ouvir e compreender Aeloria;
@@ -163,7 +176,7 @@ Uso principal: influência, controle social, evitar combate e redirecionar decis
 
 - Ação;
 - 30 pés;
-- SAB contra **CD 13**;
+- SAB contra **CD 14**;
 - 1 hora;
 - não exige Concentração;
 - afeta Humanoide;
@@ -206,6 +219,14 @@ Ao concluir um Descanso Curto ou Longo, o talento Musician pode conceder Heroic 
 
 ---
 
+# Feat — Actor
+
+- CAR aumentou de 17 para **18**;
+- enquanto disfarçada como pessoa real ou fictícia, Aeloria tem Vantagem em Enganação ou Performance para convencer alguém de que é essa pessoa;
+- pode imitar sons e fala; ouvinte identifica falsificação com Intuição contra **CD 14**.
+
+---
+
 # Prioridades práticas
 
 1. **Aliado caiu:** Healing Word.
@@ -217,4 +238,5 @@ Ao concluir um Descanso Curto ou Longo, o talento Musician pode conceder Heroic 
 7. **Infiltração/fuga:** Invisibility.
 8. **Influenciar uma decisão:** Suggestion.
 9. **Sem gastar slot:** Vicious Mockery.
-10. **Cenas sociais:** Performance +7, Persuasão +5, Enganação +5 e Charm Person quando apropriado.
+10. **Infiltração social:** Disguise Self + Actor.
+11. **Cenas sociais:** Performance +8, Persuasão +6, Enganação +6 e Charm Person quando apropriado.

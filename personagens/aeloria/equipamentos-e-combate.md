@@ -1,4 +1,4 @@
-# Aeloria — Equipamentos e Combate — Nível 2
+# Aeloria — Equipamentos e Combate — Nível 4
 
 ## Equipamento
 
@@ -37,35 +37,36 @@ Com DES 14 e proficiência:
 ## Defesa
 
 - **CA 13** com armadura de couro.
-- **PV máximo 11**.
-- Dados de Vida: **2d8**.
+- **PV máximo pendente:** 15 + **1d8 + 1**, a rolar no início da próxima sessão.
+- Dados de Vida: **4d8**.
 
 Aeloria continua não sendo personagem de linha de frente.
 
-## Recursos de combate — nível 2
+## Recursos de combate — nível 4
 
 | Recurso | Quantidade |
 |---|---:|
-| Espaços de magia nível 1 | **3 por Descanso Longo** |
-| Bardic Inspiration d6 | **3 por Descanso Longo** |
+| Espaços de magia nível 1 | **4 por Descanso Longo** |
+| Espaços de magia nível 2 | **3 por Descanso Longo** |
+| Bardic Inspiration d6 | **4 por Descanso Longo** |
 | Cloud's Jaunt | **2 por Descanso Longo** |
-| Expertise | **Performance +7; Acrobacia +6** |
-| Enganação | **+5 com proficiência normal** |
+| Expertise | **Performance +8; Acrobacia +6** |
+| Enganação | **+6 com proficiência normal** |
 | Jack of All Trades | **+1 em testes de habilidade sem proficiência** |
 
 ## Magias de combate
 
 ### Faerie Fire
 
-Nova ferramenta de suporte ofensivo no nível 2. Use cedo quando conseguir afetar vários inimigos. Alvos que falharem em DES contra **CD 13** ficam marcados; ataques contra eles têm Vantagem enquanto Aeloria mantiver Concentração e o atacante puder vê-los.
+Use cedo quando conseguir afetar vários inimigos. Alvos que falharem em DES contra **CD 14** ficam marcados; ataques contra eles têm Vantagem enquanto Aeloria mantiver Concentração e o atacante puder vê-los.
 
 ### Healing Word
 
-Cura emergencial a distância: **2d4+3 PV**, Ação Bônus, 60 pés.
+Cura emergencial a distância: **2d4+4 PV**, Ação Bônus, 60 pés.
 
 ### Cure Wounds
 
-Cura maior de proximidade: **2d8+3 PV**, Ação, toque.
+Não preparada desde o nível 3.
 
 ### Heroism
 
@@ -73,11 +74,11 @@ Suporte defensivo com Concentração. Não pode permanecer ativo ao mesmo tempo 
 
 ### Dissonant Whispers
 
-Principal dano com slot: SAB **CD 13**, **3d6 psíquico** na falha + afastamento se o alvo puder usar Reação; metade do dano no sucesso e sem afastamento.
+Principal dano com slot: SAB **CD 14**, **3d6 psíquico** na falha + afastamento se o alvo puder usar Reação; metade do dano no sucesso e sem afastamento.
 
 ### Vicious Mockery
 
-Ataque sem gastar slot: SAB **CD 13**, **1d6 psíquico** na falha + Desvantagem no próximo ataque do alvo antes do fim do próximo turno dele.
+Ataque sem gastar slot: SAB **CD 14**, **1d6 psíquico** na falha + Desvantagem no próximo ataque do alvo antes do fim do próximo turno dele.
 
 ## Economia de Ações Bônus
 
@@ -91,10 +92,12 @@ Escolha um conforme a necessidade do turno.
 
 ## Concentração
 
-Aeloria possui duas opções preparadas que exigem Concentração:
+Aeloria possui quatro opções preparadas que exigem Concentração:
 
 - **Faerie Fire**;
 - **Heroism**.
+- **Invisibility**.
+- **Suggestion**.
 
 Ela só pode manter uma magia de Concentração por vez.
 
@@ -123,13 +126,13 @@ Ela só pode manter uma magia de Concentração por vez.
 
 ## Performance fora de combate
 
-Com **Performance +7**, Aeloria é especialmente forte em apresentações musicais, recitais, atuação, histórias dramáticas, disputas artísticas e tentativas de conquistar ou manter a atenção de uma plateia. Esse é também o principal teste para performances usadas para construir sua reputação no mundo, quando o mestre considerar apropriado.
+Com **Performance +8**, Aeloria é especialmente forte em apresentações musicais, recitais, atuação, histórias dramáticas, disputas artísticas e tentativas de conquistar ou manter a atenção de uma plateia. Esse é também o principal teste para performances usadas para construir sua reputação no mundo, quando o mestre considerar apropriado.
 
-Performance não substitui **Persuasão +5** quando ela quer convencer alguém nem **Enganação +5** quando quer sustentar uma mentira.
+Performance não substitui **Persuasão +6** quando ela quer convencer alguém nem **Enganação +6** quando quer sustentar uma mentira. Com Actor, Performance ou Enganação têm Vantagem para sustentar identidade imitada enquanto disfarçada.
 
 ## Jack of All Trades em jogo
 
-No nível 2, testes de habilidade sem proficiência recebem **+1** além do modificador do atributo.
+No nível 4, testes de habilidade sem proficiência recebem **+1** além do modificador do atributo.
 
 | Exemplo | Total atual |
 |---|---:|
@@ -142,4 +145,4 @@ Jack of All Trades não se soma às perícias em que Aeloria já aplica profici�
 
 ## Regra de ouro
 
-No nível 2, Aeloria ficou mais versátil. **Faerie Fire** melhora o dano do grupo, Performance reforça sua identidade artística, Acrobacia sustenta o controle corporal e Jack of All Trades faz com que mesmo testes fora de sua especialidade tenham alguma ajuda.
+No nível 4, Aeloria combina suporte de campo com infiltração. **Faerie Fire** melhora dano do grupo; **Disguise Self + Actor** abre identidades falsas; **Minor Illusion** cria distração; Cloud's Jaunt preserva fuga e reposicionamento.
