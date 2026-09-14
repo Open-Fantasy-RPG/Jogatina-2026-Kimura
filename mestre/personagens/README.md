@@ -13,4 +13,4 @@ Kaelen e Digo são a mesma personagem; Galen e Tata também. Ken, Kelen, Kerem e
 Jânia é uma aliada que acompanha o grupo, não uma quarta personagem de jogador.
 
 - [Histórico das sessões](../historico-campanha/README.md)
-- [Campanha — consulta do mestre, com spoilers](campanha.md)
+- [Campanha — consulta do mestre, com spoilers](../campanha.md)

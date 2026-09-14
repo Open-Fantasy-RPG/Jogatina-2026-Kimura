@@ -1,6 +1,6 @@
 # Histórico de Campanha — Prisão, Conflito no Pátio e Julgamento
 
-> Nomes normalizados conforme a [referência unificada](referencia-unificada-asura.md). As pendências abaixo correspondem ao encerramento desta sessão; consulte o [estado atual](campanha.md) para a continuidade.
+> Nomes normalizados conforme a [referência unificada](referencia-unificada-asura.md). As pendências abaixo correspondem ao encerramento desta sessão; consulte o [estado atual](../campanha.md) para a continuidade.
 
 **Data de registro:** 2026-08-20
 **Continuação direta de:** [Cidade Alta, Manômetro Quebrado e Prisão](sessao-2026-08-08-cidade-alta-e-prisao.md)

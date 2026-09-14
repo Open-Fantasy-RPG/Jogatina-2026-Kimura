@@ -1,6 +1,6 @@
 # Aeloria — Histórico de Campanha
 
-> Nomes normalizados conforme a [referência unificada](referencia-unificada-asura.md). As pendências abaixo correspondem ao encerramento desta sessão; consulte o [estado atual](campanha.md) para a continuidade.
+> Nomes normalizados conforme a [referência unificada](referencia-unificada-asura.md). As pendências abaixo correspondem ao encerramento desta sessão; consulte o [estado atual](../campanha.md) para a continuidade.
 
 ## Sessão — Esgotos de Asura's Jewel
 

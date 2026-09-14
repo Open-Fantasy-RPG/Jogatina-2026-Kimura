@@ -1,6 +1,6 @@
 # Histórico de Campanha — Fuga de Asura e Chegada a Eldervan
 
-> Nomes normalizados conforme a [referência unificada](referencia-unificada-asura.md). As pendências abaixo correspondem ao encerramento desta sessão; consulte o [estado atual](campanha.md) para a continuidade.
+> Nomes normalizados conforme a [referência unificada](referencia-unificada-asura.md). As pendências abaixo correspondem ao encerramento desta sessão; consulte o [estado atual](../campanha.md) para a continuidade.
 
 **Data da sessão:** 2026-09-03
 **Continuação direta de:** [Prisão, Conflito no Pátio e Julgamento](sessao-2026-08-20-prisao-conflito-e-julgamento.md)
