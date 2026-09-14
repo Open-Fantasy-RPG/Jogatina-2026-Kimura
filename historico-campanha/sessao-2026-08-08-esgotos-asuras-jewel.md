@@ -1,13 +1,15 @@
 # Aeloria — Histórico de Campanha
 
-## Sessão — Esgotos de Asuras Jewel
+> Nomes normalizados conforme a [referência unificada](referencia-unificada-asura.md). As pendências abaixo correspondem ao encerramento desta sessão; consulte o [estado atual](../mestre/campanha.md) para a continuidade.
+
+## Sessão — Esgotos de Asura's Jewel
 
 **Data de registro:** 2026-08-08  
 **Faixa da personagem:** fim do nível 2, preparando a evolução para o nível 3
 
 ## Resumo da sessão
 
-Aeloria e o grupo exploraram os esgotos de **Asuras Jewel** e passaram a conhecer uma parte da cidade que normalmente permanece escondida: rotas subterrâneas, perigos locais e pessoas usando os esgotos para atividades clandestinas.
+Aeloria e o grupo exploraram os esgotos de **Asura's Jewel** e passaram a conhecer uma parte da cidade que normalmente permanece escondida: rotas subterrâneas, perigos locais e pessoas usando os esgotos para atividades clandestinas.
 
 Durante a exploração, o grupo enfrentou e matou vários **ratos amaldiçoados**. O ambiente subterrâneo também apresentava um risco psicológico próprio, o que tornou importantes duas **máscaras de gato** obtidas pelo grupo. Essas máscaras permitem navegar pelos esgotos sem sofrer o efeito psicológico associado ao local. O grupo ficou com duas dessas máscaras.
 
@@ -15,9 +17,19 @@ A exploração levou o grupo até uma rede de **traficantes de escravos**. Eles 
 
 Os traficantes estavam oferecendo uma **escrava élfica por 2.000 peças de ouro**. O encontro indicou que pessoas com natureza ou capacidades mágicas são especialmente procuradas por essa rede. Também havia sinais de que os traficantes ou seus associados estavam realizando **atividades mágicas sob a cidade**.
 
-Depois de sair dos esgotos, o grupo procurou a guarda e relatou o que havia descoberto. A reação do guarda foi hostil ou irritada com o grupo, criando uma possível tensão futura com as autoridades de Asuras Jewel.
+Depois de sair dos esgotos, o grupo procurou a guarda e relatou o que havia descoberto. A reação do guarda foi hostil ou irritada com o grupo, criando uma possível tensão futura com as autoridades de Asura's Jewel.
 
 ## Pistas e elementos em aberto
+
+### Complemento do relato de mesa preservado no chat do cenário
+
+O grupo encontrou **Hilbert**, humano sequestrado havia aproximadamente seis meses e obrigado a gravar runas. Ele contou o pouco que sabia, mas dois bandidos o mataram. A distribuição das runas apresentava relação com um mapa dos esgotos; os aventureiros comunicaram a descoberta à guarda, abrindo caminho para investigação por cientistas e magos.
+
+Durante a saída, um deslocamento mágico malsucedido levou Aeloria a outro ponto dos esgotos, onde presenciou um leilão de uma pessoa com aptidão mágica. Um aristocrata com roupas caríssimas chamou atenção ao oferecer **10.000 PO**. Aeloria foi descoberta e escapou. A oferta de **2.000 PO** registrada acima não deve ser tomada como preço final desse leilão.
+
+O símbolo descrito inicialmente apenas como sol é o **Sol Escurecido**, associado à rede conhecida nos bastidores como Dawn Break. O momento em que os personagens aprenderam o nome da organização ainda precisa ser confirmado.
+
+O relato também registra que o grupo se afeiçoou a **Sara**, menina com aptidão mágica, interveio quando quase foi levada pelos guardas na entrada da cidade e a encaminhou ao orfanato **Last Hope**. Seu destino posterior pertence aos ganchos da campanha, não a um resgate já realizado.
 
 - símbolo dos traficantes: **um sol**;
 - dois itens relacionados à marca do sol estão com o grupo;
@@ -27,11 +39,11 @@ Depois de sair dos esgotos, o grupo procurou a guarda e relatou o que havia desc
 - existe atividade mágica ocorrendo abaixo da cidade;
 - a relação do grupo com pelo menos um membro da guarda ficou tensa após o relato.
 
-## O que Aeloria aprendeu sobre Asuras Jewel
+## O que Aeloria aprendeu sobre Asura's Jewel
 
 Aeloria agora conhece a cidade não apenas por suas ruas e habitantes, mas por sua estrutura subterrânea. Ela viu que existe uma economia clandestina operando abaixo da superfície e que parte dela envolve escravidão, magia e rotas escondidas pelos esgotos.
 
-Isso dá à personagem conhecimento narrativo importante sobre os caminhos subterrâneos de Asuras Jewel, sobre a marca do sol e sobre a existência dessa rede. A extensão desse conhecimento e qualquer benefício mecânico em testes futuros continuam dependendo da situação e da decisão do mestre.
+Isso dá à personagem conhecimento narrativo importante sobre os caminhos subterrâneos de Asura's Jewel, sobre a marca do sol e sobre a existência dessa rede. A extensão desse conhecimento e qualquer benefício mecânico em testes futuros continuam dependendo da situação e da decisão do mestre.
 
 ## O que funcionou para Aeloria na sessão
 

@@ -10,6 +10,15 @@ Repositório de apoio para a campanha de RPG.
 
 O compêndio local deve conter apenas material redistribuível, referências e conteúdo próprio da campanha. Conteúdo comercial integral de livros não é espelhado neste repositório.
 
+## Campanha
+
+- [Personagens da GAR15 — Aeloria, Kaelen e Galen](personagens/README.md)
+- [Histórico das sessões](historico-campanha/README.md)
+- [Consulta do mestre — estado atual, segredos e próxima sessão](mestre/campanha.md)
+- [Referência unificada e critérios de continuidade](historico-campanha/referencia-unificada-asura.md)
+
+**Estado atual:** chegada a Eldervan após a fuga, com os três aventureiros no nível 4. A audiência com Illyrion é o próximo encontro preparado.
+
 ## Personagens
 
 ### Aeloria
@@ -23,7 +32,7 @@ Goliate de ancestralidade dos Gigantes das Nuvens, **Barda nível 4 — College 
 - [Ficha histórica — nível 2](personagens/aeloria/ficha-nivel-2.md)
 - [Ficha histórica — nível 1](personagens/aeloria/ficha-nivel-1.md)
 - [História](personagens/aeloria/historia.md)
-- [Histórico da campanha](personagens/aeloria/historico-campanha/README.md)
+- [Histórico da campanha](historico-campanha/README.md)
 - [Aparência e interpretação](personagens/aeloria/interpretacao.md)
 - [Habilidades e magias](personagens/aeloria/habilidades-e-magias.md)
 - [Equipamentos e combate](personagens/aeloria/equipamentos-e-combate.md)

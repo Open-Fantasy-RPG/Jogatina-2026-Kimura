@@ -41,11 +41,15 @@ Ela viaja há décadas. Busca segurança, dinheiro e poder, mas sua ambição ce
 
 A ficha de **nível 4** é a ficha canônica. PV ainda não foram definidos. Fichas de níveis 1 a 3 permanecem como histórico mecânico.
 
-## Última experiência de campanha
+## Participação e estado atual
 
-Nos esgotos de **Asuras Jewel**, Aeloria confirmou na prática que Performance, Persuasão e Carisma são ferramentas relevantes. Também contribuiu com dano e assistência em combate, enquanto **Cloud's Jaunt** teve papel decisivo para fuga e reposicionamento.
+Aeloria integra a **GAR15**, ao lado de **Kaelen (Digo)**, Guerreiro Cavaleiro Arcano, e **Galen (Tata)**, Paladino da Vingança. Os dois são irmãos.
 
-Essa experiência orientou a evolução para College of Glamour e as escolhas de Invisibility e Suggestion: presença social, suporte, controle e mobilidade continuam sendo os pilares da personagem.
+Depois dos esgotos, conquistou a atenção de Halden e uma oportunidade de apresentação diante do Rei Egberto. A destruição do Manômetro levou o grupo à prisão; Aeloria contribuiu para a defesa no julgamento e fugiu com os companheiros e Jânia.
+
+Protegeu Jânia com Invisibilidade, conseguiu passagem diante de William com Sugestão e escondeu Kaelen dos guardas. Manteve contato com Halden pela caixa postal **Los Vientos**, em Mistralford. Contra os Blink Dogs, matou dois com Sussurros Dissonantes.
+
+O último registro termina com a **chegada a Eldervan em 03/09/2026 e avanço ao nível 4**. A audiência com Illyrion ainda está por acontecer. Sua busca de fama convive agora com a condição de fugitiva.
 
 ## Documentos
 
@@ -55,8 +59,9 @@ Essa experiência orientou a evolução para College of Glamour e as escolhas de
 - [Ficha histórica — nível 2](ficha-nivel-2.md)
 - [Ficha histórica — nível 1](ficha-nivel-1.md)
 - [História](historia.md)
-- [Histórico da campanha](historico-campanha/README.md)
-- [Última sessão — Esgotos de Asuras Jewel](sessao-2026-08-08-esgotos-asuras-jewel.md)
+- [Histórico da campanha](../../historico-campanha/README.md)
+- [Última sessão — Fuga e Eldervan](../../historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan.md)
+- [Companheiros da GAR15](../README.md)
 - [Aparência, personalidade e interpretação](interpretacao.md)
 - [Habilidades e magias](habilidades-e-magias.md)
 - [Equipamentos e combate](equipamentos-e-combate.md)

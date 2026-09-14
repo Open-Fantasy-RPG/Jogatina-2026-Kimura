@@ -1,6 +1,12 @@
-# Histórico de Campanha — Aeloria
+# Histórico de Campanha — GAR15
 
-Esta pasta registra eventos da campanha vividos por Aeloria em ordem cronológica, separados da história de origem e das fichas mecânicas.
+Esta pasta registra eventos da campanha vividos por Aeloria, Kaelen (Digo) e Galen (Tata) em ordem cronológica, separados da história de origem e das fichas mecânicas.
+
+## Estado atual
+
+A GAR15 chegou a Eldervan com Jânia e alcançou o nível 4. A audiência com Illyrion ainda não aconteceu. Consulte a [campanha do mestre](../mestre/campanha.md) e os [dossiês dos personagens](../personagens/README.md).
+
+As transcrições preservam as falas e variantes originais. Os resumos usam nomes normalizados.
 
 ## Sessões
 

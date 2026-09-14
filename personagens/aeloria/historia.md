@@ -17,3 +17,11 @@ O que importa é que ela continua seguindo em frente com a harpa de mão junto a
 Seu objetivo pode ser resumido numa imagem simples: muitos anos depois de sua passagem, em algum lugar distante, alguém sorrir ao ouvir seu nome e dizer:
 
 > “Eu me lembro dela. Quando tocava, o vento parecia parar para ouvir.”
+
+## Ligação com a campanha
+
+Sua trajetória de viajante a levou a Oak's Crossing, comunidade de fronteira que conciliava influências de Asura e Erlingheim. Sobreviveu à destruição e passou a integrar a GAR15 com Kaelen e Galen. Esse vínculo não altera sua origem familiar nem estabelece que tenha nascido na vila.
+
+Na Joia, sua música abriu portas com Halden, mas a investigação do tráfico e a Fratura do Manômetro a levaram à prisão. Depois da fuga, chegou a Eldervan como artista e aventureira procurada. Sua busca de permanência agora inclui disputar a versão que o mundo contará sobre ela e seus companheiros.
+
+Veja o [estado atual da personagem](README.md) e o [histórico da campanha](../../historico-campanha/README.md).
