@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "d2de72dd71f4ac61",
+    "id": "54b89a1c7b49712d",
     "type": "split",
     "children": [
       {
-        "id": "5df88b3b5059e6ce",
+        "id": "130a35ad76cbeb7e",
         "type": "tabs",
         "children": [
           {
-            "id": "4703f0f574ffaa59",
+            "id": "92fb2557696af965",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "personagens/Kaelen Vane/Background.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Background"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8c252ae709dcb5bf",
+    "id": "d58461c61a2ded85",
     "type": "split",
     "children": [
       {
-        "id": "a20e739e599782b2",
+        "id": "707fd3635b2fba7b",
         "type": "tabs",
         "children": [
           {
-            "id": "b4823be2ff6cae91",
+            "id": "942e395d4c14a62d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +50,7 @@
             }
           },
           {
-            "id": "9ab39d9fcc67bfa9",
+            "id": "562762d36f6a1a53",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +67,7 @@
             }
           },
           {
-            "id": "54ad48710d8fdfc3",
+            "id": "892175eecfe6350c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,19 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "840f4c671a71d04e",
+    "id": "767ddea6acd4c071",
     "type": "split",
     "children": [
       {
-        "id": "91c1b348007f392c",
+        "id": "0f247f9159bc4da4",
         "type": "tabs",
         "children": [
           {
-            "id": "faed890a4b8bce74",
+            "id": "d50a010dcebbb3fc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "personagens/Kaelen Vane/Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,11 +113,12 @@
             }
           },
           {
-            "id": "7927d1775b601018",
+            "id": "ab869c603b7ea2fd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "personagens/Kaelen Vane/Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -121,7 +127,7 @@
             }
           },
           {
-            "id": "9104e75674689bc7",
+            "id": "d09d87e7295da855",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,7 +142,7 @@
             }
           },
           {
-            "id": "98eda4684571e0eb",
+            "id": "e18fd6e9ddb76c45",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -150,11 +156,12 @@
             }
           },
           {
-            "id": "d70f6c8d9fddd4f8",
+            "id": "b3f46cbb996f769f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "personagens/Kaelen Vane/Background.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,53 +188,21 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "4703f0f574ffaa59",
+  "active": "942e395d4c14a62d",
   "lastOpenFiles": [
-    "mestre/aprovacoes/previa-jogadores-01.md",
-    "mestre/aprovacoes",
-    "mestre/README.md",
-    "AGENTS.md",
-    "mestre/mestre.md",
-    "mestre/campanha.md",
-    "mestre/historico-campanha/imgs/prisao.jpeg",
-    "mestre/historico-campanha/imgs/mapa.jpeg",
-    "mestre/historico-campanha/imgs/eldervan.jpeg",
-    "mestre/historico-campanha/imgs/eldervan-2.jpeg",
-    "mestre/historico-campanha/imgs/asura-jewel.jpeg",
-    "mestre/historico-campanha/Untitled.md",
-    "mestre/historico-campanha/transcricao-2026-09-03-fuga-de-azura-e-batalha-dos-blink-dogs.md",
-    "mestre/historico-campanha/transcricao-2026-08-20-prisao-conflito-e-julgamento.md",
-    "mestre/historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan.md",
-    "mestre/historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento.md",
-    "mestre/historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel.md",
-    "mestre/historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao.md",
-    "mestre/historico-campanha/referencia-unificada-asura.md",
-    "mestre/historico-campanha/README.md",
-    "mestre/historico-campanha/imgs",
-    "mestre/historico-campanha/carta-a-halden-2026-08-08.md",
-    "mestre/historico-campanha",
-    "mestre/personagens/kaelen/README.md",
-    "mestre/personagens/galen/README.md",
-    "mestre/personagens/aeloria/regras-e-fontes.md",
-    "mestre/personagens/aeloria/README.md",
-    "mestre/personagens/aeloria/interpretacao.md",
-    "mestre/personagens/aeloria/habilidades-e-magias.md",
-    "mestre/personagens/aeloria/historia.md",
-    "mestre/personagens/aeloria/ficha-nivel-4.md",
-    "mestre/personagens/aeloria/ficha-nivel-4-magias-completas-v2.png",
-    "mestre/personagens/aeloria/ficha-nivel-3.md",
-    "mestre/personagens/aeloria/ficha-nivel-3-magias-completas-v2.png",
-    "mestre/personagens/aeloria/ficha-nivel-2.md",
-    "mestre/personagens/aeloria/ficha-nivel-1.md",
-    "mestre/personagens/kaelen",
-    "mestre/personagens/galen",
-    "mestre/personagens/aeloria",
-    "mestre/personagens",
-    "Jogatina",
-    "mestre",
-    "Nova pasta",
-    "historico-campanha/imgs/prisao.jpeg",
-    "historico-campanha/imgs/mapa.jpeg",
-    "historico-campanha/imgs/eldervan-2.jpeg"
+    "personagens/Kaelen Vane/historico/Kaelen_Vane_Ficha_do_Fluxo.docx",
+    "personagens/Kaelen Vane/historico/kaelen-vane-ficha-web.html",
+    "personagens/Kaelen Vane/historico",
+    "personagens/Kaelen Vane/fontes/jedi-em-dnd-5e.md",
+    "personagens/Kaelen Vane/fontes/criar-ficha-de-kaelen-vane.md",
+    "personagens/Kaelen Vane/fontes",
+    "personagens/Kaelen Vane/README.md",
+    "personagens/Kaelen Vane/progressao.md",
+    "personagens/Kaelen Vane/historia-e-fluxo.md",
+    "personagens/Kaelen Vane/fontes-e-pendencias.md",
+    "personagens/Kaelen Vane/ficha-nivel-3.md",
+    "personagens/Kaelen Vane/espada-e-magia.md",
+    "personagens/Kaelen Vane/Background.md",
+    "personagens/Kaelen Vane"
   ]
 }
