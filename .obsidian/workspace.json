@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1d98a48af1841796",
+        "id": "5df88b3b5059e6ce",
         "type": "tabs",
         "children": [
           {
-            "id": "9fd959217dab2811",
+            "id": "4703f0f574ffaa59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mestre/mestre.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "mestre"
+              "title": "Nova aba"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mestre/mestre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mestre/mestre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mestre/mestre.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,13 +181,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9fd959217dab2811",
+  "active": "4703f0f574ffaa59",
   "lastOpenFiles": [
+    "mestre/campanha.md",
+    "Nova pasta",
+    "mestre/mestre.md",
     "personagens/kaelen/README.md",
     "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan.md",
     "personagens/galen/README.md",
-    "mestre/mestre.md",
-    "mestre/campanha.md",
     "personagens/galen",
     "personagens/kaelen",
     "personagens/README.md",

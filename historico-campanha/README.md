@@ -4,7 +4,7 @@ Esta pasta registra eventos da campanha vividos por Aeloria, Kaelen (Digo) e Gal
 
 ## Estado atual
 
-A GAR15 chegou a Eldervan com Jânia e alcançou o nível 4. A audiência com Illyrion ainda não aconteceu. Consulte a [campanha do mestre](../mestre/campanha.md) e os [dossiês dos personagens](../personagens/README.md).
+A GAR15 chegou a Eldervan com Jânia e alcançou o nível 4. A audiência com Illyrion ainda não aconteceu. Consulte a [campanha do mestre](campanha.md) e os [dossiês dos personagens](../personagens/README.md).
 
 As transcrições preservam as falas e variantes originais. Os resumos usam nomes normalizados.
 
