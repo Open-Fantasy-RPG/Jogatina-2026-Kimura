@@ -1,33 +1,9 @@
 # Kimura — Jogatina
 
-Repositório de apoio para a campanha de RPG.
+## Organização
 
-## Compendium
+- **Mestre - Jogatina** (pasta externa ao projeto): acervo reservado, preparação e propostas de divulgação.
+- **Jogatina/**: somente material expressamente aprovado para os jogadores.
+- **compendium/**: referências de regras já existentes.
 
-- [Compendium D&D 5e](compendium/README.md)
-- [Referência ao 5e.tools](compendium/5etools/README.md)
-- [SRD / Creative Commons](compendium/srd/README.md)
-
-O compêndio local deve conter apenas material redistribuível, referências e conteúdo próprio da campanha. Conteúdo comercial integral de livros não é espelhado neste repositório.
-
-## Personagens
-
-### Aeloria
-
-Goliate de ancestralidade dos Gigantes das Nuvens, **Barda nível 4 — College of Glamour**, criada para D&D 2024. PV do novo nível pendentes para rolagem no início da próxima sessão.
-
-- [Dossiê da personagem](personagens/aeloria/README.md)
-- [Ficha atual — nível 4](personagens/aeloria/ficha-nivel-4.md)
-- [Ficha visual detalhada — nível 4](personagens/aeloria/ficha-nivel-4-magias-completas-v2.png)
-- [Ficha histórica — nível 3](personagens/aeloria/ficha-nivel-3.md)
-- [Ficha histórica — nível 2](personagens/aeloria/ficha-nivel-2.md)
-- [Ficha histórica — nível 1](personagens/aeloria/ficha-nivel-1.md)
-- [História](personagens/aeloria/historia.md)
-- [Histórico da campanha](personagens/aeloria/historico-campanha/README.md)
-- [Aparência e interpretação](personagens/aeloria/interpretacao.md)
-- [Habilidades e magias](personagens/aeloria/habilidades-e-magias.md)
-- [Equipamentos e combate](personagens/aeloria/equipamentos-e-combate.md)
-- [Plano de evolução](personagens/aeloria/evolucao.md)
-- [Regras e fontes](personagens/aeloria/regras-e-fontes.md)
-
-> Base mecânica: D&D 2024. A narrativa e o visual são próprios da personagem.
+A primeira publicação aprovada está disponível em `Jogatina/`. Toda nova divulgação deve apresentar previamente o texto e os anexos ao mestre.
