@@ -1,27 +1,127 @@
 # Aeloria — História
 
-Aeloria nasceu da rara união entre uma mulher humana e um descendente dos Gigantes das Nuvens. Cresceu em regiões altas, cercada por vento constante, horizontes largos e histórias trazidas por viajantes. Desde cedo entendeu que não seria definida apenas pelo tamanho ou pela força da linhagem. O que mais a atraía eram vozes, ritmos e relatos de lugares que ainda não conhecia.
+## Antes da campanha
 
-Ainda jovem, escolheu partir. Não foi uma fuga e não houve uma ruptura dramática. A estrada simplesmente se tornou sua vida. Primeiro vieram vilas próximas; depois cidades, portos, feiras, cortes menores e estradas que já não lembrava pelo nome. Os anos viraram décadas. Aeloria envelheceu viajando, tocando e aprendendo a ler ambientes antes mesmo de abrir a boca.
+Aeloria nasceu muito ao norte, nas terras elevadas próximas ao **Véu das Núvens**, onde comunidades de goliates vivem entre montanhas, vales altos e caminhos que por vezes desaparecem sob as nuvens.
 
-Com o tempo, perdeu completamente o rastro dos pais. Não sabe onde estão, se ainda vivem ou se também seguiram caminhos próprios. Não houve um último adeus que pudesse guardar como memória perfeita; houve distância, silêncio e tempo. Aeloria aprendeu a conviver com isso sem transformar a perda em tragédia permanente. Ela apenas entende, talvez melhor do que gostaria, que pessoas podem desaparecer da vida umas das outras sem que exista um grande momento de encerramento.
+Sua mãe era humana, originária de uma pequena vila ao norte de **Hindenberg**. Nunca viveu nas grandes cidades e passou boa parte da vida em **Erlingheim**, onde a magia fazia parte natural do cotidiano. Foi através dela que Aeloria ouviu as primeiras histórias sobre povos distantes, florestas encantadas, cidades extraordinárias e estradas que pareciam não terminar.
 
-Hoje, já na meia-idade, Aeloria não viaja com a ansiedade de alguém começando. Ela conhece tavernas, estradas, gente perigosa, gente generosa e promessas vazias. Sua calma vem da experiência. O tempo não é um inimigo para ela; é algo que observa e respeita.
+Seu pai pertencia à linhagem dos **Gigantes das Nuvens**. Para Aeloria, porém, ele sempre foi mais ausência do que presença. Seu verdadeiro lar parecia estar acima das próprias montanhas: um castelo que viajava sobre as nuvens e raramente permanecia no mesmo lugar. Ele desaparecia por longos períodos para cuidar de assuntos ligados à magia, conclaves entre gigantes e à tentativa de preservar uma ordem central entre eles.
 
-Mesmo assim, ainda existe uma inquietação. Aeloria deseja segurança, dinheiro e alguma forma de poder, mas o que realmente a move é fama. Não apenas aplauso imediato. Ela quer permanecer na memória das pessoas. Quer que suas músicas sobrevivam à sua passagem e que seu nome continue sendo contado quando ela já estiver em outra cidade, outra estrada ou outra época.
+Às vezes retornava. Depois partia novamente.
 
-Talvez esse desejo tenha começado quando percebeu que já não sabia onde procurar os próprios pais. Talvez não. Aeloria não costuma analisar demais essa parte de si. Prefere tocar.
+Assim, apesar de possuir pai e mãe, Aeloria passou grande parte da infância praticamente sozinha ao norte do Véu das Núvens. Aprendeu cedo a apreciar o silêncio das montanhas, reconhecer mudanças no vento e observar o modo como as nuvens podiam esconder um vale inteiro e, horas depois, revelar um horizonte quase infinito.
 
-O que importa é que ela continua seguindo em frente com a harpa de mão junto ao corpo e décadas de histórias acumuladas. Ainda procura a grande canção — aquela que não termina quando o último acorde desaparece.
+Talvez tenha sido nessa solidão que nasceu sua relação com a música. No início, ela tocava porque havia poucas pessoas com quem conversar. Depois percebeu que uma melodia também podia preencher o vazio.
 
-Seu objetivo pode ser resumido numa imagem simples: muitos anos depois de sua passagem, em algum lugar distante, alguém sorrir ao ouvir seu nome e dizer:
+Com o passar dos anos, a diferença entre o tempo de sua vida e o tempo humano tornou-se inevitável. Aeloria perdeu o contato com a mãe e, pela passagem dos anos, acredita que ela provavelmente já tenha seguido para o pós-vida. Nunca confirmou isso. Aprendeu a conviver com a dúvida.
 
-> “Eu me lembro dela. Quando tocava, o vento parecia parar para ouvir.”
+Seu pai era diferente. Em algum lugar acima das nuvens, talvez ainda percorra o mundo em seu castelo, ocupado com magia, conclaves e assuntos dos gigantes. Aeloria também nunca foi atrás dele.
 
-## Ligação com a campanha
+## A partida
 
-Sua trajetória de viajante a levou a Oak's Crossing, comunidade de fronteira que conciliava influências de Asura e Erlingheim. Sobreviveu à destruição e passou a integrar a GAR15 com Kaelen e Galen. Esse vínculo não altera sua origem familiar nem estabelece que tenha nascido na vila.
+Aeloria não deixou sua terra depois de uma tragédia. Não houve expulsão, briga familiar ou grande ruptura.
 
-Na Joia, sua música abriu portas com Halden, mas a investigação do tráfico e a Fratura do Manômetro a levaram à prisão. Depois da fuga, chegou a Eldervan como artista e aventureira procurada. Sua busca de permanência agora inclui disputar a versão que o mundo contará sobre ela e seus companheiros.
+Em algum momento, simplesmente percebeu que conhecia muito bem o horizonte e quase nada do que existia além dele.
 
-Veja o [estado atual da personagem](README.md) e o [histórico da campanha](../../historico-campanha/README.md).
+As histórias de sua mãe já não bastavam. Ela queria ver o mundo.
+
+Saiu do Véu das Núvens levando consigo poucas coisas, um instrumento e uma curiosidade que havia passado anos crescendo em silêncio.
+
+## Erlingheim — o mundo moldado pela magia
+
+Sua primeira grande jornada foi através de **Erlingheim**.
+
+Até então, Aeloria conhecia magia principalmente através da família e das histórias da mãe. Em Erlingheim encontrou algo diferente: sociedades inteiras cuja cultura, arquitetura e cotidiano eram profundamente moldados por ela.
+
+Passou pelo **Bosque das Miríades**, onde vivem as fadas. Ali descobriu um lugar em que beleza e inocência nem sempre significavam a mesma coisa, e onde músicas, histórias e aparências podiam carregar significados muito além do evidente.
+
+Em **Lunária**, cidade dos gnomos, encontrou um povo inquieto e curioso, cercado por invenções, objetos encantados e pequenas maravilhas. Aeloria se interessava menos por grandes monumentos e mais pela capacidade dos gnomos de transformar detalhes aparentemente simples em algo surpreendente.
+
+Depois veio **Umbravéus**, cidade dos elfos negros. Foi um dos lugares onde aprendeu melhor o valor de observar antes de falar. Entendeu que silêncios, gestos e aquilo que alguém deliberadamente escolhe não dizer podem revelar tanto quanto palavras.
+
+Nos **Campos de Âmbar**, entre os halflings, encontrou outra forma de viver. Menos grandiosidade, mais convivência. Música à mesa, histórias repetidas inúmeras vezes, festas, comida e pessoas capazes de transformar acontecimentos pequenos em memórias importantes.
+
+Aeloria começou a compreender que não existia apenas uma maneira de permanecer no mundo.
+
+Alguns deixavam monumentos.
+
+Outros deixavam histórias.
+
+Ela começou a desejar deixar canções.
+
+## Reino de Asura — o encontro com a tecnologia
+
+Depois de anos atravessando as terras mágicas de Erlingheim, Aeloria seguiu para o **Reino de Asura**.
+
+Foi um choque.
+
+Erlingheim havia lhe ensinado a esperar magia em quase tudo. Asura mostrou que o extraordinário também podia ser construído com metal, máquinas, engenharia, ferramentas e conhecimento.
+
+Onde Erlingheim frequentemente explicava o impossível pela magia, as cidades de Asura buscavam medi-lo, reproduzi-lo e transformá-lo em tecnologia.
+
+Sua jornada pelo reino passou por **Greyfen**, **Hindenberg**, **Ravencairn**, **Copper Hollow** e **Brass Harbor**.
+
+Hindenberg tinha um significado particular. Sua mãe havia nascido em uma pequena vila ao norte dali, embora nunca tivesse vivido verdadeiramente na grande cidade. Caminhar por aquela região aproximou Aeloria de uma parte da vida materna que conhecia apenas por histórias.
+
+Depois de deixar **Brass Harbor**, Aeloria seguiu para **Asura's Jewel**.
+
+Ela já havia conhecido cidades importantes naquela altura, mas Asura's Jewel representou outra dimensão de experiência: movimento, tecnologia, comércio, multidões e uma organização urbana muito diferente das cidades mágicas de Erlingheim.
+
+Para Aeloria, a cidade também deixou uma impressão como artista. Em lugares menores, uma boa apresentação podia fazer uma taverna inteira lembrar de seu nome. Em uma cidade daquela escala, ela percebeu quanto ainda existia entre ser conhecida em uma sala e ser conhecida por milhares de pessoas.
+
+Ela não permaneceu ali.
+
+Como tantas vezes antes, voltou à estrada.
+
+## A barda da estrada
+
+Os anos se transformaram em décadas.
+
+A jovem goliate que havia deixado as montanhas para conhecer o mundo tornou-se uma viajante experiente. Tocou em tavernas pequenas e salões ricos. Dormiu em quartos confortáveis e ao lado de estradas. Conheceu pessoas generosas, criminosos, nobres, mercadores, aventureiros e mentirosos de todos os tipos.
+
+Com o tempo, aprendeu uma verdade que passou a incomodá-la: as pessoas esquecem.
+
+Esquecem viajantes. Esquecem histórias. Às vezes esquecem até aqueles que amaram.
+
+Talvez por ter perdido o contato com os próprios pais sem sequer perceber exatamente quando isso aconteceu, Aeloria desenvolveu uma ambição que antes não possuía.
+
+Ela queria ser lembrada.
+
+Dinheiro era importante. Segurança também. Influência abria portas e poder evitava que outros decidissem seu destino.
+
+Mas fama significava algo diferente.
+
+**Fama era permanência.**
+
+Aeloria começou a imaginar que talvez pudesse construir com música aquilo que nunca havia construído com pedra: alguma coisa capaz de permanecer depois que ela partisse.
+
+Sua contradição passou a acompanhá-la: Aeloria vivia como o vento, sempre em movimento, mas desejava criar algo que permanecesse.
+
+## Oak's Crossing
+
+Depois de atravessar as cidades mágicas de Erlingheim e as cidades tecnológicas do Reino de Asura, Aeloria chegou a **Oak's Crossing**.
+
+Era uma comunidade de fronteira, pequena se comparada às cidades que já conhecera, mas situada justamente onde diferentes povos, ideias e caminhos se encontravam.
+
+Para alguém que havia passado a vida atravessando fronteiras, havia algo familiar naquele lugar.
+
+Aeloria não chegou procurando uma missão. Não seguia uma profecia e não imaginava que aquele pequeno ponto no mapa mudaria sua vida.
+
+Foi ali que seu caminho cruzou com o de outros aventureiros.
+
+Até então, Aeloria havia passado boa parte da existência seguindo a própria estrada. Pessoas viajavam ao lado dela durante algum tempo e depois tomavam outros rumos.
+
+Em Oak's Crossing, isso começou a mudar.
+
+Quando os acontecimentos que dariam início à campanha ocorreram, Aeloria acabou seguindo ao lado daqueles aventureiros.
+
+Talvez acreditasse que seria apenas mais uma estrada, mais algumas histórias e mais algumas músicas.
+
+Mas, pela primeira vez em muito tempo, Aeloria não estava simplesmente passando por um lugar.
+
+Ela estava começando a fazer parte de uma história que não pertencia apenas a ela.
+
+---
+
+Os acontecimentos posteriores a Oak's Crossing pertencem ao [histórico da campanha](../../historico-campanha/README.md).
