@@ -4,7 +4,7 @@ O Grupo de Aventureiros Refugiados número 15 reúne três sobreviventes de Oak'
 
 | Personagem | Identidade | Papel no grupo |
 |---|---|---|
-| [Aeloria](aeloria/README.md) | Goliate das Nuvens, Barda do Colégio do Glamour | Relações sociais, suporte, controle e mobilidade |
+| [Aeloria](Jogatina-2026-Kimura/personagens/Aeloria/README.md) | Goliate das Nuvens, Barda do Colégio do Glamour | Relações sociais, suporte, controle e mobilidade |
 | [Kaelen — Digo](kaelen/README.md) | Humano, Guerreiro Cavaleiro Arcano | Combate, espada vinculada e busca do equilíbrio |
 | [Galen — Tata](galen/README.md) | Paladino do Juramento da Vingança | Proteção, combate e limites morais |
 

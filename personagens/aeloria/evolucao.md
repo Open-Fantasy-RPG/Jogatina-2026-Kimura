@@ -36,7 +36,7 @@ A sessão nos esgotos de Asuras Jewel confirmou a utilidade de Performance, Pers
 
 ## Nível 3 — concluído
 
-Ficha canônica: [ficha-nivel-3.md](ficha-nivel-3.md).
+Ficha canônica: [ficha-nivel-3.md](Jogatina-2026-Kimura/personagens/Aeloria/Niveis-anteriores/ficha-nivel-3.md).
 
 ### Estado mecânico
 
