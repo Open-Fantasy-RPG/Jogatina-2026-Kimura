@@ -1,0 +1,26 @@
+# Campos de Âmbar — A ponte que ninguém queria consertar
+**Tom:** conflito cotidiano, cooperação e reconhecimento injusto.  
+**Período:** viagens por Erlingheim, antes da passagem por Asura e de Oak’s Crossing.
+
+## A estrada terminava na água
+**Aeloria** chegou à venda **Saco & Semente** esperando comprar comida e atravessar a ponte antes do anoitecer. Encontrou três carroças paradas e tábuas empilhadas na margem. Uma cheia danificara a passagem. **Rúben Ventomanso**, dono de terras próximas, oferecia transporte no próprio barco. Pessoas atravessavam; carroças e animais maiores esperavam outro arranjo. O preço aumentava conforme a carga. Na margem oposta vivia sua prima **Cora**, que discordava de qualquer reparo pago com recursos de sua propriedade. **Aeloria** poderia pagar pelo transporte individual e continuar a pé. Seus compromissos não justificavam salvar uma ponte desconhecida. Ficou porque a hospedagem improvisada na venda lhe pareceu mais barata e porque acreditou na promessa de que resolveriam tudo no dia seguinte. No dia seguinte, repetiram a promessa.
+
+## Duas maneiras de lucrar com o problema
+**Rúben** dizia não poder interromper as travessias para ajudar no reparo. Enquanto discutiam, recebia por cada viagem. **Aeloria** não precisou descobrir um livro secreto para entender seu interesse: acompanhou os pagamentos durante uma tarde. **Cora** reclamava que a ponte beneficiava o comércio do primo e que ele deveria arcar com a despesa. Numa conversa junto à venda, admitiu que vê-lo perder clientes lhe parecia uma compensação por antigas disputas de terras. Os prejuízos, porém, não se limitavam aos dois. Uma vendedora perdia produtos frescos. Um aprendiz não conseguia levar ferramentas ao patrão. Moradores atravessavam a água para cumprir tarefas que antes faziam caminhando. **Mila**, a carpinteira local, já examinara a estrutura. Precisava de madeira adequada, ajudantes e dias de trabalho. Os primos continuavam discutindo como se a única questão fosse qual nome apareceria no recibo.
+
+## Uma reunião sem discurso de vitória
+**Aeloria** pediu à dona da **Saco & Semente** que cedesse o espaço depois do fechamento. Não anunciou uma grande assembleia. Convidou as pessoas que passavam o dia esperando na margem. Na primeira reunião, houve reclamações suficientes para preencher a noite. **Mila** interrompeu com uma lista do que efetivamente faltava. **Aeloria** começou a anotar quem podia fornecer cada coisa. Um carroceiro tinha corda. Duas famílias ofereceram refeições. Um comerciante adiantaria madeira em troca de transporte futuro. A venda guardaria os pagamentos e compromissos registrados. Uma apresentação de Aeloria ajudou a reunir contribuições no fim de semana, mas não financiou tudo. Parte importante veio de trabalho, material emprestado e acordos entre moradores. Ela pagou a própria parte e ficou além do prazo que pretendia.
+
+## O trabalho da ponte
+**Aeloria** ajudou a carregar tábuas do tamanho que conseguia manejar, passou ferramentas e preparou comida. Quando tentou sugerir uma solução para um encaixe, **Mila** explicou por que não funcionaria. A barda ouviu e voltou a segurar a peça. A reconstrução tinha uma responsável que sabia o que estava fazendo. **Aeloria** não substituiu esse conhecimento por entusiasmo. **Rúben** percebeu que a comunidade estava organizando uma passagem sem depender de suas decisões. Ofereceu o barco para transportar materiais. **Cora** cedeu acesso à margem e parte da madeira, depois de ouvir vizinhos dizerem que registrariam publicamente as contribuições. Ambos quiseram participar quando compreenderam que a recusa também seria lembrada. Foram dias de chuva interrompida, roupa úmida e contas discutidas sobre balcões. Ao fim, Mila autorizou a reabertura depois de conferir o trabalho. A primeira travessia foi de uma carroça carregada, conduzida devagar diante de uma plateia muito interessada. Nada cedeu.
+
+## A placa
+Na manhã da partida, alguém apareceu com uma placa: “**Ponte de Aeloria**”. A barda sentiu prazer antes de sentir incômodo. Seu nome estava gravado na madeira. Havia pessoas sorrindo, esperando que ela gostasse. Agradeceu e disse que o trabalho era de **Mila** e dos moradores. Pediram que tocasse uma última música. Ela tocou. Não insistiu em mudar a placa antes de partir. Essa é a parte da história que conta com menos facilidade. Sabia que uma correção mais firme poderia ter sido feita. Preferiu não estragar a despedida e permitiu que o reconhecimento se acomodasse onde era mais conveniente para ela.
+
+## Pessoas e pendências que Aeloria recorda
+- **Mila:** avaliou, conduziu e conferiu o reparo. Sem seu trabalho, não haveria ponte segura.
+- **Rúben:** lucrava com a travessia interrompida e colaborou quando perder influência passou a custar mais.
+- **Cora:** usava o atraso para atingir o primo, embora outros pagassem parte desse preço.
+- **Os moradores:** forneceram dinheiro, materiais, alimentação e trabalho. O concerto foi uma contribuição entre várias.
+- **Um possível retorno:** encontrar a placa intacta e decidir se corrige a história, mesmo que isso diminua sua própria fama. A manutenção da ponte e a relação entre os primos ficaram nas mãos de quem permaneceu.
+
