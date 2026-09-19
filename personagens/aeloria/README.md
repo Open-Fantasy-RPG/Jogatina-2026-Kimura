@@ -24,7 +24,7 @@ Ela viaja há décadas. Busca segurança, dinheiro e poder, mas sua ambição ce
 
 ## Estado mecânico atual
 
-- **PV máximo:** pendente — rolar **1d8 + 1** no início da próxima sessão e somar a 15.
+- **PV máximo:** **23** — 15 anteriores + rolagem 7 no d8 + CON +1.
 - **Dados de Vida:** 4d8.
 - **Bônus de Proficiência:** +2.
 - **Expertise:** Performance +8 e Acrobacia +6.
@@ -54,6 +54,7 @@ O último registro termina com a **chegada a Eldervan em 03/09/2026 e avanço ao
 ## Documentos
 
 - [Ficha mecânica atual — nível 4](ficha-nivel-4.md)
+- [Ficha visual atual — nível 4](ficha-nivel-4-magias-completas-v3.png)
 - [Ficha histórica — nível 3](ficha-nivel-3.md)
 - [Ficha histórica — nível 2](ficha-nivel-2.md)
 - [Ficha histórica — nível 1](ficha-nivel-1.md)

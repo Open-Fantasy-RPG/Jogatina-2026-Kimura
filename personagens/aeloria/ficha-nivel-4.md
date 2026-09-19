@@ -17,7 +17,7 @@
 
 | Estatística | Valor |
 |---|---:|
-| PV máximos | **Pendente** — 15 + 1d8 + 1 |
+| PV máximos | **23** |
 | Dados de Vida | **4d8** |
 | CA | **13** com armadura de couro; 12 sem armadura |
 | Iniciativa | **+2** |
@@ -26,7 +26,7 @@
 | Ataque Mágico | **+6** |
 | Bardic Inspiration | **1d6 — 4 usos/Descanso Longo** |
 
-**PV:** não rolar agora. No início da próxima sessão, role **1d8 + 1** (CON) e some a 15 para definir o novo máximo.
+**PV no nível 4:** 15 PV anteriores + rolagem **7** no d8 + CON +1 = **23 PV**.
 
 ## Atributos
 

@@ -100,7 +100,7 @@ Actor permite imitação e melhora atuação/enganação enquanto disfarçada. D
 
 ### PV
 
-**Pendente.** No início da próxima sessão, rolar **1d8 + 1** e somar a 15 PV. Não houve rolagem nesta evolução.
+Rolagem no nível 4: **7** no d8 + CON +1 = **+8 PV**. PV máximo atual: **23**.
 
 ---
 

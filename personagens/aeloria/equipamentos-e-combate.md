@@ -37,7 +37,7 @@ Com DES 14 e proficiência:
 ## Defesa
 
 - **CA 13** com armadura de couro.
-- **PV máximo pendente:** 15 + **1d8 + 1**, a rolar no início da próxima sessão.
+- **PV máximo: 23** — 15 anteriores + rolagem 7 no d8 + CON +1.
 - Dados de Vida: **4d8**.
 
 Aeloria continua não sendo personagem de linha de frente.
