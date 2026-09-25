@@ -111,20 +111,20 @@ No mesmo turno, Aeloria normalmente escolhe entre **Cloud's Jaunt, Bardic Inspir
 
 ## Visão geral
 
-| Magia | Círculo | Execução | Concentração | Efeito-chave |
-|---|---:|---|---|---|
-| Prestidigitation | Truque | Ação | Não | Pequenos efeitos sensoriais e utilitários. |
-| Vicious Mockery | Truque | Ação | Não | SAB CD 14; 1d6 psíquico e penalidade no próximo ataque. |
-| **Minor Illusion** | Truque | Ação | Não | Som ou imagem imóvel para distração, encenação e infiltração. |
-| Healing Word | 1º | Ação Bônus | Não | Cura 2d4 + 4 PV a 60 pés. |
-| Heroism | 1º | Ação | Sim | Imunidade a Amedrontado e 4 PV temporários no início de cada turno. |
-| Dissonant Whispers | 1º | Ação | Não | SAB CD 14; 3d6 psíquico e afastamento na falha. |
-| Faerie Fire | 1º | Ação | Sim | DES CD 14; ataques contra afetados têm Vantagem. |
-| **Disguise Self** | 1º | Ação | Não | Altera aparência por 1 hora. |
-| Charm Person* | 1º | Ação | Não | SAB CD 14; Humanoide Enfeitiçado por até 1 hora. |
-| Invisibility | 2º | Ação | Sim | Invisível por até 1 hora. |
-| Suggestion | 2º | Ação | Sim | SAB CD 14; sugestão plausível por até 8 horas. |
-| Mirror Image* | 2º | Ação | Não | Três duplicatas podem desviar ataques. |
+| Magia              | Círculo | Execução   | Concentração | Efeito-chave                                                        |
+| ------------------ | ------: | ---------- | ------------ | ------------------------------------------------------------------- |
+| Prestidigitation   |  Truque | Ação       | Não          | Pequenos efeitos sensoriais e utilitários.                          |
+| Vicious Mockery    |  Truque | Ação       | Não          | SAB CD 14; 1d6 psíquico e penalidade no próximo ataque.             |
+| **Minor Illusion** |  Truque | Ação       | Não          | Som ou imagem imóvel para distração, encenação e infiltração.       |
+| Healing Word       |      1º | Ação Bônus | Não          | Cura 2d4 + 4 PV a 60 pés.                                           |
+| Heroism            |      1º | Ação       | Sim          | Imunidade a Amedrontado e 4 PV temporários no início de cada turno. |
+| Dissonant Whispers |      1º | Ação       | Não          | SAB CD 14; 3d6 psíquico e afastamento na falha.                     |
+| Faerie Fire        |      1º | Ação       | Sim          | DES CD 14; ataques contra afetados têm Vantagem.                    |
+| **Disguise Self**  |      1º | Ação       | Não          | Altera aparência por 1 hora.                                        |
+| Charm Person*      |      1º | Ação       | Não          | SAB CD 14; Humanoide Enfeitiçado por até 1 hora.                    |
+| Invisibility       |      2º | Ação       | Sim          | Invisível por até 1 hora.                                           |
+| Suggestion         |      2º | Ação       | Sim          | SAB CD 14; sugestão plausível por até 8 horas.                      |
+| Mirror Image*      |      2º | Ação       | Não          | Três duplicatas podem desviar ataques.                              |
 
 \* Sempre preparada pelo College of Glamour; não ocupa uma das 7 preparações normais.
 
