@@ -59,3 +59,9 @@ O original continua intacto na cena de origem, sem duplicação. As regiões rec
 - SHA-256: `e1980e77e43f3e3babe56053ad90829c94cb8ff78663d8545928f91db4410868`.
 - Blob Git: `0ffc91a27fb5fd843ea9790fabce061be14e0bc0`.
 - Pixels conferidos antes da publicação; bytes preservados, sem recompressão.
+
+## Guia textual reutilizável
+
+- [Descrição visual completa](descricao.md)
+- [Movimento e ataques, com fontes e propostas separadas](assinaturas-visuais.md)
+- [Catálogo e inventário da campanha](../catalogo-visual-criaturas.md)

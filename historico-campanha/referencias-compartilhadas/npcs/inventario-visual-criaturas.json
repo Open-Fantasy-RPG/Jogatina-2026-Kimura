@@ -1,0 +1,252 @@
+{
+  "schema_version": 1,
+  "campanha": "Jogatina Kimura 2026",
+  "revisado_em": "2026-10-04",
+  "criterio": "Inspeção dos pixels e cruzamento com fontes públicas; arquivos originais preservados; nomes descritivos sem ficha ou espécie oficial.",
+  "fontes_textuais": [
+    {
+      "path": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/sessao-2026-09-24-exploracao-do-templo-do-fluxo.md",
+      "blob_sha": "e3bec60324f17355914258b231d09c6a81b6b47e"
+    },
+    {
+      "path": "historico-campanha/sessao-2026-10-01-andares-inferiores-441e1e188cc4b00b74901b904337b9cd1fd669468513102efce50859532f91ec/transcript.curated.md",
+      "blob_sha": "bd9ab37d0e5bed280446e8159adda3fe71108f81"
+    }
+  ],
+  "imagens": [
+    {
+      "id": "sombra",
+      "path": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura1.jpeg",
+      "tipo": "retrato-base de criatura",
+      "inspecao_visual": "Pixels abertos e conferidos em 2026-10-04",
+      "dimensoes_px": [
+        667,
+        337
+      ],
+      "bytes": 77168,
+      "sha256": "0e368ce78ccda418b374631989409e1fd0de615580cb918d76bfc1c9a33a4509",
+      "blob_sha": "d00119d7f163f79d663e7fdcdbca99ed0d0fb110",
+      "observacao": "Face pálida ramificada, membros longos com garras, massa escura e névoa violeta. Não identifica criatura tentacular separada.",
+      "data_criacao": "não informada",
+      "preservacao": "arquivo original único; reutilização por links"
+    },
+    {
+      "id": "cao",
+      "path": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura2.jpeg",
+      "tipo": "retrato-base de criatura",
+      "inspecao_visual": "Pixels abertos e conferidos em 2026-10-04",
+      "dimensoes_px": [
+        432,
+        407
+      ],
+      "bytes": 66087,
+      "sha256": "6a5ec11cb3243655d22fb15da22249eedcb6369d3dc2744dc39ecf66ece753a6",
+      "blob_sha": "d34089ef3e493c6a59bdbb034b0f23ec7335eccb",
+      "observacao": "Cão humanoide de músculos expostos, tubos e ampolas verdes. Parte posterior cortada; emissão ácida não está desenhada.",
+      "data_criacao": "não informada",
+      "preservacao": "arquivo original único; reutilização por links"
+    },
+    {
+      "id": "laboratorio",
+      "path": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/imagens/tempple-sub2-lab.jpeg",
+      "tipo": "contexto de cenário",
+      "inspecao_visual": "Pixels abertos e conferidos em 2026-10-04",
+      "dimensoes_px": [
+        1500,
+        844
+      ],
+      "bytes": 365606,
+      "sha256": "de48164347100a44f4a154bebab5434bacc60ce5648314bb042cff90f3e67875",
+      "blob_sha": "5519981b3105e84fe36f887a230d71519a8f36a2",
+      "observacao": "Laboratório original; figuras na arte não estabelecem ocupantes atuais ou nova criatura de combate.",
+      "data_criacao": "não informada",
+      "preservacao": "arquivo original único; reutilização por links"
+    },
+    {
+      "id": "shadowPosture",
+      "path": "historico-campanha/referencias-compartilhadas/npcs/sombras/imagens/sombra-postura-movimento-v0001.png",
+      "tipo": "arte derivada aprovada",
+      "inspecao_visual": "Pixels abertos e conferidos em 2026-10-04",
+      "dimensoes_px": [
+        1765,
+        891
+      ],
+      "bytes": 3027166,
+      "sha256": "d716bd89033084e598be4c4d061eaf3cac9e89ae1705f7a45cfe88b178f48d5b",
+      "blob_sha": "b7c78a7c41bcc3be29c9b6ae266e438d7bf896cf",
+      "observacao": "Gesto e articulação apresentados como proposta visual.",
+      "aprovacao": "Publicação aprovada pelo usuário em 2026-10-04.",
+      "commit_publicado": "b721eedd0d574e17c9b7edd655fb911e7fa97ad9",
+      "verificacao_remota": "Blob e tamanho conferidos; arquivo original derivado preservado sem recompressão."
+    },
+    {
+      "id": "shadowTransition",
+      "path": "historico-campanha/referencias-compartilhadas/npcs/sombras/imagens/sombra-transicao-v0002.png",
+      "tipo": "arte derivada aprovada",
+      "inspecao_visual": "Pixels abertos e conferidos em 2026-10-04",
+      "dimensoes_px": [
+        2172,
+        724
+      ],
+      "bytes": 3171312,
+      "sha256": "eb4861182f27b6fbede00b1f91549167518241dde004bd3718a486691aba9c2f",
+      "blob_sha": "24d097cf6fcef1c295b599aadcb59d8cdd3ce0d5",
+      "observacao": "Versão aprovada com o instante intermediário da transição visível.",
+      "aprovacao": "Publicação aprovada pelo usuário em 2026-10-04.",
+      "commit_publicado": "b721eedd0d574e17c9b7edd655fb911e7fa97ad9",
+      "verificacao_remota": "Blob e tamanho conferidos; arquivo original derivado preservado sem recompressão."
+    },
+    {
+      "id": "shadowToken",
+      "path": "historico-campanha/referencias-compartilhadas/npcs/sombras/imagens/sombra-token-rosto-moldura-v0002.png",
+      "tipo": "arte derivada aprovada",
+      "inspecao_visual": "Pixels abertos e conferidos em 2026-10-04",
+      "dimensoes_px": [
+        800,
+        800
+      ],
+      "bytes": 790369,
+      "sha256": "bdf90bd384133dd3dbbdf289a94c689f8e53e7dafda18fb65093e553109d944a",
+      "blob_sha": "2fed88765de9cf110dd13e95bee29d122399ac70",
+      "observacao": "PNG RGBA com exterior transparente; recorte do rosto preservado.",
+      "aprovacao": "Publicação aprovada pelo usuário em 2026-10-04.",
+      "commit_publicado": "b721eedd0d574e17c9b7edd655fb911e7fa97ad9",
+      "verificacao_remota": "Blob e tamanho conferidos; arquivo original derivado preservado sem recompressão."
+    },
+    {
+      "id": "dogToken",
+      "path": "historico-campanha/referencias-compartilhadas/npcs/caes-modificados/imagens/cao-token-rosto-moldura-v0002.png",
+      "tipo": "arte derivada aprovada",
+      "inspecao_visual": "Pixels abertos e conferidos em 2026-10-04",
+      "dimensoes_px": [
+        800,
+        800
+      ],
+      "bytes": 990325,
+      "sha256": "a9a4c00eb88348a1b3891f68b0424e95a77280ef9cb41913ee8798a3c35e061b",
+      "blob_sha": "1879714b396bdf6e4c99095a0a17a0e3c2fe7a33",
+      "observacao": "PNG RGBA com exterior transparente; recorte do rosto preservado.",
+      "aprovacao": "Publicação aprovada pelo usuário em 2026-10-04.",
+      "commit_publicado": "b721eedd0d574e17c9b7edd655fb911e7fa97ad9",
+      "verificacao_remota": "Blob e tamanho conferidos; arquivo original derivado preservado sem recompressão."
+    },
+    {
+      "id": "dogViews",
+      "path": "historico-campanha/referencias-compartilhadas/npcs/caes-modificados/imagens/cao-vistas-v0004.png",
+      "tipo": "arte derivada aprovada",
+      "inspecao_visual": "Pixels abertos e conferidos em 2026-10-04",
+      "dimensoes_px": [
+        1983,
+        793
+      ],
+      "bytes": 2494779,
+      "sha256": "b08a823fe1dcb02cf76cb3b1440556bec9b7e3ff62b31aad4bf1790e495ac81b",
+      "blob_sha": "0e4f115368d32d1016b9dadf9e96753e70d54e8d",
+      "observacao": "Áreas não visíveis na referência original estão identificadas na prancha como reconstrução visual.",
+      "aprovacao": "Publicação aprovada pelo usuário em 2026-10-04.",
+      "commit_publicado": "b721eedd0d574e17c9b7edd655fb911e7fa97ad9",
+      "verificacao_remota": "Blob e tamanho conferidos; arquivo original derivado preservado sem recompressão."
+    },
+    {
+      "id": "shadowPortrait",
+      "path": "historico-campanha/referencias-compartilhadas/npcs/sombras/imagens/sombra-retrato-v0001.png",
+      "tipo": "arte derivada aprovada",
+      "inspecao_visual": "Pixels abertos e conferidos em 2026-10-04",
+      "dimensoes_px": [
+        1254,
+        1254
+      ],
+      "bytes": 2976146,
+      "sha256": "e4ebca75715c4c8f76602187b94026e0e964ed8d55439846be234699a75dd343",
+      "blob_sha": "ba691171c19f0c672c378e52ef2da04d262162aa",
+      "observacao": "Arte derivada da referência original da sombra.",
+      "aprovacao": "Publicação aprovada pelo usuário em 2026-10-04.",
+      "commit_publicado": "b721eedd0d574e17c9b7edd655fb911e7fa97ad9",
+      "verificacao_remota": "Blob e tamanho conferidos; arquivo original derivado preservado sem recompressão."
+    },
+    {
+      "id": "shadowViews",
+      "path": "historico-campanha/referencias-compartilhadas/npcs/sombras/imagens/sombra-vistas-v0002.png",
+      "tipo": "arte derivada aprovada",
+      "inspecao_visual": "Pixels abertos e conferidos em 2026-10-04",
+      "dimensoes_px": [
+        1774,
+        887
+      ],
+      "bytes": 2669595,
+      "sha256": "e1980e77e43f3e3babe56053ad90829c94cb8ff78663d8545928f91db4410868",
+      "blob_sha": "0ffc91a27fb5fd843ea9790fabce061be14e0bc0",
+      "observacao": "Áreas não visíveis na referência original estão identificadas na prancha como interpretação visual.",
+      "aprovacao": "Publicação aprovada pelo usuário em 2026-10-04.",
+      "commit_publicado": "b721eedd0d574e17c9b7edd655fb911e7fa97ad9",
+      "verificacao_remota": "Blob e tamanho conferidos; arquivo original derivado preservado sem recompressão."
+    }
+  ],
+  "lacunas": {
+    "caes-modificados": [
+      "prancha de ataque ácido e retrato individual derivado ainda não publicados neste lote",
+      "ponto anatômico exato de saída e circuito interno confirmados"
+    ],
+    "sombras": [
+      "sequência específica do agarrão de Jânia; as pranchas de postura e transição já foram publicadas"
+    ],
+    "monges-modificados": [
+      "descrição integral, guia de ações e imagens ainda não publicados neste lote; não usar caminhos ausentes como fonte disponível"
+    ],
+    "criatura-de-tentaculos": {
+      "status": "referencia_nao_identificada",
+      "retrato_confirmado": false,
+      "identidade_confirmada": false,
+      "acoes_atribuidas": [],
+      "necessario": "Indicar a imagem correta e confirmar sua relação com a campanha; não atribuir a ela ações da sombra."
+    }
+  },
+  "correcao_acido": {
+    "autor": "usuário/mestre",
+    "data": "2026-10-04",
+    "decisao": "Ácido corrosivo; não veneno.",
+    "suporte_jogado": "01/10 00:21:50–00:23:17; a borrifada corrói a barricada atrás de Aeloria."
+  },
+  "assinaturas": [
+    {
+      "id": "kimura2026.caes-modificados.acido-corrosivo",
+      "guia": "historico-campanha/referencias-compartilhadas/npcs/caes-modificados/assinaturas-visuais.md",
+      "escopo": "campanha; encenação proposta, capacidades somente conforme a fonte citada"
+    },
+    {
+      "id": "kimura2026.caes-modificados.mordida-baixa",
+      "guia": "historico-campanha/referencias-compartilhadas/npcs/caes-modificados/assinaturas-visuais.md",
+      "escopo": "campanha; encenação proposta, capacidades somente conforme a fonte citada"
+    },
+    {
+      "id": "kimura2026.caes-modificados.salto-perseguicao",
+      "guia": "historico-campanha/referencias-compartilhadas/npcs/caes-modificados/assinaturas-visuais.md",
+      "escopo": "campanha; encenação proposta, capacidades somente conforme a fonte citada"
+    },
+    {
+      "id": "kimura2026.sombras.desaparecimento",
+      "guia": "historico-campanha/referencias-compartilhadas/npcs/sombras/assinaturas-visuais.md",
+      "escopo": "campanha; encenação proposta, capacidades somente conforme a fonte citada"
+    },
+    {
+      "id": "kimura2026.sombras.extensao-medo",
+      "guia": "historico-campanha/referencias-compartilhadas/npcs/sombras/assinaturas-visuais.md",
+      "escopo": "campanha; encenação proposta, capacidades somente conforme a fonte citada"
+    },
+    {
+      "id": "kimura2026.sombras.garras",
+      "guia": "historico-campanha/referencias-compartilhadas/npcs/sombras/assinaturas-visuais.md",
+      "escopo": "campanha; encenação proposta, capacidades somente conforme a fonte citada"
+    },
+    {
+      "id": "kimura2026.sombras.agarrar-arrastar",
+      "guia": "historico-campanha/referencias-compartilhadas/npcs/sombras/assinaturas-visuais.md",
+      "escopo": "campanha; encenação proposta, capacidades somente conforme a fonte citada"
+    },
+    {
+      "id": "kimura2026.sombras.instabilidade",
+      "guia": "historico-campanha/referencias-compartilhadas/npcs/sombras/assinaturas-visuais.md",
+      "escopo": "campanha; encenação proposta, capacidades somente conforme a fonte citada"
+    }
+  ]
+}
