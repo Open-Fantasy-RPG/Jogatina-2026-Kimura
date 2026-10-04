@@ -2,20 +2,27 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-Escadaria de pedra atrás de estante, com anotações associadas a A.V.; liga o nível superior ao corredor inferior.
+A passagem começa atrás de uma estante do nível superior. A imagem fornece a escada estreita de pedra, os arcos sucessivos e inscrições junto à entrada, incluindo a marca A.V. A narração confirma a estante, as pedras removidas, a diferença na poeira e a associação com o historiador. A escadaria integra a ruína, com superfícies antigas e passagem já utilizada, sem necessidade de uma abertura recém-construída.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — transcrição, 00:32:07–00:36:19.
+Os ruídos de mecanismos vêm de longe durante a descida. Ao chegar ao piso inferior, há uma porta à esquerda e um corredor que continua e vira à esquerda; depois aparecem novas portas e ramificações. A galeria vista ao fundo da imagem não deve acrescentar uma pessoa ou criatura ao trajeto. Mais tarde, o grupo fecha a passagem por dentro ao retornar da vistoria superior.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **templo-nivel1-passagem-screta.jpeg:** Estante à esquerda e escadaria escura de pedra, anotações na parede e marca A.V.
-- **templo-map-nivel1.jpeg:** Mapa identificado Nível I — O Templo Silencioso: entrada, vestíbulo, salão de Elara, galeria, biblioteca, sala dos mestres, acampamento e escadaria.
+- Estante, abertura, pedras removidas e faixa de poeira menos espessa.
+- Marca de Aldrich Venn/A.V. e escadaria de pedra.
+- Som distante de máquinas; corredor inferior com portas e curva à esquerda.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+Conservar a arquitetura da referência em estado antigo e degradado. Não interpretar silhuetas/decorativos da imagem como novos encontros.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — transcrição, 00:32:07–00:36:19.
+
+**Narração conferida:** [registro integral já público](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — 24/09, 00:32:07–00:36:19; fechamento por dentro em 01:00:37.
+
+## Referências visuais
 
 - [templo-nivel1-passagem-screta.jpeg](imagens/templo-nivel1-passagem-screta.jpeg)
 - [templo-map-nivel1.jpeg](../../referencias/mapas/templo-map-nivel1.jpeg)
@@ -24,12 +31,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 A.V. corresponde à pista do historiador na narrativa; grafias Aldric/Aldrich variam entre mapa e transcrição.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

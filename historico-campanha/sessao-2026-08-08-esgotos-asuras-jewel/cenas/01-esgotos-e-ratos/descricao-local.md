@@ -2,19 +2,25 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-A fonte registra uma rede de túneis sob a cidade. O mapa urbano serve de contexto, não de planta dos esgotos.
+A cidade de referência é murada e densamente construída, atravessada por canais e marcada por tubulações, chaminés e setores industriais. Essa paisagem ajuda a situar o subterrâneo sob uma grande estrutura urbana. A cena, porém, ocorre na rede de esgotos mencionada no relato, e não numa rua ou sala representada com precisão no mapa.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-08-08-esgotos-asuras-jewel.md) — relato público, parágrafo 1.
+A ambientação deve destacar o percurso subterrâneo e a presença dos ratos alterados. Máscaras e símbolos encontrados pertencem ao conjunto de pistas da passagem pelo local. O material disponível não determina a altura dos túneis, a iluminação, o nível da água ou sua sequência de bifurcações.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **asura-jewel.jpeg:** Mapa identificado como Asura’s Jewel; cidade murada industrial, bairros, canais, chaminés, portões e acessos a esgotos.
+- Rede de esgotos e túneis sob Asura’s Jewel.
+- Ratos alterados no encontro.
+- Duas máscaras de gato e dois objetos com um sol, obtidos na exploração.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+Usar o mapa urbano para estabelecer a cidade sobre os túneis; não convertê-lo numa planta interna dos esgotos.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-08-08-esgotos-asuras-jewel.md) — relato público, parágrafo 1.
+
+## Referências visuais
 
 - [asura-jewel.jpeg](../../../referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg)
 
@@ -22,12 +28,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 Traçado exato dos túneis, quantidade de ratos e posições do combate não estão documentados neste relato.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

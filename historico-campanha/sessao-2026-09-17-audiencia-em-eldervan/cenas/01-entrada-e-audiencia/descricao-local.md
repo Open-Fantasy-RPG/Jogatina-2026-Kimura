@@ -2,22 +2,27 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-Cidade de arquitetura orgânica em torno de enorme árvore branca; audiência no alto da árvore.
+Eldervan cresce a partir de uma árvore branca gigantesca. A narração não a apresenta como madeira simplesmente cortada e montada: mesas, cadeiras, balcões e salões permanecem unidos à estrutura viva. As imagens reforçam arcos vegetais, passarelas e plataformas interligadas, com uma linguagem clara e orgânica.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-09-17-audiencia-em-eldervan-resumo.md) — resumo público, Resumo da sessão e Eventos principais 6–20.
+O caminho para a audiência sobe muitos andares. Pelas janelas é possível ver as copas abaixo e parte de Erlingheim; o mestre descreve árvores que brilham e aves incomuns ao longe. O retrato do lorde oferece cabelos claros, vestes vegetais e cajado como referência de aparência. A fonte não determina sua posição exata dentro da câmara nem um trono.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **eldervan.jpeg:** Mapa rotulado Eldervan, Cidade Élfica de Erlingheim, com tronco branco central, pontes, salão, Mercado das Raízes e outros pontos identificados.
-- **eldervan-2.jpeg:** Arquitetura clara integrada a troncos brancos, passarelas entre árvores, varandas e quedas-d’água.
-- **lord-ilidan.jpeg:** Retrato rotulado Lorde Illyrion Strider; elfo de cabelos longos claros, vestes claras com motivos vegetais e cajado.
-- **jaina-woodward.jpeg:** Ficha ilustrada identificada como Jania Woodward; elfa com capuz escuro, cabelos castanhos, orelhas pontudas, arco, aljava e couro.
+- Árvore branca monumental e estruturas/móveis ligados a ela.
+- Salão elevado, janelas acima das copas e vista sobre Erlingheim.
+- Jânia, os três personagens e o lorde na audiência.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+Conservar a união entre arquitetura e árvore; evitar transformar o salão em castelo de pedra ou salão industrial.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-17-audiencia-em-eldervan-resumo.md) — resumo público, Resumo da sessão e Eventos principais 6–20.
+
+**Narração conferida:** [registro integral já público](../../sessao-2026-09-17-audiencia-em-eldervan.md) — 17/09, narração do mestre em 00:15:46–00:19:21.
+
+## Referências visuais
 
 - [eldervan.jpeg](../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg)
 - [eldervan-2.jpeg](../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan-2.jpeg)
@@ -28,12 +33,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 As variantes Illirion/Illyrion/Lyrian/Lilian não indicam personagens diferentes. Confirmar grafia canônica antes de criar novos nomes.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

@@ -2,21 +2,27 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-O Mercado das Raízes é identificado no mapa de Eldervan; o mapa regional dá contexto da viagem.
+O Mercado das Raízes aparece nomeado no mapa de Eldervan e mantém a linguagem arbórea da cidade. A fonte o estabelece como o lugar do encontro com os mercadores; não enumera barracas, mercadorias específicas ou uma praça de tamanho definido.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md) — resumo público, Resumo da sessão, item 5 e História da sessão.
+Na viagem, a carroça é descrita como puxada por bois e lenta o suficiente para acompanhar o passo de pessoas a pé. A rota anunciada vai primeiro a Umbravel, com retorno comercial em outras etapas. O mapa de Aeldria ajuda a situar as montanhas e a região, sem acrescentar paradas que foram apenas cogitadas pelos personagens.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **eldervan.jpeg:** Mapa rotulado Eldervan, Cidade Élfica de Erlingheim, com tronco branco central, pontes, salão, Mercado das Raízes e outros pontos identificados.
-- **mapa.jpeg:** Mapa rotulado continente de Aeldria, com Asura e Erlingheim, cidades e fronteira. As rotas dos personagens não estão desenhadas.
-- **jaina-woodward.jpeg:** Ficha ilustrada identificada como Jania Woodward; elfa com capuz escuro, cabelos castanhos, orelhas pontudas, arco, aljava e couro.
+- Mercado das Raízes e encontro com Git/Guit e outro mercador.
+- Carroça de mercadorias puxada por bois.
+- Jânia e os três personagens acompanhando a viagem.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+Não trocar os bois por cavalos nem desenhar como realizadas todas as paradas citadas durante a discussão.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md) — resumo público, Resumo da sessão, item 5 e História da sessão.
+
+**Narração conferida:** [registro integral já público](../../sessao-2026-09-22-rumo-ao-templo-do-fluxo.md) — 22/09, 00:35:47–00:39:14; carroça puxada por bois em 00:51:30 (trecho da discussão da carroça).
+
+## Referências visuais
 
 - [eldervan.jpeg](../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg)
 - [mapa.jpeg](../../../referencias-compartilhadas/mapas/aeldria/imagens/mapa.jpeg)
@@ -26,12 +32,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 Manter variantes de topônimos da fonte em vez de inventar uma nova rota exata.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

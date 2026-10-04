@@ -2,20 +2,25 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-O mapa de Aeldria fornece topônimos e contexto regional; a rota percorrida não está traçada na imagem.
+O mapa de Aeldria mostra o contraste regional entre o território de Asura, de centros industriais, rios e cidades, e Erlingheim, com extensas áreas florestadas. Esse panorama é adequado para situar a travessia, mas não desenha a rota dos personagens.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-09-03-fuga-de-azura-a-eldervan.md) — relato público, parágrafos 4–5.
+A única condição urbana específica destacada nesta parte do relato é a destruição de Jotun’s Rest. A vila onde ocorre o reconhecimento de Kaelen não recebe nome; Mistralford é uma parada posterior identificada por suas ações de correspondência. Conservar essas distinções evita dar a uma cidade os acontecimentos ou a aparência de outra.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **mapa.jpeg:** Mapa rotulado continente de Aeldria, com Asura e Erlingheim, cidades e fronteira. As rotas dos personagens não estão desenhadas.
-- **jaina-woodward.jpeg:** Ficha ilustrada identificada como Jania Woodward; elfa com capuz escuro, cabelos castanhos, orelhas pontudas, arco, aljava e couro.
+- Cartazes de procurados em circulação.
+- Vila não nomeada onde Kaelen é reconhecido.
+- Jotun’s Rest destruída e parada em Mistralford.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+Usar o mapa como passagem de região e indicação de topônimos, sem inserir um traçado apresentado como oficial.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-03-fuga-de-azura-a-eldervan.md) — relato público, parágrafos 4–5.
+
+## Referências visuais
 
 - [mapa.jpeg](../../../referencias-compartilhadas/mapas/aeldria/imagens/mapa.jpeg)
 - [jaina-woodward.jpeg](../../../referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg)
@@ -24,12 +29,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 A vila em que Kaelen foi reconhecido não recebe nome no relato; não inventar uma localização.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

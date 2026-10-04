@@ -2,32 +2,38 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-Anfiteatro em níveis com autômato central de cerca de três metros, estático e com marcas de ferrugem antes da intervenção.
+O espaço possui níveis de assentos ou plataformas voltados para um centro de demonstração. A arte serve para orientar a forma circular, os equipamentos de suspensão e o volume do autômato; o estado jogado é de instalação antiga e degradada, com a máquina estática e marcas de ferrugem. O autômato tem aproximadamente três metros e fica suspenso por ganchos. Há anotações que descrevem alguém vendo uma máquina semelhante obedecer a ordens no passado; esse texto não é uma demonstração ao vivo.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — transcrição, 00:40:12–00:47:40.
+Antes da intervenção, a máquina está erguida e inativa. Depois da tentativa de exame e do ataque de Galen, está desmontada no chão. O estrondo e a repetição parcial da magia pertencem a esse momento, enquanto os mecanismos distantes continuam soando. Há uma entrada pelo corredor de chegada e outra do lado oposto. Diagramas, instrumentos e bandeiras da imagem orientam a estética histórica, sem obrigar a preservar cada objeto como achado atual.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **templo-sub1-teatro.jpeg:** Anfiteatro circular com degraus, autômato suspenso por ganchos/correntes, diagramas anatômicos e equipamentos.
+- Anfiteatro em níveis e autômato de cerca de três metros.
+- Ganchos de suspensão, ferrugem e anotações antigas.
+- Duas entradas; depois do ataque, partes da máquina no chão.
 
-**Ajuste obrigatório para esta sessão:** A imagem mostra o auge da instalação (00:41:50). Na cena o autômato está inativo e enferrujado, depois desmontado. Não ilustrá-lo em combate ativo sem nova decisão do mestre.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+Ruína atual, sem espectadores, demonstração funcional ou autômato combatendo. Para continuidade, escolher o estado anterior ou posterior ao desmonte conforme o momento da cena.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — transcrição, 00:40:12–00:47:40.
+
+**Narração conferida:** [registro integral já público](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — 24/09, 00:40:12–00:47:40, incluindo ferrugem em 00:41:12 e desmonte em 00:44:21.
+
+## Referências visuais
 
 - [templo-sub1-teatro.jpeg](imagens/templo-sub1-teatro.jpeg)
 
 ## Pontos a confirmar
 
-Posições, medidas, enquadramento e detalhes sensoriais não expressos pela fonte permanecem abertos.
+A fonte acima delimita os fatos. Diálogos literais, posições e detalhes não registrados precisam de confirmação; não completar por suposição.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

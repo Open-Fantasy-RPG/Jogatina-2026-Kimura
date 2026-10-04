@@ -2,19 +2,25 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-A fonte identifica a cela do detento morto, sem coordenada no mapa.
+A cela pertence à prisão mostrada no mapa: uma estrutura de celas e corredores com forte presença de grades e metal. O documento não aponta o número, a ala ou o móvel em que as cartas estavam. Assim, o ambiente pode conservar a linguagem da prisão sem adotar uma posição cartográfica arbitrária.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-08-20-prisao-conflito-e-julgamento.md) — relato público, parágrafo 3.
+Cartas e chaves são os elementos materiais confirmados da cena. O conteúdo das cartas orienta a investigação, mas não deve ser convertido em retratos, nomes novos ou uma aparição do comprador ausente. O estado do local depois da busca também não é detalhado pela fonte.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **prisao.jpeg:** Planta vista de cima com alas de celas, corredores, dependências e tubulações; não há legenda de funções para todas as salas.
+- Cela do detento morto.
+- Cartas relativas ao tráfico e a comprador da alta sociedade.
+- Chaves furtadas e ocultadas com a arma vinculada.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+O texto combina o ambiente confirmado pela fonte com a leitura dos arquivos de referência. A disposição espacial não descrita continua aberta para revisão do mestre.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-08-20-prisao-conflito-e-julgamento.md) — relato público, parágrafo 3.
+
+## Referências visuais
 
 - [prisao.jpeg](../../../referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg)
 
@@ -22,12 +28,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 Número da cela e percurso da investigação pendentes.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

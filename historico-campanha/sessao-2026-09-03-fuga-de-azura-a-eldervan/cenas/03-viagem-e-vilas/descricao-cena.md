@@ -1,35 +1,39 @@
 # Travessia e paradas
 
-[Índice da sessão](../../README.md) · [Descritivo do local](descricao-local.md)
+[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-03-fuga-de-azura-a-eldervan/03-viagem-e-vilas`
-- **Local:** Rota de Asura a Erlingheim
-- **Natureza:** organização editorial de conteúdo que já estava público; campos do mestre abaixo ainda não preenchidos.
-- **Fonte:** [registro público da sessão](../../sessao-2026-09-03-fuga-de-azura-a-eldervan.md) — relato público, parágrafos 4–5.
+- **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
 
-## Fatos já registrados
+## Descritivo da cena
+
+A viagem é marcada pela condição de fugitivos. Cartazes circulam, Kaelen é reconhecido em uma vila e Aeloria o esconde com Invisibilidade. Jânia explica sua missão enquanto o grupo atravessa localidades da fronteira. Jotun’s Rest aparece destruída; em Mistralford, Aeloria escreve a Halden e abre a caixa postal Los Vientos. São etapas sucessivas, não um único cenário contínuo.
+
+## Fatos e continuidade
 
 - Cartazes de procurados circulam; Aeloria esconde Kaelen em uma vila com Invisibilidade.
 - Jânia conta sua missão; o grupo passa por Jotun’s Rest destruída e Mistralford.
 - Aeloria envia carta a Halden e abre a caixa postal Los Vientos.
 
-## Referências visuais
+## Referências
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-03-fuga-de-azura-a-eldervan.md) — relato público, parágrafos 4–5.
 
 - [mapa.jpeg](../../../referencias-compartilhadas/mapas/aeldria/imagens/mapa.jpeg)
 - [jaina-woodward.jpeg](../../../referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg)
 
-Imagens são referências de ambiente/objeto. A presença de uma figura na arte não acrescenta automaticamente um participante à cena.
+## Coerência visual
 
-## Incertezas e limites
+Usar o mapa como passagem de região e indicação de topônimos, sem inserir um traçado apresentado como oficial.
+
+## Pontos ainda abertos
 
 A vila em que Kaelen foi reconhecido não recebe nome no relato; não inventar uma localização.
 
-## Edição do mestre — somente conteúdo liberado aos jogadores
+## Complementos públicos do mestre
 
-- Descritivo final da cena: [preencher]
-- Ambientação, sons e detalhes públicos confirmados: [preencher]
-- Ajustes de continuidade e ordem aprovados: [preencher]
-- Falas exatas aprovadas, com fonte: [preencher]
-- Data e responsável pela revisão pública: [preencher]
+- Detalhes adicionais já liberados: [preencher]
+- Ajustes de continuidade ou fala exata, com fonte: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Esta pasta é pública. Preparação reservada, segredos e prompts de produção de HQ ficam fora deste repositório. Campos vazios não são fatos canônicos.
+> Segredos, preparação reservada e produção de HQ permanecem fora deste acervo público.

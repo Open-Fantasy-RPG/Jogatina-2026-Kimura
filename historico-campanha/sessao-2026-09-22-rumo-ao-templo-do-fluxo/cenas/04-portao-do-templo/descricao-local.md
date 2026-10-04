@@ -2,19 +2,29 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-O portal é o limite entre a chegada de 22/09 e a exploração de 24/09; não confundir com a porta interna que exige manivela e runa.
+Um portal de pedra domina a entrada do templo, com um arco central, esculturas laterais e a identificação da Ordem de Santa Elara. A imagem fornece a escala da fachada, os degraus, os parapeitos e o enquadramento montanhoso; nela há neve sobre partes da construção e do entorno. Esses elementos visuais servem de referência, sem definir uma tempestade ocorrendo durante a chegada.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md) — resumo público, Resumo da sessão, item 6 e encerramento da História da sessão.
+O estado atual deve mostrar abandono, desgaste e acesso forçado. Tarvek relata que saqueadores e outros visitantes abriram a porta sem cuidado e que ele próprio já se abrigou no templo. A abertura externa não resolve a porta interna de manivela e runa, encontrada na próxima sessão.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **tempo-portao.jpeg:** Portal de pedra nas montanhas, neve, esculturas laterais, inscrição Ordem de Santa Elara e portas abertas/danificadas.
+- Portal externo aberto e danificado.
+- Fachada de pedra, esculturas e elementos da ordem na referência visual.
+- Montanhas ao redor e grupo chegando à entrada.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+Representar a fachada como ruína de uma construção outrora grandiosa. Preservar a imagem original como referência de desenho; uma eventual nova arte deverá incorporar o estado degradado.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md) — resumo público, Resumo da sessão, item 6 e encerramento da História da sessão.
+
+**Narração conferida:** [registro integral já público](../../sessao-2026-09-22-rumo-ao-templo-do-fluxo.md) — 22/09, 01:04:54–01:05:21 e 01:08:53–01:09:08; portão avariado retomado em 24/09 às 00:05:11.
+
+**Retomada do estado do portão:** [registro de 24/09](../../../sessao-2026-09-24-exploracao-do-templo-do-fluxo/sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — 00:05:11.
+
+## Referências visuais
 
 - [tempo-portao.jpeg](../../../referencias-compartilhadas/locais/templo-do-fluxo-portao/imagens/tempo-portao.jpeg)
 
@@ -22,12 +32,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 A imagem mostra detalhes de fachada; a data e causa de cada dano não estão estabelecidas.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

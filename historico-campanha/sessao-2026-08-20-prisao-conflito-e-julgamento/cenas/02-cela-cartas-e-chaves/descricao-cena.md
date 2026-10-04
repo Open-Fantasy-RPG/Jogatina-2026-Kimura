@@ -1,33 +1,37 @@
 # Investigação da cela
 
-[Índice da sessão](../../README.md) · [Descritivo do local](descricao-local.md)
+[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-08-20-prisao-conflito-e-julgamento/02-cela-cartas-e-chaves`
-- **Local:** Cela da prisão
-- **Natureza:** organização editorial de conteúdo que já estava público; campos do mestre abaixo ainda não preenchidos.
-- **Fonte:** [registro público da sessão](../../sessao-2026-08-20-prisao-conflito-e-julgamento.md) — relato público, parágrafo 3.
+- **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
 
-## Fatos já registrados
+## Descritivo da cena
+
+A investigação se desloca para a cela do homem morto no pátio. Kaelen encontra cartas sobre uma rede de tráfico ainda ativa e um comprador da alta sociedade. As chaves da prisão também entram na sequência e são ocultadas com a arma vinculada. A relevância visual está nesses objetos e na cela, sem transformar a investigação em uma fuga já executada.
+
+## Fatos e continuidade
 
 - Kaelen encontra cartas relativas ao tráfico e a um comprador da alta sociedade.
 - Ele furta as chaves e as oculta com a arma vinculada.
 
-## Referências visuais
+## Referências
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-08-20-prisao-conflito-e-julgamento.md) — relato público, parágrafo 3.
 
 - [prisao.jpeg](../../../referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg)
 
-Imagens são referências de ambiente/objeto. A presença de uma figura na arte não acrescenta automaticamente um participante à cena.
+## Coerência visual
 
-## Incertezas e limites
+Usar a imagem como apoio do ambiente descrito. Os elementos concretos e os limites de localização estão detalhados no arquivo do local.
+
+## Pontos ainda abertos
 
 Número da cela e percurso da investigação pendentes.
 
-## Edição do mestre — somente conteúdo liberado aos jogadores
+## Complementos públicos do mestre
 
-- Descritivo final da cena: [preencher]
-- Ambientação, sons e detalhes públicos confirmados: [preencher]
-- Ajustes de continuidade e ordem aprovados: [preencher]
-- Falas exatas aprovadas, com fonte: [preencher]
-- Data e responsável pela revisão pública: [preencher]
+- Detalhes adicionais já liberados: [preencher]
+- Ajustes de continuidade ou fala exata, com fonte: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Esta pasta é pública. Preparação reservada, segredos e prompts de produção de HQ ficam fora deste repositório. Campos vazios não são fatos canônicos.
+> Segredos, preparação reservada e produção de HQ permanecem fora deste acervo público.

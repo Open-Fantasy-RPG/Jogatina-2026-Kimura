@@ -1,33 +1,39 @@
 # Montanha e encontro com Tarvek
 
-[Índice da sessão](../../README.md) · [Descritivo do local](descricao-local.md)
+[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-22-rumo-ao-templo-do-fluxo/03-montanha-e-tarvek`
-- **Local:** Trilha de montanha
-- **Natureza:** organização editorial de conteúdo que já estava público; campos do mestre abaixo ainda não preenchidos.
-- **Fonte:** [registro público da sessão](../../sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md) — resumo público, Resumo da sessão, item 6 e História da sessão.
+- **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
 
-## Fatos já registrados
+## Descritivo da cena
+
+Perto do sopé da montanha, a mudança do ângulo de visão faz as rochas comporem o símbolo de Santa Elara. O grupo deixa a carroça e sobe, escolhendo passagem entre pedras que podem se soltar. No caminho, uma figura alta colhe ervas: Tarvek, reconhecido por Aeloria. O encontro fornece orientação e uma poção antes que a exploração prossiga até a entrada do templo.
+
+## Fatos e continuidade
 
 - O grupo reconhece um símbolo nas rochas e deixa a carroça para subir.
 - Aeloria reencontra Tarvek, um goliath curandeiro, e o grupo recebe uma poção de cura.
 
-## Referências visuais
+## Referências
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md) — resumo público, Resumo da sessão, item 6 e História da sessão.
+
+**Narração conferida:** [registro integral já público](../../sessao-2026-09-22-rumo-ao-templo-do-fluxo.md) — 22/09, 00:54:25–00:56:40 e 01:00:21–01:06:35.
 
 - [mapa.jpeg](../../../referencias-compartilhadas/mapas/aeldria/imagens/mapa.jpeg)
 
-Imagens são referências de ambiente/objeto. A presença de uma figura na arte não acrescenta automaticamente um participante à cena.
+## Coerência visual
 
-## Incertezas e limites
+Não transformar o símbolo em nova runa ativa ou fixar roupas/armas de Tarvek sem fonte.
+
+## Pontos ainda abertos
 
 Coordenadas, duração exata de cada etapa e aparência de Tarvek não devem ser preenchidas por suposição.
 
-## Edição do mestre — somente conteúdo liberado aos jogadores
+## Complementos públicos do mestre
 
-- Descritivo final da cena: [preencher]
-- Ambientação, sons e detalhes públicos confirmados: [preencher]
-- Ajustes de continuidade e ordem aprovados: [preencher]
-- Falas exatas aprovadas, com fonte: [preencher]
-- Data e responsável pela revisão pública: [preencher]
+- Detalhes adicionais já liberados: [preencher]
+- Ajustes de continuidade ou fala exata, com fonte: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Esta pasta é pública. Preparação reservada, segredos e prompts de produção de HQ ficam fora deste repositório. Campos vazios não são fatos canônicos.
+> Segredos, preparação reservada e produção de HQ permanecem fora deste acervo público.

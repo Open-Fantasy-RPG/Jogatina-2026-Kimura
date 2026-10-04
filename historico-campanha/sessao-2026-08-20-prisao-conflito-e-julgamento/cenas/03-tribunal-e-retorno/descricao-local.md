@@ -2,19 +2,25 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-O tribunal é distinto da carceragem. O mapa existente ilustra apenas a prisão, não a sala da audiência.
+O tribunal é um ambiente distinto da prisão. A existência de audiência e plateia permite descrever a situação de exposição pública dos acusados, mas o relato não fixa a arquitetura, o assento do julgador, a disposição de bancadas ou os ornamentos do recinto.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-08-20-prisao-conflito-e-julgamento.md) — relato público, parágrafos 4–5.
+O mapa prisao.jpeg deve aparecer apenas quando a sequência retorna ao cárcere. Grades, tubulações e celas da referência não são decoração do tribunal. A mudança de local é importante para que o julgamento e o retorno não se fundam em uma única sala inventada.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **prisao.jpeg:** Planta vista de cima com alas de celas, corredores, dependências e tubulações; não há legenda de funções para todas as salas.
+- Acusados, defensor Aldous Merrin e promotor Rout.
+- William, taverneiro e plateia na audiência.
+- Retorno do grupo à prisão, ainda sem sentença registrada.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+O texto combina o ambiente confirmado pela fonte com a leitura dos arquivos de referência. A disposição espacial não descrita continua aberta para revisão do mestre.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-08-20-prisao-conflito-e-julgamento.md) — relato público, parágrafos 4–5.
+
+## Referências visuais
 
 - [prisao.jpeg](../../../referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg)
 
@@ -22,12 +28,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 Autor da contratação do defensor e desfecho judicial não constam como confirmados.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

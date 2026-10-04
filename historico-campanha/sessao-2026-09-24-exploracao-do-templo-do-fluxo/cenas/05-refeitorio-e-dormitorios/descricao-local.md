@@ -2,32 +2,38 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-Grande refeitório com mesas e cadeiras; dormitório com pertences abandonados. Não há imagem específica dessas duas salas no acervo de imgs 1.
+O refeitório é descrito como muito amplo, com numerosas mesas, cadeiras, pratos e copos. Está vazio e possui uma saída do outro lado, na direção em que o ruído de máquinas se torna mais forte. O dormitório é igualmente grande, com roupas de dormir, botas, mochilas e muitos pertences antigos deixados para trás; há sinais de que visitantes anteriores vasculharam parte do material.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — transcrição, 00:36:19–00:40:10.
+A impressão registrada é a de espaços cotidianos abandonados com os objetos ainda presentes, e não a de quartos em uso regular. As ruínas conservam sua organização reconhecível. Não há imagem própria dessas salas; os materiais de pedra e a linguagem do templo podem manter continuidade com os corredores, mas móveis, quantidades exatas e decoração não descritos continuam sem projeto visual definitivo.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-Não há imagem específica confirmada para este local.
+- Refeitório vazio com muitas mesas, cadeiras, pratos, copos e saída oposta.
+- Dormitório com roupas de dormir, botas, mochilas e pertences antigos.
+- Marcas de busca anterior e ruídos de máquinas vindo de outra área.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+Não substituir esses ambientes pelo anfiteatro nem pelo laboratório. São salas de convivência e alojamento abandonadas.
 
-- Sem imagem específica no acervo original.
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — transcrição, 00:36:19–00:40:10.
+
+**Narração conferida:** [registro integral já público](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — 24/09, 00:36:19–00:39:48.
+
+## Referências visuais
+
+- Sem imagem específica; o texto usa os elementos descritos no registro.
 
 ## Pontos a confirmar
 
 Não usar o teatro como se fosse o refeitório ou o laboratório como dormitório. O mapa do nível I não é planta deste subsolo.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

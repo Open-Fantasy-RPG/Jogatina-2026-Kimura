@@ -2,19 +2,25 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-O local pertence à investigação nos túneis. Não há imagem específica confirmada desta sala.
+O local deve ser descrito a partir das pistas efetivamente encontradas: inscrições, um mapa e o testemunho de uma pessoa submetida a trabalho forçado. O relato o vincula à operação subterrânea sob a cidade, sem nomear uma câmara, oficina ou cela específica.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-08-08-esgotos-asuras-jewel.md) — relato público, parágrafo 2.
+A imagem de Asura’s Jewel fornece o contexto de uma cidade extensa, com acessos a galerias, mas o desenho do mapa encontrado nesta cena não foi publicado no acervo identificado. A dimensão da rede é uma descoberta narrativa; não precisa ser ilustrada por salas ou máquinas acrescentadas ao ambiente.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **asura-jewel.jpeg:** Mapa identificado como Asura’s Jewel; cidade murada industrial, bairros, canais, chaminés, portões e acessos a esgotos.
+- Hilbert, humano debilitado, durante a conversa.
+- Inscrições e mapa relacionados à operação sob a cidade.
+- Dois bandidos no episódio que encerra o testemunho.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+O mapa continental e o mapa urbano não substituem o mapa encontrado pelos personagens.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-08-08-esgotos-asuras-jewel.md) — relato público, parágrafo 2.
+
+## Referências visuais
 
 - [asura-jewel.jpeg](../../../referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg)
 
@@ -22,12 +28,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 O mapa mencionado na cena não deve ser identificado automaticamente com o mapa urbano do acervo.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

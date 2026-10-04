@@ -2,19 +2,25 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-A fonte cita carceragem e pátio. Não marcar uma sala do mapa como pátio sem confirmação.
+A imagem da prisão fornece uma construção organizada em alas, com celas gradeadas, corredores, dependências laterais e tubulações. O relato acrescenta o pátio como espaço de convívio em que ocorre o ataque, mas o mapa não o rotula de maneira suficiente para escolher uma área com certeza.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-08-20-prisao-conflito-e-julgamento.md) — relato público, parágrafos 1–2.
+A ambientação deve combinar o confinamento já estabelecido com a mudança de tensão trazida pela vingança e pelos boatos. Não são necessárias novas celas de tortura, instrumentos ou guardas posicionados por suposição. O pátio narrado continua existindo como local confirmado, mesmo sem uma correspondência precisa na planta.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **prisao.jpeg:** Planta vista de cima com alas de celas, corredores, dependências e tubulações; não há legenda de funções para todas as salas.
+- Personagens encarcerados e bens confiscados.
+- Pátio e confronto com o irmão de Bram.
+- Outros membros da facção encaminhados à solitária após o episódio.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+O texto combina o ambiente confirmado pela fonte com a leitura dos arquivos de referência. A disposição espacial não descrita continua aberta para revisão do mestre.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-08-20-prisao-conflito-e-julgamento.md) — relato público, parágrafos 1–2.
+
+## Referências visuais
 
 - [prisao.jpeg](../../../referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg)
 
@@ -22,12 +28,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 Não há correspondência publicada entre cada ambiente do mapa e o pátio narrado.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

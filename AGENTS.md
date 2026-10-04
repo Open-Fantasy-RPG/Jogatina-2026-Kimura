@@ -39,3 +39,12 @@
 - Antes de criar uma HQ, consultar nesta ordem: índice da sessão, `descricao-cena.md`, `descricao-local.md`, imagens originais e referências completas em `personagens/.../img-visual/`. Utilizar `mapa-de-caminhos.json` para migrar referências antigas, nunca procurar automaticamente uma cópia em `imgs 1/`.
 - Distinguir a imagem de um local em seu auge do estado jogado: em 24/09 o saguão e o teatro são descritos como degradados; as imagens são referências históricas. Não transformar decoração, pessoas ou criaturas desenhadas em acontecimentos confirmados.
 - Manter documentos originais íntegros. Os descritivos são complementos editoriais e não substituem fontes. Novos fatos públicos, novas transcrições ou imagens e publicação de HQ continuam sujeitos à aprovação definida acima; organização de arquivos já públicos não é autorização para importar material privado.
+
+## Ambientação coerente a partir da narração e das imagens
+
+- Escrever um descritivo utilizável em prosa em cada cena e local, além da lista de fatos. Incluir o que há no espaço, estado de conservação, relações espaciais conhecidas e sons/luz quando houver fonte. Não deixar a ambientação reduzida a um aviso genérico ou a campos vazios.
+- A narração do mestre e suas correções definem o estado atual, os presentes e os acontecimentos. Usar os pixels como referência de arquitetura, forma, materiais e composição onde forem coerentes com essa narração. Atribuir explicitamente à imagem qualquer detalhe apenas visual que ainda não esteja confirmado na mesa.
+- Para o Templo do Fluxo nas sessões de 22/09 e 24/09, o estado atual é de ruínas e abandono. Imagens que pareçam íntegras orientam a forma da antiga construção; o texto atual deve incorporar o desgaste narrado. Isso não significa que todos os níveis estejam igualmente destruídos: a fonte descreve maior deterioração no nível superior e melhor preservação relativa abaixo.
+- Preservar estados sucessivos: autômato inativo antes do desmonte, elevador sabotado antes do reparo, jaulas suspensas antes de formar a barreira. Não levar o estado final da cena para o seu início.
+- Não criar acontecimentos, habitantes, criaturas, segredos, funções de objetos ou clima por convenção de gênero. Não atribuir conteúdo oculto aos frascos da arte, vida às figuras de uma ilustração, nem alcance cartográfico a um recorte parcial.
+- Manter fontes e marcadores suficientes para revisar o descritivo. As imagens existentes permanecem intactas; criar ou substituir imagens é uma etapa separada e depende da autorização correspondente.

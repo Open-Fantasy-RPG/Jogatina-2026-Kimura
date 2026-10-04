@@ -2,19 +2,25 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-O ambiente é uma taverna ligada à investigação, no contexto industrial da Joia; não há ilustração específica catalogada.
+Antes da Fratura, a taverna funciona como ponto de contato da investigação e está ligada à descoberta de uma entrada do esconderijo. Não há planta própria que permita fixar balcão, mesas, escadas ou posição dessa entrada. O mapa urbano fornece o entorno industrial mais amplo: construções densas, tubulações e grandes chaminés.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-08-08-cidade-alta-e-prisao.md) — relato público, parágrafos 2–3.
+Após a interferência mágica, a referência canônica é a taverna destruída e o setor industrial atingido pelo apagão. A fonte não descreve o formato da ruína nem uma explosão com cor, alcance ou efeitos adicionais; a mudança confirmada é suficiente para separar claramente o estado anterior do posterior.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **asura-jewel.jpeg:** Mapa identificado como Asura’s Jewel; cidade murada industrial, bairros, canais, chaminés, portões e acessos a esgotos.
+- Taverna do Manômetro Quebrado e ligação com a investigação de Kester/Bram.
+- Entrada do esconderijo descoberta por Kaelen, sem posição cartográfica confirmada.
+- Depois da Fratura: taverna destruída, apagão e captura de Galen.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+O mapa da prisão não representa a taverna nem o esconderijo. Não reutilizá-lo como interior dessa cena.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-08-08-cidade-alta-e-prisao.md) — relato público, parágrafos 2–3.
+
+## Referências visuais
 
 - [asura-jewel.jpeg](../../../referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg)
 
@@ -22,12 +28,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 Não atribuir o mapa da prisão ao esconderijo; planta da taverna não disponível.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

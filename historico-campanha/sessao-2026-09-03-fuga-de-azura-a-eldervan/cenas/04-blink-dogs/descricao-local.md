@@ -2,20 +2,25 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-A fonte dá a região, não uma clareira ou coordenada específica.
+O ambiente confirmado é um trecho da viagem em Erlingheim. A imagem regional fornece a paisagem de referência do território, mas não decide se a luta acontece em estrada aberta, margem de rio, clareira ou vegetação fechada. A composição deve partir dos combatentes e de espaço suficiente para representar as ações documentadas, sem fixar uma nova planta do encontro.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-09-03-fuga-de-azura-a-eldervan.md) — relato público, parágrafo 6.
+Os animais desta cena são os Blink Dogs citados no relato. As criaturas com tubos e a sombra ilustradas no acervo pertencem à exploração posterior do templo. Usá-las aqui confundiria dois encontros com identidades e comportamentos diferentes.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **mapa.jpeg:** Mapa rotulado continente de Aeldria, com Asura e Erlingheim, cidades e fronteira. As rotas dos personagens não estão desenhadas.
-- **jaina-woodward.jpeg:** Ficha ilustrada identificada como Jania Woodward; elfa com capuz escuro, cabelos castanhos, orelhas pontudas, arco, aljava e couro.
+- Cinco Blink Dogs no início do ataque.
+- Arma de Galen apresentando falhas.
+- Quatro animais mortos, um fugitivo e a intervenção de Jânia no encerramento.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+O texto combina o ambiente confirmado pela fonte com a leitura dos arquivos de referência. A disposição espacial não descrita continua aberta para revisão do mestre.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-03-fuga-de-azura-a-eldervan.md) — relato público, parágrafo 6.
+
+## Referências visuais
 
 - [mapa.jpeg](../../../referencias-compartilhadas/mapas/aeldria/imagens/mapa.jpeg)
 - [jaina-woodward.jpeg](../../../referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg)
@@ -24,12 +29,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 As imagens templo-criatura1/2 são de outro encontro, em 24/09. Não usá-las como retrato confirmado destes Blink Dogs.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

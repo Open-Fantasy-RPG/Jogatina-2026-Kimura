@@ -1,34 +1,40 @@
 # Refeitório e dormitórios
 
-[Índice da sessão](../../README.md) · [Descritivo do local](descricao-local.md)
+[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-24-exploracao-do-templo-do-fluxo/05-refeitorio-e-dormitorios`
-- **Local:** Salas do primeiro subsolo
-- **Natureza:** organização editorial de conteúdo que já estava público; campos do mestre abaixo ainda não preenchidos.
-- **Fonte:** [registro público da sessão](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — transcrição, 00:36:19–00:40:10.
+- **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
 
-## Fatos já registrados
+## Descritivo da cena
+
+O corredor inferior leva a espaços de vida coletiva que perderam seus ocupantes. O refeitório é grande e está vazio; nos dormitórios, roupas, botas e mochilas permanecem largadas. Alguns pertences mostram sinais de busca anterior. O grupo abre portas, observa e segue o som do maquinário, que parece vir de outra parte. O abandono dos objetos, sem habitantes à vista, dá o tom desta passagem.
+
+## Fatos e continuidade
 
 - O grupo abre portas do corredor e encontra um refeitório vazio.
 - No dormitório há roupas, mochilas e pertences muito antigos.
 - Os ruídos do maquinário continuam vindo de outra parte.
 
-## Referências visuais
+## Referências
 
-- Nenhuma imagem específica confirmada no acervo original. Não foi criada imagem substituta.
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — transcrição, 00:36:19–00:40:10.
 
-Imagens são referências de ambiente/objeto. A presença de uma figura na arte não acrescenta automaticamente um participante à cena.
+**Narração conferida:** [registro integral já público](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — 24/09, 00:36:19–00:39:48.
 
-## Incertezas e limites
+- Não há imagem específica confirmada desta cena.
+
+## Coerência visual
+
+Não substituir esses ambientes pelo anfiteatro nem pelo laboratório. São salas de convivência e alojamento abandonadas.
+
+## Pontos ainda abertos
 
 Não usar o teatro como se fosse o refeitório ou o laboratório como dormitório. O mapa do nível I não é planta deste subsolo.
 
-## Edição do mestre — somente conteúdo liberado aos jogadores
+## Complementos públicos do mestre
 
-- Descritivo final da cena: [preencher]
-- Ambientação, sons e detalhes públicos confirmados: [preencher]
-- Ajustes de continuidade e ordem aprovados: [preencher]
-- Falas exatas aprovadas, com fonte: [preencher]
-- Data e responsável pela revisão pública: [preencher]
+- Detalhes adicionais já liberados: [preencher]
+- Ajustes de continuidade ou fala exata, com fonte: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Esta pasta é pública. Preparação reservada, segredos e prompts de produção de HQ ficam fora deste repositório. Campos vazios não são fatos canônicos.
+> Segredos, preparação reservada e produção de HQ permanecem fora deste acervo público.

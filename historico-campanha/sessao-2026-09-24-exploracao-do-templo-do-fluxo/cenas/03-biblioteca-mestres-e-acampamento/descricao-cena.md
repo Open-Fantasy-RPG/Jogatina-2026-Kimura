@@ -1,34 +1,40 @@
 # Biblioteca, mestres e acampamento
 
-[Índice da sessão](../../README.md) · [Descritivo do local](descricao-local.md)
+[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-24-exploracao-do-templo-do-fluxo/03-biblioteca-mestres-e-acampamento`
-- **Local:** Biblioteca superior, Sala dos Mestres e acampamento
-- **Natureza:** organização editorial de conteúdo que já estava público; campos do mestre abaixo ainda não preenchidos.
-- **Fonte:** [registro público da sessão](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — transcrição, 00:14:38–00:32:07.
+- **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
 
-## Fatos já registrados
+## Descritivo da cena
+
+A exploração segue pela biblioteca, onde a perda de grande parte do acervo contrasta com alguns livros ainda bem preservados. A leitura liga teoria do Fluxo, engenharia e tentativas de demonstração prática. Na Sala dos Mestres, retratos antigos e marcas na poeira dão sinais de uma história interrompida e de visitas posteriores. Mais adiante, uma tenda e uma bolsa guardam a pista de Aldrich Venn, sem corpo ou vestígio de luta no acampamento.
+
+## Fatos e continuidade
 
 - O grupo consulta livros e correspondências da ordem.
 - São observados retratos de grão-mestres; o último não tem placa identificadora.
 - Um acampamento antigo e uma carta de Aldrich Venn levam à pista da passagem.
 
-## Referências visuais
+## Referências
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — transcrição, 00:14:38–00:32:07.
+
+**Narração conferida:** [registro integral já público](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — 24/09, 00:14:38–00:20:37, 00:23:12–00:25:56 e 00:27:10–00:32:07.
 
 - [templo-map-nivel1.jpeg](../../referencias/mapas/templo-map-nivel1.jpeg)
 
-Imagens são referências de ambiente/objeto. A presença de uma figura na arte não acrescenta automaticamente um participante à cena.
+## Coerência visual
 
-## Incertezas e limites
+O mapa organiza três ambientes distintos. Não reduzir tudo a uma única biblioteca nem fazer o acampamento parecer recém-ocupado.
+
+## Pontos ainda abertos
 
 Não identificar o grão-mestre sem nome por dedução. As conclusões sobre intenções da ordem precisam permanecer atribuídas às fontes.
 
-## Edição do mestre — somente conteúdo liberado aos jogadores
+## Complementos públicos do mestre
 
-- Descritivo final da cena: [preencher]
-- Ambientação, sons e detalhes públicos confirmados: [preencher]
-- Ajustes de continuidade e ordem aprovados: [preencher]
-- Falas exatas aprovadas, com fonte: [preencher]
-- Data e responsável pela revisão pública: [preencher]
+- Detalhes adicionais já liberados: [preencher]
+- Ajustes de continuidade ou fala exata, com fonte: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Esta pasta é pública. Preparação reservada, segredos e prompts de produção de HQ ficam fora deste repositório. Campos vazios não são fatos canônicos.
+> Segredos, preparação reservada e produção de HQ permanecem fora deste acervo público.

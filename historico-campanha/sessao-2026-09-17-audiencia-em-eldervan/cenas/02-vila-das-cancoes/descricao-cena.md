@@ -1,34 +1,40 @@
 # Canções e rumores
 
-[Índice da sessão](../../README.md) · [Descritivo do local](descricao-local.md)
+[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-17-audiencia-em-eldervan/02-vila-das-cancoes`
-- **Local:** Vila das Canções
-- **Natureza:** organização editorial de conteúdo que já estava público; campos do mestre abaixo ainda não preenchidos.
-- **Fonte:** [registro público da sessão](../../sessao-2026-09-17-audiencia-em-eldervan-resumo.md) — resumo público, Eventos principais 21–22 e 25–27.
+- **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
 
-## Fatos já registrados
+## Descritivo da cena
+
+A Vila das Canções recebe Aeloria com conversa, risos, vinho e música de alaúde e harpa. A cantora se mistura ao ambiente, procura informações e apresenta sua versão da fuga dos três companheiros. Comentários sobre a guerra e notícias do norte atravessam esse convívio, sem transformar o espaço inteiro em uma reunião militar. O ambiente social já descrito sustenta sua performance e o prestígio que ela conquista.
+
+## Fatos e continuidade
 
 - Aeloria canta, socializa e procura rumores.
 - Um mercador menciona movimentação ao norte e atividade das forjas; a apresentação amplia sua fama local.
 
-## Referências visuais
+## Referências
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-17-audiencia-em-eldervan-resumo.md) — resumo público, Eventos principais 21–22 e 25–27.
+
+**Narração conferida:** [registro integral já público](../../sessao-2026-09-17-audiencia-em-eldervan.md) — 17/09, narração do mestre em 00:49:55–00:51:34; demais resultados no resumo público.
 
 - [eldervan.jpeg](../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg)
 - [eldervan-2.jpeg](../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan-2.jpeg)
 
-Imagens são referências de ambiente/objeto. A presença de uma figura na arte não acrescenta automaticamente um participante à cena.
+## Coerência visual
 
-## Incertezas e limites
+O mapa localiza o ponto de interesse; não fornece um palco obrigatório nem uma planta do evento.
+
+## Pontos ainda abertos
 
 Rumores são relatos de NPCs, não comprovação independente dos acontecimentos no norte.
 
-## Edição do mestre — somente conteúdo liberado aos jogadores
+## Complementos públicos do mestre
 
-- Descritivo final da cena: [preencher]
-- Ambientação, sons e detalhes públicos confirmados: [preencher]
-- Ajustes de continuidade e ordem aprovados: [preencher]
-- Falas exatas aprovadas, com fonte: [preencher]
-- Data e responsável pela revisão pública: [preencher]
+- Detalhes adicionais já liberados: [preencher]
+- Ajustes de continuidade ou fala exata, com fonte: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Esta pasta é pública. Preparação reservada, segredos e prompts de produção de HQ ficam fora deste repositório. Campos vazios não são fatos canônicos.
+> Segredos, preparação reservada e produção de HQ permanecem fora deste acervo público.

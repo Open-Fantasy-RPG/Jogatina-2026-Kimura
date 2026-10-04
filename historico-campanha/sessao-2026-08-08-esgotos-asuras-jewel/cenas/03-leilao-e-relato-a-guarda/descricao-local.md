@@ -2,19 +2,25 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-A fonte não fixa planta, endereço ou aparência do salão de leilão.
+O ambiente do leilão é definido pelo que ocorre nele: uma pessoa é oferecida, há participação de um aristocrata e Aeloria precisa escapar quando sua presença é percebida. Roupas caras são um detalhe observado do participante; não confirmam por si um palácio, salão luxuoso ou identidade.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-08-08-esgotos-asuras-jewel.md) — relato público, parágrafo 3.
+A cidade industrial serve de contexto externo para a investigação e para o contato posterior com a guarda. Não há imagem específica do recinto do leilão. O descritivo mantém livres a arquitetura, os acessos, a quantidade de participantes e o mobiliário, em vez de preencher essas lacunas com elementos de outra cena.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **asura-jewel.jpeg:** Mapa identificado como Asura’s Jewel; cidade murada industrial, bairros, canais, chaminés, portões e acessos a esgotos.
+- Pessoa com aptidão mágica apresentada no leilão.
+- Aristocrata com roupas caras e lance de 10.000 PO.
+- Aeloria como observadora descoberta; comunicação posterior à guarda.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+O texto combina o ambiente confirmado pela fonte com a leitura dos arquivos de referência. A disposição espacial não descrita continua aberta para revisão do mestre.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-08-08-esgotos-asuras-jewel.md) — relato público, parágrafo 3.
+
+## Referências visuais
 
 - [asura-jewel.jpeg](../../../referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg)
 
@@ -22,12 +28,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 Não existe imagem específica comprovada para o leilão. A proteção anterior de Sara aparece como antecedente, sem posição cronológica definida nesta sequência.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

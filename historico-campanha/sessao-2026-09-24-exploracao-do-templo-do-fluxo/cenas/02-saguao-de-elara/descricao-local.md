@@ -2,34 +2,39 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-Salão principal amplo com estátua central. Na sessão há poeira, desgaste, flâmulas danificadas e depredação.
+A imagem sustenta a composição principal: uma grande estátua de Elara junto a uma bancada de trabalho, elementos do canhão de mão, colunas, bandeiras e símbolos da ordem. Na cena jogada, esses elementos devem ser traduzidos para um ambiente abandonado e depredado. A poeira cobre o espaço, os acabamentos estão gastos e as flâmulas perderam a integridade. A imponência vem do que sobrevive, não de um salão recém-cuidado.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — transcrição, 00:09:11–00:14:28.
+À esquerda há o caminho indicado como galeria; à direita ficam biblioteca e Sala dos Mestres. A escultura funciona como centro de orientação e assunto da conversa. Pessoas, velas acesas e objetos adicionais visíveis na arte intacta não são ocupação atual confirmada. A narração não fixa toda a iluminação do saguão; evitar transformar a luz dramática da referência em um novo fenômeno.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **templo-saguao.jpeg:** Grande estátua feminina trabalhando em um canhão de mão, bandeiras azuis, símbolos solares, pedra, velas e instrumentos.
-- **templo-map-nivel1.jpeg:** Mapa identificado Nível I — O Templo Silencioso: entrada, vestíbulo, salão de Elara, galeria, biblioteca, sala dos mestres, acampamento e escadaria.
+- Estátua monumental de Santa Elara e representação do canhão de mão.
+- Poeira, desgaste e flâmulas danificadas.
+- Acessos indicados para galeria, biblioteca e Sala dos Mestres.
 
-**Ajuste obrigatório para esta sessão:** A imagem ilustra o auge do templo. O mestre afirma expressamente que o salão atual está muito mais depredado (00:09:11–00:09:33). Pessoas/cenografia da imagem não confirmam habitantes presentes na sessão.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+Estado canônico atual: ruínas. Preservar proporção, arquitetura e escultura da referência, aplicando a degradação narrada. Não recolocar habitantes ou serviço religioso em atividade.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — transcrição, 00:09:11–00:14:28.
+
+**Narração conferida:** [registro integral já público](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — 24/09, 00:09:11–00:09:56 e 00:13:05–00:14:28.
+
+## Referências visuais
 
 - [templo-saguao.jpeg](imagens/templo-saguao.jpeg)
 - [templo-map-nivel1.jpeg](../../referencias/mapas/templo-map-nivel1.jpeg)
 
 ## Pontos a confirmar
 
-Posições, medidas, enquadramento e detalhes sensoriais não expressos pela fonte permanecem abertos.
+A fonte acima delimita os fatos. Diálogos literais, posições e detalhes não registrados precisam de confirmação; não completar por suposição.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

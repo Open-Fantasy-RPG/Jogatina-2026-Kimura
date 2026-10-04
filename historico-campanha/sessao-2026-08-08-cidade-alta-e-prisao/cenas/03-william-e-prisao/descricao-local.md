@@ -2,20 +2,25 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-O mapa prisao.jpeg é referência espacial compartilhada para o arco de encarceramento.
+A sequência liga um encontro com a guarda à prisão de Asura. A planta disponível mostra alas de celas, corredores que conectam dependências e uma organização fortemente marcada por metal, grades e tubulações. Esses elementos orientam a aparência geral do cárcere, não o ponto exato da conversa com William.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-08-08-cidade-alta-e-prisao.md) — relato público, parágrafo 4.
+A entrada dos personagens na condição de presos é o estado final confirmado. O descritivo não distribui cada um em uma cela numerada nem escolhe, pela aparência do mapa, onde cartas são escritas ou bens são guardados.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **prisao.jpeg:** Planta vista de cima com alas de celas, corredores, dependências e tubulações; não há legenda de funções para todas as salas.
-- **asura-jewel.jpeg:** Mapa identificado como Asura’s Jewel; cidade murada industrial, bairros, canais, chaminés, portões e acessos a esgotos.
+- Sargento William e ordem de prisão.
+- Os três personagens passam a estar presos.
+- Carta de Aeloria solicitando ajuda a Halden.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+O texto combina o ambiente confirmado pela fonte com a leitura dos arquivos de referência. A disposição espacial não descrita continua aberta para revisão do mestre.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-08-08-cidade-alta-e-prisao.md) — relato público, parágrafo 4.
+
+## Referências visuais
 
 - [prisao.jpeg](../../../referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg)
 - [asura-jewel.jpeg](../../../referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg)
@@ -24,12 +29,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 Celas e trajeto de entrada específicos não estão identificados no registro.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

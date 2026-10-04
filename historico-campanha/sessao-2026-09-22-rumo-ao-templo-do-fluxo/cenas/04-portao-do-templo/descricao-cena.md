@@ -1,32 +1,40 @@
 # Chegada ao portão
 
-[Índice da sessão](../../README.md) · [Descritivo do local](descricao-local.md)
+[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-22-rumo-ao-templo-do-fluxo/04-portao-do-templo`
-- **Local:** Exterior do Templo do Fluxo / Ordem de Santa Elara
-- **Natureza:** organização editorial de conteúdo que já estava público; campos do mestre abaixo ainda não preenchidos.
-- **Fonte:** [registro público da sessão](../../sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md) — resumo público, Resumo da sessão, item 6 e encerramento da História da sessão.
+- **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
 
-## Fatos já registrados
+## Descritivo da cena
+
+Com a orientação de Tarvek, o grupo chega ao templo nas montanhas e encerra a sessão diante da entrada aberta. O lugar já traz marcas de abandono e de quem forçou acesso ao longo do tempo. A fachada monumental da referência ainda permite reconhecer a antiga ordem, mas o ambiente atual é uma ruína visitável, não um santuário intacto em pleno funcionamento.
+
+## Fatos e continuidade
 
 - O grupo chega à entrada aberta de um antigo templo.
 
-## Referências visuais
+## Referências
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md) — resumo público, Resumo da sessão, item 6 e encerramento da História da sessão.
+
+**Narração conferida:** [registro integral já público](../../sessao-2026-09-22-rumo-ao-templo-do-fluxo.md) — 22/09, 01:04:54–01:05:21 e 01:08:53–01:09:08; portão avariado retomado em 24/09 às 00:05:11.
+
+**Retomada do estado do portão:** [registro de 24/09](../../../sessao-2026-09-24-exploracao-do-templo-do-fluxo/sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — 00:05:11.
 
 - [tempo-portao.jpeg](../../../referencias-compartilhadas/locais/templo-do-fluxo-portao/imagens/tempo-portao.jpeg)
 
-Imagens são referências de ambiente/objeto. A presença de uma figura na arte não acrescenta automaticamente um participante à cena.
+## Coerência visual
 
-## Incertezas e limites
+Representar a fachada como ruína de uma construção outrora grandiosa. Preservar a imagem original como referência de desenho; uma eventual nova arte deverá incorporar o estado degradado.
+
+## Pontos ainda abertos
 
 A imagem mostra detalhes de fachada; a data e causa de cada dano não estão estabelecidas.
 
-## Edição do mestre — somente conteúdo liberado aos jogadores
+## Complementos públicos do mestre
 
-- Descritivo final da cena: [preencher]
-- Ambientação, sons e detalhes públicos confirmados: [preencher]
-- Ajustes de continuidade e ordem aprovados: [preencher]
-- Falas exatas aprovadas, com fonte: [preencher]
-- Data e responsável pela revisão pública: [preencher]
+- Detalhes adicionais já liberados: [preencher]
+- Ajustes de continuidade ou fala exata, com fonte: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Esta pasta é pública. Preparação reservada, segredos e prompts de produção de HQ ficam fora deste repositório. Campos vazios não são fatos canônicos.
+> Segredos, preparação reservada e produção de HQ permanecem fora deste acervo público.

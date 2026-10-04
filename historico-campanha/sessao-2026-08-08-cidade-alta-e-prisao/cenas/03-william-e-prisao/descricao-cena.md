@@ -1,34 +1,38 @@
 # William ordena a prisão
 
-[Índice da sessão](../../README.md) · [Descritivo do local](descricao-local.md)
+[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-08-08-cidade-alta-e-prisao/03-william-e-prisao`
-- **Local:** Cidade e prisão de Asura
-- **Natureza:** organização editorial de conteúdo que já estava público; campos do mestre abaixo ainda não preenchidos.
-- **Fonte:** [registro público da sessão](../../sessao-2026-08-08-cidade-alta-e-prisao.md) — relato público, parágrafo 4.
+- **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
 
-## Fatos já registrados
+## Descritivo da cena
+
+A tentativa de resolver a situação com William transforma a fuga inicial em encarceramento. A magia de influência usada por Kaelen piora a resposta do sargento, que ordena a prisão dos três. A carta de Aeloria a Halden passa a ligar o grupo preso ao contato conquistado anteriormente, sem estabelecer que uma resposta ou libertação já tenha ocorrido.
+
+## Fatos e continuidade
 
 - A tentativa de resolver o caso com William piora após magia de influência.
 - O sargento ordena a prisão dos três; Aeloria escreve a Halden.
 
-## Referências visuais
+## Referências
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-08-08-cidade-alta-e-prisao.md) — relato público, parágrafo 4.
 
 - [prisao.jpeg](../../../referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg)
 - [asura-jewel.jpeg](../../../referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg)
 
-Imagens são referências de ambiente/objeto. A presença de uma figura na arte não acrescenta automaticamente um participante à cena.
+## Coerência visual
 
-## Incertezas e limites
+Usar a imagem como apoio do ambiente descrito. Os elementos concretos e os limites de localização estão detalhados no arquivo do local.
+
+## Pontos ainda abertos
 
 Celas e trajeto de entrada específicos não estão identificados no registro.
 
-## Edição do mestre — somente conteúdo liberado aos jogadores
+## Complementos públicos do mestre
 
-- Descritivo final da cena: [preencher]
-- Ambientação, sons e detalhes públicos confirmados: [preencher]
-- Ajustes de continuidade e ordem aprovados: [preencher]
-- Falas exatas aprovadas, com fonte: [preencher]
-- Data e responsável pela revisão pública: [preencher]
+- Detalhes adicionais já liberados: [preencher]
+- Ajustes de continuidade ou fala exata, com fonte: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Esta pasta é pública. Preparação reservada, segredos e prompts de produção de HQ ficam fora deste repositório. Campos vazios não são fatos canônicos.
+> Segredos, preparação reservada e produção de HQ permanecem fora deste acervo público.

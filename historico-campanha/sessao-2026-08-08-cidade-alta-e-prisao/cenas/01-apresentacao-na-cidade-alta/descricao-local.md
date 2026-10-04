@@ -2,19 +2,25 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-A Cidade Alta é o contexto explicitado no relato. O mapa urbano fornece referência geral.
+O mapa de Asura’s Jewel apresenta uma cidade hierarquizada, com áreas elevadas e construções mais imponentes acima de bairros densos, canais e instalações industriais. Esse contexto dá escala à busca por hospedagem e reconhecimento na Cidade Alta.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-08-08-cidade-alta-e-prisao.md) — relato público, parágrafo 1.
+O palco, salão ou endereço da apresentação não é identificado no relato. No descritivo desta cena, os elementos centrais são a apresentação de Aeloria e a recepção de Halden. A imagem urbana orienta a transição de cenário e a silhueta da cidade; não fixa o interior do local em que os dois conversam.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **asura-jewel.jpeg:** Mapa identificado como Asura’s Jewel; cidade murada industrial, bairros, canais, chaminés, portões e acessos a esgotos.
+- Aeloria em apresentação.
+- Lorde Halden e a oportunidade de apresentação a Egberto.
+- Cidade Alta como contexto social e urbano.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+O texto combina o ambiente confirmado pela fonte com a leitura dos arquivos de referência. A disposição espacial não descrita continua aberta para revisão do mestre.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-08-08-cidade-alta-e-prisao.md) — relato público, parágrafo 1.
+
+## Referências visuais
 
 - [asura-jewel.jpeg](../../../referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg)
 
@@ -22,12 +28,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 O relato não identifica qual salão ou endereço recebeu a apresentação.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

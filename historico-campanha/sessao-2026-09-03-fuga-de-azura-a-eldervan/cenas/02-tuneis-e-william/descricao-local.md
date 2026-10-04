@@ -2,34 +2,37 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-Os túneis e a saída pertencem ao trajeto da fuga; a planta exata da saída não foi identificada.
+A cena articula o interior dos túneis com a saída vigiada. A prisão possui uma conexão subterrânea na referência cartográfica, mas não há comprovação suficiente para indicar o trajeto ou afirmar que a abertura desenhada é exatamente o ponto ocupado por William.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-09-03-fuga-de-azura-a-eldervan.md) — relato público, fim do parágrafo 3 e início do 4.
+Os elementos de escala humana são claros: o grupo, a guia que agora tem nome e os três homens que bloqueiam a passagem. A arquitetura detalhada da saída, sua iluminação e a distância até a estrada permanecem abertas. Não é preciso transformar o túnel em uma sala monumental ou um portal mágico.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **prisao.jpeg:** Planta vista de cima com alas de celas, corredores, dependências e tubulações; não há legenda de funções para todas as salas.
-- **jaina-woodward.jpeg:** Ficha ilustrada identificada como Jania Woodward; elfa com capuz escuro, cabelos castanhos, orelhas pontudas, arco, aljava e couro.
+- Túneis percorridos na fuga.
+- Jânia identificada pelo nome.
+- William e dois guardas na saída; passagem obtida por Sugestão.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+O texto combina o ambiente confirmado pela fonte com a leitura dos arquivos de referência. A disposição espacial não descrita continua aberta para revisão do mestre.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-03-fuga-de-azura-a-eldervan.md) — relato público, fim do parágrafo 3 e início do 4.
+
+## Referências visuais
 
 - [prisao.jpeg](../../../referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg)
 - [jaina-woodward.jpeg](../../../referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg)
 
 ## Pontos a confirmar
 
-Posições, medidas, enquadramento e detalhes sensoriais não expressos pela fonte permanecem abertos.
+A fonte acima delimita os fatos. Diálogos literais, posições e detalhes não registrados precisam de confirmação; não completar por suposição.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

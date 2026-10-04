@@ -1,33 +1,37 @@
 # Leilão e comunicação à guarda
 
-[Índice da sessão](../../README.md) · [Descritivo do local](descricao-local.md)
+[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-08-08-esgotos-asuras-jewel/03-leilao-e-relato-a-guarda`
-- **Local:** Local do leilão; cidade
-- **Natureza:** organização editorial de conteúdo que já estava público; campos do mestre abaixo ainda não preenchidos.
-- **Fonte:** [registro público da sessão](../../sessao-2026-08-08-esgotos-asuras-jewel.md) — relato público, parágrafo 3.
+- **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
 
-## Fatos já registrados
+## Descritivo da cena
+
+O deslocamento mágico malsucedido separa a experiência de Aeloria do percurso ordinário pelos túneis. Ela presencia o leilão de uma pessoa com aptidão mágica e observa um aristocrata de roupas caras fazendo um lance elevado. Ao ser descoberta, foge. A cena termina com o grupo levando as descobertas à guarda, sem registro de uma nova incursão ao leilão.
+
+## Fatos e continuidade
 
 - Aeloria presencia um leilão após um deslocamento mágico malsucedido.
 - Ela é descoberta e escapa; o grupo informa a guarda sobre as descobertas.
 
-## Referências visuais
+## Referências
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-08-08-esgotos-asuras-jewel.md) — relato público, parágrafo 3.
 
 - [asura-jewel.jpeg](../../../referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg)
 
-Imagens são referências de ambiente/objeto. A presença de uma figura na arte não acrescenta automaticamente um participante à cena.
+## Coerência visual
 
-## Incertezas e limites
+Usar a imagem como apoio do ambiente descrito. Os elementos concretos e os limites de localização estão detalhados no arquivo do local.
+
+## Pontos ainda abertos
 
 Não existe imagem específica comprovada para o leilão. A proteção anterior de Sara aparece como antecedente, sem posição cronológica definida nesta sequência.
 
-## Edição do mestre — somente conteúdo liberado aos jogadores
+## Complementos públicos do mestre
 
-- Descritivo final da cena: [preencher]
-- Ambientação, sons e detalhes públicos confirmados: [preencher]
-- Ajustes de continuidade e ordem aprovados: [preencher]
-- Falas exatas aprovadas, com fonte: [preencher]
-- Data e responsável pela revisão pública: [preencher]
+- Detalhes adicionais já liberados: [preencher]
+- Ajustes de continuidade ou fala exata, com fonte: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Esta pasta é pública. Preparação reservada, segredos e prompts de produção de HQ ficam fora deste repositório. Campos vazios não são fatos canônicos.
+> Segredos, preparação reservada e produção de HQ permanecem fora deste acervo público.

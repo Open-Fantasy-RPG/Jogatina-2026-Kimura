@@ -2,19 +2,27 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-Trilha nas montanhas ligada aos registros do Fluxo. Não há retrato confirmado de Tarvek neste acervo.
+A narração revisa a primeira ideia de marca desgastada e aceita uma formação de pedras cujo alinhamento revela o símbolo conforme o observador se move. Esse efeito de perspectiva é o sinal do lugar; não precisa ser substituído por uma inscrição brilhante ou mecanismo mágico.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md) — resumo público, Resumo da sessão, item 6 e História da sessão.
+A subida é longa e rochosa, com cuidado para distinguir apoios seguros de pedras que podem ceder. Tarvek é descrito como um goliath muito alto, de meia-idade, colhendo ervas próprias da montanha. Ele não tem retrato no acervo, mas esses traços e sua atividade estão presentes na fala do mestre. O encontro ocorre na subida, antes do portal.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **mapa.jpeg:** Mapa rotulado continente de Aeldria, com Asura e Erlingheim, cidades e fronteira. As rotas dos personagens não estão desenhadas.
+- Formação de rochas que compõe o símbolo de Santa Elara conforme o ângulo.
+- Caminhos de subida, apoios rochosos e pedras potencialmente soltas.
+- Tarvek, goliath de meia-idade, coletando ervas e oferecendo uma poção.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+Não transformar o símbolo em nova runa ativa ou fixar roupas/armas de Tarvek sem fonte.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md) — resumo público, Resumo da sessão, item 6 e História da sessão.
+
+**Narração conferida:** [registro integral já público](../../sessao-2026-09-22-rumo-ao-templo-do-fluxo.md) — 22/09, 00:54:25–00:56:40 e 01:00:21–01:06:35.
+
+## Referências visuais
 
 - [mapa.jpeg](../../../referencias-compartilhadas/mapas/aeldria/imagens/mapa.jpeg)
 
@@ -22,12 +30,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 Coordenadas, duração exata de cada etapa e aparência de Tarvek não devem ser preenchidas por suposição.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

@@ -2,22 +2,28 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-Continuar o cenário da cena 08. A barreira de jaulas surge durante o combate e altera a circulação; não é parede original do mapa.
+A base ambiental continua sendo a das Jaulas de Observação: subterrâneo sem janelas, luz artificial fraca, restos antigos e estruturas deterioradas. A barreira formada pela queda das jaulas é uma transformação ocorrida durante o confronto. Antes disso, o obstáculo não deve aparecer como parede permanente; depois, ele interfere no movimento, nas linhas de ataque e na posição dos seres caninos.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — transcrição, 01:10:19–01:52:07.
+A primeira imagem de criatura oferece a forma escura, os membros alongados, a máscara clara e a névoa que ajudam a representar a sombra. A segunda fornece o aspecto canino alterado, musculatura exposta, tubos e recipiente verde. A narração confirma os tipos gerais e seus comportamentos, mas não nomeia espécie ou poderes adicionais. No encerramento, os adversários foram neutralizados; a sombra se dissipa. A iluminação verde/azulada do lugar não deve ser confundida automaticamente com emissão de luz de cada monstro.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **templo-criatura1.jpeg:** Criatura escura de membros/garras alongados, máscara clara, ramificações e névoa roxa.
-- **templo-criatura2.jpeg:** Quadrúpede de aspecto canino/humano alterado, musculatura exposta, tubos, frasco verde e reforços mecânicos.
-- **templo-sub2-lab-map.jpeg:** Recorte de planta com jaulas e rótulo 2 — Jaulas de Observação.
-- **tempple-sub2-lab.jpeg:** Corredor de laboratório com grades, mesas, frascos, ilustrações anatômicas, correntes e figuras nas celas.
+- Dois seres caninos alterados e uma sombra no encontro.
+- Barreira de jaulas caída durante a interferência mágica.
+- Jânia e o grupo manobrando entre obstáculos; deslocamentos da sombra.
+- Adversários neutralizados no encerramento da sessão.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+Conservar a continuidade da sala e mostrar a alteração do terreno no momento correto. As imagens das criaturas não autorizam novos adversários, nomes formais ou estatísticas.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — transcrição, 01:10:19–01:52:07.
+
+**Narração conferida:** [registro integral já público](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — 24/09, 01:10:19–01:52:07; queda das jaulas em 01:19:32–01:20:15.
+
+## Referências visuais
 
 - [templo-criatura1.jpeg](imagens/templo-criatura1.jpeg)
 - [templo-criatura2.jpeg](imagens/templo-criatura2.jpeg)
@@ -28,12 +34,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 Nomes formais/espécies das criaturas não foram confirmados. Não importar estatísticas de outras criaturas. As hipóteses dos personagens sobre os experimentos não resolvem sua causa.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

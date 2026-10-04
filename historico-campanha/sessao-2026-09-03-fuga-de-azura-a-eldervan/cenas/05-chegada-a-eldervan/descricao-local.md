@@ -2,21 +2,25 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-Os dois arquivos de Eldervan oferecem mapa e ambientação geral da cidade.
+Para estabelecer Eldervan, as imagens apresentam troncos brancos de enorme escala, construções integradas às árvores e pontes que ligam plataformas e salões elevados. A folhagem, as quedas-d’água e as linhas orgânicas diferenciam a cidade das muralhas e chaminés de Asura.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-09-03-fuga-de-azura-a-eldervan.md) — relato público, parágrafo final.
+O mapa nomeia diversos pontos, mas esta cena não afirma que o grupo os visita ao chegar. A referência de ambiente pode ser usada como vista geral da cidade; o trajeto específico conduzido por Jânia e o interior do salão do lorde serão tratados no registro da audiência.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **eldervan.jpeg:** Mapa rotulado Eldervan, Cidade Élfica de Erlingheim, com tronco branco central, pontes, salão, Mercado das Raízes e outros pontos identificados.
-- **eldervan-2.jpeg:** Arquitetura clara integrada a troncos brancos, passarelas entre árvores, varandas e quedas-d’água.
-- **jaina-woodward.jpeg:** Ficha ilustrada identificada como Jania Woodward; elfa com capuz escuro, cabelos castanhos, orelhas pontudas, arco, aljava e couro.
+- Eldervan como destino alcançado.
+- Arquitetura arbórea e pontes nas referências visuais.
+- Jânia e os três viajantes no encerramento do percurso.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+A arquitetura orgânica também é confirmada pela narração de 17/09; aqui ela ambienta a chegada, sem transferir os acontecimentos da audiência para esta data.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-03-fuga-de-azura-a-eldervan.md) — relato público, parágrafo final.
+
+## Referências visuais
 
 - [eldervan.jpeg](../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg)
 - [eldervan-2.jpeg](../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan-2.jpeg)
@@ -26,12 +30,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 O momento da chegada não possui enquadramento específico confirmado.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

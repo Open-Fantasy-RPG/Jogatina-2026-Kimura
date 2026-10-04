@@ -5,6 +5,10 @@
 - Local: [link para descricao-local.md]
 - Fonte pública: [arquivo, trecho, marcador de tempo ou linhas]
 
+## Descritivo da cena
+
+[Prosa baseada na narração do mestre e no ambiente visual coerente. Descrever o momento e sua mudança de estado sem inventar acontecimentos.]
+
 ## Fatos já registrados
 
 [Somente fatos sustentados pela fonte; atribuir rumores e interpretações.]

@@ -2,19 +2,28 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-O acervo da biblioteca está degradado. O mapa nomeia os ambientes; a fonte descreve objetos antigos, sem corpo ou sinal de luta no acampamento.
+A biblioteca já foi majestosa, mas boa parte do acervo se degradou. Restam documentos sobre magia, tecnologia, engenharia, runas, química e o Fluxo, além de alguns volumes de um grão-mestre em bom estado. Correspondências registram pedidos de apoio e respostas de representantes de Asura e Erlingheim, sem identificar o lorde atual como autor.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — transcrição, 00:14:38–00:32:07.
+Na Sala dos Mestres, retratos de dirigentes antigos apresentam pintura craquelada; o último mostra um homem mais velho, altivo e com vestes mais nobres, sem placa nem objeto nas mãos. A poeira espessa conserva rastros mais finos sob uma cadeira deslocada e marcas de pés, atribuídos a visitas de anos anteriores. A busca encontra pergaminhos de magia e três poções de cura em armazenamento; a narração menciona baú, sem confirmar se todos estavam no mesmo recipiente. Ao final do corredor, a tenda, os poucos suprimentos, a comida deteriorada e uma bolsa compõem um acampamento antigo, aparentemente preparado para partida. Não há cadáver, esqueleto ou sinal de luta nesse acampamento.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **templo-map-nivel1.jpeg:** Mapa identificado Nível I — O Templo Silencioso: entrada, vestíbulo, salão de Elara, galeria, biblioteca, sala dos mestres, acampamento e escadaria.
+- Acervo degradado, livros preservados e correspondências na biblioteca.
+- Retratos craquelados, último retrato sem placa e sinais antigos de movimentação na poeira.
+- Pergaminhos de magia e três poções de cura; a narração associa os achados a baú, sem consolidar a distribuição.
+- Tenda, bolsa, poucas provisões deterioradas e carta endereçada a Miriam no acampamento.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+O mapa organiza três ambientes distintos. Não reduzir tudo a uma única biblioteca nem fazer o acampamento parecer recém-ocupado.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — transcrição, 00:14:38–00:32:07.
+
+**Narração conferida:** [registro integral já público](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — 24/09, 00:14:38–00:20:37, 00:23:12–00:25:56 e 00:27:10–00:32:07.
+
+## Referências visuais
 
 - [templo-map-nivel1.jpeg](../../referencias/mapas/templo-map-nivel1.jpeg)
 
@@ -22,12 +31,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 Não identificar o grão-mestre sem nome por dedução. As conclusões sobre intenções da ordem precisam permanecer atribuídas às fontes.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

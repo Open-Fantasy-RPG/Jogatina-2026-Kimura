@@ -4,7 +4,11 @@
 
 ## Descrição confirmada pelo registro
 
-[Estado do local nesta sessão, fonte e acesso já conhecido.]
+[Prosa com aparência e conservação atuais, elementos presentes e relações espaciais conhecidas. Acrescentar luz e sons somente com fonte. A narração do mestre prevalece quando uma imagem mostra outro estado do lugar.]
+
+## Elementos presentes e mudanças ao longo da cena
+
+[Listar o que está confirmado; distinguir antes/depois de reparos, destruições e mudanças no terreno.]
 
 ## Observação das imagens
 

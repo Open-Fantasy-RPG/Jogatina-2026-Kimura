@@ -1,33 +1,37 @@
 # Apresentação e convite
 
-[Índice da sessão](../../README.md) · [Descritivo do local](descricao-local.md)
+[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-08-08-cidade-alta-e-prisao/01-apresentacao-na-cidade-alta`
-- **Local:** Cidade Alta de Asura’s Jewel
-- **Natureza:** organização editorial de conteúdo que já estava público; campos do mestre abaixo ainda não preenchidos.
-- **Fonte:** [registro público da sessão](../../sessao-2026-08-08-cidade-alta-e-prisao.md) — relato público, parágrafo 1.
+- **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
 
-## Fatos já registrados
+## Descritivo da cena
+
+Aeloria se apresenta e chama a atenção de Lorde Halden, ligado à indústria têxtil. A oportunidade de chegar a Egberto nasce dessa recepção. O contraste visual útil é entre o prestígio pretendido na Cidade Alta e a grande cidade industrial do mapa; a cena não requer inventar uma corte inteira ou transformar a oportunidade futura numa apresentação já realizada.
+
+## Fatos e continuidade
 
 - A apresentação de Aeloria impressiona Lorde Halden.
 - Halden consegue uma oportunidade de apresentação diante de Egberto.
 
-## Referências visuais
+## Referências
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-08-08-cidade-alta-e-prisao.md) — relato público, parágrafo 1.
 
 - [asura-jewel.jpeg](../../../referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg)
 
-Imagens são referências de ambiente/objeto. A presença de uma figura na arte não acrescenta automaticamente um participante à cena.
+## Coerência visual
 
-## Incertezas e limites
+Usar a imagem como apoio do ambiente descrito. Os elementos concretos e os limites de localização estão detalhados no arquivo do local.
+
+## Pontos ainda abertos
 
 O relato não identifica qual salão ou endereço recebeu a apresentação.
 
-## Edição do mestre — somente conteúdo liberado aos jogadores
+## Complementos públicos do mestre
 
-- Descritivo final da cena: [preencher]
-- Ambientação, sons e detalhes públicos confirmados: [preencher]
-- Ajustes de continuidade e ordem aprovados: [preencher]
-- Falas exatas aprovadas, com fonte: [preencher]
-- Data e responsável pela revisão pública: [preencher]
+- Detalhes adicionais já liberados: [preencher]
+- Ajustes de continuidade ou fala exata, com fonte: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Esta pasta é pública. Preparação reservada, segredos e prompts de produção de HQ ficam fora deste repositório. Campos vazios não são fatos canônicos.
+> Segredos, preparação reservada e produção de HQ permanecem fora deste acervo público.

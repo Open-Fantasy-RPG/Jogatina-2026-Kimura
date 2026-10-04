@@ -2,20 +2,27 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-A Vila das Canções aparece nomeada no mapa de Eldervan. A imagem da cidade não fixa o palco ou salão da performance.
+A Vila das Canções é um ponto nomeado no mapa de Eldervan, integrado à mesma arquitetura de árvores e plataformas. O mestre descreve pessoas conversando e rindo, vinho nas mãos, músicos de alaúde e harpa e apresentações de dança ou artes cênicas. Esses sons e atividades são parte confirmada da ambientação, não adornos sugeridos sem fonte.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-09-17-audiencia-em-eldervan-resumo.md) — resumo público, Eventos principais 21–22 e 25–27.
+O clima de convivência leve contrasta com a sobriedade comercial atribuída a Asura. Ainda há comentários preocupados sobre a guerra, mas não dominam todos os presentes. A posição do palco, o tamanho do público e o interior exato de um estabelecimento não foram fixados.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **eldervan.jpeg:** Mapa rotulado Eldervan, Cidade Élfica de Erlingheim, com tronco branco central, pontes, salão, Mercado das Raízes e outros pontos identificados.
-- **eldervan-2.jpeg:** Arquitetura clara integrada a troncos brancos, passarelas entre árvores, varandas e quedas-d’água.
+- Frequentadores conversando, rindo e bebendo vinho.
+- Alaúde, harpa, dança e outras apresentações.
+- Aeloria em performance e conversas com mercadores/frequentadores.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+O mapa localiza o ponto de interesse; não fornece um palco obrigatório nem uma planta do evento.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-17-audiencia-em-eldervan-resumo.md) — resumo público, Eventos principais 21–22 e 25–27.
+
+**Narração conferida:** [registro integral já público](../../sessao-2026-09-17-audiencia-em-eldervan.md) — 17/09, narração do mestre em 00:49:55–00:51:34; demais resultados no resumo público.
+
+## Referências visuais
 
 - [eldervan.jpeg](../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg)
 - [eldervan-2.jpeg](../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan-2.jpeg)
@@ -24,12 +31,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 Rumores são relatos de NPCs, não comprovação independente dos acontecimentos no norte.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

@@ -2,22 +2,27 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-Salão de refeições de Eldervan; usar o acervo da cidade e o retrato do lorde como referência geral.
+O salão pertence à mesma arquitetura viva de Eldervan, ligada aos grandes troncos brancos. Para esta manhã, a narração acrescenta o banquete: comidas variadas, frutas e sucos servidos por pessoas que reconhecem a canção de Aeloria. O som breve da melodia é um detalhe de continuidade entre a performance anterior e a nova audiência.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md) — resumo público, Resumo da sessão, itens 1–4.
+O ambiente deve parecer ocupado e preparado para receber os convidados, sem importar a deterioração do templo que eles visitarão depois. A mesa e a cerimônia enquadram uma conversa, não um casamento formal. Manuscritos, notas e brochuras são entregues como pistas e referências para a investigação.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **eldervan.jpeg:** Mapa rotulado Eldervan, Cidade Élfica de Erlingheim, com tronco branco central, pontes, salão, Mercado das Raízes e outros pontos identificados.
-- **eldervan-2.jpeg:** Arquitetura clara integrada a troncos brancos, passarelas entre árvores, varandas e quedas-d’água.
-- **lord-ilidan.jpeg:** Retrato rotulado Lorde Illyrion Strider; elfo de cabelos longos claros, vestes claras com motivos vegetais e cajado.
-- **jaina-woodward.jpeg:** Ficha ilustrada identificada como Jania Woodward; elfa com capuz escuro, cabelos castanhos, orelhas pontudas, arco, aljava e couro.
+- Jânia conduzindo o grupo a partir dos aposentos.
+- Lorde, convidados, serviço de frutas/sucos/comidas e música cantarolada.
+- Manuscritos e registros sobre Santa Elara e o Fluxo.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+Usar as imagens de Eldervan para a estrutura orgânica; o conteúdo do banquete vem da narração.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md) — resumo público, Resumo da sessão, itens 1–4.
+
+**Narração conferida:** [registro integral já público](../../sessao-2026-09-22-rumo-ao-templo-do-fluxo.md) — 22/09, narração do mestre em 00:05:01–00:05:06 e 00:08:59–00:10:28; entrega de registros no resumo.
+
+## Referências visuais
 
 - [eldervan.jpeg](../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg)
 - [eldervan-2.jpeg](../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan-2.jpeg)
@@ -28,12 +33,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 Não tratar brincadeiras ou interpretações sobre o anel como casamento efetivamente realizado.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.

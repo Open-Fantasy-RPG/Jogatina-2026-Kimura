@@ -2,20 +2,27 @@
 
 [Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
 
-## Descrição sustentada pelo registro público
+## Descritivo do ambiente
 
-A antessala antecede o salão principal. É uma porta interna; o portão externo já estava aberto/danificado.
+A antessala separa o portão externo avariado do interior do templo. As paredes exibem comentários de visitantes de aparência relativamente recente em comparação com a idade da construção. A porta interna, ao contrário do acesso externo arrombado, conserva os mecanismos funcionando e mostra sinais de ter sido aberta antes.
 
-**Fonte:** [registro público da sessão](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — transcrição, 00:00:00–00:08:47.
+Há uma runa do lado esquerdo e uma manivela do lado direito. Pela fresta, é possível distinguir pouco do salão além, incluindo livros e uma estátua. O mapa do nível I ajuda a entender a relação entre entrada, vestíbulo e salão, mas a aparência atual é de abandono e desgaste. A visão completa do saguão só se estabelece depois da abertura.
 
-## O que se vê nas referências
+## O que está presente nesta sequência
 
-- **templo-map-nivel1.jpeg:** Mapa identificado Nível I — O Templo Silencioso: entrada, vestíbulo, salão de Elara, galeria, biblioteca, sala dos mestres, acampamento e escadaria.
-- **tempo-portao.jpeg:** Portal de pedra nas montanhas, neve, esculturas laterais, inscrição Ordem de Santa Elara e portas abertas/danificadas.
+- Comentários de visitantes nas paredes da antessala.
+- Porta interna, runa à esquerda e manivela à direita.
+- Poeira e sinais de acesso anterior; visão parcial de livros e estátua pela fresta.
 
-A leitura visual descreve o arquivo; não confirma um acontecimento ou uma função de sala ausente do registro.
+## Narração e imagem: aplicação nesta cena
 
-## Imagens associadas
+Não desenhar a porta interna arrombada nem confundi-la com o portal externo. O mecanismo está conservado o suficiente para funcionar.
+
+**Fonte principal:** [registro público da sessão](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — transcrição, 00:00:00–00:08:47.
+
+**Narração conferida:** [registro integral já público](../../sessao-2026-09-24-exploracao-do-templo-do-fluxo.md) — 24/09, 00:00:09–00:00:41, 00:03:11–00:08:47.
+
+## Referências visuais
 
 - [templo-map-nivel1.jpeg](../../referencias/mapas/templo-map-nivel1.jpeg)
 - [tempo-portao.jpeg](../../../referencias-compartilhadas/locais/templo-do-fluxo-portao/imagens/tempo-portao.jpeg)
@@ -24,12 +31,10 @@ A leitura visual descreve o arquivo; não confirma um acontecimento ou uma funç
 
 O texto estima antiguidade, sem fechar data exata do abandono.
 
-## Edição do mestre — local público
+## Complementos públicos do mestre
 
-- Aparência e estado de conservação aprovados: [preencher]
-- Iluminação, materiais, cores e escala confirmados: [preencher]
-- Entradas, saídas e relações espaciais confirmadas: [preencher]
-- Diferenças entre imagem de referência e cena jogada: [preencher]
-- Revisão pública (data/responsável): [preencher]
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
 
-> Não acrescentar segredos, áreas ainda não liberadas ou decisões futuras. Para HQ, ler também a cena e as referências completas dos personagens; este arquivo não autoriza publicação de novas artes.
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.
