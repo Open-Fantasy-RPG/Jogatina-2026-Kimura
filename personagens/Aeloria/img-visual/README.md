@@ -5,6 +5,7 @@ Ponto de consulta para ilustrações, VTT e HQs. Aparência, interpretação, re
 ## Referência principal
 
 - [Descrição visual e interpretação completas](descricao.md)
+- [Assinaturas gráficas de magias e golpes](assinaturas-graficas.md) — propostas de identidade visual, com fontes e limites de continuidade.
 - [Retrato aprovado — v0002](aeloria-retrato-v0002.png)
 - [Prancha de referência — v0002](aeloria-referencia-v0002.png): frente, perfil esquerdo, 3/4, costas, caminhada e apresentação com a lira
 - [Estudo de ataque e defesa — duas adagas](aeloria-ataque-defesa-v0001.png): movimentos controlados com o equipamento registrado
@@ -22,3 +23,4 @@ O retrato foi aprovado pelo jogador em 4 de outubro de 2026 e orienta este pilot
 As fichas originais permanecem intactas. A ficha anterior continua junto às fichas de níveis anteriores. Novas vistas, poses e tokens devem manter a identidade aprovada e ser relacionados neste índice.
 
 [Pasta principal de Aeloria](../README.md)
+

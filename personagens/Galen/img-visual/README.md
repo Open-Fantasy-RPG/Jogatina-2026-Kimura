@@ -5,6 +5,7 @@ Ponto de consulta para ilustrações e HQs. O descritivo visual fica nesta pasta
 ## Referências disponíveis
 
 - [Descrição visual e referências](descricao.md)
+- [Assinaturas gráficas de magias e golpes](assinaturas-graficas.md) — propostas de identidade visual, com fontes e limites de continuidade.
 - [Identidade e trajetória do personagem](../README.md)
 
 ## Piloto visual em revisão
@@ -28,3 +29,4 @@ O conjunto apresenta o mesmo Galen em duas opções de vestuário. Preservar ros
 - [Token VTT circular, PNG transparente](galen-token-vtt-cota-de-malha-v0001.png)
 
 A cota de malha e a maça asurana têm fontes de sessão registradas no [descritivo visual](descricao.md). As duas opções de roupa não estabelecem uma cronologia de troca de equipamento. As sugestões e os detalhes ainda não confirmados continuam identificados no descritivo.
+
