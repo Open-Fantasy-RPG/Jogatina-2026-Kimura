@@ -20,7 +20,7 @@ Uma postura firme, voltada para a proteção dos companheiros, pode distinguir G
 
 ## Referências
 
-- [Identidade, arma e trajetória registradas](README.md)
-- [Kaelen, seu irmão](../kaelen/README.md)
+- [Identidade, arma e trajetória registradas](../README.md)
+- [Kaelen, seu irmão](../../kaelen/README.md)
 
 **Referência de imagem:** não há retrato de Galen nos arquivos publicados consultados. A aparência física permanece em aberto até o jogador fornecer ou confirmar uma referência.

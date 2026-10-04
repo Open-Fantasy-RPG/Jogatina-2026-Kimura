@@ -21,9 +21,9 @@ Como proposta visual, usar tecidos em cinza e castanho e poucos adornos pode ref
 
 ## Referências
 
-- [Identidade e trajetória registradas](README.md)
-- [História e filosofia do Fluxo](../Kaelen%20Vane/historia-e-fluxo.md)
-- [Espada, magia e interpretação](../Kaelen%20Vane/espada-e-magia.md)
-- [Ficha consolidada e equipamento](../Kaelen%20Vane/ficha-nivel-3.md)
+- [Identidade e trajetória registradas](../README.md)
+- [História e filosofia do Fluxo](../historia-e-fluxo.md)
+- [Espada, magia e interpretação](../espada-e-magia.md)
+- [Ficha consolidada e equipamento](../ficha-nivel-3.md)
 
-**Referência de imagem:** não há retrato de Kaelen nos arquivos publicados consultados. O [dossiê de origem](../Kaelen%20Vane/README.md) menciona uma imagem ainda não recuperada. Este perfil usa os textos disponíveis e não fixa uma aparência facial.
+**Referência de imagem:** não há retrato de Kaelen nos arquivos publicados consultados. O [dossiê de origem](../dossie-de-origem.md) menciona uma imagem ainda não recuperada. Este perfil usa os textos disponíveis e não fixa uma aparência facial.

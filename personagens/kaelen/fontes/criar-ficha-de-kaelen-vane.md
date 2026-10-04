@@ -201,7 +201,7 @@ apresentar essa ficha com o design da lore
 
 Criei a ficha com visual arcano-industrial do Fluxo, pronta para imprimir ou usar no celular:
 
-[Baixar a ficha de Kaelen Vane](/C:/Users/Rodrigo/Documents/Codex/2026-08-08/referenced-chatgpt-conversation-this-is-an/outputs/Kaelen_Vane_Ficha_do_Fluxo.docx)
+[Baixar a ficha de Kaelen Vane](../historico/Kaelen_Vane_Ficha_do_Fluxo.docx)
 
 :codex-file-citation{path="C:\Users\Rodrigo\Documents\Codex\2026-08-08\referenced-chatgpt-conversation-this-is-an\outputs\Kaelen_Vane_Ficha_do_Fluxo.docx" purpose="output"}
 
@@ -222,7 +222,7 @@ Ficha atualizada:
 - O escudo físico foi removido; a **CA agora é 15**.
 - **Onda de Choque** substitui Mísseis Mágicos, usando as regras de **Onda Trovejante**.
 
-[Baixar a versão atualizada](/C:/Users/Rodrigo/Documents/Codex/2026-08-08/referenced-chatgpt-conversation-this-is-an/outputs/Kaelen_Vane_Ficha_do_Fluxo.docx)
+[Baixar a versão atualizada](../historico/Kaelen_Vane_Ficha_do_Fluxo.docx)
 
 ---
 
@@ -235,7 +235,7 @@ colocar a minha armadura com CA+2
 
 Atualizei a ficha: **Armadura de Couro +2**, CA **17**, sem escudo físico.
 
-[Baixar a ficha atualizada](/C:/Users/Rodrigo/Documents/Codex/2026-08-08/referenced-chatgpt-conversation-this-is-an/outputs/Kaelen_Vane_Ficha_do_Fluxo.docx)
+[Baixar a ficha atualizada](../historico/Kaelen_Vane_Ficha_do_Fluxo.docx)
 
 ---
 
@@ -248,7 +248,7 @@ atualizar minha armadura para uma de couro batido 12
 
 Atualizada para **Armadura de Couro Batido** (CA base 12). Sem escudo, a CA fica em **16**.
 
-[Baixar a ficha atualizada](/C:/Users/Rodrigo/Documents/Codex/2026-08-08/referenced-chatgpt-conversation-this-is-an/outputs/Kaelen_Vane_Ficha_do_Fluxo.docx)
+[Baixar a ficha atualizada](../historico/Kaelen_Vane_Ficha_do_Fluxo.docx)
 
 ---
 
@@ -261,7 +261,7 @@ poderia gerar essa ficha em versão web
 
 Criei a versão web responsiva da ficha, com o design do Fluxo e todos os ajustes atuais.
 
-[Abra a ficha web de Kaelen Vane](/C:/Users/Rodrigo/Documents/Codex/2026-08-08/referenced-chatgpt-conversation-this-is-an/outputs/kaelen-vane-ficha-web.html)
+[Abra a ficha web de Kaelen Vane](../historico/kaelen-vane-ficha-web.html)
 
 ---
 
@@ -300,6 +300,6 @@ gerar isso em um link de web
 
 A ficha já pode ser aberta como página web aqui:
 
-[Kaelen Vane — Ficha Web](/C:/Users/Rodrigo/Documents/Codex/2026-08-08/referenced-chatgpt-conversation-this-is-an/outputs/kaelen-vane-ficha-web.html)
+[Kaelen Vane — Ficha Web](../historico/kaelen-vane-ficha-web.html)
 
 Se você quer um link público, acessível por qualquer pessoa na internet, preciso que você escolha onde publicar (por exemplo, Vercel, GitHub Pages ou Netlify).

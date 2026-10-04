@@ -17,3 +17,13 @@
 - Não criar links, imagens ou anexos na área dos jogadores que exponham material da pasta externa do mestre. Não presumir que um fato jogado está automaticamente autorizado para publicação.
 - Manter o README da raiz administrativo, sem segredos ou acontecimentos da campanha.
 - Os nomes canônicos são Aeloria, Kaelen (Digo) e Galen (Tata). Preservar transcrições originais como material reservado.
+
+## Pastas canônicas e acervo visual dos personagens
+
+- Usar uma única pasta por personagem: `personagens/aeloria/`, `personagens/kaelen/` e `personagens/galen/`. Aeloria não deve ser duplicada por diferença entre maiúsculas e minúsculas. Kaelen e Kaelen Vane são o mesmo personagem; o nome canônico da pasta é `kaelen/`.
+- Guardar retratos, referências de frente e perfil, poses de ação, tokens e descritivos visuais em `img-visual/`, dentro da pasta correspondente. O texto visual fica em `img-visual/descricao.md`; manter `img-visual/README.md` como índice dos arquivos existentes e das referências completas.
+- Antes de criar ilustrações ou HQs, consultar o índice visual, o descritivo e os documentos completos de aparência, interpretação e equipamento ali vinculados. Não tratar sugestões ou detalhes pendentes como decisões confirmadas.
+- Preservar os documentos completos de história, background, vida, interpretação, mecânica e progressão em suas subestruturas próprias, fora de `img-visual/`. Não substituir textos completos por resumos visuais.
+- Fichas visuais históricas que já acompanham níveis anteriores podem permanecer nesse histórico, com link no índice visual; não duplicar arquivos grandes para reorganizá-los.
+- Na unificação ou movimentação, preservar arquivos distintos, revisar referências relativas e índices e conferir colisões de nomes em sistemas sem diferenciação de maiúsculas e minúsculas. O antigo índice de Kaelen Vane fica preservado em `personagens/kaelen/dossie-de-origem.md`.
+- Prompts de produção, planejamento de HQ e material reservado do mestre permanecem na área privada autorizada. Só publicar novos textos ou imagens após a aprovação exigida nas regras acima.

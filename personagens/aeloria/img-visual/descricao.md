@@ -1,6 +1,6 @@
 # Aeloria — Resumo visual
 
-Atalho para consulta rápida e ilustrações. A descrição completa continua em [Aparência e Interpretação](interpretacao.md), e a biografia em [História de Aeloria](../Aeloria/historia-background.md). Esses textos são as referências principais e permanecem integralmente preservados; este resumo não os substitui.
+Atalho para consulta rápida e ilustrações. A descrição completa continua em [Aparência e Interpretação](../interpretacao.md), e a biografia em [História de Aeloria](../historia-background.md). Esses textos são as referências principais e permanecem integralmente preservados; este resumo não os substitui.
 
 ## Aparência em poucas linhas
 
@@ -16,5 +16,5 @@ Como sugestão opcional, o jogador pode confirmar quais detalhes do penteado e d
 
 ## Outros documentos
 
-- [Equipamento e instrumento](equipamentos-e-combate.md)
-- [Pasta principal e ficha atual](README.md)
+- [Equipamento e instrumento](../equipamentos-e-combate.md)
+- [Pasta principal e ficha atual](../README.md)

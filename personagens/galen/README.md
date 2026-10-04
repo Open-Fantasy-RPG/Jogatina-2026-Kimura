@@ -1,6 +1,6 @@
 # Galen — Tata
 
-[Descrição breve e referências visuais](descricao.md) — base para revisão do jogador.
+[Descrição breve e referências visuais](img-visual/descricao.md) — base para revisão do jogador.
 
 **Paladino do Juramento da Vingança • Nível 4 • GAR15**
 
@@ -25,3 +25,7 @@ Possui uma **maça +1 asurana**: seu mecanismo abre espinhos e produz descargas 
 Chegou a Eldervan com o irmão, Aeloria e Jânia. Seu vínculo familiar é tensionado pelo comportamento de Kaelen. Sua defesa de limites morais pode contribuir para reconstruir a confiança de Jânia, mas não resolve automaticamente a situação do grupo.
 
 Seu conflito central é conciliar vingança, justiça, proteção e lealdade ao irmão. Não há decisão registrada sobre punição, perdão ou reparação pelas mortes.
+
+## Referências visuais
+
+- [Acervo visual e referências para ilustrações](img-visual/README.md)

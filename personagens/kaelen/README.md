@@ -1,6 +1,6 @@
 # Kaelen — Digo
 
-[Descrição breve e referências visuais](descricao.md) — base para revisão do jogador.
+[Descrição breve e referências visuais](img-visual/descricao.md) — base para revisão do jogador.
 
 **Humano • Guerreiro Cavaleiro Arcano (Eldritch Knight) • Nível 4 • GAR15**
 
@@ -28,3 +28,18 @@ Kaelen busca preservar o equilíbrio ensinado por Oryn.
 Galen condenou as mortes na prisão. Jânia ficou abalada e desconfiada. Aeloria ajudou a preservar sua liberdade durante a viagem. Kaelen chegou a Eldervan como fugitivo e precisa conviver com as consequências de seus atos.
 
 Seu conflito central é a distância entre o equilíbrio ensinado por Oryn e suas escolhas de violência e vingança. A forma de responder a isso cabe ao jogador.
+
+## Documentos e referências
+
+Kaelen e Kaelen Vane são o mesmo personagem. O material antes separado está reunido nesta pasta.
+
+- [Acervo visual e referências para ilustrações](img-visual/README.md)
+- [Dossiê de origem e índice completo](dossie-de-origem.md)
+- [Background original](Background.md)
+- [História e filosofia do Fluxo](historia-e-fluxo.md)
+- [Ficha registrada — nível 3](ficha-nivel-3.md)
+- [Espada, magia e interpretação](espada-e-magia.md)
+- [Progressão planejada](progressao.md)
+- [Fontes, divergências e pendências](fontes-e-pendencias.md)
+- [Documentos históricos](historico/)
+- [Fontes de origem](fontes/)

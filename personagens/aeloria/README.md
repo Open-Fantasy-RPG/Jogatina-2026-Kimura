@@ -1,6 +1,6 @@
 # Aeloria
 
-[Resumo visual](descricao.md) — consulta rápida com links para a descrição completa e a história.
+[Resumo visual](img-visual/descricao.md) — consulta rápida com links para a descrição completa e a história.
 
 > “Eu me lembro dela. Quando tocava, o vento parecia parar para ouvir.”
 
@@ -55,12 +55,15 @@ O último registro termina com a **chegada a Eldervan em 03/09/2026 e avanço ao
 
 ## Documentos
 
+- [Acervo visual e referências para ilustrações](img-visual/README.md)
+- [Histórias adicionais da personagem](Historias-background-adicionais/)
+
 - [Ficha mecânica atual — nível 4](ficha-nivel-4.md)
-- [Ficha visual atual — nível 4](ficha-nivel-4-magias-completas-v3.png)
-- [Ficha histórica — nível 3](Jogatina-2026-Kimura/personagens/Aeloria/Niveis-anteriores/ficha-nivel-3.md)
-- [Ficha histórica — nível 2](ficha-nivel-2.md)
-- [Ficha histórica — nível 1](ficha-nivel-1.md)
-- [História](../Aeloria/historia-background.md)
+- [Ficha visual atual — nível 4](img-visual/ficha-nivel-4-magias-completas-v3.png)
+- [Ficha histórica — nível 3](Niveis-anteriores/ficha-nivel-3.md)
+- [Ficha histórica — nível 2](Niveis-anteriores/ficha-nivel-2.md)
+- [Ficha histórica — nível 1](Niveis-anteriores/ficha-nivel-1.md)
+- [História](historia-background.md)
 - [Histórico da campanha](../../historico-campanha/README.md)
 - [Última sessão — Fuga e Eldervan](../../historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan.md)
 - [Companheiros da GAR15](../README.md)
