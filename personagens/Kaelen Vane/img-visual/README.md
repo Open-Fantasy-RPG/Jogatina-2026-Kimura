@@ -7,4 +7,12 @@ Ponto de consulta para ilustrações e HQs. O descritivo visual fica nesta pasta
 - [Descrição visual e referências](descricao.md)
 - [Identidade e trajetória do personagem](../README.md)
 
-Ainda não há retrato publicado nesta pasta. Novos retratos, vistas de frente e perfil, poses de ação e tokens aprovados devem ser guardados aqui e relacionados neste índice. As sugestões e os detalhes ainda não confirmados estão identificados no descritivo visual.
+## Piloto visual em revisão
+
+Publicado a pedido do usuário em 4 de outubro de 2026 como piloto para revisão visual. Vistas e poses podem receber ajustes e não alteram a ficha do personagem.
+
+- [Retrato de referência v0002](kaelen-retrato-v0002.png)
+- [Folha de referência com múltiplas vistas v0002](kaelen-referencia-v0002.png)
+- [Estudo com duas poses de ação v0002](kaelen-acao-v0002.png)
+
+Manter a identidade do retrato entre as vistas e poses. A direção visual do piloto e as fontes de roupa, armadura e espada estão no [descritivo visual](descricao.md). As sugestões e os detalhes ainda não confirmados continuam identificados ali.

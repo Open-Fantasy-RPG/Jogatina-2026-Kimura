@@ -2,13 +2,17 @@
 
 Referência para ilustrações, interpretação e HQs do personagem de Digo. Os registros de Kaelen e Kaelen Vane pertencem ao mesmo personagem. Este texto reúne as fontes publicadas e mantém visíveis as escolhas ainda pendentes; vinhetas e propostas visuais estão identificadas como sugestões.
 
+Publicado a pedido do usuário em 4 de outubro de 2026 como piloto para revisão visual. Vistas e poses podem receber ajustes e não alteram a ficha do personagem.
+
 ## Aparência
 
 Kaelen Vane é um guerreiro humano, Cavaleiro Arcano. Sua apresentação é discreta: túnicas e roupas de viagem gastas cobrem a **armadura de couro batido** registrada nas escolhas mais recentes. Ele não usa escudo físico. O conceito antigo sem armadura permanece no histórico, sem substituir o equipamento posterior.
 
-A espada é seu elemento visual mais característico: uma lâmina de metal simples, bem construída, sem joias ou runas. Oryn lhe entregou uma espada longa; a ficha posterior propôs uma rapieira descrita como espada longa fina. Essa diferença continua pendente e este perfil não decide a arma nem altera a ficha.
+A espada é seu elemento visual mais característico: uma lâmina de metal simples, bem construída, sem joias ou runas na história de origem. Em 17/09, o mestre a chamou de espada longa e descreveu ranhuras semelhantes a veias ([01:15:14–01:15:19](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/8e1ca868e58bd2dafaa9963dd051683484493eff/historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan.md#L1470-L1474)). Essa descrição sustenta a aparência de uma espada longa com ranhuras discretas; não confirma brilho, runas ativas ou propriedades lendárias. A ficha anterior propôs estatísticas de rapieira para uma espada longa fina. A divergência mecânica permanece pendente e este perfil não altera a ficha.
 
-Rosto, cabelo, olhos, altura e paleta de cores ainda precisam de referência confirmada. **Proposta visual opcional:** tecidos cinza e castanho, com poucos adornos, podem reforçar a apresentação discreta; essas cores não estão estabelecidas como cânone.
+A direção visual atual do piloto apresenta Kaelen esguio, sem barba, com cabelo escuro preso em rabo de cavalo e túnica cinza. A aparência deve permanecer discreta, com poucos adornos. Embora sejam irmãos, Kaelen e Galen têm rostos e constituições diferentes; não repetir o rosto ou a silhueta de um no outro. Olhos, altura exata e pormenores de acabamento não estão definidos pelas fontes narrativas citadas.
+
+Essas escolhas orientam o conjunto em revisão. As imagens novas não tornam automaticamente canônicos os detalhes que acrescentarem.
 
 ## Símbolos visuais
 
@@ -64,9 +68,11 @@ Há distância entre o equilíbrio aprendido com Oryn e as escolhas de violênci
 
 ## Imagem de referência e revisão
 
-Não há retrato publicado de Kaelen nas fontes consultadas. O dossiê menciona uma imagem ainda não recuperada; isso não prova que ela não exista. Uma referência fornecida ou aprovada pelo jogador permitirá completar as lacunas físicas indicadas em Aparência.
+O [retrato v0002](kaelen-retrato-v0002.png) é a referência de identidade visual deste piloto. O [índice visual](README.md) reúne a folha de referência e o estudo com duas poses propostos para revisão. Preservar entre eles o mesmo rosto, corpo esguio, cabelo e traje, sem copiar a fisionomia de Galen.
 
-Para uma ilustração que exija mostrar a lâmina com precisão, confirmar a escolha entre espada longa e rapieira. A proposta de esconder a espada para atravessar um portão e chamá-la depois é um gancho registrado, não uma cena de sessão confirmada.
+O dossiê também menciona uma imagem anterior ainda não recuperada; este conjunto não identifica nem substitui automaticamente aquela referência. Ajustes dos jogadores continuam necessários para fechar os detalhes ainda pendentes.
+
+Para a aparência da lâmina, a referência mais recente é a espada longa com ranhuras descrita em 17/09. Dimensões exatas, formato da guarda e escolha mecânica entre espada longa e rapieira continuam pendentes. A proposta de esconder a espada para atravessar um portão e chamá-la depois é um gancho registrado, não uma cena de sessão confirmada.
 
 ## Fontes e documentos relacionados
 
