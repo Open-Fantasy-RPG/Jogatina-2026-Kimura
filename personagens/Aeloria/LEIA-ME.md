@@ -2,7 +2,7 @@
 
 Esta pasta e `../aeloria/` pertencem à mesma personagem.
 
-- [Descrição breve e referências visuais](../aeloria/descricao.md) — perfil único para revisão do jogador.
+- [Resumo visual](../aeloria/descricao.md) — consulta rápida; a descrição completa está em [Aparência e Interpretação](../aeloria/interpretacao.md).
 - [Pasta principal e ficha atual](../aeloria/README.md)
 - [História da personagem](historia-background.md)
 - [Histórias adicionais](Historias-background-adicionais/)
