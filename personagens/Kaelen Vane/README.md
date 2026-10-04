@@ -7,6 +7,8 @@ Dossiê reunido em 16/09/2026. Base da ficha: D&D 5e, regras de 2014.
 
 ## Índice
 
+- [Descrição breve e referências visuais](../kaelen/descricao.md) — perfil único de Kaelen para revisão do jogador.
+
 - [Background original](Background.md) — arquivo preexistente, preservado integralmente.
 - [História e filosofia do Fluxo](historia-e-fluxo.md) — Oryn, Asura, Erlingheim, refugiados e Joia de Asura.
 - [Ficha consolidada — nível 3](Jogatina-2026-Kimura/personagens/Kaelen%20Vane/ficha-nivel-3.md) — dados e escolhas mais recentes recuperados.

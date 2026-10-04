@@ -1,5 +1,7 @@
 # Aeloria
 
+[Descrição breve e referências visuais](descricao.md) — base para revisão do jogador.
+
 > “Eu me lembro dela. Quando tocava, o vento parecia parar para ouvir.”
 
 ## Conceito

@@ -1,5 +1,7 @@
 # Kaelen — Digo
 
+[Descrição breve e referências visuais](descricao.md) — base para revisão do jogador.
+
 **Humano • Guerreiro Cavaleiro Arcano (Eldritch Knight) • Nível 4 • GAR15**
 
 Irmão de Galen. Digo é a referência usada nos relatos recentes; Kaelen é o nome adotado nos novos registros. Sua ficha numérica completa ainda não está documentada.

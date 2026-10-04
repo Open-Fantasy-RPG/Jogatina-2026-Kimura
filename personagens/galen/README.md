@@ -1,5 +1,7 @@
 # Galen — Tata
 
+[Descrição breve e referências visuais](descricao.md) — base para revisão do jogador.
+
 **Paladino do Juramento da Vingança • Nível 4 • GAR15**
 
 Irmão de Kaelen. Tata é a referência usada nos relatos recentes; Galen é o nome adotado nos novos registros. Espécie, divindade, texto do juramento e ficha numérica completa ainda não estão documentados.
