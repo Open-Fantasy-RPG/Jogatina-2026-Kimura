@@ -2,17 +2,21 @@
 
 Referência para ilustrações, interpretação e HQs do personagem de Tata. A base disponível descreve sobretudo suas ações, relações e arma; lacunas físicas continuam explícitas. As propostas de encenação abaixo são sugestões para revisão, sem acrescentar acontecimentos à campanha.
 
+Publicado a pedido do usuário em 4 de outubro de 2026 como piloto para revisão visual. Novas imagens podem receber ajustes e não alteram a ficha do personagem.
+
 ## Aparência
 
-Galen é um **Paladino do Juramento da Vingança**, sobrevivente ligado ao grupo de refugiados de Oak's Crossing. Espécie, rosto, cabelo, olhos, altura, roupas e armadura ainda não têm descrição suficiente nas fontes publicadas. Ser paladino não confirma sozinho um tipo de armadura ou escudo.
+Galen é um **Paladino do Juramento da Vingança**, sobrevivente ligado ao grupo de refugiados de Oak's Crossing. A cota de malha está confirmada na cena de contemplação de 17/09, quando ele retira a armadura e o mestre a identifica como “chain mail” ([01:01:46–01:02:20](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/8e1ca868e58bd2dafaa9963dd051683484493eff/historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan.md#L1197-L1201)). A cota não confirma escudo, elmo, armadura de placas, brasão ou símbolo religioso. Espécie, olhos e altura exata ainda não têm descrição suficiente nas fontes narrativas consultadas.
 
-A principal referência física confirmada é sua **maça asurana +1**. Um mecanismo abre espinhos e produz descargas elétricas visuais. Esses efeitos descrevem a aparência da arma e não acrescentam dano elétrico à ficha. A tecnologia apresentou falhas em Erlingheim, onde a Possibilidade interfere em seu funcionamento.
+Para o piloto, o usuário definiu Galen com corpo robusto e atarracado, rosto largo, cabelo preto curto e barba cheia preta. Manter essa identidade em duas opções de vestuário: traje civil em ocre e azul-marinho e versão com cota de malha. A constituição e a fisionomia são distintas das de Kaelen, apesar do parentesco. Pormenores novos das imagens permanecem sujeitos à revisão visual.
+
+Sua **maça asurana +1** possui um mecanismo que abre espinhos e produz descargas elétricas semelhantes a um taser. Em 17/09, o mestre determinou que o +1 de dano já existente seria considerado elétrico; não foi concedido um segundo bônus ([00:02:35–00:03:07](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/8e1ca868e58bd2dafaa9963dd051683484493eff/historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan.md#L57-L82)). A arma apresentou ativações, desativações e falhas em Erlingheim. Em 24/09, ocorreu uma sobrecarga passageira com raios e espinhos mais intensos; o possível +1d4 no próximo acerto passou sem ser usado e não é uma propriedade permanente ([01:51:20–01:51:50](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/8e1ca868e58bd2dafaa9963dd051683484493eff/historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/sessao-2026-09-24-exploracao-do-templo-do-fluxo.md#L2679-L2689)).
 
 ## Símbolos visuais
 
 A maça tecnológica é o elemento de identificação já documentado. Ainda não há símbolo religioso, brasão, cor recorrente ou texto de juramento definidos nos registros consultados. Não escolher uma divindade ou uma ordem apenas a partir da classe.
 
-**Proposta visual opcional:** o jogador pode escolher uma cor ou peça de roupa recorrente e decidir como o traje contrasta com a arma tecnológica. Até a confirmação, nenhum desses elementos deve ser tratado como uniforme ou emblema canônico.
+No piloto, o traje civil em ocre e azul-marinho contrasta com a maça tecnológica. Essas cores são direção visual do conjunto em revisão; não estabelecem uniforme de uma ordem, brasão ou símbolo religioso. A opção com cota de malha mantém o mesmo personagem e não deve alterar sua identidade.
 
 ## Presença
 
@@ -24,7 +28,7 @@ Nos registros, Galen procura proteger os companheiros e cobrar limites morais, i
 
 Durante a fuga, Galen imobilizou um guarda e o deixou inconsciente. No combate contra os Blink Dogs, usou Comando, Hunter's Mark e sua arma, eliminando dois inimigos apesar das falhas tecnológicas. Esses são exemplos registrados de atuação em cena, sem definir automaticamente uma técnica de luta ou um modo habitual de caminhar.
 
-**Sugestão de atuação e desenho:** orientar o corpo para o perigo e conservar os companheiros dentro de seu campo de atenção pode comunicar proteção. Passada, velocidade, mão dominante e postura de combate permanecem escolhas a confirmar, assim como qualquer escudo ou peça de armadura que a imagem exija.
+**Sugestão de atuação e desenho:** orientar o corpo para o perigo e conservar os companheiros dentro de seu campo de atenção pode comunicar proteção. Passada, velocidade, mão dominante e postura de combate permanecem escolhas a confirmar. A cota de malha é documentada; escudo, elmo e outras peças específicas de armadura continuam sem confirmação.
 
 ## Cena de introdução
 
@@ -56,7 +60,9 @@ Galen precisa conciliar vingança, justiça, proteção e lealdade ao irmão. Es
 
 ## Imagem de referência e revisão
 
-Não há retrato de Galen nos arquivos publicados consultados. Uma referência fornecida ou aprovada pelo jogador permitirá completar as lacunas físicas e simbólicas indicadas acima, preservando a maça como referência documentada.
+O [retrato civil v0003](galen-retrato-v0003.png) e o [retrato com cota de malha v0001](galen-retrato-cota-de-malha-v0001.png) orientam a identidade visual do piloto. O [índice visual](README.md) reúne os retratos e as folhas de referência de cada vestuário.
+
+Conferir que rosto largo, corpo robusto, cabelo preto curto e barba cheia preta sejam consistentes entre todas as imagens. Os dois trajes são variantes do mesmo personagem; as novas imagens aguardam revisão visual e não estabelecem aprovação canônica dos jogadores.
 
 ## Fontes e documentos relacionados
 
