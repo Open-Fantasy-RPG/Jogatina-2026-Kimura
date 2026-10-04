@@ -18,7 +18,7 @@ A tentativa de resolver a situação com William transforma a fuga inicial em en
 
 **Fonte principal:** [registro público da sessão](../../sessao-2026-08-08-cidade-alta-e-prisao.md) — relato público, parágrafo 4.
 
-- [prisao.jpeg](../../../referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg)
+- [prisao.jpeg](imagens/prisao.jpeg)
 - [asura-jewel.jpeg](../../../referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg)
 
 ## Coerência visual

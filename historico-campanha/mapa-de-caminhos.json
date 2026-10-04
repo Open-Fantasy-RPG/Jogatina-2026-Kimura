@@ -6,7 +6,7 @@
   "criterio": "Somente fontes e imagens já públicas; pixels inspecionados; nenhum conteúdo reservado importado.",
   "caminhos_movidos": {
     "imgs 1/asura-jewel.jpeg": "historico-campanha/referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg",
-    "imgs 1/prisao.jpeg": "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg",
+    "imgs 1/prisao.jpeg": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg",
     "imgs 1/eldervan.jpeg": "historico-campanha/referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg",
     "imgs 1/eldervan-2.jpeg": "historico-campanha/referencias-compartilhadas/locais/eldervan/imagens/eldervan-2.jpeg",
     "imgs 1/mapa.jpeg": "historico-campanha/referencias-compartilhadas/mapas/aeldria/imagens/mapa.jpeg",
@@ -30,7 +30,10 @@
     "imgs 1/tempple-sub2-lab.jpeg": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/imagens/tempple-sub2-lab.jpeg",
     "imgs 1/templo-sub2-lab-map.jpeg": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/imagens/templo-sub2-lab-map.jpeg",
     "imgs 1/templo-criatura1.jpeg": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura1.jpeg",
-    "imgs 1/templo-criatura2.jpeg": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura2.jpeg"
+    "imgs 1/templo-criatura2.jpeg": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura2.jpeg",
+    "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg",
+    "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/README.md": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/README.md",
+    "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/descricao.md": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/proveniencia-prisao.md"
   },
   "imagens": [
     {
@@ -46,14 +49,23 @@
     },
     {
       "origem": "imgs 1/prisao.jpeg",
-      "destino": "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg",
+      "destino": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg",
       "blob_sha": "d5abc2178856442e74f44226b0abb0cbcacd15b5",
       "bytes": 657202,
       "tipo": "mapa de local",
       "observacao_visual": "Planta vista de cima com alas de celas, corredores, dependências e tubulações; não há legenda de funções para todas as salas.",
       "evidencia": "Nome original e cenas de prisão em 08/08, 20/08 e 03/09. Não identifica por si a cela de cada personagem.",
       "classificacao": "confirmado por imagem e registro público",
-      "pixels_inspecionados": true
+      "pixels_inspecionados": true,
+      "cena_canonica": "sessao-2026-08-08-cidade-alta-e-prisao/03-william-e-prisao",
+      "realocacoes": [
+        {
+          "de": "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg",
+          "para": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg",
+          "data": "2026-10-04",
+          "criterio": "Mapa de local concreto guardado na cena correspondente; demais usos por link."
+        }
+      ]
     },
     {
       "origem": "imgs 1/eldervan.jpeg",
@@ -293,7 +305,7 @@
           "descricao_cena": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/descricao-cena.md",
           "descricao_local": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/descricao-local.md",
           "imagens": [
-            "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg",
+            "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg",
             "historico-campanha/referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg"
           ],
           "fonte_trecho": "relato público, parágrafo 4",
@@ -313,7 +325,7 @@
           "descricao_cena": "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/cenas/01-carceragem-e-patio/descricao-cena.md",
           "descricao_local": "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/cenas/01-carceragem-e-patio/descricao-local.md",
           "imagens": [
-            "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg"
+            "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg"
           ],
           "fonte_trecho": "relato público, parágrafos 1–2",
           "ambientacao_revisada": true
@@ -323,7 +335,7 @@
           "descricao_cena": "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/cenas/02-cela-cartas-e-chaves/descricao-cena.md",
           "descricao_local": "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/cenas/02-cela-cartas-e-chaves/descricao-local.md",
           "imagens": [
-            "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg"
+            "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg"
           ],
           "fonte_trecho": "relato público, parágrafo 3",
           "ambientacao_revisada": true
@@ -333,7 +345,7 @@
           "descricao_cena": "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/cenas/03-tribunal-e-retorno/descricao-cena.md",
           "descricao_local": "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/cenas/03-tribunal-e-retorno/descricao-local.md",
           "imagens": [
-            "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg"
+            "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg"
           ],
           "fonte_trecho": "relato público, parágrafos 4–5",
           "ambientacao_revisada": true
@@ -352,7 +364,7 @@
           "descricao_cena": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/01-fuga-e-rebeliao/descricao-cena.md",
           "descricao_local": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/01-fuga-e-rebeliao/descricao-local.md",
           "imagens": [
-            "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg",
+            "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg",
             "historico-campanha/referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg"
           ],
           "fonte_trecho": "relato público, parágrafos 1–3",
@@ -363,7 +375,7 @@
           "descricao_cena": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/02-tuneis-e-william/descricao-cena.md",
           "descricao_local": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/02-tuneis-e-william/descricao-local.md",
           "imagens": [
-            "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg",
+            "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg",
             "historico-campanha/referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg"
           ],
           "fonte_trecho": "relato público, fim do parágrafo 3 e início do 4",
@@ -698,5 +710,6 @@
     "prioridade": "Narração do mestre e correções para estado atual, presentes e fatos; imagens para referência visual coerente.",
     "imagens_nesta_revisao": "Originais preservados sem alteração; nenhuma imagem nova gerada.",
     "revisao_descritivos": "2026-10-04"
-  }
+  },
+  "criterio_de_localizacao_visual": "Imagens de local concreto ficam na cena correspondente, com reutilização por links; cidades, mapa regional e NPCs podem permanecer como referências gerais compartilhadas."
 }

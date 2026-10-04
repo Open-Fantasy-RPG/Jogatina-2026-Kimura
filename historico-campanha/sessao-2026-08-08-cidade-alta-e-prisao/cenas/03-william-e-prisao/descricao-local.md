@@ -22,7 +22,7 @@ O texto combina o ambiente confirmado pela fonte com a leitura dos arquivos de r
 
 ## Referências visuais
 
-- [prisao.jpeg](../../../referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg)
+- [prisao.jpeg](imagens/prisao.jpeg)
 - [asura-jewel.jpeg](../../../referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg)
 
 ## Pontos a confirmar

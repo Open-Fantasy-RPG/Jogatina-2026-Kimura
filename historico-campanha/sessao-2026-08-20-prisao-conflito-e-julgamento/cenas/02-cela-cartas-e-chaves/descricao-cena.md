@@ -18,7 +18,7 @@ A investigação se desloca para a cela do homem morto no pátio. Kaelen encontr
 
 **Fonte principal:** [registro público da sessão](../../sessao-2026-08-20-prisao-conflito-e-julgamento.md) — relato público, parágrafo 3.
 
-- [prisao.jpeg](../../../referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg)
+- [prisao.jpeg](../../../sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg)
 
 ## Coerência visual
 

@@ -25,7 +25,7 @@
 ### prisao.jpeg
 
 - Origem: `imgs 1/prisao.jpeg`
-- Destino: [prisao.jpeg](referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg)
+- Destino: [prisao.jpeg](sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg)
 - Tipo: mapa de local
 - Tamanho: 657202 bytes
 - Blob SHA-1: `d5abc2178856442e74f44226b0abb0cbcacd15b5`
@@ -196,3 +196,7 @@
 ## Política de classificação futura
 
 Arquivos sem relação suficiente devem ir para [a classificar](a-classificar/README.md), com procedência e a confirmação necessária, sem inventar sessão ou conteúdo. Nenhum arquivo original precisou ser mantido sem destino nesta revisão.
+
+## Mapa da prisão: organização por cena
+
+O mapa `prisao.jpeg` está em [William ordena a prisão — 08/08/2026](sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg). Seu uso nas sessões de 20/08 e 03/09 é mantido por links ao original. A antiga pasta compartilhada da prisão foi desfeita, e seus documentos de referência acompanham a imagem em [proveniência da imagem](sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/proveniencia-prisao.md). O tamanho (657202 bytes) e o blob (`d5abc2178856442e74f44226b0abb0cbcacd15b5`) não mudaram. Os demais arquivos compartilhados permanecem nos destinos existentes.

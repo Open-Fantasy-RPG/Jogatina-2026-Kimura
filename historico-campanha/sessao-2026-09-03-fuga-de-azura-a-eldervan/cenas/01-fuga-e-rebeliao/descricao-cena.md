@@ -19,7 +19,7 @@ A fuga começa com a ajuda de uma elfa encapuzada e a recuperação dos equipame
 
 **Fonte principal:** [registro público da sessão](../../sessao-2026-09-03-fuga-de-azura-a-eldervan.md) — relato público, parágrafos 1–3.
 
-- [prisao.jpeg](../../../referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg)
+- [prisao.jpeg](../../../sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg)
 - [jaina-woodward.jpeg](../../../referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg)
 
 ## Coerência visual

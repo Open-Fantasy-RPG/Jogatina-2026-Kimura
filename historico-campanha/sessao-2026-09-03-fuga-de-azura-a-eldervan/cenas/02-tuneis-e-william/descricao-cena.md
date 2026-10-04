@@ -19,7 +19,7 @@ Nos túneis, a aliada se apresenta como Jânia Woodward. A saída não encerra i
 
 **Fonte principal:** [registro público da sessão](../../sessao-2026-09-03-fuga-de-azura-a-eldervan.md) — relato público, fim do parágrafo 3 e início do 4.
 
-- [prisao.jpeg](../../../referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg)
+- [prisao.jpeg](../../../sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg)
 - [jaina-woodward.jpeg](../../../referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg)
 
 ## Coerência visual

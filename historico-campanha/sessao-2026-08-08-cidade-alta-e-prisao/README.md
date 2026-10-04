@@ -25,3 +25,7 @@ Editar `cenas/NN-slug/descricao-cena.md` e `descricao-local.md`, preenchendo som
 ## Limites do acervo
 
 Cada arquivo de imagem tem um único destino canônico. Reutilizações são feitas por links; nenhuma cópia binária foi criada. Nomes antigos e hashes estão no inventário. A ausência de imagem é registrada, sem gerar substitutos nem fingir uma correspondência.
+
+## Imagem guardada nesta sessão
+
+- [Mapa da prisão](cenas/03-william-e-prisao/imagens/prisao.jpeg) — original na cena [03 — William ordena a prisão](cenas/03-william-e-prisao/descricao-cena.md). Reutilizações em outras sessões mantêm links para esse arquivo.

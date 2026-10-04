@@ -19,7 +19,7 @@ A audiência reúne acusação, defesa e testemunhos. Aldous Merrin assume a def
 
 **Fonte principal:** [registro público da sessão](../../sessao-2026-08-20-prisao-conflito-e-julgamento.md) — relato público, parágrafos 4–5.
 
-- [prisao.jpeg](../../../referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg)
+- [prisao.jpeg](../../../sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg)
 
 ## Coerência visual
 

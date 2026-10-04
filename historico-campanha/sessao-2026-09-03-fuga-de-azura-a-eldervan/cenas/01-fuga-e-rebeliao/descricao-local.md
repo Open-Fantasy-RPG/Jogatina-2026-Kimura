@@ -22,7 +22,7 @@ Conservar os corredores reconhecíveis da referência, mas não desenhar uma rot
 
 ## Referências visuais
 
-- [prisao.jpeg](../../../referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg)
+- [prisao.jpeg](../../../sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg)
 - [jaina-woodward.jpeg](../../../referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg)
 
 ## Pontos a confirmar

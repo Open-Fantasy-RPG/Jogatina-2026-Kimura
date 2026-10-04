@@ -19,7 +19,7 @@ O grupo está preso, com seus bens confiscados, sob acusações ligadas à Fratu
 
 **Fonte principal:** [registro público da sessão](../../sessao-2026-08-20-prisao-conflito-e-julgamento.md) — relato público, parágrafos 1–2.
 
-- [prisao.jpeg](../../../referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg)
+- [prisao.jpeg](../../../sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg)
 
 ## Coerência visual
 

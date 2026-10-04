@@ -22,7 +22,7 @@ O texto combina o ambiente confirmado pela fonte com a leitura dos arquivos de r
 
 ## Referências visuais
 
-- [prisao.jpeg](../../../referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg)
+- [prisao.jpeg](../../../sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg)
 
 ## Pontos a confirmar
 
