@@ -7,6 +7,7 @@ Ponto de consulta para ilustrações, VTT e HQs. Aparência, interpretação, re
 - [Descrição visual e interpretação completas](descricao.md)
 - [Retrato aprovado — v0002](aeloria-retrato-v0002.png)
 - [Prancha de referência — v0002](aeloria-referencia-v0002.png): frente, perfil esquerdo, 3/4, costas, caminhada e apresentação com a lira
+- [Estudo de ataque e defesa — duas adagas](aeloria-ataque-defesa-v0001.png): movimentos controlados com o equipamento registrado
 - [História da personagem](../historia-background.md)
 - [Equipamento e instrumento](../equipamentos-e-combate.md)
 
