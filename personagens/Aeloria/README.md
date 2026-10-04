@@ -1,6 +1,6 @@
 # Aeloria
 
-[Resumo visual](img-visual/descricao.md) — consulta rápida com links para a descrição completa e a história.
+[Descrição visual e interpretação](img-visual/descricao.md) — referência completa de aparência, movimento, presença e comportamento para ilustrações e HQs.
 
 > “Eu me lembro dela. Quando tocava, o vento parecia parar para ouvir.”
 
@@ -67,7 +67,7 @@ O último registro termina com a **chegada a Eldervan em 03/09/2026 e avanço ao
 - [Histórico da campanha](../../historico-campanha/README.md)
 - [Última sessão — Fuga e Eldervan](../../historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan.md)
 - [Companheiros da GAR15](../README.md)
-- [Aparência, personalidade e interpretação](interpretacao.md)
+- [Aparência, personalidade e interpretação](img-visual/descricao.md)
 - [Habilidades e magias](habilidades-e-magias.md)
 - [Equipamentos e combate](equipamentos-e-combate.md)
 - [Evolução sugerida](evolucao.md)
