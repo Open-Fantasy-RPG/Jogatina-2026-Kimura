@@ -1,18 +1,22 @@
 # Aeloria — Acervo visual
 
-Ponto de consulta para ilustrações e HQs. O descritivo visual e as imagens atuais ficam nesta pasta.
+Ponto de consulta para ilustrações, VTT e HQs. Aparência, interpretação, referências e imagens atuais ficam nesta pasta.
 
-## Referências disponíveis
+## Referência principal
 
 - [Descrição visual e interpretação completas](descricao.md)
-- [Ficha visual atual — nível 4](ficha-nivel-4-magias-completas-v3.png)
+- [Retrato aprovado — v0002](aeloria-retrato-v0002.png)
+- [Prancha de referência — v0002](aeloria-referencia-v0002.png): frente, perfil esquerdo, 3/4, costas, caminhada e apresentação com a lira
 - [História da personagem](../historia-background.md)
 - [Equipamento e instrumento](../equipamentos-e-combate.md)
 
-## Arquivo visual histórico
+O retrato foi aprovado pelo jogador em 4 de outubro de 2026 e orienta este piloto visual: cabelos prateados, pele de tom frio, roupa azul-céu/cinza claro e metais foscos. A prancha conserva essa identidade e acrescenta vistas e gestos de referência. As poses são estudos ilustrativos, não novos acontecimentos da campanha. O acabamento tem aparência tridimensional; os arquivos são ilustrações PNG, sem malha ou rig 3D.
 
+## Fichas visuais e histórico
+
+- [Ficha visual atual — nível 4](ficha-nivel-4-magias-completas-v3.png)
 - [Ficha visual anterior — nível 3](../Niveis-anteriores/ficha-nivel-3-magias-completas-v2.png)
 
-A ficha visual anterior permanece junto às fichas de níveis anteriores, para preservar o histórico sem duplicar a imagem. Novos retratos, vistas de frente e perfil, poses de ação e tokens aprovados devem ser guardados nesta pasta e relacionados neste índice. As diferenças entre a imagem atual e o texto de aparência estão registradas na descrição visual.
+As fichas originais permanecem intactas. A ficha anterior continua junto às fichas de níveis anteriores. Novas vistas, poses e tokens devem manter a identidade aprovada e ser relacionados neste índice.
 
 [Pasta principal de Aeloria](../README.md)
