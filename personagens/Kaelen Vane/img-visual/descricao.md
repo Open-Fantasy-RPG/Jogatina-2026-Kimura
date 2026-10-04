@@ -8,7 +8,7 @@ Publicado a pedido do usuário em 4 de outubro de 2026 como piloto para revisão
 
 Kaelen Vane é um guerreiro humano, Cavaleiro Arcano. Sua apresentação é discreta: túnicas e roupas de viagem gastas cobrem a **armadura de couro batido** registrada nas escolhas mais recentes. Ele não usa escudo físico. O conceito antigo sem armadura permanece no histórico, sem substituir o equipamento posterior.
 
-A espada é seu elemento visual mais característico: uma lâmina de metal simples, bem construída, sem joias ou runas na história de origem. Em 17/09, o mestre a chamou de espada longa e descreveu ranhuras semelhantes a veias ([01:15:14–01:15:19](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/8e1ca868e58bd2dafaa9963dd051683484493eff/historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan.md#L1470-L1474)). Essa descrição sustenta a aparência de uma espada longa com ranhuras discretas; não confirma brilho, runas ativas ou propriedades lendárias. A ficha anterior propôs estatísticas de rapieira para uma espada longa fina. A divergência mecânica permanece pendente e este perfil não altera a ficha.
+A espada é seu elemento visual mais característico: uma lâmina de metal simples, bem construída, sem joias ou runas na história de origem. Em 17/09, o mestre a chamou de espada longa e descreveu ranhuras semelhantes a veias ([01:15:14–01:15:19](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/8e1ca868e58bd2dafaa9963dd051683484493eff/historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan.md#L1470-L1474)). Essa descrição sustenta a aparência de uma espada longa com ranhuras discretas; não confirma runas ativas ou propriedades lendárias. A aura transitória descrita abaixo é uma direção visual posterior, solicitada em 04/10/2026 para representar o Vínculo com Arma. A ficha anterior propôs estatísticas de rapieira para uma espada longa fina. A divergência mecânica permanece pendente e este perfil não altera a ficha.
 
 A direção visual atual do piloto apresenta Kaelen esguio, sem barba, com cabelo escuro preso em rabo de cavalo e túnica cinza. A aparência deve permanecer discreta, com poucos adornos. Embora sejam irmãos, Kaelen e Galen têm rostos e constituições diferentes; não repetir o rosto ou a silhueta de um no outro. Olhos, altura exata e pormenores de acabamento não estão definidos pelas fontes narrativas citadas.
 
@@ -18,7 +18,15 @@ Essas escolhas orientam o conjunto em revisão. As imagens novas não tornam aut
 
 A ligação entre mão e lâmina representa o aprendizado do **Fluxo**, a filosofia de equilíbrio entre ferro e magia ensinada por Mestre Oryn. O fio invisível descrito na história expressa esse vínculo; não fixa um feixe luminoso que deva aparecer nas imagens.
 
-Em Asura, as roupas permitem a apresentação como refugiado ou trabalhador, sem ostentar símbolos de Erlingheim. Não há emblema próprio, cor de lâmina ou insígnia religiosa confirmados. As referências externas a “Jedi” e “lightsaber” não transformam sua espada em sabre de luz, arma mágica ou fonte de dano de energia; Kaelen conhece o Fluxo e Oryn, não uma tradição de outro universo.
+Em Asura, as roupas permitem a apresentação como refugiado ou trabalhador, sem ostentar símbolos de Erlingheim. Não há emblema próprio ou insígnia religiosa confirmados. A lâmina permanece metálica; a paleta prateada-azulada pertence apenas ao acento transitório do Vínculo com Arma. As referências externas a “Jedi” e “lightsaber” não transformam sua espada em sabre de luz, arma mágica ou fonte de dano de energia; Kaelen conhece o Fluxo e Oryn, não uma tradição de outro universo.
+
+## Efeito da espada e Vínculo com Arma
+
+**Direção visual solicitada em 04/10/2026:** a mesma espada física aparece diretamente na mão de Kaelen, acompanhada por uma aura prateada-azulada tênue. O contorno fino e poucas partículas próximas à lâmina sugerem o instante da chegada; o aço, a guarda e as ranhuras continuam nítidos. A aura se recolhe e desaparece, deixando a espada normal entre os golpes.
+
+O efeito representa o **Vínculo com Arma (Weapon Bond)**, sem portal, fenda, outra dimensão ou armazenamento da espada. Não acrescenta luz permanente, runas, dano de energia, bônus de ataque, estatísticas ou propriedades mágicas à arma. As regras e pendências mecânicas continuam na [ficha](../ficha-nivel-3.md) e em [espada e magia](../espada-e-magia.md).
+
+No [estudo de ação v0003](kaelen-acao-v0003.png), a pose da esquerda mostra o instante final dessa manifestação e a pose da direita mostra a lâmina sem o efeito. Preservar o mesmo rosto, corpo, roupas, gestos e espada da referência anterior; não confundir a aura com o Escudo ou outra magia. O estudo ilustra a direção de arte, sem inventar um acontecimento da campanha.
 
 ## Presença
 
@@ -68,7 +76,7 @@ Há distância entre o equilíbrio aprendido com Oryn e as escolhas de violênci
 
 ## Imagem de referência e revisão
 
-O [retrato v0002](kaelen-retrato-v0002.png) é a referência de identidade visual deste piloto. O [índice visual](README.md) reúne a folha de referência e o estudo com duas poses propostos para revisão. Preservar entre eles o mesmo rosto, corpo esguio, cabelo e traje, sem copiar a fisionomia de Galen.
+O [retrato v0002](kaelen-retrato-v0002.png) é a referência de identidade visual deste piloto. O [índice visual](README.md) reúne a folha de referência e o [estudo com duas poses v0003](kaelen-acao-v0003.png), atualizado com o efeito transitório do Vínculo com Arma. Preservar entre eles o mesmo rosto, corpo esguio, cabelo e traje, sem copiar a fisionomia de Galen.
 
 O dossiê também menciona uma imagem anterior ainda não recuperada; este conjunto não identifica nem substitui automaticamente aquela referência. Ajustes dos jogadores continuam necessários para fechar os detalhes ainda pendentes.
 
@@ -84,3 +92,4 @@ Para a aparência da lâmina, a referência mais recente é a espada longa com r
 - [Fontes, escolhas e pendências](../fontes-e-pendencias.md)
 - [Dossiê de origem](../dossie-de-origem.md)
 - [Índice do acervo visual](README.md)
+

@@ -10,7 +10,7 @@ Irmão de Galen. Digo é a referência usada nos relatos recentes; Kaelen é o n
 
 Nasceu e cresceu em Oak's Crossing, comunidade de fronteira onde conviviam ferramentas asuranas e tradições mágicas de Erlingheim. Foi treinado em segredo por Mestre Oryn, tecelão e ferreiro que defendia uma filosofia de equilíbrio chamada Fluxo.
 
-Aprendeu a meditar, lutar com espada longa e canalizar magia discretamente. O vínculo com sua arma expressa esse aprendizado. Na destruição da vila, tentou salvar os sobreviventes. Oryn morreu, deixando-lhe a missão: manter o equilíbrio e ser o elo entre ferro e feitiço.
+Aprendeu a meditar, lutar com espada longa e canalizar magia discretamente. O vínculo com sua arma expressa esse aprendizado: a espada aparece diretamente em sua mão com uma aura prateada-azulada tênue e transitória. O metal permanece visível, e o acento se dissipa após a chegada. É a representação visual do Vínculo com Arma, sem acrescentar dano, bônus ou propriedades à lâmina. A [descrição visual](img-visual/descricao.md#efeito-da-espada-e-vínculo-com-arma) detalha essa direção. Na destruição da vila, tentou salvar os sobreviventes. Oryn morreu, deixando-lhe a missão: manter o equilíbrio e ser o elo entre ferro e feitiço.
 
 Kaelen busca preservar o equilíbrio ensinado por Oryn.
 
@@ -43,3 +43,4 @@ Kaelen e Kaelen Vane são o mesmo personagem. O material antes separado está re
 - [Fontes, divergências e pendências](fontes-e-pendencias.md)
 - [Documentos históricos](historico/)
 - [Fontes de origem](fontes/)
+

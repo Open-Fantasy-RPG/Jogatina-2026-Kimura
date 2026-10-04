@@ -17,7 +17,8 @@ A imagem **Kaelen Vane, Guardião do Fluxo.png** não veio como anexo das conver
 1. Nível 3, FOR 11, DES 18, CON 14, INT 11, SAB 14, CAR 6 e 33 PV.
 2. Ilusão Menor → Amizade; retirar escudo físico; Mísseis Mágicos → Onda de Choque.
 3. Pedido intermediário de armadura “CA+2”, interpretado antes como couro mágico +2.
-4. Última alteração: **couro batido, base 12**. Com DES +4 e sem escudo, **CA 16**.
+4. Última alteração de armadura: **couro batido, base 12**. Com DES +4 e sem escudo, **CA 16**.
+5. Direção visual solicitada em **04/10/2026**: aura prateada-azulada sutil e transitória quando a espada aparece diretamente na mão pelo **Vínculo com Arma**. Não é armazenamento em outra dimensão e não acrescenta dano, bônus, estatísticas ou propriedades. Aplicada ao [descritivo](img-visual/descricao.md), à [interpretação da espada](espada-e-magia.md) e ao [estudo de ação v0003](img-visual/kaelen-acao-v0003.png). As escolhas mecânicas pendentes abaixo permanecem abertas.
 
 ## Divergências mantidas visíveis
 
@@ -40,4 +41,5 @@ Nenhum arquivo preexistente foi apagado ou substituído. SHA-256 original de Bac
 DOCX e HTML são arquivos históricos, copiados sem revisão visual ou alteração nesta organização. Para consulta atual, priorizar ficha-nivel-3.md e as pendências acima.
 
 Conferência pontual de ataques: [Basic Rules 2014 — Combat](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat). Não foi feita uma auditoria completa da progressão.
+
 

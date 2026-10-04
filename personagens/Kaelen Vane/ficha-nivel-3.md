@@ -48,7 +48,7 @@ A aparência de espada longa na rapieira é uma proposta narrativa; não concede
 - **Duelo:** +2 no dano com arma corpo a corpo empunhada em uma mão, sem outra arma.
 - **Segundo Fôlego:** ação bônus, recupera 1d10+3 PV; uma utilização por descanso curto ou longo.
 - **Surto de Ação:** uma ação adicional; uma utilização por descanso curto ou longo.
-- **Vínculo com Arma:** presente no conceito e na ficha; ver divergência de alcance em [pendências](fontes-e-pendencias.md).
+- **Vínculo com Arma:** presente no conceito e na ficha; ver divergência de alcance em [pendências](fontes-e-pendencias.md). A representação visual atual mostra a espada aparecendo diretamente na mão com aura prateada-azulada tênue e transitória; veja [efeito da espada](espada-e-magia.md#efeito-da-espada-e-vínculo-com-arma). É um ajuste estético, sem modificar ações, alcance, dano, estatísticas ou propriedades, nem conceder armazenamento extradimensional.
 - **Conjurador de Guerra:** indicado na ficha anterior, mas aquisição como talento inicial permanece pendente. A proposta mais antiga era Iniciante Mágico. Não acumular os dois.
 - **Soldado / Patente Militar:** proposta da ficha, ligada à defesa da comunidade fronteiriça.
 - Ainda não possui Chi, Defesa sem Armadura, Artes Marciais ou Ataque Extra.
@@ -70,4 +70,5 @@ Inteligência +0; CD 10; ataque mágico +2; dois espaços de 1º círculo, recup
 Lâmina vinculada (modelo mecânico a confirmar), couro batido sob túnicas, besta leve, 20 virotes, mochila de explorador, capa de viagem, uniforme, insígnia, dados e 10 po. Cristal/medalhão/núcleo metálico foi sugerido como foco visual; uso mecânico como foco permanece pendente. Não foi registrada aquisição de bolsa de componentes.
 
 Escudo físico removido. Couro +2 foi uma etapa intermediária, substituída por couro batido comum. Quantidades e dinheiro são o registro antigo, sem controle de gastos posteriores.
+
 

@@ -8,7 +8,7 @@ Este arquivo guarda somente a camada visual específica do personagem: quais cap
 
 ## Identidade que não muda
 
-Conservar [descrição completa](descricao.md), [retrato v0002](kaelen-retrato-v0002.png), [referência v0002](kaelen-referencia-v0002.png) e [ação v0002](kaelen-acao-v0002.png). Kaelen é esguio, sem barba, cabelo escuro em rabo de cavalo, túnica cinza gasta e couro batido. Seu rosto não deve se tornar o de Galen. Nenhum escudo físico. Espada metálica com ranhuras discretas; não sabre luminoso. Mão dominante e dimensões exatas não são fixadas aqui.
+Conservar [descrição completa](descricao.md), [retrato v0002](kaelen-retrato-v0002.png), [referência v0002](kaelen-referencia-v0002.png) e [ação v0003](kaelen-acao-v0003.png). Kaelen é esguio, sem barba, cabelo escuro em rabo de cavalo, túnica cinza gasta e couro batido. Seu rosto não deve se tornar o de Galen. Nenhum escudo físico. Espada metálica com ranhuras discretas; não sabre luminoso. Mão dominante e dimensões exatas não são fixadas aqui.
 
 A assinatura pessoal é economia: pausa curta, respiração, uma linha dominante e consequência precisa. O Fluxo aparece no alinhamento do gesto e no ritmo, não numa onda brilhante aplicada a toda ação. Os efeitos continuam diferentes: Escudo é plano; Onda Trovejante é pressão; Mão Mágica é manipulação; Queda Suave muda o ritmo da descida.
 
@@ -102,8 +102,8 @@ O [perfil atual](../README.md) registra nível 4; a ficha numérica disponível 
 - **Assinatura-base:** `dnd5e.2014.class.weapon-bond` · modificador visual `visual.weapon-manifestation`
 - **Disponibilidade documentada:** Conceito/ficha e uso da arma vinculada documentados.
 - **Fonte de titularidade/efeito:** [Ficha registrada, nível 3](../ficha-nivel-3.md); [Espada e magia](../espada-e-magia.md); [Pendências preservadas](../fontes-e-pendencias.md); direção de aura visual solicitada em 04/10/2026. A definição mecânica permanece nessa fonte.
-- **Proposta — paleta própria:** Prata fria com azul-cinza muito discreto somente na transição.
-- **Proposta — motivo próprio:** Contorno etéreo transitório da mesma espada metálica, aparecendo diretamente na mão; sem portal, fenda ou selo espacial.
+- **Direção visual solicitada em 04/10/2026 — paleta própria:** Aura prateada-azulada tênue, com prata fria e azul-cinza muito discreto somente na transição. Aplicada à pose esquerda do [estudo de ação v0003](kaelen-acao-v0003.png); a pose direita preserva a lâmina sem aura.
+- **Direção visual solicitada — motivo próprio:** Contorno etéreo transitório da mesma espada metálica, aparecendo diretamente na mão; poucas partículas próximas ao metal, sem portal, fenda ou selo espacial. A identidade, o traje e as poses anteriores permanecem preservados.
 - **Ajustes às cinco fases-base:** Antecipação: mão vazia pronta. Ativação: um acento tênue recorta a empunhadura na mão. Movimento: o contorno da lâmina se completa num match cut. Impacto: arma assume peso e material normais. Resíduo: aura recolhe e some; não fica acesa entre golpes.
 - **Linhas de velocidade/escorço:** Corte seco ou três tempos curtos; preservar metal, ranhuras e identidade. Mostrar a espada aparecendo diretamente na mão, sem abertura no ambiente.
 - **SFX PT-BR:** VUM baixo/TIC opcional.
@@ -198,4 +198,7 @@ O [perfil atual](../README.md) registra nível 4; a ficha numérica disponível 
 
 Confirmar manutenção das escolhas N3 na ficha N4 antes de novas cenas; resolver espada longa/rapieira e componentes fora deste guia. Não aplicar progressão planejada. Edição não se deduz da aparência. Preservar referências e IDs; acrescentar novas capacidades apenas com fonte.
 
+Atualização visual de 04/10/2026: Vínculo com Arma sincronizado com o descritivo, a interpretação da espada e o estudo de ação v0003 a pedido do usuário. As demais propostas desta página e as pendências mecânicas não foram alteradas.
+
 Leitura-base conferida em 04/10/2026, commit público `29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce`. Esta data documenta a consulta, não aprovação das propostas.
+
