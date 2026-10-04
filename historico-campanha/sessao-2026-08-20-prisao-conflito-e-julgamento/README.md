@@ -1,4 +1,6 @@
-# Prisão, conflito e julgamento — 20/08/2026
+# Capítulo 003 — Prisão, conflito e julgamento
+
+Data registrada: **2026-08-20**. [Entrada canônica do capítulo](../capitulos/003-prisao-conflito-e-julgamento/README.md). Caminho legado preservado para compatibilidade; use o número e o título para navegação.
 
 [Histórico da campanha](../README.md) · [Acervo compartilhado](../referencias-compartilhadas/README.md) · [Proveniência e inventário](../inventario-de-fontes-e-imagens.md)
 

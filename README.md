@@ -10,6 +10,6 @@ A primeira publicação aprovada está disponível em `Jogatina/`. Toda nova div
 
 ## Navegação do acervo
 
-- [Histórico por sessão, cena e local](historico-campanha/README.md)
+- [Histórico por capítulo, cena e local](historico-campanha/README.md)
 - [Inventário de imagens e proveniência](historico-campanha/inventario-de-fontes-e-imagens.md)
 - [Personagens](personagens/README.md)

@@ -1,4 +1,6 @@
-# Audiência em Eldervan — 17/09/2026
+# Capítulo 005 — Audiência em Eldervan
+
+Data registrada: **2026-09-17**. [Entrada canônica do capítulo](../capitulos/005-audiencia-em-eldervan/README.md). Caminho legado preservado para compatibilidade; use o número e o título para navegação.
 
 [Histórico da campanha](../README.md) · [Acervo compartilhado](../referencias-compartilhadas/README.md) · [Proveniência e inventário](../inventario-de-fontes-e-imagens.md)
 

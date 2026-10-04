@@ -1,4 +1,6 @@
-# Andares inferiores — 01/10/2026
+# Capítulo 008 — Andares inferiores
+
+Data registrada: **2026-10-01**. [Entrada canônica do capítulo](../capitulos/008-andares-inferiores/README.md). Caminho legado preservado para compatibilidade; use o número e o título para navegação.
 
 [Histórico da campanha](../README.md)
 

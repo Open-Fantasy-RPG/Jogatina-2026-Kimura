@@ -9,3 +9,7 @@
 7. Registrar proveniência e manter um único arquivo binário. Se a relação não for demonstrável, usar `a-classificar/`.
 
 Este modelo não autoriza divulgar transcrições novas, segredos, rascunhos do mestre ou produção de HQ. A aprovação de conteúdo novo continua obrigatória.
+
+## Identidade por capítulo
+
+Consultar `../capitulos.json` antes de criar entradas. Capítulos novos usam `historico-campanha/capitulos/NNN-slug/`; guardar `chapter_id`, `chapter_number`, `title` e `session_date` separadamente em `chapter.json`. Duas datas iguais não fundem capítulos. Cenas e artefatos não incrementam a numeração. Fontes antigas continuam nos caminhos legados registrados, com navegação pela entrada canônica.

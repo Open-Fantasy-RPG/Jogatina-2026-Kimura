@@ -1,0 +1,29 @@
+{
+  "chapter_id": "kimura-rumo-ao-templo-do-fluxo",
+  "chapter_number": 6,
+  "title": "Rumo ao Templo do Fluxo",
+  "session_date": "2026-09-22",
+  "timezone": "America/Sao_Paulo",
+  "canonical_directory": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo",
+  "canonical_index": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/README.md",
+  "legacy_directories": [
+    "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo"
+  ],
+  "legacy_index": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/README.md",
+  "sources": [
+    {
+      "path": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md",
+      "kind": "summary",
+      "git_blob_sha": "13016e67144d1c448c544dec11209a7a0c1a12e4",
+      "size_bytes": 20458
+    },
+    {
+      "path": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/sessao-2026-09-22-rumo-ao-templo-do-fluxo.md",
+      "kind": "transcript",
+      "git_blob_sha": "cb22b46692dcd1771c393f86ad7b1a1fb745a38c",
+      "size_bytes": 57684
+    }
+  ],
+  "transcript_status": "available",
+  "scene_count": 4
+}

@@ -1,4 +1,6 @@
-# Esgotos de Asura’s Jewel — 08/08/2026
+# Capítulo 001 — Esgotos de Asura’s Jewel
+
+Data registrada: **2026-08-08**. [Entrada canônica do capítulo](../capitulos/001-esgotos-asuras-jewel/README.md). Caminho legado preservado para compatibilidade; use o número e o título para navegação.
 
 [Histórico da campanha](../README.md) · [Acervo compartilhado](../referencias-compartilhadas/README.md) · [Proveniência e inventário](../inventario-de-fontes-e-imagens.md)
 
@@ -8,7 +10,7 @@
 
 Os arquivos de origem foram movidos sem resumir ou reescrever seu conteúdo. Os descritivos de cena são navegação editorial complementar, não substituem os registros.
 
-Há outro registro com a mesma data. Os dois títulos foram preservados separadamente; não se presume uma sessão única nem duração/horário não registrados.
+Os dois registros de 08/08 correspondem a capítulos distintos, conforme confirmação do responsável pela organização. Não inferir horários ou durações da data compartilhada.
 
 ## Cenas
 

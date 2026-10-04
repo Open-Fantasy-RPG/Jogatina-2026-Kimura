@@ -1,0 +1,29 @@
+{
+  "chapter_id": "kimura-audiencia-em-eldervan",
+  "chapter_number": 5,
+  "title": "Audiência em Eldervan",
+  "session_date": "2026-09-17",
+  "timezone": "America/Sao_Paulo",
+  "canonical_directory": "historico-campanha/capitulos/005-audiencia-em-eldervan",
+  "canonical_index": "historico-campanha/capitulos/005-audiencia-em-eldervan/README.md",
+  "legacy_directories": [
+    "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan"
+  ],
+  "legacy_index": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/README.md",
+  "sources": [
+    {
+      "path": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan-resumo.md",
+      "kind": "summary",
+      "git_blob_sha": "b34d28a6772d711ac7d81bba4d7f7ffa9d536c33",
+      "size_bytes": 18185
+    },
+    {
+      "path": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan.md",
+      "kind": "transcript",
+      "git_blob_sha": "0a41760091fa3913a9a2819a333dbd010c304580",
+      "size_bytes": 76060
+    }
+  ],
+  "transcript_status": "available",
+  "scene_count": 4
+}

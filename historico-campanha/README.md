@@ -1,23 +1,23 @@
-# Histórico da campanha — GAR15
+# Capítulos da campanha — GAR15
 
-Cada sessão tem seus registros preservados, cenas ordenadas e descritivos de cena/local editáveis pelo mestre. Todo este acervo é público.
+A campanha está organizada em **8 capítulos**, identificados por número e título. A data é um atributo de cada capítulo, não seu identificador. Os capítulos 001 e 002 são distintos, embora os dois registros tenham a data 08/08/2026.
 
-## Sessões
+## Capítulos
 
-- [Esgotos de Asura’s Jewel — 08/08/2026](sessao-2026-08-08-esgotos-asuras-jewel/README.md) — 3 cenas
-- [Cidade Alta, Manômetro e prisão — 08/08/2026](sessao-2026-08-08-cidade-alta-e-prisao/README.md) — 3 cenas
-- [Prisão, conflito e julgamento — 20/08/2026](sessao-2026-08-20-prisao-conflito-e-julgamento/README.md) — 3 cenas
-- [Fuga de Asura e chegada a Eldervan — 03/09/2026](sessao-2026-09-03-fuga-de-azura-a-eldervan/README.md) — 5 cenas
-- [Audiência em Eldervan — 17/09/2026](sessao-2026-09-17-audiencia-em-eldervan/README.md) — 4 cenas
-- [Rumo ao Templo do Fluxo — 22/09/2026](sessao-2026-09-22-rumo-ao-templo-do-fluxo/README.md) — 4 cenas
-- [Exploração do Templo do Fluxo — 24/09/2026](sessao-2026-09-24-exploracao-do-templo-do-fluxo/README.md) — 9 cenas
+- [Capítulo 001 — Esgotos de Asura’s Jewel](capitulos/001-esgotos-asuras-jewel/README.md) — data registrada: 2026-08-08
+- [Capítulo 002 — Cidade Alta, Manômetro e prisão](capitulos/002-cidade-alta-e-prisao/README.md) — data registrada: 2026-08-08
+- [Capítulo 003 — Prisão, conflito e julgamento](capitulos/003-prisao-conflito-e-julgamento/README.md) — data registrada: 2026-08-20
+- [Capítulo 004 — Fuga de Asura e chegada a Eldervan](capitulos/004-fuga-de-asura-a-eldervan/README.md) — data registrada: 2026-09-03
+- [Capítulo 005 — Audiência em Eldervan](capitulos/005-audiencia-em-eldervan/README.md) — data registrada: 2026-09-17
+- [Capítulo 006 — Rumo ao Templo do Fluxo](capitulos/006-rumo-ao-templo-do-fluxo/README.md) — data registrada: 2026-09-22
+- [Capítulo 007 — Exploração do Templo do Fluxo](capitulos/007-exploracao-do-templo-do-fluxo/README.md) — data registrada: 2026-09-24
+- [Capítulo 008 — Andares inferiores](capitulos/008-andares-inferiores/README.md) — data registrada: 2026-10-01
 
-- [Andares inferiores — 01/10/2026](sessao-2026-10-01-andares-inferiores-441e1e188cc4b00b74901b904337b9cd1fd669468513102efce50859532f91ec/README.md) — transcrição curada e resumo
-
-Os dois registros de 08/08 permanecem separados conforme o acervo original. Não se deduziu uma sessão única nem um horário que a fonte não informa.
+Os capítulos 001–002 não têm transcrição, conforme o responsável. Os capítulos 003–004 têm apenas relatos resumidos neste Git; novas transcrições foram localizadas no acervo privado e ainda não foram incorporadas aqui. No capítulo 004, a gravação corresponde a 02/09 em São Paulo, enquanto o registro histórico informa 03/09; ambas as datas ficam explicitadas até reconciliação. Os capítulos 005–007 têm transcrições e o capítulo 008 tem transcrição curada e resumo. Essa contagem é de capítulos registrados, não de HQs concluídas.
 
 ## Navegação visual
 
+- [Registro canônico e aliases de capítulos](capitulos.json)
 - [Referências compartilhadas: locais, mapas e NPCs](referencias-compartilhadas/README.md)
 - [Inventário, proveniência e limites das imagens](inventario-de-fontes-e-imagens.md)
 - [Mapa de caminhos para ferramentas e HQ](mapa-de-caminhos.json)
@@ -25,6 +25,6 @@ Os dois registros de 08/08 permanecem separados conforme o acervo original. Não
 - [Critérios para arquivos ainda sem classificação](a-classificar/README.md)
 - [Personagens da GAR15](../personagens/README.md)
 
-## Para ilustrações e HQ
+## Preservação e produção
 
-Ler primeiro a cena, depois o local, as imagens originais e os documentos completos dos personagens. A arte de referência pode representar o auge de um lugar, enquanto a sessão se passa em ruínas. Fatos, observações visuais e pendências estão separados. A organização deste acervo não autoriza publicar uma HQ ou novos conteúdos reservados.
+Os registros originais, cenas e imagens já existentes mantêm seus caminhos e bytes. As entradas por capítulo organizam a leitura e os metadados sem duplicar fontes ou quebrar referências. Novos capítulos usam `capitulos/NNN-slug/`, com data nos metadados. Ler primeiro o capítulo e suas fontes, depois a cena, o local, as imagens originais e os documentos completos dos personagens. A organização deste acervo público não autoriza publicar HQs ou novos conteúdos reservados.

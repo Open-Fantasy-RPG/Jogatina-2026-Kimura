@@ -1,0 +1,24 @@
+{
+  "chapter_id": "kimura-cidade-alta-e-prisao",
+  "chapter_number": 2,
+  "title": "Cidade Alta, Manômetro e prisão",
+  "session_date": "2026-08-08",
+  "timezone": "America/Sao_Paulo",
+  "canonical_directory": "historico-campanha/capitulos/002-cidade-alta-e-prisao",
+  "canonical_index": "historico-campanha/capitulos/002-cidade-alta-e-prisao/README.md",
+  "legacy_directories": [
+    "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao"
+  ],
+  "legacy_index": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/README.md",
+  "sources": [
+    {
+      "path": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/sessao-2026-08-08-cidade-alta-e-prisao.md",
+      "kind": "summary",
+      "git_blob_sha": "0ec572e868c718c55f34e5a3cf43575205927f62",
+      "size_bytes": 960
+    }
+  ],
+  "transcript_status": "unavailable_confirmed",
+  "scene_count": 3,
+  "transcript_note": "Sem transcrição, conforme confirmação do responsável pela organização; relato público preservado."
+}

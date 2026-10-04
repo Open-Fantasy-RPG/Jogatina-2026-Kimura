@@ -1,4 +1,6 @@
-# Rumo ao Templo do Fluxo — 22/09/2026
+# Capítulo 006 — Rumo ao Templo do Fluxo
+
+Data registrada: **2026-09-22**. [Entrada canônica do capítulo](../capitulos/006-rumo-ao-templo-do-fluxo/README.md). Caminho legado preservado para compatibilidade; use o número e o título para navegação.
 
 [Histórico da campanha](../README.md) · [Acervo compartilhado](../referencias-compartilhadas/README.md) · [Proveniência e inventário](../inventario-de-fontes-e-imagens.md)
 

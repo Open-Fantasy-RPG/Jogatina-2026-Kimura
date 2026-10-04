@@ -1,4 +1,6 @@
-# Exploração do Templo do Fluxo — 24/09/2026
+# Capítulo 007 — Exploração do Templo do Fluxo
+
+Data registrada: **2026-09-24**. [Entrada canônica do capítulo](../capitulos/007-exploracao-do-templo-do-fluxo/README.md). Caminho legado preservado para compatibilidade; use o número e o título para navegação.
 
 [Histórico da campanha](../README.md) · [Acervo compartilhado](../referencias-compartilhadas/README.md) · [Proveniência e inventário](../inventario-de-fontes-e-imagens.md)
 
