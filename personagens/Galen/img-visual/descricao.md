@@ -62,5 +62,5 @@ Não há retrato de Galen nos arquivos publicados consultados. Uma referência f
 
 - [Identidade, equipamento, ações e relações de Galen](../README.md)
 - [Kaelen Vane e sua trajetória](../../Kaelen%20Vane/README.md)
-- [Fuga da prisão e chegada a Eldervan](../../../historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan.md)
+- [Fuga da prisão e chegada a Eldervan](../../../historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/sessao-2026-09-03-fuga-de-azura-a-eldervan.md)
 - [Índice do acervo visual](README.md)

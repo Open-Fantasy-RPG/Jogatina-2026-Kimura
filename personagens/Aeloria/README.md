@@ -65,7 +65,7 @@ O último registro termina com a **chegada a Eldervan em 03/09/2026 e avanço ao
 - [Ficha histórica — nível 1](Niveis-anteriores/ficha-nivel-1.md)
 - [História](historia-background.md)
 - [Histórico da campanha](../../historico-campanha/README.md)
-- [Última sessão — Fuga e Eldervan](../../historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan.md)
+- [Última sessão — Fuga e Eldervan](../../historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/sessao-2026-09-03-fuga-de-azura-a-eldervan.md)
 - [Companheiros da GAR15](../README.md)
 - [Aparência, personalidade e interpretação](img-visual/descricao.md)
 - [Habilidades e magias](habilidades-e-magias.md)

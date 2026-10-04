@@ -1,0 +1,593 @@
+{
+  "schema_version": 1,
+  "repositorio": "Open-Fantasy-RPG/Jogatina-2026-Kimura",
+  "fonte_publica_verificada_em": "2026-10-04",
+  "commit_publico_de_origem": "a13a802c8341783903da67fd0994849a8ab758cc",
+  "criterio": "Somente fontes e imagens já públicas; pixels inspecionados; nenhum conteúdo reservado importado.",
+  "caminhos_movidos": {
+    "imgs 1/asura-jewel.jpeg": "historico-campanha/referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg",
+    "imgs 1/prisao.jpeg": "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg",
+    "imgs 1/eldervan.jpeg": "historico-campanha/referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg",
+    "imgs 1/eldervan-2.jpeg": "historico-campanha/referencias-compartilhadas/locais/eldervan/imagens/eldervan-2.jpeg",
+    "imgs 1/mapa.jpeg": "historico-campanha/referencias-compartilhadas/mapas/aeldria/imagens/mapa.jpeg",
+    "imgs 1/jaina-woodward.jpeg": "historico-campanha/referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg",
+    "imgs 1/lord-ilidan.jpeg": "historico-campanha/referencias-compartilhadas/npcs/lorde-illyrion/imagens/lord-ilidan.jpeg",
+    "imgs 1/tempo-portao.jpeg": "historico-campanha/referencias-compartilhadas/locais/templo-do-fluxo-portao/imagens/tempo-portao.jpeg",
+    "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel.md": "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel/sessao-2026-08-08-esgotos-asuras-jewel.md",
+    "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao.md": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/sessao-2026-08-08-cidade-alta-e-prisao.md",
+    "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento.md": "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/sessao-2026-08-20-prisao-conflito-e-julgamento.md",
+    "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan.md": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/sessao-2026-09-03-fuga-de-azura-a-eldervan.md",
+    "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan.md": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan.md",
+    "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan-resumo.md": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan-resumo.md",
+    "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo.md": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/sessao-2026-09-22-rumo-ao-templo-do-fluxo.md",
+    "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md",
+    "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo.md": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/sessao-2026-09-24-exploracao-do-templo-do-fluxo.md",
+    "imgs 1/templo-map-nivel1.jpeg": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/referencias/mapas/templo-map-nivel1.jpeg",
+    "imgs 1/templo-saguao.jpeg": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/02-saguao-de-elara/imagens/templo-saguao.jpeg",
+    "imgs 1/templo-nivel1-passagem-screta.jpeg": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/04-passagem-secreta/imagens/templo-nivel1-passagem-screta.jpeg",
+    "imgs 1/templo-sub1-teatro.jpeg": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/06-teatro-e-automato/imagens/templo-sub1-teatro.jpeg",
+    "imgs 1/templo-sub1-descida.jpeg": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/07-poco-e-elevador/imagens/templo-sub1-descida.jpeg",
+    "imgs 1/tempple-sub2-lab.jpeg": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/imagens/tempple-sub2-lab.jpeg",
+    "imgs 1/templo-sub2-lab-map.jpeg": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/imagens/templo-sub2-lab-map.jpeg",
+    "imgs 1/templo-criatura1.jpeg": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura1.jpeg",
+    "imgs 1/templo-criatura2.jpeg": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura2.jpeg"
+  },
+  "imagens": [
+    {
+      "origem": "imgs 1/asura-jewel.jpeg",
+      "destino": "historico-campanha/referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg",
+      "blob_sha": "b7a4e7f7e2e5bac6616549bf7a1a68eae5d68427",
+      "bytes": 801344,
+      "tipo": "mapa de cidade",
+      "observacao_visual": "Mapa identificado como Asura’s Jewel; cidade murada industrial, bairros, canais, chaminés, portões e acessos a esgotos.",
+      "evidencia": "Título visível na imagem; registros públicos de 08/08, 20/08 e 03/09.",
+      "classificacao": "confirmado por imagem e registro público",
+      "pixels_inspecionados": true
+    },
+    {
+      "origem": "imgs 1/prisao.jpeg",
+      "destino": "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg",
+      "blob_sha": "d5abc2178856442e74f44226b0abb0cbcacd15b5",
+      "bytes": 657202,
+      "tipo": "mapa de local",
+      "observacao_visual": "Planta vista de cima com alas de celas, corredores, dependências e tubulações; não há legenda de funções para todas as salas.",
+      "evidencia": "Nome original e cenas de prisão em 08/08, 20/08 e 03/09. Não identifica por si a cela de cada personagem.",
+      "classificacao": "confirmado por imagem e registro público",
+      "pixels_inspecionados": true
+    },
+    {
+      "origem": "imgs 1/eldervan.jpeg",
+      "destino": "historico-campanha/referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg",
+      "blob_sha": "2dfb7fa23d401a3c877c2f1c54b0a88e2632463b",
+      "bytes": 788454,
+      "tipo": "mapa de cidade",
+      "observacao_visual": "Mapa rotulado Eldervan, Cidade Élfica de Erlingheim, com tronco branco central, pontes, salão, Mercado das Raízes e outros pontos identificados.",
+      "evidencia": "Título/legendas visíveis e descrição pública de 17/09; chegada em 03/09 e partida em 22/09.",
+      "classificacao": "confirmado por imagem e registro público",
+      "pixels_inspecionados": true
+    },
+    {
+      "origem": "imgs 1/eldervan-2.jpeg",
+      "destino": "historico-campanha/referencias-compartilhadas/locais/eldervan/imagens/eldervan-2.jpeg",
+      "blob_sha": "eebe4ad342e0276cf419a570b19ac20c5d972e2c",
+      "bytes": 509909,
+      "tipo": "ambientação de cidade",
+      "observacao_visual": "Arquitetura clara integrada a troncos brancos, passarelas entre árvores, varandas e quedas-d’água.",
+      "evidencia": "Nome original e convergência com mapa e descrição pública da cidade em 17/09. Sem ponto de câmera específico confirmado.",
+      "classificacao": "confirmado por imagem e registro público",
+      "pixels_inspecionados": true
+    },
+    {
+      "origem": "imgs 1/mapa.jpeg",
+      "destino": "historico-campanha/referencias-compartilhadas/mapas/aeldria/imagens/mapa.jpeg",
+      "blob_sha": "a83ce820d05a0b9fa3becb38abb252b8c4460dc7",
+      "bytes": 767844,
+      "tipo": "mapa regional",
+      "observacao_visual": "Mapa rotulado continente de Aeldria, com Asura e Erlingheim, cidades e fronteira. As rotas dos personagens não estão desenhadas.",
+      "evidencia": "Título visível; topônimos presentes nas viagens de 03/09 e 22/09. Não deduzir distâncias percorridas exatas.",
+      "classificacao": "confirmado por imagem e registro público",
+      "pixels_inspecionados": true
+    },
+    {
+      "origem": "imgs 1/jaina-woodward.jpeg",
+      "destino": "historico-campanha/referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg",
+      "blob_sha": "f66447ec2aaaf649ca1b186a21158fd30aa832e2",
+      "bytes": 628459,
+      "tipo": "retrato/ficha ilustrada pública",
+      "observacao_visual": "Ficha ilustrada identificada como Jania Woodward; elfa com capuz escuro, cabelos castanhos, orelhas pontudas, arco, aljava e couro.",
+      "evidencia": "Nome visível e aliada recorrente dos registros de 03/09, 17/09, 22/09 e 24/09. Variantes Jânia/Jania/Jaina preservadas como aliases; valores da imagem não atualizados por inferência.",
+      "classificacao": "confirmado por imagem e registro público",
+      "pixels_inspecionados": true
+    },
+    {
+      "origem": "imgs 1/lord-ilidan.jpeg",
+      "destino": "historico-campanha/referencias-compartilhadas/npcs/lorde-illyrion/imagens/lord-ilidan.jpeg",
+      "blob_sha": "25ca4b2dcd7b932ed9e8192b48245d1632e7fc71",
+      "bytes": 459305,
+      "tipo": "retrato público",
+      "observacao_visual": "Retrato rotulado Lorde Illyrion Strider; elfo de cabelos longos claros, vestes claras com motivos vegetais e cajado.",
+      "evidencia": "Rótulo visual e audiências de 17/09 e 22/09. Arquivo histórico chama-se lord-ilidan; transcrições variam Illirion/Lyrian/Lilian. Grafia final requer confirmação do mestre.",
+      "classificacao": "confirmado por imagem e registro público",
+      "pixels_inspecionados": true
+    },
+    {
+      "origem": "imgs 1/tempo-portao.jpeg",
+      "destino": "historico-campanha/referencias-compartilhadas/locais/templo-do-fluxo-portao/imagens/tempo-portao.jpeg",
+      "blob_sha": "a60866dfe7f9b1f55b9d7770c9d0aabc78f00f17",
+      "bytes": 448627,
+      "tipo": "ambientação de exterior",
+      "observacao_visual": "Portal de pedra nas montanhas, neve, esculturas laterais, inscrição Ordem de Santa Elara e portas abertas/danificadas.",
+      "evidencia": "Chegada ao templo no fim de 22/09; portão principal avariado mencionado em 24/09 às 00:05:11. Distinguir este portão externo da porta interna de manivela e runa.",
+      "classificacao": "confirmado por imagem e registro público",
+      "pixels_inspecionados": true
+    },
+    {
+      "origem": "imgs 1/templo-map-nivel1.jpeg",
+      "destino": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/referencias/mapas/templo-map-nivel1.jpeg",
+      "blob_sha": "1f58c7bac9bc5fb9177c1193d8c329f692149510",
+      "bytes": 654228,
+      "tipo": "mapa de nível",
+      "observacao_visual": "Mapa identificado Nível I — O Templo Silencioso: entrada, vestíbulo, salão de Elara, galeria, biblioteca, sala dos mestres, acampamento e escadaria.",
+      "evidencia": "Transcrição de 24/09, 00:34:16–00:34:34, menciona envio do mapa da parte superior; legenda da imagem. Não inclui o mapa completo dos subsolos.",
+      "classificacao": "confirmado por imagem e registro público",
+      "pixels_inspecionados": true
+    },
+    {
+      "origem": "imgs 1/templo-saguao.jpeg",
+      "destino": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/02-saguao-de-elara/imagens/templo-saguao.jpeg",
+      "blob_sha": "e44da4b25858d048496d9fce99cbaf1212268adf",
+      "bytes": 297741,
+      "tipo": "ambientação histórica",
+      "observacao_visual": "Grande estátua feminina trabalhando em um canhão de mão, bandeiras azuis, símbolos solares, pedra, velas e instrumentos.",
+      "evidencia": "Transcrição de 24/09, 00:09:11–00:13:05: referência visual do salão; o mestre corrige que a cena atual tem poeira e depredação.",
+      "classificacao": "confirmado por imagem e registro público",
+      "pixels_inspecionados": true
+    },
+    {
+      "origem": "imgs 1/templo-nivel1-passagem-screta.jpeg",
+      "destino": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/04-passagem-secreta/imagens/templo-nivel1-passagem-screta.jpeg",
+      "blob_sha": "4097f26fb93fd55e90d6f3c85ae7e9ebc1cf7ec2",
+      "bytes": 235203,
+      "tipo": "ambientação de passagem",
+      "observacao_visual": "Estante à esquerda e escadaria escura de pedra, anotações na parede e marca A.V.",
+      "evidencia": "Transcrição de 24/09, 00:32:07–00:35:57: passagem atrás da estante, Aldrich Venn e descida.",
+      "classificacao": "confirmado por imagem e registro público",
+      "pixels_inspecionados": true
+    },
+    {
+      "origem": "imgs 1/templo-sub1-teatro.jpeg",
+      "destino": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/06-teatro-e-automato/imagens/templo-sub1-teatro.jpeg",
+      "blob_sha": "3f40659dd9a46c21b3e22af7a1aed0cd632ab853",
+      "bytes": 291703,
+      "tipo": "ambientação histórica",
+      "observacao_visual": "Anfiteatro circular com degraus, autômato suspenso por ganchos/correntes, diagramas anatômicos e equipamentos.",
+      "evidencia": "Transcrição de 24/09, 00:40:12–00:41:50: anfiteatro, autômato inativo com ferrugem; imagem apresentada como auge.",
+      "classificacao": "confirmado por imagem e registro público",
+      "pixels_inspecionados": true
+    },
+    {
+      "origem": "imgs 1/templo-sub1-descida.jpeg",
+      "destino": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/07-poco-e-elevador/imagens/templo-sub1-descida.jpeg",
+      "blob_sha": "82878b4b3226413248d9c886ec850c0396fe9b05",
+      "bytes": 424264,
+      "tipo": "ambientação de local",
+      "observacao_visual": "Poço profundo de pedra, galerias e pontes avariadas, cordas e elevador/cabine suspenso por correntes.",
+      "evidencia": "Transcrição de 24/09, 00:48:40–00:52:05 e 01:03:50–01:03:57: poço, acessos destruídos e cabine suspensa confirmados.",
+      "classificacao": "confirmado por imagem e registro público",
+      "pixels_inspecionados": true
+    },
+    {
+      "origem": "imgs 1/tempple-sub2-lab.jpeg",
+      "destino": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/imagens/tempple-sub2-lab.jpeg",
+      "blob_sha": "5519981b3105e84fe36f887a230d71519a8f36a2",
+      "bytes": 365606,
+      "tipo": "ambientação de local",
+      "observacao_visual": "Corredor de laboratório com grades, mesas, frascos, ilustrações anatômicas, correntes e figuras nas celas.",
+      "evidencia": "Transcrição de 24/09, 01:07:18–01:10:49: subterrâneo sem janelas, luz artificial fraca verde/azul, jaulas e restos antigos. Não afirmar vítimas vivas/ferimentos recentes apenas pela arte.",
+      "classificacao": "confirmado por imagem e registro público",
+      "pixels_inspecionados": true
+    },
+    {
+      "origem": "imgs 1/templo-sub2-lab-map.jpeg",
+      "destino": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/imagens/templo-sub2-lab-map.jpeg",
+      "blob_sha": "24625af6ed4d0ffbca0d7ce6173558c84a82be81",
+      "bytes": 61356,
+      "tipo": "recorte de mapa",
+      "observacao_visual": "Recorte de planta com jaulas e rótulo 2 — Jaulas de Observação.",
+      "evidencia": "Rótulo visível e encontro encerrado nas Jaulas de Observação em 24/09 às 01:52:07. O número 2 é da área ilustrada, não prova por si o andar.",
+      "classificacao": "confirmado por imagem e registro público",
+      "pixels_inspecionados": true
+    },
+    {
+      "origem": "imgs 1/templo-criatura1.jpeg",
+      "destino": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura1.jpeg",
+      "blob_sha": "d00119d7f163f79d663e7fdcdbca99ed0d0fb110",
+      "bytes": 77168,
+      "tipo": "referência de criatura",
+      "observacao_visual": "Criatura escura de membros/garras alongados, máscara clara, ramificações e névoa roxa.",
+      "evidencia": "Transcrição de 24/09, 01:10:19 em diante: sombra que desaparece/reaparece; comportamento coincide com a anotação visual. Espécie/nome formal não confirmado.",
+      "classificacao": "confirmado por imagem e registro público",
+      "pixels_inspecionados": true
+    },
+    {
+      "origem": "imgs 1/templo-criatura2.jpeg",
+      "destino": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura2.jpeg",
+      "blob_sha": "d34089ef3e493c6a59bdbb034b0f23ec7335eccb",
+      "bytes": 66087,
+      "tipo": "referência de criatura",
+      "observacao_visual": "Quadrúpede de aspecto canino/humano alterado, musculatura exposta, tubos, frasco verde e reforços mecânicos.",
+      "evidencia": "Transcrição de 24/09, 01:10:19: dois seres canino-humanos musculares com líquido; combate subsequente. Não são automaticamente os Blink Dogs de 03/09.",
+      "classificacao": "confirmado por imagem e registro público",
+      "pixels_inspecionados": true
+    }
+  ],
+  "sessoes": [
+    {
+      "id": "sessao-2026-08-08-esgotos-asuras-jewel",
+      "indice": "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel/README.md",
+      "fontes": [
+        "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel/sessao-2026-08-08-esgotos-asuras-jewel.md"
+      ],
+      "cenas": [
+        {
+          "id": "sessao-2026-08-08-esgotos-asuras-jewel/01-esgotos-e-ratos",
+          "descricao_cena": "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel/cenas/01-esgotos-e-ratos/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel/cenas/01-esgotos-e-ratos/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg"
+          ],
+          "fonte_trecho": "relato público, parágrafo 1"
+        },
+        {
+          "id": "sessao-2026-08-08-esgotos-asuras-jewel/02-hilbert-runas-e-trafico",
+          "descricao_cena": "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel/cenas/02-hilbert-runas-e-trafico/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel/cenas/02-hilbert-runas-e-trafico/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg"
+          ],
+          "fonte_trecho": "relato público, parágrafo 2"
+        },
+        {
+          "id": "sessao-2026-08-08-esgotos-asuras-jewel/03-leilao-e-relato-a-guarda",
+          "descricao_cena": "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel/cenas/03-leilao-e-relato-a-guarda/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel/cenas/03-leilao-e-relato-a-guarda/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg"
+          ],
+          "fonte_trecho": "relato público, parágrafo 3"
+        }
+      ]
+    },
+    {
+      "id": "sessao-2026-08-08-cidade-alta-e-prisao",
+      "indice": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/README.md",
+      "fontes": [
+        "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/sessao-2026-08-08-cidade-alta-e-prisao.md"
+      ],
+      "cenas": [
+        {
+          "id": "sessao-2026-08-08-cidade-alta-e-prisao/01-apresentacao-na-cidade-alta",
+          "descricao_cena": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/01-apresentacao-na-cidade-alta/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/01-apresentacao-na-cidade-alta/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg"
+          ],
+          "fonte_trecho": "relato público, parágrafo 1"
+        },
+        {
+          "id": "sessao-2026-08-08-cidade-alta-e-prisao/02-manometro-e-fratura",
+          "descricao_cena": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/02-manometro-e-fratura/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/02-manometro-e-fratura/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg"
+          ],
+          "fonte_trecho": "relato público, parágrafos 2–3"
+        },
+        {
+          "id": "sessao-2026-08-08-cidade-alta-e-prisao/03-william-e-prisao",
+          "descricao_cena": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg",
+            "historico-campanha/referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg"
+          ],
+          "fonte_trecho": "relato público, parágrafo 4"
+        }
+      ]
+    },
+    {
+      "id": "sessao-2026-08-20-prisao-conflito-e-julgamento",
+      "indice": "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/README.md",
+      "fontes": [
+        "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/sessao-2026-08-20-prisao-conflito-e-julgamento.md"
+      ],
+      "cenas": [
+        {
+          "id": "sessao-2026-08-20-prisao-conflito-e-julgamento/01-carceragem-e-patio",
+          "descricao_cena": "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/cenas/01-carceragem-e-patio/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/cenas/01-carceragem-e-patio/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg"
+          ],
+          "fonte_trecho": "relato público, parágrafos 1–2"
+        },
+        {
+          "id": "sessao-2026-08-20-prisao-conflito-e-julgamento/02-cela-cartas-e-chaves",
+          "descricao_cena": "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/cenas/02-cela-cartas-e-chaves/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/cenas/02-cela-cartas-e-chaves/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg"
+          ],
+          "fonte_trecho": "relato público, parágrafo 3"
+        },
+        {
+          "id": "sessao-2026-08-20-prisao-conflito-e-julgamento/03-tribunal-e-retorno",
+          "descricao_cena": "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/cenas/03-tribunal-e-retorno/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/cenas/03-tribunal-e-retorno/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg"
+          ],
+          "fonte_trecho": "relato público, parágrafos 4–5"
+        }
+      ]
+    },
+    {
+      "id": "sessao-2026-09-03-fuga-de-azura-a-eldervan",
+      "indice": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/README.md",
+      "fontes": [
+        "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/sessao-2026-09-03-fuga-de-azura-a-eldervan.md"
+      ],
+      "cenas": [
+        {
+          "id": "sessao-2026-09-03-fuga-de-azura-a-eldervan/01-fuga-e-rebeliao",
+          "descricao_cena": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/01-fuga-e-rebeliao/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/01-fuga-e-rebeliao/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg",
+            "historico-campanha/referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg"
+          ],
+          "fonte_trecho": "relato público, parágrafos 1–3"
+        },
+        {
+          "id": "sessao-2026-09-03-fuga-de-azura-a-eldervan/02-tuneis-e-william",
+          "descricao_cena": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/02-tuneis-e-william/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/02-tuneis-e-william/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/locais/prisao-de-asura/imagens/prisao.jpeg",
+            "historico-campanha/referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg"
+          ],
+          "fonte_trecho": "relato público, fim do parágrafo 3 e início do 4"
+        },
+        {
+          "id": "sessao-2026-09-03-fuga-de-azura-a-eldervan/03-viagem-e-vilas",
+          "descricao_cena": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/03-viagem-e-vilas/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/03-viagem-e-vilas/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/mapas/aeldria/imagens/mapa.jpeg",
+            "historico-campanha/referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg"
+          ],
+          "fonte_trecho": "relato público, parágrafos 4–5"
+        },
+        {
+          "id": "sessao-2026-09-03-fuga-de-azura-a-eldervan/04-blink-dogs",
+          "descricao_cena": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/04-blink-dogs/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/04-blink-dogs/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/mapas/aeldria/imagens/mapa.jpeg",
+            "historico-campanha/referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg"
+          ],
+          "fonte_trecho": "relato público, parágrafo 6"
+        },
+        {
+          "id": "sessao-2026-09-03-fuga-de-azura-a-eldervan/05-chegada-a-eldervan",
+          "descricao_cena": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/05-chegada-a-eldervan/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/05-chegada-a-eldervan/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg",
+            "historico-campanha/referencias-compartilhadas/locais/eldervan/imagens/eldervan-2.jpeg",
+            "historico-campanha/referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg"
+          ],
+          "fonte_trecho": "relato público, parágrafo final"
+        }
+      ]
+    },
+    {
+      "id": "sessao-2026-09-17-audiencia-em-eldervan",
+      "indice": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/README.md",
+      "fontes": [
+        "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan.md",
+        "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan-resumo.md"
+      ],
+      "cenas": [
+        {
+          "id": "sessao-2026-09-17-audiencia-em-eldervan/01-entrada-e-audiencia",
+          "descricao_cena": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/cenas/01-entrada-e-audiencia/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/cenas/01-entrada-e-audiencia/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg",
+            "historico-campanha/referencias-compartilhadas/locais/eldervan/imagens/eldervan-2.jpeg",
+            "historico-campanha/referencias-compartilhadas/npcs/lorde-illyrion/imagens/lord-ilidan.jpeg",
+            "historico-campanha/referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg"
+          ],
+          "fonte_trecho": "resumo público, Resumo da sessão e Eventos principais 6–20"
+        },
+        {
+          "id": "sessao-2026-09-17-audiencia-em-eldervan/02-vila-das-cancoes",
+          "descricao_cena": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/cenas/02-vila-das-cancoes/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/cenas/02-vila-das-cancoes/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg",
+            "historico-campanha/referencias-compartilhadas/locais/eldervan/imagens/eldervan-2.jpeg"
+          ],
+          "fonte_trecho": "resumo público, Eventos principais 21–22 e 25–27"
+        },
+        {
+          "id": "sessao-2026-09-17-audiencia-em-eldervan/03-contemplacao-de-galen",
+          "descricao_cena": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/cenas/03-contemplacao-de-galen/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/cenas/03-contemplacao-de-galen/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg"
+          ],
+          "fonte_trecho": "resumo público, Eventos principais 23 e 28"
+        },
+        {
+          "id": "sessao-2026-09-17-audiencia-em-eldervan/04-git-anel-e-repouso",
+          "descricao_cena": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/cenas/04-git-anel-e-repouso/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/cenas/04-git-anel-e-repouso/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg",
+            "historico-campanha/referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg"
+          ],
+          "fonte_trecho": "resumo público, Eventos principais 24 e 29–34"
+        }
+      ]
+    },
+    {
+      "id": "sessao-2026-09-22-rumo-ao-templo-do-fluxo",
+      "indice": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/README.md",
+      "fontes": [
+        "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/sessao-2026-09-22-rumo-ao-templo-do-fluxo.md",
+        "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md"
+      ],
+      "cenas": [
+        {
+          "id": "sessao-2026-09-22-rumo-ao-templo-do-fluxo/01-cafe-e-manuscritos",
+          "descricao_cena": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/cenas/01-cafe-e-manuscritos/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/cenas/01-cafe-e-manuscritos/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg",
+            "historico-campanha/referencias-compartilhadas/locais/eldervan/imagens/eldervan-2.jpeg",
+            "historico-campanha/referencias-compartilhadas/npcs/lorde-illyrion/imagens/lord-ilidan.jpeg",
+            "historico-campanha/referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg"
+          ],
+          "fonte_trecho": "resumo público, Resumo da sessão, itens 1–4"
+        },
+        {
+          "id": "sessao-2026-09-22-rumo-ao-templo-do-fluxo/02-mercado-e-caravana",
+          "descricao_cena": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/cenas/02-mercado-e-caravana/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/cenas/02-mercado-e-caravana/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg",
+            "historico-campanha/referencias-compartilhadas/mapas/aeldria/imagens/mapa.jpeg",
+            "historico-campanha/referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg"
+          ],
+          "fonte_trecho": "resumo público, Resumo da sessão, item 5 e História da sessão"
+        },
+        {
+          "id": "sessao-2026-09-22-rumo-ao-templo-do-fluxo/03-montanha-e-tarvek",
+          "descricao_cena": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/cenas/03-montanha-e-tarvek/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/cenas/03-montanha-e-tarvek/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/mapas/aeldria/imagens/mapa.jpeg"
+          ],
+          "fonte_trecho": "resumo público, Resumo da sessão, item 6 e História da sessão"
+        },
+        {
+          "id": "sessao-2026-09-22-rumo-ao-templo-do-fluxo/04-portao-do-templo",
+          "descricao_cena": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/cenas/04-portao-do-templo/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/cenas/04-portao-do-templo/descricao-local.md",
+          "imagens": [
+            "historico-campanha/referencias-compartilhadas/locais/templo-do-fluxo-portao/imagens/tempo-portao.jpeg"
+          ],
+          "fonte_trecho": "resumo público, Resumo da sessão, item 6 e encerramento da História da sessão"
+        }
+      ]
+    },
+    {
+      "id": "sessao-2026-09-24-exploracao-do-templo-do-fluxo",
+      "indice": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/README.md",
+      "fontes": [
+        "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/sessao-2026-09-24-exploracao-do-templo-do-fluxo.md"
+      ],
+      "cenas": [
+        {
+          "id": "sessao-2026-09-24-exploracao-do-templo-do-fluxo/01-antessala-e-porta",
+          "descricao_cena": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/01-antessala-e-porta/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/01-antessala-e-porta/descricao-local.md",
+          "imagens": [
+            "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/referencias/mapas/templo-map-nivel1.jpeg",
+            "historico-campanha/referencias-compartilhadas/locais/templo-do-fluxo-portao/imagens/tempo-portao.jpeg"
+          ],
+          "fonte_trecho": "transcrição, 00:00:00–00:08:47"
+        },
+        {
+          "id": "sessao-2026-09-24-exploracao-do-templo-do-fluxo/02-saguao-de-elara",
+          "descricao_cena": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/02-saguao-de-elara/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/02-saguao-de-elara/descricao-local.md",
+          "imagens": [
+            "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/02-saguao-de-elara/imagens/templo-saguao.jpeg",
+            "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/referencias/mapas/templo-map-nivel1.jpeg"
+          ],
+          "fonte_trecho": "transcrição, 00:09:11–00:14:28"
+        },
+        {
+          "id": "sessao-2026-09-24-exploracao-do-templo-do-fluxo/03-biblioteca-mestres-e-acampamento",
+          "descricao_cena": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/03-biblioteca-mestres-e-acampamento/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/03-biblioteca-mestres-e-acampamento/descricao-local.md",
+          "imagens": [
+            "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/referencias/mapas/templo-map-nivel1.jpeg"
+          ],
+          "fonte_trecho": "transcrição, 00:14:38–00:32:07"
+        },
+        {
+          "id": "sessao-2026-09-24-exploracao-do-templo-do-fluxo/04-passagem-secreta",
+          "descricao_cena": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/04-passagem-secreta/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/04-passagem-secreta/descricao-local.md",
+          "imagens": [
+            "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/04-passagem-secreta/imagens/templo-nivel1-passagem-screta.jpeg",
+            "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/referencias/mapas/templo-map-nivel1.jpeg"
+          ],
+          "fonte_trecho": "transcrição, 00:32:07–00:36:19"
+        },
+        {
+          "id": "sessao-2026-09-24-exploracao-do-templo-do-fluxo/05-refeitorio-e-dormitorios",
+          "descricao_cena": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/05-refeitorio-e-dormitorios/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/05-refeitorio-e-dormitorios/descricao-local.md",
+          "imagens": [],
+          "fonte_trecho": "transcrição, 00:36:19–00:40:10"
+        },
+        {
+          "id": "sessao-2026-09-24-exploracao-do-templo-do-fluxo/06-teatro-e-automato",
+          "descricao_cena": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/06-teatro-e-automato/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/06-teatro-e-automato/descricao-local.md",
+          "imagens": [
+            "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/06-teatro-e-automato/imagens/templo-sub1-teatro.jpeg"
+          ],
+          "fonte_trecho": "transcrição, 00:40:12–00:47:40"
+        },
+        {
+          "id": "sessao-2026-09-24-exploracao-do-templo-do-fluxo/07-poco-e-elevador",
+          "descricao_cena": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/07-poco-e-elevador/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/07-poco-e-elevador/descricao-local.md",
+          "imagens": [
+            "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/07-poco-e-elevador/imagens/templo-sub1-descida.jpeg",
+            "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/referencias/mapas/templo-map-nivel1.jpeg"
+          ],
+          "fonte_trecho": "transcrição, 00:48:40–01:08:49; revisita à galeria 00:58:21–01:00:37"
+        },
+        {
+          "id": "sessao-2026-09-24-exploracao-do-templo-do-fluxo/08-laboratorio-e-jaulas",
+          "descricao_cena": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/descricao-local.md",
+          "imagens": [
+            "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/imagens/tempple-sub2-lab.jpeg",
+            "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/imagens/templo-sub2-lab-map.jpeg"
+          ],
+          "fonte_trecho": "transcrição, 01:06:38–01:10:49 e identificação final da área em 01:52:07"
+        },
+        {
+          "id": "sessao-2026-09-24-exploracao-do-templo-do-fluxo/09-combate-nas-jaulas",
+          "descricao_cena": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/descricao-cena.md",
+          "descricao_local": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/descricao-local.md",
+          "imagens": [
+            "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura1.jpeg",
+            "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura2.jpeg",
+            "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/imagens/templo-sub2-lab-map.jpeg",
+            "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/imagens/tempple-sub2-lab.jpeg"
+          ],
+          "fonte_trecho": "transcrição, 01:10:19–01:52:07"
+        }
+      ]
+    }
+  ]
+}
