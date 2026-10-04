@@ -1,26 +1,66 @@
-# Galen — Descrição do personagem
+# Galen — Descrição visual e interpretação
 
-Base para consulta rápida e revisão do jogador. Galen é o personagem de Tata e irmão de Kaelen.
+Referência para ilustrações, interpretação e HQs do personagem de Tata. A base disponível descreve sobretudo suas ações, relações e arma; lacunas físicas continuam explícitas. As propostas de encenação abaixo são sugestões para revisão, sem acrescentar acontecimentos à campanha.
 
-## Descrição breve
+## Aparência
 
-Galen é um Paladino do Juramento da Vingança e sobrevivente ligado ao grupo de refugiados de Oak's Crossing. Sua arma mais característica é uma maça asurana +1, com um mecanismo que abre espinhos e produz descargas elétricas visuais. Esses efeitos fazem parte da aparência da arma e não acrescentam dano elétrico à ficha.
+Galen é um **Paladino do Juramento da Vingança**, sobrevivente ligado ao grupo de refugiados de Oak's Crossing. Espécie, rosto, cabelo, olhos, altura, roupas e armadura ainda não têm descrição suficiente nas fontes publicadas. Ser paladino não confirma sozinho um tipo de armadura ou escudo.
 
-Na convivência com o grupo, Galen procura proteger os companheiros e cobrar limites morais, inclusive do próprio irmão. Lealdade, justiça e vingança nem sempre apontam para a mesma escolha. É nessa tensão que sua presença ganha força, sem definir de antemão se responderá a um conflito com punição, perdão ou reparação.
+A principal referência física confirmada é sua **maça asurana +1**. Um mecanismo abre espinhos e produz descargas elétricas visuais. Esses efeitos descrevem a aparência da arma e não acrescentam dano elétrico à ficha. A tecnologia apresentou falhas em Erlingheim, onde a Possibilidade interfere em seu funcionamento.
 
-## Traços para manter nas ilustrações
+## Símbolos visuais
 
-- A maça tecnológica asurana é a principal referência visual confirmada.
-- Espécie, rosto, cabelo, olhos, altura, roupas, armadura e símbolos religiosos ainda não têm descrição suficiente nos arquivos publicados.
-- O título de paladino não confirma sozinho um tipo de armadura, escudo ou divindade.
+A maça tecnológica é o elemento de identificação já documentado. Ainda não há símbolo religioso, brasão, cor recorrente ou texto de juramento definidos nos registros consultados. Não escolher uma divindade ou uma ordem apenas a partir da classe.
 
-## Sugestão para o jogador
+**Proposta visual opcional:** o jogador pode escolher uma cor ou peça de roupa recorrente e decidir como o traje contrasta com a arma tecnológica. Até a confirmação, nenhum desses elementos deve ser tratado como uniforme ou emblema canônico.
 
-Uma postura firme, voltada para a proteção dos companheiros, pode distinguir Galen em cenas de grupo. Vale escolher uma cor ou peça de roupa recorrente e definir o contraste entre sua maça tecnológica e o restante do traje. Essas escolhas ficam como propostas para revisão.
+## Presença
 
-## Referências
+Nos registros, Galen procura proteger os companheiros e cobrar limites morais, inclusive de seu irmão. Sua posição fica clara quando distingue recuperar os próprios bens de roubar terceiros e quando condena as mortes durante a fuga da prisão.
 
-- [Identidade, arma e trajetória registradas](../README.md)
-- [Kaelen, seu irmão](../../Kaelen%20Vane/README.md)
+**Sugestão para composição de cenas:** uma postura firme, voltada para o grupo, pode tornar visível essa função de proteção. As fontes não fixam uma expressão facial permanente, tom de voz ou forma única de demonstrar autoridade.
 
-**Referência de imagem:** não há retrato de Galen nos arquivos publicados consultados. A aparência física permanece em aberto até o jogador fornecer ou confirmar uma referência.
+## Movimento
+
+Durante a fuga, Galen imobilizou um guarda e o deixou inconsciente. No combate contra os Blink Dogs, usou Comando, Hunter's Mark e sua arma, eliminando dois inimigos apesar das falhas tecnológicas. Esses são exemplos registrados de atuação em cena, sem definir automaticamente uma técnica de luta ou um modo habitual de caminhar.
+
+**Sugestão de atuação e desenho:** orientar o corpo para o perigo e conservar os companheiros dentro de seu campo de atenção pode comunicar proteção. Passada, velocidade, mão dominante e postura de combate permanecem escolhas a confirmar, assim como qualquer escudo ou peça de armadura que a imagem exija.
+
+## Cena de introdução
+
+**Vinheta sugerida, não acontecimento confirmado:** os companheiros param diante de uma ameaça. Galen avança um passo, segura a maça e mantém a atenção no que pode alcançar o grupo. A cena pode destacar a arma e a posição protetora sem definir sua aparência física, inventar um inimigo específico ou criar uma nova habilidade.
+
+## Como interpretar
+
+- Preservar a preocupação com os companheiros sem tratar o vínculo familiar como aprovação de tudo que Kaelen faz.
+- Diferenciar proteção, recuperação dos próprios bens e ações contra terceiros, como ele fez na prisão.
+- A condenação das mortes está registrada; não transformar isso em uma decisão de punição, perdão ou reparação que o jogador ainda não tomou.
+- O Juramento da Vingança não fornece, por si só, uma divindade, um alvo pessoal de vingança ou a redação de um código já confirmado.
+
+## Ambição
+
+Os registros sustentam seu compromisso de proteger o grupo e defender limites morais. Ainda não há uma ambição pessoal detalhada, destino desejado ou alvo específico de vingança suficientemente documentados para orientar o perfil como fatos confirmados.
+
+Esses objetivos podem ser desenvolvidos pelo jogador. Não presumir que Galen queira punir o irmão, abandonar o grupo ou perdoar as mortes.
+
+## Relações e vínculos
+
+- **Kaelen Vane:** é seu irmão. O vínculo familiar está tensionado pelas mortes na prisão e pelo desacordo sobre as escolhas de Kaelen.
+- **Aeloria:** companheira da GAR15. Galen foi capturado após a destruição do Manômetro quando a Invisibilidade instável dela o deixava parcialmente visível; esse acontecimento não estabelece ressentimento entre os dois.
+- **Jânia:** acompanhou o grupo até Eldervan e teve a confiança abalada pelas mortes. A defesa de limites morais por Galen pode contribuir para reconstruí-la, mas não significa que essa confiança já foi restaurada.
+- **Refugiados e GAR15:** formam o grupo de sobreviventes ao qual ele está ligado e cuja proteção aparece em suas ações.
+
+## Contradição central
+
+Galen precisa conciliar vingança, justiça, proteção e lealdade ao irmão. Esses compromissos podem levá-lo a escolhas diferentes. Não há resposta registrada que resolva essa tensão por ele.
+
+## Imagem de referência e revisão
+
+Não há retrato de Galen nos arquivos publicados consultados. Uma referência fornecida ou aprovada pelo jogador permitirá completar as lacunas físicas e simbólicas indicadas acima, preservando a maça como referência documentada.
+
+## Fontes e documentos relacionados
+
+- [Identidade, equipamento, ações e relações de Galen](../README.md)
+- [Kaelen Vane e sua trajetória](../../Kaelen%20Vane/README.md)
+- [Fuga da prisão e chegada a Eldervan](../../../historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan.md)
+- [Índice do acervo visual](README.md)
