@@ -12,6 +12,8 @@ Cada sessão tem seus registros preservados, cenas ordenadas e descritivos de ce
 - [Rumo ao Templo do Fluxo — 22/09/2026](sessao-2026-09-22-rumo-ao-templo-do-fluxo/README.md) — 4 cenas
 - [Exploração do Templo do Fluxo — 24/09/2026](sessao-2026-09-24-exploracao-do-templo-do-fluxo/README.md) — 9 cenas
 
+- [Andares inferiores — 01/10/2026](sessao-2026-10-01-andares-inferiores-441e1e188cc4b00b74901b904337b9cd1fd669468513102efce50859532f91ec/README.md) — transcrição curada e resumo
+
 Os dois registros de 08/08 permanecem separados conforme o acervo original. Não se deduziu uma sessão única nem um horário que a fonte não informa.
 
 ## Navegação visual
