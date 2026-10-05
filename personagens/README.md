@@ -29,3 +29,7 @@ Imagens, referências de ilustração e descritivos visuais ficam em `img-visual
 - [Aeloria](Aeloria/img-visual/README.md)
 - [Kaelen](Kaelen%20Vane/img-visual/README.md)
 - [Galen](Galen/img-visual/README.md)
+
+## NPCs aliados
+
+- [Jania Woodward](<Jania Woodward/README.md>) — perfil, ficha de Ranger 4 (Fey Wanderer), historia e referencias visuais.
