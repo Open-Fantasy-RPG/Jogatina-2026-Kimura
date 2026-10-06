@@ -8,6 +8,12 @@ Ponto de consulta para ilustrações e HQs. O descritivo visual fica nesta pasta
 - [Assinaturas gráficas de magias e golpes](assinaturas-graficas.md) — propostas de identidade visual, com fontes e limites de continuidade.
 - [Identidade e trajetória do personagem](../README.md)
 
+## Continuidade antes e depois do anel
+
+- [Antes do anel: retrato v0006](kaelen-antes-do-anel-v0006.png) — cicatrizes marcadas, olhos fundos, traços irregulares, cabelo desalinhado e ombros curvados; corpo esguio preservado.
+- [Depois do anel: retrato v0002](kaelen-retrato-v0002.png) — referência posterior preservada.
+- [Descrição das duas aparências e limites de continuidade](descricao.md#aparências-antes-e-depois-do-anel)
+
 ## Piloto visual em revisão
 
 Publicado a pedido do usuário em 4 de outubro de 2026 como piloto para revisão visual. Vistas e poses podem receber ajustes e não alteram a ficha do personagem.

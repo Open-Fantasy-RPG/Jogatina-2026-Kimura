@@ -71,4 +71,20 @@ Lâmina vinculada (modelo mecânico a confirmar), couro batido sob túnicas, bes
 
 Escudo físico removido. Couro +2 foi uma etapa intermediária, substituída por couro batido comum. Quantidades e dinheiro são o registro antigo, sem controle de gastos posteriores.
 
+## Aparência com e sem o anel
+
+Estas referências distinguem dois estados visuais do mesmo personagem, para manter a continuidade das próximas cenas e versões.
+
+- **SEM anel / antes da transformação:** [retrato v0006](img-visual/kaelen-antes-do-anel-v0006.png). Cicatrizes marcadas na testa, bochecha e mandíbula; olhos fundos e olheiras; nariz largo, bochechas cheias e boca desigual; pele irregular; cabelo desalinhado e ombros curvados. O corpo e o abdômen permanecem esguios.
+- **COM anel / depois da transformação:** [retrato v0002](img-visual/kaelen-retrato-v0002.png), preservado como referência da aparência posterior.
+- Para futuras cenas em que use ou retire o anel, selecionar a referência correspondente: **com anel → aparência posterior; sem anel → aparência anterior**. Este é o mapa de continuidade visual; não altera atributos, bônus, cura ou outras regras do item.
+- [Descrição visual completa das duas aparências](img-visual/descricao.md#aparências-antes-e-depois-do-anel).
+
+### Quando a aparência mudou
+
+No [capítulo 005, sessão de 17/09/2026](../../historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan.md), os trechos **01:27:14** e **01:28:27** associam o anel à mudança de aparência; em **01:28:43**, Kaelen adia seu uso.
+
+No início do [capítulo 006, sessão de 22/09/2026](../../historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/sessao-2026-09-22-rumo-ao-templo-do-fluxo.md), a reação de Jânia em **00:06:38** já registra a aparência transformada. Os horários são marcadores das gravações, não horas do mundo da campanha. O instante exato de colocar o anel não foi narrado explicitamente.
+
+Para a continuidade visual, a transição fica situada antes do encontro daquela manhã, na abertura do capítulo 006. Mostrar Kaelen colocando o anel nessa abertura é uma organização editorial da sequência; não deve ser citado como fala ou instante exato presente na transcrição. Os registros históricos permanecem preservados.
 

@@ -14,6 +14,22 @@ A direção visual atual do piloto apresenta Kaelen esguio, sem barba, com cabel
 
 Essas escolhas orientam o conjunto em revisão. As imagens novas não tornam automaticamente canônicos os detalhes que acrescentarem.
 
+## Aparências antes e depois do anel
+
+### Antes do anel
+
+O [retrato anterior ao anel v0006](kaelen-antes-do-anel-v0006.png) fixa esta variante: rosto com cicatrizes antigas, grossas e irregulares na testa, bochecha e mandíbula; nariz largo e carnudo; olhos fundos com olheiras escuras; pele irregular, com manchas discretas; bochechas cheias e boca desigual. O cabelo escuro está preso, mas desalinhado, com fios soltos. Os ombros se curvam para a frente, enquanto o corpo e o abdômen conservam o formato esguio anterior, sem barriga aumentada. A roupa de viagem é gasta e pouco cuidada.
+
+Esta é a referência para cenas anteriores à mudança de aparência pelo anel. Não substituir seu rosto pelo da versão posterior nessas cenas.
+
+### Depois do anel
+
+O [retrato v0002](kaelen-retrato-v0002.png) permanece como referência da aparência posterior ao anel, sem alterações. As vistas, poses e token já existentes mantêm essa identidade. Usar cada aparência na etapa correspondente da história, sem misturar os traços anteriores e posteriores.
+
+Para futuras cenas, a referência sem anel corresponde à aparência anterior e a referência com anel à aparência posterior. A [ficha registra os dois estados e os marcadores da transição](../ficha-nivel-3.md#aparência-com-e-sem-o-anel).
+
+A distinção é visual: não estabelece cura de ferimentos, rejuvenescimento, alteração de atributos ou novas propriedades mecânicas do anel. O retrato anterior não define o momento exato da transformação nem acrescenta uma cena aos registros da campanha.
+
 ## Símbolos visuais
 
 A ligação entre mão e lâmina representa o aprendizado do **Fluxo**, a filosofia de equilíbrio entre ferro e magia ensinada por Mestre Oryn. O fio invisível descrito na história expressa esse vínculo; não fixa um feixe luminoso que deva aparecer nas imagens.
@@ -76,7 +92,7 @@ Há distância entre o equilíbrio aprendido com Oryn e as escolhas de violênci
 
 ## Imagem de referência e revisão
 
-O [retrato v0002](kaelen-retrato-v0002.png) é a referência de identidade visual deste piloto. O [índice visual](README.md) reúne a folha de referência e o [estudo com duas poses v0003](kaelen-acao-v0003.png), atualizado com o efeito transitório do Vínculo com Arma. Preservar entre eles o mesmo rosto, corpo esguio, cabelo e traje, sem copiar a fisionomia de Galen.
+O [retrato v0002](kaelen-retrato-v0002.png) é a referência de identidade visual posterior ao anel deste piloto; para a etapa anterior, usar o [retrato v0006](kaelen-antes-do-anel-v0006.png). O [índice visual](README.md) reúne a folha de referência e o [estudo com duas poses v0003](kaelen-acao-v0003.png), atualizado com o efeito transitório do Vínculo com Arma. Preservar entre eles o mesmo rosto, corpo esguio, cabelo e traje, sem copiar a fisionomia de Galen.
 
 O dossiê também menciona uma imagem anterior ainda não recuperada; este conjunto não identifica nem substitui automaticamente aquela referência. Ajustes dos jogadores continuam necessários para fechar os detalhes ainda pendentes.
 
