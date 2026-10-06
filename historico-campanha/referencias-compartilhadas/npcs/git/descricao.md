@@ -19,8 +19,12 @@ A referência atual adota a correção do mestre: Git é o comerciante de mercad
 ## Referência disponível e limites
 
 - [Retrato de Git](imagens/git-retrato-v0001.png)
+- [Vistas de corpo inteiro](imagens/git-referencia-v0001.png)
+- [Atividades de mercador](imagens/git-atividades-v0001.png)
+- [Expressões](imagens/git-expressoes-v0001.png)
+- [Token VTT circular](imagens/git-token-vtt-v0004.png)
 
-O retrato fixa a identidade visual de rosto, cabelo, roupa e paleta. Vistas de corpo inteiro, poses, expressões adicionais e token VTT ainda não integram este acervo. Aparência, ofício e objetos ilustrados não estabelecem classe, nível, magias, ataques ou outras capacidades.
+O retrato fixa a identidade visual de rosto, cabelo, roupa e paleta. O acervo inclui vistas de corpo inteiro, duas poses de trabalho, estudos de expressão e token VTT circular com exterior transparente. As atividades são estudos de atuação visual e não acrescentam acontecimentos à campanha. Aparência, ofício e objetos ilustrados não estabelecem classe, nível, magias, ataques ou outras capacidades.
 
 Idade exata, altura numérica, história pessoal detalhada, origem e relações além das registradas permanecem indefinidas.
 

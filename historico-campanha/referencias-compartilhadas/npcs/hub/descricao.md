@@ -21,8 +21,12 @@ A referência atual adota a correção do mestre: Hub é o comerciante de itens 
 ## Referência disponível e limites
 
 - [Retrato de Hub](imagens/hub-retrato-v0001.png)
+- [Vistas de corpo inteiro](imagens/hub-referencia-v0001.png)
+- [Atividades de mercador](imagens/hub-atividades-v0001.png)
+- [Expressões](imagens/hub-expressoes-v0001.png)
+- [Token VTT circular](imagens/hub-token-vtt-v0001.png)
 
-O retrato fixa a identidade visual de rosto, cabelo, roupa e paleta. Vistas de corpo inteiro, poses, expressões adicionais e token VTT ainda não integram este acervo. O ofício não estabelece que Hub tenha poderes, classe, nível, ataques ou magias próprios.
+O retrato fixa a identidade visual de rosto, cabelo, roupa e paleta. O acervo inclui vistas de corpo inteiro, duas poses de trabalho, estudos de expressão e token VTT circular com exterior transparente. As atividades são estudos de atuação visual e não acrescentam acontecimentos à campanha. O ofício não estabelece que Hub tenha poderes, classe, nível, ataques ou magias próprios.
 
 Idade exata, altura numérica, história pessoal detalhada, origem e relações além das registradas permanecem indefinidas.
 
