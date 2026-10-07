@@ -7,4 +7,11 @@
 
 O retrato foi confirmado pelo mestre. As estatísticas impressas na imagem são antigas; consultar a ficha textual atual. O original permanece no acervo compartilhado, sem duplicação ou alteração dos bytes.
 
-Não foram encontrados retrato isolado, token, prancha de vistas ou poses de ação.
+## Capuz habitual
+
+- [Referência aprovada — retrato e corpo inteiro com capuz](jania-capuz-retrato-corpo-inteiro.png).
+- [Registro visual do capuz habitual](capuz-habitual.md).
+
+O capuz levantado é o padrão habitual de Jânia. Preservar rosto, traje e equipamento da referência original, respeitando os disfarces específicos de cada cena.
+
+Não foram encontrados token ou poses de ação.
