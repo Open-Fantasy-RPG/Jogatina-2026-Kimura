@@ -1,4 +1,4 @@
-# Aeloria — Equipamentos e Combate — Nível 4
+# Aeloria — Equipamentos e Combate — Nível 5
 
 ## Equipamento
 
@@ -37,28 +37,29 @@ Com DES 14 e proficiência:
 ## Defesa
 
 - **CA 13** com armadura de couro.
-- **PV máximo: 23** — 15 anteriores + rolagem 7 no d8 + CON +1.
-- Dados de Vida: **4d8**.
+- **PV máximo: 28** — 23 anteriores + rolagem 4 no d8 + CON +1.
+- Dados de Vida: **5d8**.
 
 Aeloria continua não sendo personagem de linha de frente.
 
-## Recursos de combate — nível 4
+## Recursos de combate — nível 5
 
 | Recurso | Quantidade |
 |---|---:|
 | Espaços de magia nível 1 | **4 por Descanso Longo** |
 | Espaços de magia nível 2 | **3 por Descanso Longo** |
-| Bardic Inspiration d6 | **4 por Descanso Longo** |
-| Cloud's Jaunt | **2 por Descanso Longo** |
-| Expertise | **Performance +8; Acrobacia +6** |
-| Enganação | **+6 com proficiência normal** |
+| Espaços de magia nível 3 | **2 por Descanso Longo** |
+| Bardic Inspiration d8 | **4 por Descanso Curto ou Longo** |
+| Cloud's Jaunt | **3 por Descanso Longo** |
+| Expertise | **Performance +10; Acrobacia +8** |
+| Enganação | **+7 com proficiência normal** |
 | Jack of All Trades | **+1 em testes de habilidade sem proficiência** |
 
 ## Magias de combate
 
 ### Faerie Fire
 
-Use cedo quando conseguir afetar vários inimigos. Alvos que falharem em DES contra **CD 14** ficam marcados; ataques contra eles têm Vantagem enquanto Aeloria mantiver Concentração e o atacante puder vê-los.
+Use cedo quando conseguir afetar vários inimigos. Alvos que falharem em DES contra **CD 15** ficam marcados; ataques contra eles têm Vantagem enquanto Aeloria mantiver Concentração e o atacante puder vê-los.
 
 ### Healing Word
 
@@ -74,11 +75,11 @@ Suporte defensivo com Concentração. Não pode permanecer ativo ao mesmo tempo 
 
 ### Dissonant Whispers
 
-Principal dano com slot: SAB **CD 14**, **3d6 psíquico** na falha + afastamento se o alvo puder usar Reação; metade do dano no sucesso e sem afastamento.
+Principal dano com slot: SAB **CD 15**, **3d6 psíquico** na falha + afastamento se o alvo puder usar Reação; metade do dano no sucesso e sem afastamento.
 
 ### Vicious Mockery
 
-Ataque sem gastar slot: SAB **CD 14**, **1d6 psíquico** na falha + Desvantagem no próximo ataque do alvo antes do fim do próximo turno dele.
+Ataque sem gastar slot: SAB **CD 15**, **1d6 psíquico** na falha + Desvantagem no próximo ataque do alvo antes do fim do próximo turno dele.
 
 ## Economia de Ações Bônus
 
@@ -98,6 +99,7 @@ Aeloria possui quatro opções preparadas que exigem Concentração:
 - **Heroism**.
 - **Invisibility**.
 - **Suggestion**.
+- **Major Image**.
 
 Ela só pode manter uma magia de Concentração por vez.
 
@@ -126,13 +128,13 @@ Ela só pode manter uma magia de Concentração por vez.
 
 ## Performance fora de combate
 
-Com **Performance +8**, Aeloria é especialmente forte em apresentações musicais, recitais, atuação, histórias dramáticas, disputas artísticas e tentativas de conquistar ou manter a atenção de uma plateia. Esse é também o principal teste para performances usadas para construir sua reputação no mundo, quando o mestre considerar apropriado.
+Com **Performance +10**, Aeloria é especialmente forte em apresentações musicais, recitais, atuação, histórias dramáticas, disputas artísticas e tentativas de conquistar ou manter a atenção de uma plateia. Esse é também o principal teste para performances usadas para construir sua reputação no mundo, quando o mestre considerar apropriado.
 
-Performance não substitui **Persuasão +6** quando ela quer convencer alguém nem **Enganação +6** quando quer sustentar uma mentira. Com Actor, Performance ou Enganação têm Vantagem para sustentar identidade imitada enquanto disfarçada.
+Performance não substitui **Persuasão +7** quando ela quer convencer alguém nem **Enganação +7** quando quer sustentar uma mentira. Com Actor, Performance ou Enganação têm Vantagem para sustentar identidade imitada enquanto disfarçada.
 
 ## Jack of All Trades em jogo
 
-No nível 4, testes de habilidade sem proficiência recebem **+1** além do modificador do atributo.
+No nível 5, testes de habilidade sem proficiência recebem **+1** além do modificador do atributo.
 
 | Exemplo | Total atual |
 |---|---:|
@@ -145,4 +147,4 @@ Jack of All Trades não se soma às perícias em que Aeloria já aplica profici�
 
 ## Regra de ouro
 
-No nível 4, Aeloria combina suporte de campo com infiltração. **Faerie Fire** melhora dano do grupo; **Disguise Self + Actor** abre identidades falsas; **Minor Illusion** cria distração; Cloud's Jaunt preserva fuga e reposicionamento.
+No nível 5, Aeloria combina suporte de campo com infiltração. **Major Image** amplia distrações e encenações; **Sending** coordena à distância; **Large Form** cria rota de mobilidade e força quando o espaço permitir.

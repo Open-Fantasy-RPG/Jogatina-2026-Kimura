@@ -17,7 +17,8 @@ O retrato foi aprovado pelo jogador em 4 de outubro de 2026 e orienta este pilot
 
 ## Fichas visuais e histórico
 
-- [Ficha visual atual — nível 4](ficha-nivel-4-magias-completas-v3.png)
+- [Ficha visual atual — nível 5](ficha-nivel-5.png)
+- [Ficha visual histórica — nível 4](../ficha-nivel-4-magias-completas-v3.png)
 - [Ficha visual anterior — nível 3](../Niveis-anteriores/ficha-nivel-3-magias-completas-v2.png)
 
 As fichas originais permanecem intactas. A ficha anterior continua junto às fichas de níveis anteriores. Novas vistas, poses e tokens devem manter a identidade aprovada e ser relacionados neste índice.

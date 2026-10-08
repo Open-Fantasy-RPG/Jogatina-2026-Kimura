@@ -104,19 +104,17 @@ Rolagem no nível 4: **7** no d8 + CON +1 = **+8 PV**. PV máximo atual: **23**.
 
 ---
 
-## Nível 5
+## Nível 5 — concluído
 
-### Barda
+Ficha canônica: [ficha-nivel-5.md](ficha-nivel-5.md).
 
-- Bardic Inspiration passa a **d8**;
-- ganha **Font of Inspiration**;
-- acesso a magias de 3º nível.
-
-### Goliate
-
-Aeloria desbloqueia **Large Form**.
-
-Narrativamente, sua herança gigante pode se manifestar como uma figura ainda maior, com roupas e cabelos movidos por corrente de ar constante, sem alterar sua personalidade suave.
+- PV: rolagem **4** no d8 + CON +1 = **+5**; máximo **28**;
+- PB +3; CD 15; ataque mágico +7;
+- Bardic Inspiration passa a **d8** e Font of Inspiration recupera usos em Descanso Curto ou Longo; um slot recupera um uso gasto;
+- 9 magias preparadas, 2 slots de 3º círculo;
+- magias escolhidas: **Major Image** e **Sending**;
+- Cloud's Jaunt: 3 usos por Descanso Longo;
+- **Large Form**: Grande por 10 min, Vantagem em testes de FOR e deslocamento 45 pés, 1/Descanso Longo.
 
 ---
 

@@ -81,14 +81,14 @@ Em testes sem Proficiência ou Expertise, adicione **+1**.
 
 # Habilidades de uso rápido
 
-| Habilidade | Uso | Efeito |
-|---|---|---|
-| **Cloud's Jaunt** | Ação Bônus; 2/Descanso Longo | Teleporte até 30 pés para espaço desocupado visível. |
-| **Bardic Inspiration** | Ação Bônus; 4/Descanso Longo | Um aliado em alcance recebe 1d6 de Inspiração Bárdica. |
+| Habilidade                | Uso                              | Efeito                                                                                                                                      |
+| ------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cloud's Jaunt**         | Ação Bônus; 2/Descanso Longo     | Teleporte até 30 pés para espaço desocupado visível.                                                                                        |
+| **Bardic Inspiration**    | Ação Bônus; 4/Descanso Longo     | Um aliado em alcance recebe 1d6 de Inspiração Bárdica.                                                                                      |
 | **Mantle of Inspiration** | Ação Bônus; 1 Inspiração Bárdica | Aliados escolhidos recebem **2d6 PV temporários** e podem usar Reação para mover até seu deslocamento sem provocar ataques de oportunidade. |
-| **Beguiling Magic** | Passiva/acionada por magia | Charm Person e Mirror Image sempre preparados; amplia magia de Encantamento e Ilusão conforme a habilidade. |
-| **Actor** | Passiva | Ferramenta de disfarce, atuação e imitação. |
-| **Powerful Build** | Passiva | Benefícios físicos de Goliate, conforme espécie. |
+| **Beguiling Magic**       | Passiva/acionada por magia       | Charm Person e Mirror Image sempre preparados; amplia magia de Encantamento e Ilusão conforme a habilidade.                                 |
+| **Actor**                 | Passiva                          | Ferramenta de disfarce, atuação e imitação.                                                                                                 |
+| **Powerful Build**        | Passiva                          | Benefícios físicos de Goliate, conforme espécie.                                                                                            |
 
 ## Actor
 
