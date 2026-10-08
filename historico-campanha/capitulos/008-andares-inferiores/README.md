@@ -15,4 +15,4 @@ Transcrição curada e resumo disponíveis.
 
 [Acervo preservado deste capítulo](../../sessao-2026-10-01-andares-inferiores-441e1e188cc4b00b74901b904337b9cd1fd669468513102efce50859532f91ec/README.md). Os registros, cenas e imagens existentes mantêm seus caminhos para preservar links e automações. Esta é a entrada canônica de navegação por capítulo; não é uma segunda cópia editável das fontes.
 
-[Capítulo anterior](../007-exploracao-do-templo-do-fluxo/README.md)
+[Capítulo anterior](../007-exploracao-do-templo-do-fluxo/README.md) · [Próximo capítulo](../009-projeto-vigilia-e-o-segundo-fundador/README.md)

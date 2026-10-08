@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "campaign_id": "kimura",
-  "chapter_count": 8,
-  "current_chapter_id": "kimura-andares-inferiores",
-  "current_chapter_number": 8,
-  "verified_date": "2026-10-04",
+  "chapter_count": 9,
+  "current_chapter_id": "kimura-projeto-vigilia-e-o-segundo-fundador",
+  "current_chapter_number": 9,
+  "verified_date": "2026-10-08",
   "basis_commit": "38f6e8f0b4e38e504bdb1e31e7ee37c5472694ae",
   "organization": "chapter_number_and_title; session_date_is_metadata",
   "identity_policy": "chapter_id is immutable once assigned and independent of later title/date/number corrections; scenes, summaries, transcripts and versions do not create additional chapters",
@@ -221,6 +221,33 @@
       "transcript_status": "available_curated",
       "scene_count": null,
       "source_identity_sha256": "441e1e188cc4b00b74901b904337b9cd1fd669468513102efce50859532f91ec"
+    },
+    {
+      "chapter_id": "kimura-projeto-vigilia-e-o-segundo-fundador",
+      "chapter_number": 9,
+      "title": "Projeto Vigília e o segundo fundador",
+      "session_date": "2026-10-05",
+      "timezone": "America/Sao_Paulo",
+      "canonical_directory": "historico-campanha/capitulos/009-projeto-vigilia-e-o-segundo-fundador",
+      "canonical_index": "historico-campanha/capitulos/009-projeto-vigilia-e-o-segundo-fundador/README.md",
+      "legacy_directories": [],
+      "sources": [
+        {
+          "path": "historico-campanha/capitulos/009-projeto-vigilia-e-o-segundo-fundador/summary.md",
+          "kind": "summary",
+          "git_blob_sha": "d345d07dd66f1b9d97d5dee869e2b09bab23ffaf",
+          "size_bytes": 30628
+        },
+        {
+          "path": "historico-campanha/capitulos/009-projeto-vigilia-e-o-segundo-fundador/transcript.md",
+          "kind": "transcript",
+          "git_blob_sha": "d5c1cdeed51e212ae4cc73a669c7d699ac141e50",
+          "size_bytes": 72214
+        }
+      ],
+      "transcript_status": "available",
+      "scene_count": null,
+      "source_identity_sha256": "edf652a7529afe2af523a0a2fcfc827a9ad7018bf7cad76768606b7ad4fa8b13"
     }
   ]
 }

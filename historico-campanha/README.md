@@ -1,6 +1,6 @@
 # Capítulos da campanha — GAR15
 
-A campanha está organizada em **8 capítulos**, identificados por número e título. A data é um atributo de cada capítulo, não seu identificador. Os capítulos 001 e 002 são distintos, embora os dois registros tenham a data 08/08/2026.
+A campanha está organizada em **9 capítulos**, identificados por número e título. A data é um atributo de cada capítulo, não seu identificador. Os capítulos 001 e 002 são distintos, embora os dois registros tenham a data 08/08/2026.
 
 ## Capítulos
 
@@ -12,8 +12,9 @@ A campanha está organizada em **8 capítulos**, identificados por número e tí
 - [Capítulo 006 — Rumo ao Templo do Fluxo](capitulos/006-rumo-ao-templo-do-fluxo/README.md) — data registrada: 2026-09-22
 - [Capítulo 007 — Exploração do Templo do Fluxo](capitulos/007-exploracao-do-templo-do-fluxo/README.md) — data registrada: 2026-09-24
 - [Capítulo 008 — Andares inferiores](capitulos/008-andares-inferiores/README.md) — data registrada: 2026-10-01
+- [Capítulo 009 — Projeto Vigília e o segundo fundador](capitulos/009-projeto-vigilia-e-o-segundo-fundador/README.md) — data registrada: 2026-10-05
 
-Os capítulos 001–002 não têm transcrição, conforme o responsável. Os capítulos 003–004 têm apenas relatos resumidos neste Git; novas transcrições foram localizadas no acervo privado e ainda não foram incorporadas aqui. No capítulo 004, a gravação corresponde a 02/09 em São Paulo, enquanto o registro histórico informa 03/09; ambas as datas ficam explicitadas até reconciliação. Os capítulos 005–007 têm transcrições e o capítulo 008 tem transcrição curada e resumo. Essa contagem é de capítulos registrados, não de HQs concluídas.
+Os capítulos 001–002 não têm transcrição, conforme o responsável. Os capítulos 003–004 têm apenas relatos resumidos neste Git; novas transcrições foram localizadas no acervo privado e ainda não foram incorporadas aqui. No capítulo 004, a gravação corresponde a 02/09 em São Paulo, enquanto o registro histórico informa 03/09; ambas as datas ficam explicitadas até reconciliação. Os capítulos 005–007 têm transcrições, o capítulo 008 tem transcrição curada e resumo, e o capítulo 009 tem transcrição integral e resumo. Essa contagem é de capítulos registrados, não de HQs concluídas.
 
 ## Navegação visual
 
