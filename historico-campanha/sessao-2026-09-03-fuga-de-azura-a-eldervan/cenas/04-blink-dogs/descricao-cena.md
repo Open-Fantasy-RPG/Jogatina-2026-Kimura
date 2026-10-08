@@ -18,6 +18,7 @@ Já em Erlingheim, cinco cães teleportadores atacam o grupo. O combate evidenci
 
 **Fonte principal:** [registro público da sessão](../../sessao-2026-09-03-fuga-de-azura-a-eldervan.md) — relato público, parágrafo 6.
 
+- [Blink Dogs — descritivo e token próprios](../../../referencias-compartilhadas/npcs/blink-dogs/README.md)
 - [mapa.jpeg](../../../referencias-compartilhadas/mapas/aeldria/imagens/mapa.jpeg)
 - [jaina-woodward.jpeg](../../../referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg)
 

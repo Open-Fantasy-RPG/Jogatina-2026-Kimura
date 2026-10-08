@@ -15,3 +15,10 @@ Jânia usa habitualmente o capuz levantado. A referência mantém sua identidade
 - Cenas que exigem máscara ou rosto totalmente coberto mantêm essa condição até a revelação prevista na história. Capuz habitual e disfarce de cena são condições distintas.
 
 A referência original permanece preservada. Esta variante foi aprovada em 7 de outubro de 2026.
+
+## Token VTT
+
+- [Token individual — capuz habitual](jania-token-vtt-capuz-v0001.png).
+- Retrato de rosto e ombros com moldura circular, PNG de 1254 × 1254 pixels e transparência externa.
+- Preserva rosto, cabelo castanho com tranças, capa e couro terroso. O capuz cobre as orelhas; o rosto permanece visível.
+- Derivado da referência aprovada, sem alterar ficha, equipamento ou história.

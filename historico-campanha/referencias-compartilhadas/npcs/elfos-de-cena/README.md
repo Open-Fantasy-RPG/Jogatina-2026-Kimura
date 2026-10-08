@@ -1,6 +1,6 @@
 # Elfos de cena — referências visuais
 
-Oito figurantes élficos com nomes e referências de meio corpo aprovados. A numeração das pranchas permanece fixa; os nomes abaixo correspondem aos rostos já identificados pelos rótulos originais.
+Oito figurantes élficos com nomes, referências visuais e tokens individuais. A numeração das pranchas permanece fixa; os nomes abaixo correspondem aos rostos já identificados pelos rótulos originais.
 
 ## Elenco
 
@@ -24,4 +24,4 @@ Elfos altos e esbeltos, com orelhas pontudas, aparência adulta jovem e cabelos 
 
 ## Completude
 
-As duas imagens mostram os oito rostos e o vestuário de meio corpo. Vistas completas, poses e tokens VTT estão pendentes. Não há referência confirmada para pernas, pés ou vestuário fora do enquadramento. Os figurantes não são automaticamente habitantes de um local nem participantes de uma cena: sua presença depende do registro correspondente.
+As duas pranchas coletivas originais permanecem preservadas. Cada cadastro individual reúne uma prancha de corpo inteiro com frente, dois perfis, três quartos, costas e poses simples de caminhada e conversa, além de um token VTT circular de 512 × 512 pixels com transparência externa. Os detalhes de vestuário das vistas completas orientam a continuidade visual. Os figurantes não são automaticamente habitantes de um local nem participantes de uma cena: sua presença depende do registro correspondente.

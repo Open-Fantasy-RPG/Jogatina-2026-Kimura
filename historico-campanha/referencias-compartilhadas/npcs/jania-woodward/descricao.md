@@ -2,6 +2,9 @@
 
 [Índice do acervo compartilhado](../../README.md)
 
+- [Acervo visual canônico de Jânia, incluindo capuz habitual e token](../../../../personagens/Jania%20Woodward/img-visual/README.md)
+- [Descrição visual e interpretação canônicas](../../../../personagens/Jania%20Woodward/img-visual/descricao.md)
+
 ## Arquivos e descrição visual
 
 - [jaina-woodward.jpeg](imagens/jaina-woodward.jpeg) — Ficha ilustrada identificada como Jania Woodward; elfa com capuz escuro, cabelos castanhos, orelhas pontudas, arco, aljava e couro.

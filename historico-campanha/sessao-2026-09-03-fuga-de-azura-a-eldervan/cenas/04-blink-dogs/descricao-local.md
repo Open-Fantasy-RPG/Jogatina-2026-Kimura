@@ -22,6 +22,7 @@ O texto combina o ambiente confirmado pela fonte com a leitura dos arquivos de r
 
 ## Referências visuais
 
+- [Blink Dogs — descritivo e token próprios](../../../referencias-compartilhadas/npcs/blink-dogs/README.md)
 - [mapa.jpeg](../../../referencias-compartilhadas/mapas/aeldria/imagens/mapa.jpeg)
 - [jaina-woodward.jpeg](../../../referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg)
 

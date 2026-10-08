@@ -25,8 +25,8 @@ Preservar este rosto e sua associação ao nome Sylwen, incluindo cabelo, tom de
 
 ## Ainda não estabelecido
 
-Idade individual, altura numérica, história, ocupação, relações, atributos, poderes, equipamento adicional e acontecimentos próprios não foram definidos. A roupa abaixo do enquadramento, as pernas e os pés ainda não possuem referência completa.
+Idade individual, altura numérica, história, ocupação, relações, atributos, poderes, equipamento adicional e acontecimentos próprios não foram definidos. O vestuário de corpo inteiro pode ser consultado na referência individual; seus detalhes são continuidade visual, sem estabelecer ocupação ou capacidades.
 
 ## Estado do acervo
 
-Referência de meio corpo aprovada. Vistas completas de frente, perfis e costas, poses e token VTT **pendentes**. Esta prancha não representa um conjunto completo de assets.
+Referência coletiva de meio corpo preservada. O conjunto individual inclui [cinco vistas de corpo inteiro e poses de caminhada e conversa](imagens/sylwen-referencia-v0001.png), além do [token VTT circular](imagens/sylwen-token-vtt-v0001.png) com fundo externo transparente. Os arquivos mantêm o nome e a identidade do figurante e não definem novas estatísticas, poderes ou acontecimentos.
