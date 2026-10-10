@@ -254,7 +254,7 @@
         }
       ],
       "transcript_status": "available",
-      "scene_count": null,
+      "scene_count": 10,
       "source_identity_sha256": "edf652a7529afe2af523a0a2fcfc827a9ad7018bf7cad76768606b7ad4fa8b13"
     }
   ],

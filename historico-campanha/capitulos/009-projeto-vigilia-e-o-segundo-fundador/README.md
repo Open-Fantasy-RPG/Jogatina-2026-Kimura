@@ -15,7 +15,9 @@ Transcrição integral e resumo disponíveis.
 
 ## Cenas e referências
 
-Este capítulo ainda não possui cenas editoriais ou imagens classificadas. Os registros acima são as fontes públicas disponíveis.
+O capítulo possui [dez cenas editoriais](cenas/README.md), cada uma reunida em um único README com descrição narrativa, descrição do local e índice de imagens. As [referências visuais](referencias/README.md) são vinculadas às cenas por seus elementos e pelos registros públicos; observações visuais e incertezas ficam separadas dos acontecimentos.
+
+O preparo do abrigo e o reconhecimento da oficina se sobrepõem; o índice de cenas explica essa continuidade. A imagem de incêndio é uma visão imaginada, não um acontecimento da sessão.
 
 [Capítulo anterior](../008-andares-inferiores/README.md)
 
