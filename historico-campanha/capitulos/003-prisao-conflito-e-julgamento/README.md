@@ -20,13 +20,13 @@ A ordem das cenas segue a sequência do registro disponível. Não acrescenta du
 
 | Ordem | Cena | Local editável | Referências |
 | --- | --- | --- | --- |
-| 01 | [Cárcere e confronto no pátio](cenas/01-carceragem-e-patio/descricao-cena.md) | [Prisão de Asura](cenas/01-carceragem-e-patio/descricao-local.md) | 1 |
-| 02 | [Investigação da cela](cenas/02-cela-cartas-e-chaves/descricao-cena.md) | [Cela da prisão](cenas/02-cela-cartas-e-chaves/descricao-local.md) | 1 |
-| 03 | [Julgamento e retorno](cenas/03-tribunal-e-retorno/descricao-cena.md) | [Tribunal; prisão](cenas/03-tribunal-e-retorno/descricao-local.md) | 1 |
+| 01 | [Cárcere e confronto no pátio](cenas/01-carceragem-e-patio/README.md#descrição-da-cena) | [Prisão de Asura](cenas/01-carceragem-e-patio/README.md#descrição-do-local) | 1 |
+| 02 | [Investigação da cela](cenas/02-cela-cartas-e-chaves/README.md#descrição-da-cena) | [Cela da prisão](cenas/02-cela-cartas-e-chaves/README.md#descrição-do-local) | 1 |
+| 03 | [Julgamento e retorno](cenas/03-tribunal-e-retorno/README.md#descrição-da-cena) | [Tribunal; prisão](cenas/03-tribunal-e-retorno/README.md#descrição-do-local) | 1 |
 
 ## Como o mestre complementa
 
-Editar `cenas/NN-slug/descricao-cena.md` e `descricao-local.md`, preenchendo somente detalhes liberados aos jogadores. Manter a fonte de cada fato e separar observação da imagem, relato da mesa e pontos ainda incertos. Usar os modelos em [modelos públicos](../../_modelos/README.md).
+Editar as seções de cena e local em `cenas/NN-slug/README.md`, preenchendo somente detalhes liberados aos jogadores. Manter a fonte de cada fato e separar observação da imagem, relato da mesa e pontos ainda incertos. Usar os modelos em [modelos públicos](../../_modelos/README.md).
 
 ## Limites do acervo
 

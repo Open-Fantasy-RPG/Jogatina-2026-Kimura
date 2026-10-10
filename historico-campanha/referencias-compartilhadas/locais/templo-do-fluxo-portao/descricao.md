@@ -12,8 +12,8 @@
 
 ## Cenas que usam esta referência
 
-- [sessao-2026-09-22-rumo-ao-templo-do-fluxo/04-portao-do-templo — Chegada ao portão](../../../capitulos/006-rumo-ao-templo-do-fluxo/cenas/04-portao-do-templo/descricao-cena.md)
-- [sessao-2026-09-24-exploracao-do-templo-do-fluxo/01-antessala-e-porta — Antessala e porta de manivela/runa](../../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/01-antessala-e-porta/descricao-cena.md)
+- [sessao-2026-09-22-rumo-ao-templo-do-fluxo/04-portao-do-templo — Chegada ao portão](../../../capitulos/006-rumo-ao-templo-do-fluxo/cenas/04-portao-do-templo/README.md#descrição-da-cena)
+- [sessao-2026-09-24-exploracao-do-templo-do-fluxo/01-antessala-e-porta — Antessala e porta de manivela/runa](../../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/01-antessala-e-porta/README.md#descrição-da-cena)
 
 ## Edição do mestre — somente informação pública
 

@@ -14,7 +14,7 @@ Artes derivadas revisadas e com publicação aprovada pelo usuário em 04/10/202
 
 ## Referência original
 
-[Imagem original da cena de 24/09](../../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura1.jpeg) · [Combate nas jaulas](../../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/descricao-cena.md)
+[Imagem original da cena de 24/09](../../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/templo-criatura1.jpeg) · [Combate nas jaulas](../../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/README.md#descrição-da-cena)
 
 O original continua intacto na cena de origem, sem duplicação. As regiões reconstruídas nas novas vistas são interpretações de aparência, não confirmação de anatomia oculta ou de novos poderes.
 

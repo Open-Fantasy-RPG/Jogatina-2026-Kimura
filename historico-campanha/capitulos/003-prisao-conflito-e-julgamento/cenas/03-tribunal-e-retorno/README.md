@@ -1,0 +1,94 @@
+# Julgamento e retorno
+
+[Capítulo](../../README.md) · [Índice de cenas](../README.md)
+
+## Descrição da cena
+
+### Julgamento e retorno
+
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](README.md#descrição-do-local)
+
+- **Identificador:** `sessao-2026-08-20-prisao-conflito-e-julgamento/03-tribunal-e-retorno`
+- **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
+
+#### Descritivo da cena
+
+A audiência reúne acusação, defesa e testemunhos. Aldous Merrin assume a defesa sem revelar quem o contratou; Rout apresenta o caso, e William e o taverneiro testemunham. Aeloria relata a investigação e procura defender os companheiros perante a plateia. O encerramento é o retorno à prisão, sem sentença registrada, e não uma absolvição ou condenação concluída.
+
+#### Fatos e continuidade
+
+- Aldous Merrin assume a defesa; Rout apresenta as acusações e há testemunhos contra o grupo.
+- Aeloria explica a investigação e busca defender os companheiros.
+- Não há sentença registrada; o grupo retorna à prisão.
+
+#### Referências
+
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafos 4–5.
+
+- [prisao.jpeg](../../../002-cidade-alta-e-prisao/cenas/03-william-e-prisao/prisao.jpeg)
+
+#### Coerência visual
+
+Usar a imagem como apoio do ambiente descrito. Os elementos concretos e os limites de localização estão detalhados no arquivo do local.
+
+#### Pontos ainda abertos
+
+Autor da contratação do defensor e desfecho judicial não constam como confirmados.
+
+#### Complementos públicos do mestre
+
+- Detalhes adicionais já liberados: [preencher]
+- Ajustes de continuidade ou fala exata, com fonte: [preencher]
+- Revisão (data/responsável): [preencher]
+
+> Segredos, preparação reservada e produção de HQ permanecem fora deste acervo público.
+
+## Descrição do local
+
+### Local — Tribunal; prisão
+
+[Voltar à cena](README.md#descrição-da-cena) · [Índice do capítulo](../../README.md)
+
+#### Descritivo do ambiente
+
+O tribunal é um ambiente distinto da prisão. A existência de audiência e plateia permite descrever a situação de exposição pública dos acusados, mas o relato não fixa a arquitetura, o assento do julgador, a disposição de bancadas ou os ornamentos do recinto.
+
+O mapa prisao.jpeg deve aparecer apenas quando a sequência retorna ao cárcere. Grades, tubulações e celas da referência não são decoração do tribunal. A mudança de local é importante para que o julgamento e o retorno não se fundam em uma única sala inventada.
+
+#### O que está presente nesta sequência
+
+- Acusados, defensor Aldous Merrin e promotor Rout.
+- William, taverneiro e plateia na audiência.
+- Retorno do grupo à prisão, ainda sem sentença registrada.
+
+#### Narração e imagem: aplicação nesta cena
+
+O texto combina o ambiente confirmado pela fonte com a leitura dos arquivos de referência. A disposição espacial não descrita continua aberta para revisão do mestre.
+
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafos 4–5.
+
+#### Referências visuais
+
+- [prisao.jpeg](../../../002-cidade-alta-e-prisao/cenas/03-william-e-prisao/prisao.jpeg)
+
+#### Pontos a confirmar
+
+Autor da contratação do defensor e desfecho judicial não constam como confirmados.
+
+#### Complementos públicos do mestre
+
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
+
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.
+
+## Imagens e referências
+
+### Imagens da cena
+
+[Descrição da cena](README.md#descrição-da-cena) · [Descrição do local](README.md#descrição-do-local)
+
+As referências abaixo já estavam associadas a esta cena. Arquivos compartilhados são vinculados ao original, sem cópia ou alteração da imagem.
+
+- [prisao.jpeg](../../../002-cidade-alta-e-prisao/cenas/03-william-e-prisao/prisao.jpeg)

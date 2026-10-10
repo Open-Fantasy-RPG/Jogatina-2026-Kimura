@@ -4,8 +4,8 @@ Catálogo específico de Jogatina Kimura 2026. Reúne descrições, movimentos o
 
 ## Referências disponíveis
 
-- **Cães modificados:** [descrição](caes-modificados/descricao.md), [movimento e ataques](caes-modificados/assinaturas-visuais.md), [original existente](../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura2.jpeg). Musculatura exposta, anatomia canina/humanoide, tubos e ampolas verdes. O ataque é ácido corrosivo, confirmado pela narração e pelo usuário.
-- **Sombras:** [descrição](sombras/descricao.md), [movimento e ataques](sombras/assinaturas-visuais.md), [original existente](../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura1.jpeg). Face pálida, ramificações e membros longos numa massa escura/violeta. Desaparecimento, medo, garras e agarrão ao poço têm fontes específicas.
+- **Cães modificados:** [descrição](caes-modificados/descricao.md), [movimento e ataques](caes-modificados/assinaturas-visuais.md), [original existente](../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/templo-criatura2.jpeg). Musculatura exposta, anatomia canina/humanoide, tubos e ampolas verdes. O ataque é ácido corrosivo, confirmado pela narração e pelo usuário.
+- **Sombras:** [descrição](sombras/descricao.md), [movimento e ataques](sombras/assinaturas-visuais.md), [original existente](../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/templo-criatura1.jpeg). Face pálida, ramificações e membros longos numa massa escura/violeta. Desaparecimento, medo, garras e agarrão ao poço têm fontes específicas.
 - **Monges modificados:** o descritivo integral e suas referências terão entrada própria quando estiverem disponíveis no acervo público. Esta revisão publica os guias completos de cães e sombras.
 
 [Inventário técnico de fontes e lacunas](inventario-visual-criaturas.json).
@@ -45,7 +45,7 @@ Para completar a entrada, falta apontar o arquivo ou a imagem correta e confirma
 
 ## Uso por cena
 
-- [24/09, combate nas jaulas](../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/descricao-cena.md): duas criaturas caninas e uma sombra; barricada formada durante a ação. Não antecipar o obstáculo.
+- [24/09, combate nas jaulas](../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/README.md#descrição-da-cena): duas criaturas caninas e uma sombra; barricada formada durante a ação. Não antecipar o obstáculo.
 - [01/10, cães e primeiro monge](../../capitulos/008-andares-inferiores/transcricao/transcript.curated.md#03-cães-e-primeiro-monge): perseguição, ácido, mordida, soco e chutes.
 - [01/10, sombras e segundo monge](../../capitulos/008-andares-inferiores/transcricao/transcript.curated.md#05-sombras-e-segundo-monge): desaparecimento, medo, garras, chutes e projeção de energia.
 - [01/10, poço e resgate](../../capitulos/008-andares-inferiores/transcricao/transcript.curated.md#06-poço-e-resgate): agarrão da sombra, soltura breve, novo agarrão e afastamento diante da luz; o risco de queda continua.

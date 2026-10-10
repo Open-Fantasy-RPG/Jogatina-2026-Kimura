@@ -20,13 +20,13 @@ Os dois registros de 08/08 correspondem a capítulos distintos, conforme confirm
 
 | Ordem | Cena | Local editável | Referências |
 | --- | --- | --- | --- |
-| 01 | [Exploração dos esgotos](cenas/01-esgotos-e-ratos/descricao-cena.md) | [Esgotos de Asura’s Jewel](cenas/01-esgotos-e-ratos/descricao-local.md) | 1 |
-| 02 | [Hilbert, runas e pistas](cenas/02-hilbert-runas-e-trafico/descricao-cena.md) | [Túneis sob a cidade](cenas/02-hilbert-runas-e-trafico/descricao-local.md) | 1 |
-| 03 | [Leilão e comunicação à guarda](cenas/03-leilao-e-relato-a-guarda/descricao-cena.md) | [Local do leilão; cidade](cenas/03-leilao-e-relato-a-guarda/descricao-local.md) | 1 |
+| 01 | [Exploração dos esgotos](cenas/01-esgotos-e-ratos/README.md#descrição-da-cena) | [Esgotos de Asura’s Jewel](cenas/01-esgotos-e-ratos/README.md#descrição-do-local) | 1 |
+| 02 | [Hilbert, runas e pistas](cenas/02-hilbert-runas-e-trafico/README.md#descrição-da-cena) | [Túneis sob a cidade](cenas/02-hilbert-runas-e-trafico/README.md#descrição-do-local) | 1 |
+| 03 | [Leilão e comunicação à guarda](cenas/03-leilao-e-relato-a-guarda/README.md#descrição-da-cena) | [Local do leilão; cidade](cenas/03-leilao-e-relato-a-guarda/README.md#descrição-do-local) | 1 |
 
 ## Como o mestre complementa
 
-Editar `cenas/NN-slug/descricao-cena.md` e `descricao-local.md`, preenchendo somente detalhes liberados aos jogadores. Manter a fonte de cada fato e separar observação da imagem, relato da mesa e pontos ainda incertos. Usar os modelos em [modelos públicos](../../_modelos/README.md).
+Editar as seções de cena e local em `cenas/NN-slug/README.md`, preenchendo somente detalhes liberados aos jogadores. Manter a fonte de cada fato e separar observação da imagem, relato da mesa e pontos ainda incertos. Usar os modelos em [modelos públicos](../../_modelos/README.md).
 
 ## Limites do acervo
 

@@ -4,7 +4,7 @@
 
 ## Identidade e referência
 
-“Sombra” é o nome usado na narração para esta criatura. É uma identificação descritiva do encontro, sem importar automaticamente a ficha de qualquer monstro homônimo. A [imagem original templo-criatura1.jpeg](../../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura1.jpeg) já existe na cena 09 de 24/09. Seus pixels foram conferidos em 04/10/2026; o arquivo não precisa ser recriado nem duplicado.
+“Sombra” é o nome usado na narração para esta criatura. É uma identificação descritiva do encontro, sem importar automaticamente a ficha de qualquer monstro homônimo. A [imagem original templo-criatura1.jpeg](../../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/templo-criatura1.jpeg) já existe na cena 09 de 24/09. Seus pixels foram conferidos em 04/10/2026; o arquivo não precisa ser recriado nem duplicado.
 
 ## Descrição visual da imagem
 
@@ -36,4 +36,4 @@ Não classificar a sombra como criatura tentacular separada por causa de uma ext
 
 - [Registro público de 24/09/2026](../../../capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md).
 - [Transcrição curada pública de 01/10/2026](../../../capitulos/008-andares-inferiores/transcricao/transcript.curated.md).
-- [Cena 09 de 24/09: combate nas jaulas](../../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/descricao-cena.md).
+- [Cena 09 de 24/09: combate nas jaulas](../../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/README.md#descrição-da-cena).

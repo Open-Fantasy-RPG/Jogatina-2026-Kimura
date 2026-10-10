@@ -21,14 +21,14 @@ As atividades individuais na cidade são apresentadas como blocos editoriais de 
 
 | Ordem | Cena | Local editável | Referências |
 | --- | --- | --- | --- |
-| 01 | [Entrada e audiência](cenas/01-entrada-e-audiencia/descricao-cena.md) | [Eldervan; salão do lorde](cenas/01-entrada-e-audiencia/descricao-local.md) | 4 |
-| 02 | [Canções e rumores](cenas/02-vila-das-cancoes/descricao-cena.md) | [Vila das Canções](cenas/02-vila-das-cancoes/descricao-local.md) | 2 |
-| 03 | [Contemplação de Galen](cenas/03-contemplacao-de-galen/descricao-cena.md) | [Espaço de meditação em Eldervan](cenas/03-contemplacao-de-galen/descricao-local.md) | 1 |
-| 04 | [Git, o anel e nova convocação](cenas/04-git-anel-e-repouso/descricao-cena.md) | [Loja de Git; aposentos de hóspedes](cenas/04-git-anel-e-repouso/descricao-local.md) | 2 |
+| 01 | [Entrada e audiência](cenas/01-entrada-e-audiencia/README.md#descrição-da-cena) | [Eldervan; salão do lorde](cenas/01-entrada-e-audiencia/README.md#descrição-do-local) | 4 |
+| 02 | [Canções e rumores](cenas/02-vila-das-cancoes/README.md#descrição-da-cena) | [Vila das Canções](cenas/02-vila-das-cancoes/README.md#descrição-do-local) | 2 |
+| 03 | [Contemplação de Galen](cenas/03-contemplacao-de-galen/README.md#descrição-da-cena) | [Espaço de meditação em Eldervan](cenas/03-contemplacao-de-galen/README.md#descrição-do-local) | 1 |
+| 04 | [Git, o anel e nova convocação](cenas/04-git-anel-e-repouso/README.md#descrição-da-cena) | [Loja de Git; aposentos de hóspedes](cenas/04-git-anel-e-repouso/README.md#descrição-do-local) | 2 |
 
 ## Como o mestre complementa
 
-Editar `cenas/NN-slug/descricao-cena.md` e `descricao-local.md`, preenchendo somente detalhes liberados aos jogadores. Manter a fonte de cada fato e separar observação da imagem, relato da mesa e pontos ainda incertos. Usar os modelos em [modelos públicos](../../_modelos/README.md).
+Editar as seções de cena e local em `cenas/NN-slug/README.md`, preenchendo somente detalhes liberados aos jogadores. Manter a fonte de cada fato e separar observação da imagem, relato da mesa e pontos ainda incertos. Usar os modelos em [modelos públicos](../../_modelos/README.md).
 
 ## Limites do acervo
 

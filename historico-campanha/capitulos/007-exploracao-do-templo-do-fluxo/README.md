@@ -20,19 +20,19 @@ A ordem segue os marcadores da transcrição pública. A revisita à galeria sup
 
 | Ordem | Cena | Local editável | Referências |
 | --- | --- | --- | --- |
-| 01 | [Antessala e porta de manivela/runa](cenas/01-antessala-e-porta/descricao-cena.md) | [Vestíbulo / porta interna](cenas/01-antessala-e-porta/descricao-local.md) | 2 |
-| 02 | [Saguão e estátua de Elara](cenas/02-saguao-de-elara/descricao-cena.md) | [Salão de Elara](cenas/02-saguao-de-elara/descricao-local.md) | 2 |
-| 03 | [Biblioteca, mestres e acampamento](cenas/03-biblioteca-mestres-e-acampamento/descricao-cena.md) | [Biblioteca superior, Sala dos Mestres e acampamento](cenas/03-biblioteca-mestres-e-acampamento/descricao-local.md) | 1 |
-| 04 | [Passagem atrás da estante](cenas/04-passagem-secreta/descricao-cena.md) | [Escadaria secreta do nível superior](cenas/04-passagem-secreta/descricao-local.md) | 2 |
-| 05 | [Refeitório e dormitórios](cenas/05-refeitorio-e-dormitorios/descricao-cena.md) | [Salas do primeiro subsolo](cenas/05-refeitorio-e-dormitorios/descricao-local.md) | 0 |
-| 06 | [Teatro e autômato](cenas/06-teatro-e-automato/descricao-cena.md) | [Anfiteatro do primeiro subsolo](cenas/06-teatro-e-automato/descricao-local.md) | 1 |
-| 07 | [Reparo e descida pelo elevador](cenas/07-poco-e-elevador/descricao-cena.md) | [Poço de serviço entre os subsolos](cenas/07-poco-e-elevador/descricao-local.md) | 2 |
-| 08 | [Laboratório e Jaulas de Observação](cenas/08-laboratorio-e-jaulas/descricao-cena.md) | [Segundo subsolo / área de observação](cenas/08-laboratorio-e-jaulas/descricao-local.md) | 2 |
-| 09 | [Combate nas Jaulas de Observação](cenas/09-combate-nas-jaulas/descricao-cena.md) | [Mesma área de observação](cenas/09-combate-nas-jaulas/descricao-local.md) | 4 |
+| 01 | [Antessala e porta de manivela/runa](cenas/01-antessala-e-porta/README.md#descrição-da-cena) | [Vestíbulo / porta interna](cenas/01-antessala-e-porta/README.md#descrição-do-local) | 2 |
+| 02 | [Saguão e estátua de Elara](cenas/02-saguao-de-elara/README.md#descrição-da-cena) | [Salão de Elara](cenas/02-saguao-de-elara/README.md#descrição-do-local) | 2 |
+| 03 | [Biblioteca, mestres e acampamento](cenas/03-biblioteca-mestres-e-acampamento/README.md#descrição-da-cena) | [Biblioteca superior, Sala dos Mestres e acampamento](cenas/03-biblioteca-mestres-e-acampamento/README.md#descrição-do-local) | 1 |
+| 04 | [Passagem atrás da estante](cenas/04-passagem-secreta/README.md#descrição-da-cena) | [Escadaria secreta do nível superior](cenas/04-passagem-secreta/README.md#descrição-do-local) | 2 |
+| 05 | [Refeitório e dormitórios](cenas/05-refeitorio-e-dormitorios/README.md#descrição-da-cena) | [Salas do primeiro subsolo](cenas/05-refeitorio-e-dormitorios/README.md#descrição-do-local) | 0 |
+| 06 | [Teatro e autômato](cenas/06-teatro-e-automato/README.md#descrição-da-cena) | [Anfiteatro do primeiro subsolo](cenas/06-teatro-e-automato/README.md#descrição-do-local) | 1 |
+| 07 | [Reparo e descida pelo elevador](cenas/07-poco-e-elevador/README.md#descrição-da-cena) | [Poço de serviço entre os subsolos](cenas/07-poco-e-elevador/README.md#descrição-do-local) | 2 |
+| 08 | [Laboratório e Jaulas de Observação](cenas/08-laboratorio-e-jaulas/README.md#descrição-da-cena) | [Segundo subsolo / área de observação](cenas/08-laboratorio-e-jaulas/README.md#descrição-do-local) | 2 |
+| 09 | [Combate nas Jaulas de Observação](cenas/09-combate-nas-jaulas/README.md#descrição-da-cena) | [Mesma área de observação](cenas/09-combate-nas-jaulas/README.md#descrição-do-local) | 4 |
 
 ## Como o mestre complementa
 
-Editar `cenas/NN-slug/descricao-cena.md` e `descricao-local.md`, preenchendo somente detalhes liberados aos jogadores. Manter a fonte de cada fato e separar observação da imagem, relato da mesa e pontos ainda incertos. Usar os modelos em [modelos públicos](../../_modelos/README.md).
+Editar as seções de cena e local em `cenas/NN-slug/README.md`, preenchendo somente detalhes liberados aos jogadores. Manter a fonte de cada fato e separar observação da imagem, relato da mesa e pontos ainda incertos. Usar os modelos em [modelos públicos](../../_modelos/README.md).
 
 ## Limites do acervo
 

@@ -16,7 +16,7 @@
   "imagens": [
     {
       "id": "sombra",
-      "path": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura1.jpeg",
+      "path": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/templo-criatura1.jpeg",
       "tipo": "retrato-base de criatura",
       "inspecao_visual": "Pixels abertos e conferidos em 2026-10-04",
       "dimensoes_px": [
@@ -32,7 +32,7 @@
     },
     {
       "id": "cao",
-      "path": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura2.jpeg",
+      "path": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/templo-criatura2.jpeg",
       "tipo": "retrato-base de criatura",
       "inspecao_visual": "Pixels abertos e conferidos em 2026-10-04",
       "dimensoes_px": [
@@ -48,7 +48,7 @@
     },
     {
       "id": "laboratorio",
-      "path": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/imagens/tempple-sub2-lab.jpeg",
+      "path": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/tempple-sub2-lab.jpeg",
       "tipo": "contexto de cenário",
       "inspecao_visual": "Pixels abertos e conferidos em 2026-10-04",
       "dimensoes_px": [

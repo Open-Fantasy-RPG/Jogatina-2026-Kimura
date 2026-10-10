@@ -6,7 +6,7 @@
 
 “Cães modificados” é uma identificação descritiva da campanha. O mestre descreve uma mistura de cachorro com humano, musculatura exposta e tubos de líquido esverdeado, em 24/09 às 01:10:19–01:10:49. Em 01/10, volta a mencionar os tubos verdes presos ao corpo (00:01:29–00:01:35). Não há nome formal de espécie, ficha completa ou origem das alterações estabelecidos aqui.
 
-A imagem original já existe: [templo-criatura2.jpeg](../../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura2.jpeg). Ela foi aberta e conferida em 04/10/2026. O original permanece na cena 09 de 24/09; este catálogo o reutiliza por link, sem duplicar ou redesenhar o arquivo.
+A imagem original já existe: [templo-criatura2.jpeg](../../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/templo-criatura2.jpeg). Ela foi aberta e conferida em 04/10/2026. O original permanece na cena 09 de 24/09; este catálogo o reutiliza por link, sem duplicar ou redesenhar o arquivo.
 
 ## Descrição visual da imagem
 
@@ -42,4 +42,4 @@ O usuário confirmou em 04/10/2026 que a substância deve ser tratada como ácid
 
 - [Registro público de 24/09/2026](../../../capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md).
 - [Transcrição curada pública de 01/10/2026](../../../capitulos/008-andares-inferiores/transcricao/transcript.curated.md).
-- [Cena 09 de 24/09: combate nas jaulas](../../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/descricao-cena.md).
+- [Cena 09 de 24/09: combate nas jaulas](../../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/README.md#descrição-da-cena).

@@ -16,5 +16,5 @@ O retrato fixa a identidade deste modelo. As vistas, expressões e poses complem
 
 ## Referências da campanha
 
-[Capítulo 003](../../../capitulos/003-prisao-conflito-e-julgamento/README.md) · [Capítulo 004](../../../capitulos/004-fuga-de-asura-a-eldervan/README.md) · [Prisão de Asura](../../../capitulos/003-prisao-conflito-e-julgamento/cenas/01-carceragem-e-patio/descricao-local.md)
+[Capítulo 003](../../../capitulos/003-prisao-conflito-e-julgamento/README.md) · [Capítulo 004](../../../capitulos/004-fuga-de-asura-a-eldervan/README.md) · [Prisão de Asura](../../../capitulos/003-prisao-conflito-e-julgamento/cenas/01-carceragem-e-patio/README.md#descrição-do-local)
 

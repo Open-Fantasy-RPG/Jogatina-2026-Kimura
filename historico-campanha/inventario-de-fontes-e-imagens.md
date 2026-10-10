@@ -25,7 +25,7 @@
 ### prisao.jpeg
 
 - Origem: `imgs 1/prisao.jpeg`
-- Destino: [prisao.jpeg](capitulos/002-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg)
+- Destino: [prisao.jpeg](capitulos/002-cidade-alta-e-prisao/cenas/03-william-e-prisao/prisao.jpeg)
 - Tipo: mapa de local
 - Tamanho: 657202 bytes
 - Blob SHA-1: `d5abc2178856442e74f44226b0abb0cbcacd15b5`
@@ -105,7 +105,7 @@
 ### templo-saguao.jpeg
 
 - Origem: `imgs 1/templo-saguao.jpeg`
-- Destino: [templo-saguao.jpeg](capitulos/007-exploracao-do-templo-do-fluxo/cenas/02-saguao-de-elara/imagens/templo-saguao.jpeg)
+- Destino: [templo-saguao.jpeg](capitulos/007-exploracao-do-templo-do-fluxo/cenas/02-saguao-de-elara/templo-saguao.jpeg)
 - Tipo: ambientação histórica
 - Tamanho: 297741 bytes
 - Blob SHA-1: `e44da4b25858d048496d9fce99cbaf1212268adf`
@@ -115,7 +115,7 @@
 ### templo-nivel1-passagem-screta.jpeg
 
 - Origem: `imgs 1/templo-nivel1-passagem-screta.jpeg`
-- Destino: [templo-nivel1-passagem-screta.jpeg](capitulos/007-exploracao-do-templo-do-fluxo/cenas/04-passagem-secreta/imagens/templo-nivel1-passagem-screta.jpeg)
+- Destino: [templo-nivel1-passagem-screta.jpeg](capitulos/007-exploracao-do-templo-do-fluxo/cenas/04-passagem-secreta/templo-nivel1-passagem-screta.jpeg)
 - Tipo: ambientação de passagem
 - Tamanho: 235203 bytes
 - Blob SHA-1: `4097f26fb93fd55e90d6f3c85ae7e9ebc1cf7ec2`
@@ -125,7 +125,7 @@
 ### templo-sub1-teatro.jpeg
 
 - Origem: `imgs 1/templo-sub1-teatro.jpeg`
-- Destino: [templo-sub1-teatro.jpeg](capitulos/007-exploracao-do-templo-do-fluxo/cenas/06-teatro-e-automato/imagens/templo-sub1-teatro.jpeg)
+- Destino: [templo-sub1-teatro.jpeg](capitulos/007-exploracao-do-templo-do-fluxo/cenas/06-teatro-e-automato/templo-sub1-teatro.jpeg)
 - Tipo: ambientação histórica
 - Tamanho: 291703 bytes
 - Blob SHA-1: `3f40659dd9a46c21b3e22af7a1aed0cd632ab853`
@@ -135,7 +135,7 @@
 ### templo-sub1-descida.jpeg
 
 - Origem: `imgs 1/templo-sub1-descida.jpeg`
-- Destino: [templo-sub1-descida.jpeg](capitulos/007-exploracao-do-templo-do-fluxo/cenas/07-poco-e-elevador/imagens/templo-sub1-descida.jpeg)
+- Destino: [templo-sub1-descida.jpeg](capitulos/007-exploracao-do-templo-do-fluxo/cenas/07-poco-e-elevador/templo-sub1-descida.jpeg)
 - Tipo: ambientação de local
 - Tamanho: 424264 bytes
 - Blob SHA-1: `82878b4b3226413248d9c886ec850c0396fe9b05`
@@ -145,7 +145,7 @@
 ### tempple-sub2-lab.jpeg
 
 - Origem: `imgs 1/tempple-sub2-lab.jpeg`
-- Destino: [tempple-sub2-lab.jpeg](capitulos/007-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/imagens/tempple-sub2-lab.jpeg)
+- Destino: [tempple-sub2-lab.jpeg](capitulos/007-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/tempple-sub2-lab.jpeg)
 - Tipo: ambientação de local
 - Tamanho: 365606 bytes
 - Blob SHA-1: `5519981b3105e84fe36f887a230d71519a8f36a2`
@@ -155,7 +155,7 @@
 ### templo-sub2-lab-map.jpeg
 
 - Origem: `imgs 1/templo-sub2-lab-map.jpeg`
-- Destino: [templo-sub2-lab-map.jpeg](capitulos/007-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/imagens/templo-sub2-lab-map.jpeg)
+- Destino: [templo-sub2-lab-map.jpeg](capitulos/007-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/templo-sub2-lab-map.jpeg)
 - Tipo: recorte de mapa
 - Tamanho: 61356 bytes
 - Blob SHA-1: `24625af6ed4d0ffbca0d7ce6173558c84a82be81`
@@ -165,7 +165,7 @@
 ### templo-criatura1.jpeg
 
 - Origem: `imgs 1/templo-criatura1.jpeg`
-- Destino: [templo-criatura1.jpeg](capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura1.jpeg)
+- Destino: [templo-criatura1.jpeg](capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/templo-criatura1.jpeg)
 - Tipo: referência de criatura
 - Tamanho: 77168 bytes
 - Blob SHA-1: `d00119d7f163f79d663e7fdcdbca99ed0d0fb110`
@@ -175,7 +175,7 @@
 ### templo-criatura2.jpeg
 
 - Origem: `imgs 1/templo-criatura2.jpeg`
-- Destino: [templo-criatura2.jpeg](capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura2.jpeg)
+- Destino: [templo-criatura2.jpeg](capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/templo-criatura2.jpeg)
 - Tipo: referência de criatura
 - Tamanho: 66087 bytes
 - Blob SHA-1: `d34089ef3e493c6a59bdbb034b0f23ec7335eccb`
@@ -199,4 +199,4 @@ Arquivos sem relação suficiente devem ir para [a classificar](a-classificar/RE
 
 ## Mapa da prisão: organização por cena
 
-O mapa `prisao.jpeg` está em [William ordena a prisão — 08/08/2026](capitulos/002-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg). Seu uso nas sessões de 20/08 e 03/09 é mantido por links ao original. A antiga pasta compartilhada da prisão foi desfeita, e seus documentos de referência acompanham a imagem em [proveniência da imagem](capitulos/002-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/proveniencia-prisao.md). O tamanho (657202 bytes) e o blob (`d5abc2178856442e74f44226b0abb0cbcacd15b5`) não mudaram. Os demais arquivos compartilhados permanecem nos destinos existentes.
+O mapa `prisao.jpeg` está em [William ordena a prisão — 08/08/2026](capitulos/002-cidade-alta-e-prisao/cenas/03-william-e-prisao/prisao.jpeg). Seu uso nas sessões de 20/08 e 03/09 é mantido por links ao original. A antiga pasta compartilhada da prisão foi desfeita, e seus documentos de referência acompanham a imagem em [proveniência da imagem](capitulos/002-cidade-alta-e-prisao/cenas/03-william-e-prisao/README.md#proveniencia-prisao). O tamanho (657202 bytes) e o blob (`d5abc2178856442e74f44226b0abb0cbcacd15b5`) não mudaram. Os demais arquivos compartilhados permanecem nos destinos existentes.

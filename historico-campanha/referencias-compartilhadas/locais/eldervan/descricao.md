@@ -14,13 +14,13 @@
 
 ## Cenas que usam esta referência
 
-- [sessao-2026-09-03-fuga-de-azura-a-eldervan/05-chegada-a-eldervan — Chegada a Eldervan](../../../capitulos/004-fuga-de-asura-a-eldervan/cenas/05-chegada-a-eldervan/descricao-cena.md)
-- [sessao-2026-09-17-audiencia-em-eldervan/01-entrada-e-audiencia — Entrada e audiência](../../../capitulos/005-audiencia-em-eldervan/cenas/01-entrada-e-audiencia/descricao-cena.md)
-- [sessao-2026-09-17-audiencia-em-eldervan/02-vila-das-cancoes — Canções e rumores](../../../capitulos/005-audiencia-em-eldervan/cenas/02-vila-das-cancoes/descricao-cena.md)
-- [sessao-2026-09-17-audiencia-em-eldervan/03-contemplacao-de-galen — Contemplação de Galen](../../../capitulos/005-audiencia-em-eldervan/cenas/03-contemplacao-de-galen/descricao-cena.md)
-- [sessao-2026-09-17-audiencia-em-eldervan/04-git-anel-e-repouso — Git, o anel e nova convocação](../../../capitulos/005-audiencia-em-eldervan/cenas/04-git-anel-e-repouso/descricao-cena.md)
-- [sessao-2026-09-22-rumo-ao-templo-do-fluxo/01-cafe-e-manuscritos — Café da manhã e manuscritos](../../../capitulos/006-rumo-ao-templo-do-fluxo/cenas/01-cafe-e-manuscritos/descricao-cena.md)
-- [sessao-2026-09-22-rumo-ao-templo-do-fluxo/02-mercado-e-caravana — Mercado e partida](../../../capitulos/006-rumo-ao-templo-do-fluxo/cenas/02-mercado-e-caravana/descricao-cena.md)
+- [sessao-2026-09-03-fuga-de-azura-a-eldervan/05-chegada-a-eldervan — Chegada a Eldervan](../../../capitulos/004-fuga-de-asura-a-eldervan/cenas/05-chegada-a-eldervan/README.md#descrição-da-cena)
+- [sessao-2026-09-17-audiencia-em-eldervan/01-entrada-e-audiencia — Entrada e audiência](../../../capitulos/005-audiencia-em-eldervan/cenas/01-entrada-e-audiencia/README.md#descrição-da-cena)
+- [sessao-2026-09-17-audiencia-em-eldervan/02-vila-das-cancoes — Canções e rumores](../../../capitulos/005-audiencia-em-eldervan/cenas/02-vila-das-cancoes/README.md#descrição-da-cena)
+- [sessao-2026-09-17-audiencia-em-eldervan/03-contemplacao-de-galen — Contemplação de Galen](../../../capitulos/005-audiencia-em-eldervan/cenas/03-contemplacao-de-galen/README.md#descrição-da-cena)
+- [sessao-2026-09-17-audiencia-em-eldervan/04-git-anel-e-repouso — Git, o anel e nova convocação](../../../capitulos/005-audiencia-em-eldervan/cenas/04-git-anel-e-repouso/README.md#descrição-da-cena)
+- [sessao-2026-09-22-rumo-ao-templo-do-fluxo/01-cafe-e-manuscritos — Café da manhã e manuscritos](../../../capitulos/006-rumo-ao-templo-do-fluxo/cenas/01-cafe-e-manuscritos/README.md#descrição-da-cena)
+- [sessao-2026-09-22-rumo-ao-templo-do-fluxo/02-mercado-e-caravana — Mercado e partida](../../../capitulos/006-rumo-ao-templo-do-fluxo/cenas/02-mercado-e-caravana/README.md#descrição-da-cena)
 
 ## Edição do mestre — somente informação pública
 
