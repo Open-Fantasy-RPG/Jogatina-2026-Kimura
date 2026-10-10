@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "npc_id": "elfos-de-cena/thaeron",
+  "source_commit": "8db41acbbf9288b95001fa51beb99dbfa5a3dd2c",
+  "description": "descricao.md",
+  "assets": [
+    {
+      "path": "imagens/thaeron-expressoes-v0001.png",
+      "bytes": 2129526,
+      "sha256": "f29f51c59d8fb589acff1799e989f919c8e2ca83f155361b81d632449b84da32",
+      "git_blob_sha1": "0a9c992e88ba8ec5ddf67aef427f40ddca4834e3",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/thaeron-referencia-v0001.png",
+      "bytes": 1828235,
+      "sha256": "be920389200f28dbb4169551a56829048001cdf0d85ef774b46ed0c5aa7087f6",
+      "git_blob_sha1": "44b2095c09979710b529d0ec3009df6b150cf9c1",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/thaeron-token-vtt-v0001.png",
+      "bytes": 293977,
+      "sha256": "a5f008b1e27ea97242a75f82a662f546614a4765b9b273d594b98446fce06c7a",
+      "git_blob_sha1": "bf9c353819d8c48aa9cb2f6b80ca2ca540de13bb",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    }
+  ],
+  "coverage": {
+    "retrato": "na prancha coletiva",
+    "token": "presente",
+    "vistas": "presente",
+    "acoes": "presente",
+    "expressoes": "limitadas às poses"
+  },
+  "license": {
+    "status": "não definida por este inventário",
+    "note": "Preservar atribuições existentes; a publicação anterior não estabelece licença de reutilização."
+  },
+  "regeneration": {
+    "exact_pixels_guaranteed": false,
+    "seed": null,
+    "note": "Preservar arquivos originais e hashes para reutilização exata. Nova geração é uma interpretação sujeita à revisão."
+  },
+  "notes": "Cinco vistas e caminhada/conversa verificadas nos pixels. Retrato individual usa token e prancha coletiva; expressões dedicadas não existem.",
+  "status": "candidate_for_exact_publication_review",
+  "reproduction_note": "Bytes and hashes permit exact reuse. AI regeneration is nondeterministic. Private production records do not belong in this public package."
+}

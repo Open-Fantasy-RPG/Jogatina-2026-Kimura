@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "npc_id": "atendente-idoso",
+  "source_commit": null,
+  "description": "descricao.md",
+  "assets": [
+    {
+      "path": "imagens/atendente-idoso-corpo-inteiro-calca-shorts-v0001.png",
+      "bytes": 2000654,
+      "sha256": "05510aca211a8981964c40e19b85fa2edfd8ec5fde8208d7f1c1b3434506e9d3",
+      "git_blob_sha1": "4841570f64cf831347ad0579aba36db523345f82",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/atendente-idoso-expressoes-v0001.png",
+      "bytes": 2868527,
+      "sha256": "b535af86a85f7fd9af42ca71fe6d09a3d7ff76716f2439a87feb63bf9095ca57",
+      "git_blob_sha1": "7fcab7063c281e29bb280270524e1ce2a215b5cb",
+      "dimensions": [
+        1219,
+        1290
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/atendente-idoso-movimentos-calca-v0001.png",
+      "bytes": 1841492,
+      "sha256": "8766fffd3d226f61bdce3b96eb3cd9ddf0f1b4aad84b9dc26deec208b4fe19e2",
+      "git_blob_sha1": "e5585f4fc670ffe430f614f6dcc3798a12ecc1ce",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/atendente-idoso-movimentos-shorts-v0001.png",
+      "bytes": 1827682,
+      "sha256": "e8fff3cf4276b4b67204c829cd38b23e3c7ef42ad62dd1785ec70d8d6f6dc838",
+      "git_blob_sha1": "5cb6d360ed332ef032d22f6e3bd573428f78d0ac",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/atendente-idoso-retrato-v0001.png",
+      "bytes": 2644139,
+      "sha256": "e9993bcb9d346f9d3a0ad32663f6e0915edf350bd102f055b34ac0f555802cee",
+      "git_blob_sha1": "7039243ecbf49ea5147fa45c5cb1fc25c2a7af1c",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/atendente-idoso-token-vtt-v0001.png",
+      "bytes": 2438392,
+      "sha256": "c071bb5840a7e931a45a98dbd41969689ce3d0aaa6af5c0f11f38d9f6beb8c7b",
+      "git_blob_sha1": "386435cc566c500b4962e4d732458a0102094540",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "path": "imagens/atendente-idoso-vistas-calca-v0002.png",
+      "bytes": 2002956,
+      "sha256": "abeac4d8aa18057a6a4feaf898437760f9c52edb2c2e4a0d7bc61a1dd8b5a20a",
+      "git_blob_sha1": "0fd1b4b737e79240a870de68ef7505b078813d38",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/atendente-idoso-vistas-shorts-v0002.png",
+      "bytes": 1963157,
+      "sha256": "b60ac583d65a055c049f130e038ed1b2ebb38f496d05073bb3a9228c0e532524",
+      "git_blob_sha1": "0349e023dfdcc22222a1bd7bed75ada8145cfe38",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    }
+  ],
+  "coverage": {
+    "retrato": "recuperado",
+    "token": "recuperado",
+    "vistas": "recuperado",
+    "acoes": "recuperado",
+    "expressoes": "recuperado"
+  },
+  "license": {
+    "status": "não especificada; não presumir licença de reutilização"
+  },
+  "regeneration": {
+    "exact_pixels_guaranteed": false,
+    "seed": null
+  },
+  "status": "candidate_for_exact_publication_review",
+  "reproduction_note": "Bytes and hashes permit exact reuse. AI regeneration is nondeterministic. Private production records do not belong in this public package."
+}

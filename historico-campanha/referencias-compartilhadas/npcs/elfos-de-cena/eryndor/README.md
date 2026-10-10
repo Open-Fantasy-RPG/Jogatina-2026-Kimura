@@ -9,3 +9,9 @@
 O arquivo de imagem é compartilhado pelo índice dos quatro figurantes da mesma prancha. Não é necessário duplicá-lo. Os rótulos originais numerados continuam válidos para identificar os rostos.
 
 O conjunto individual contém cinco vistas de corpo inteiro, duas poses simples e um token de retrato circular de 512 × 512 pixels. A referência coletiva original permanece preservada. Não há novas estatísticas, profissão ou acontecimentos associados ao conjunto.
+
+## Integridade e reutilização
+
+[Manifesto dos arquivos e cobertura](manifesto-visual.json). Preserve o arquivo original para reutilizar exatamente a arte. Novas vistas ou poses devem partir do retrato aprovado e do descritivo deste cadastro, conservando identidade, roupa e equipamento. Detalhes reconstruídos devem permanecer identificados e passar por revisão. A geração por IA não garante pixels idênticos; este índice não estabelece licença de reutilização nem acrescenta capacidades ou fatos de campanha.
+
+- [Expressões: atenção, sorriso, fala e escuta](imagens/eryndor-expressoes-v0002.png) — estudo visual; não acrescenta acontecimentos.

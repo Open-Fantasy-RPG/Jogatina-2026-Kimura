@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "npc_id": "elfos-de-cena/naevia",
+  "source_commit": "8db41acbbf9288b95001fa51beb99dbfa5a3dd2c",
+  "description": "descricao.md",
+  "assets": [
+    {
+      "path": "imagens/naevia-expressoes-v0002.png",
+      "bytes": 2420040,
+      "sha256": "3eda6206782c042f2ca3e2883af5646caa81ea69f2b1b4d2540079302334f149",
+      "git_blob_sha1": "58295995fab2078b9467972bc76a0b1ced7b8824",
+      "dimensions": [
+        2172,
+        724
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/naevia-referencia-v0001.png",
+      "bytes": 1843603,
+      "sha256": "8b3979392645b3250678778a13fbb376d14ba4cc613c5ea2a1fb76e177b47ef0",
+      "git_blob_sha1": "10852a77179a9c05667391714656fd3fb0aa7308",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/naevia-token-vtt-v0001.png",
+      "bytes": 269626,
+      "sha256": "5f6560d703d7fe030196df73f7f139e440374dda8ccacc35fcab11b4e83f6e7a",
+      "git_blob_sha1": "6d548b33cf6053b902bcbd71b123dc3a418d5010",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    }
+  ],
+  "coverage": {
+    "retrato": "na prancha coletiva",
+    "token": "presente",
+    "vistas": "presente",
+    "acoes": "presente",
+    "expressoes": "limitadas às poses"
+  },
+  "license": {
+    "status": "não definida por este inventário",
+    "note": "Preservar atribuições existentes; a publicação anterior não estabelece licença de reutilização."
+  },
+  "regeneration": {
+    "exact_pixels_guaranteed": false,
+    "seed": null,
+    "note": "Preservar arquivos originais e hashes para reutilização exata. Nova geração é uma interpretação sujeita à revisão."
+  },
+  "notes": "Cinco vistas e caminhada/conversa verificadas nos pixels. Retrato individual usa token e prancha coletiva; expressões dedicadas não existem.",
+  "status": "candidate_for_exact_publication_review",
+  "reproduction_note": "Bytes and hashes permit exact reuse. AI regeneration is nondeterministic. Private production records do not belong in this public package."
+}

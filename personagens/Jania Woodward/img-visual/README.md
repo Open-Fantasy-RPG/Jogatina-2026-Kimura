@@ -17,4 +17,9 @@ O capuz levantado é o padrão habitual de Jânia. Preservar rosto, traje e equi
 
 O token é um retrato circular individual com moldura discreta e transparência fora do círculo. Preserva o rosto reconhecível, as tranças e o capuz cobrindo as orelhas.
 
-Vistas adicionais e poses de ação permanecem pendentes; o token habitual não substitui estados específicos de máscara ou disfarce.
+O token habitual não substitui estados específicos de máscara ou disfarce. As vistas e as poses adicionais são estudos de reconstrução visual, sem acrescentar acontecimentos à campanha.
+
+
+- [Vistas de corpo inteiro com capuz](jania-vistas-capuz-v0001.png) — estudo visual; não acrescenta acontecimentos.
+
+- [Caminhada, furtividade e arco](jania-acoes-capuz-v0002.png) — estudo visual; não acrescenta acontecimentos.

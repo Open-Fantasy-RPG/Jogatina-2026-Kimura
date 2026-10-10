@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "npc_id": "companheiros-de-prisao/companheiro-02",
+  "source_commit": null,
+  "description": "descricao.md",
+  "assets": [
+    {
+      "path": "imagens/companheiro-02-acoes-v0001.png",
+      "bytes": 2396657,
+      "sha256": "53cbc0c2d8f4024095a917704b5b7d5cfd2884b0aa3dc1e3e338ecfab166089a",
+      "git_blob_sha1": "6300067c4691971fa81543767912ca299aca49ac",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/companheiro-02-expressoes-v0001.png",
+      "bytes": 2686126,
+      "sha256": "fa8129cd39172524360fad741317a285bbe07d1f822b93941793b54fc9f1ee89",
+      "git_blob_sha1": "6d657192b33e10d25983eca9a2236f18353e41bd",
+      "dimensions": [
+        1199,
+        1312
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/companheiro-02-retrato-v0001.png",
+      "bytes": 2409137,
+      "sha256": "a40d38bcb935d4ea9acd9d4a09c582c776eb480f998a4e950aa10fc62473bb2c",
+      "git_blob_sha1": "c5c7f5e77ffb4842fadde407bcb5187c2ff729e0",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/companheiro-02-token-vtt-v0001.png",
+      "bytes": 2488776,
+      "sha256": "ef519f4203a19f3d362923435d20b40cd0c316bfbf1355808b7e39823b48a8cc",
+      "git_blob_sha1": "1099167bf7e9a4f17bd307f94315df80e34f6416",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "path": "imagens/companheiro-02-vistas-v0001.png",
+      "bytes": 2447697,
+      "sha256": "cef1493efc02afe205e9bdb006d7a1479e241a866deec5c2acd2b110bb34c8dd",
+      "git_blob_sha1": "fec7bb45b72ce39a3260b99abf97723e36cf80f7",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    }
+  ],
+  "coverage": {
+    "retrato": "recuperado",
+    "token": "recuperado",
+    "vistas": "recuperado",
+    "acoes": "recuperado",
+    "expressoes": "recuperado"
+  },
+  "license": {
+    "status": "não especificada; não presumir licença de reutilização"
+  },
+  "regeneration": {
+    "exact_pixels_guaranteed": false,
+    "seed": null
+  },
+  "status": "candidate_for_exact_publication_review",
+  "reproduction_note": "Bytes and hashes permit exact reuse. AI regeneration is nondeterministic. Private production records do not belong in this public package."
+}

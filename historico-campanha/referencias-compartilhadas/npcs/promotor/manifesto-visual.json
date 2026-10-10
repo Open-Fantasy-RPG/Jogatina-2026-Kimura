@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "npc_id": "promotor",
+  "source_commit": null,
+  "description": "descricao.md",
+  "assets": [
+    {
+      "path": "imagens/promotor-atividades-v0001.png",
+      "bytes": 2025546,
+      "sha256": "88165d7c92bc790dd9b4a1b61c6471ab48fc108e295a67ee619a748448e769c4",
+      "git_blob_sha1": "39a80134ddd8d79fd5d3c37bfce6b7580433eee9",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/promotor-expressoes-v0001.png",
+      "bytes": 2166668,
+      "sha256": "ce54b9b15975c74d5e31914d61242c0e921cd693529a094ec4073037b088099f",
+      "git_blob_sha1": "f16b7eead4f2e57f80cce68ce9321718de51ac35",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/promotor-referencia-v0001.png",
+      "bytes": 1988673,
+      "sha256": "4d7e43953212ac6d5f783d49ab08f8fdfbc4187df58be44e8ccfd891e96fdaeb",
+      "git_blob_sha1": "f7557fd99ed5a35cf0c8d92af4dc963a73d28570",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/promotor-retrato-v0001.png",
+      "bytes": 1982937,
+      "sha256": "3f5ae736f758a42ae4d59b87b04d369166851bd6bf6bc2f04dfde9c389dc98c3",
+      "git_blob_sha1": "b3777728821300f5182869248e1966c3bb05b06a",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/promotor-token-vtt-v0002.png",
+      "bytes": 1727413,
+      "sha256": "e6df51ebc37f0d3659454c6d4d73c163214f3b57390977343703a01b8b207da6",
+      "git_blob_sha1": "228f307462d108304f18604a76daa8d6711e8ba5",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    }
+  ],
+  "coverage": {
+    "retrato": "recuperado",
+    "token": "recuperado",
+    "vistas": "recuperado",
+    "acoes": "recuperado",
+    "expressoes": "recuperado"
+  },
+  "license": {
+    "status": "não especificada; não presumir licença de reutilização"
+  },
+  "regeneration": {
+    "exact_pixels_guaranteed": false,
+    "seed": null
+  },
+  "status": "candidate_for_exact_publication_review",
+  "reproduction_note": "Bytes and hashes permit exact reuse. AI regeneration is nondeterministic. Private production records do not belong in this public package."
+}

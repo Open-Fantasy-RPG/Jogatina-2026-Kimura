@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "npc_id": "jania-woodward",
+  "source_commit": "8db41acbbf9288b95001fa51beb99dbfa5a3dd2c",
+  "description": "descricao.md",
+  "assets": [
+    {
+      "path": "imagens/jaina-woodward.jpeg",
+      "bytes": 628459,
+      "sha256": "2c6e67aa300e147b00d625b22fc2508b740352804fa97669d91777bbfabd84b3",
+      "git_blob_sha1": "f66447ec2aaaf649ca1b186a21158fd30aa832e2",
+      "dimensions": [
+        1055,
+        1491
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    }
+  ],
+  "coverage": {
+    "retrato": "presente",
+    "token": "presente",
+    "vistas": "prévia nova",
+    "acoes": "prévia nova",
+    "expressoes": "não dedicada"
+  },
+  "license": {
+    "status": "não definida por este inventário",
+    "note": "Preservar atribuições existentes; a publicação anterior não estabelece licença de reutilização."
+  },
+  "regeneration": {
+    "exact_pixels_guaranteed": false,
+    "seed": null,
+    "note": "Preservar arquivos originais e hashes para reutilização exata. Nova geração é uma interpretação sujeita à revisão."
+  },
+  "notes": "Acervo canônico em personagens/Jania Woodward/img-visual; manter referências compartilhadas por links, sem duplicar mídia.",
+  "status": "candidate_for_exact_publication_review",
+  "reproduction_note": "Bytes and hashes permit exact reuse. AI regeneration is nondeterministic. Private production records do not belong in this public package.",
+  "canonical_visual_index": "../../../../personagens/Jania Woodward/img-visual/README.md",
+  "canonical_assets_note": "Retrato habitual, token, vistas e poses permanecem no acervo canônico indicado, sem duplicar os binários nesta pasta."
+}

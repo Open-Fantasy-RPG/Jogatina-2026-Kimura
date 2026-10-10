@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "npc_id": "taverneiro-do-manometro",
+  "source_commit": null,
+  "description": "descricao.md",
+  "assets": [
+    {
+      "path": "imagens/taverneiro-do-manometro-atividades-v0001.png",
+      "bytes": 2258389,
+      "sha256": "86b1055f9556bdd37f8746e49394603a478a06a4404c9aa7184eab2a39d004a4",
+      "git_blob_sha1": "8b054c2b3c71b3041b2e7698e05eba27ad0873f5",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/taverneiro-do-manometro-expressoes-v0001.png",
+      "bytes": 2411440,
+      "sha256": "2dee32b1bfe3ca88c90f9c4cd01314385fdb93cce4dc4f7dd909d9bb7f74c459",
+      "git_blob_sha1": "23c1915fef37e1d202fbc058f7cbde2efe7c40f1",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/taverneiro-do-manometro-referencia-v0001.png",
+      "bytes": 2363664,
+      "sha256": "a5c1dc588af190bf3d89d42f7e25241f1864874523d8f698da39983497f68f12",
+      "git_blob_sha1": "5f98aa76578b2725ff6328f334d22d9344921d15",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/taverneiro-do-manometro-retrato-v0001.png",
+      "bytes": 2343123,
+      "sha256": "a369fd4dcb793a07bcc721359151a15f2087fd72158de56fedc143d714f85373",
+      "git_blob_sha1": "30e89cde4d16aed1d6da41422dfb9616737f287e",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/taverneiro-do-manometro-token-vtt-v0002.png",
+      "bytes": 1892173,
+      "sha256": "ab2cb3f4756b43cfc813eb87188c8679a7e47b40797f83ec4bae14dc2557953e",
+      "git_blob_sha1": "88e090a7143515d62b38a86a48fef23fccc6cd75",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    }
+  ],
+  "coverage": {
+    "retrato": "recuperado",
+    "token": "recuperado",
+    "vistas": "recuperado",
+    "acoes": "recuperado",
+    "expressoes": "recuperado"
+  },
+  "license": {
+    "status": "não especificada; não presumir licença de reutilização"
+  },
+  "regeneration": {
+    "exact_pixels_guaranteed": false,
+    "seed": null
+  },
+  "status": "candidate_for_exact_publication_review",
+  "reproduction_note": "Bytes and hashes permit exact reuse. AI regeneration is nondeterministic. Private production records do not belong in this public package."
+}

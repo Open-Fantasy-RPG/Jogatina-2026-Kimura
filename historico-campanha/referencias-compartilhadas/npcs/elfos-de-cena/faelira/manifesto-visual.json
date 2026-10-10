@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "npc_id": "elfos-de-cena/faelira",
+  "source_commit": "8db41acbbf9288b95001fa51beb99dbfa5a3dd2c",
+  "description": "descricao.md",
+  "assets": [
+    {
+      "path": "imagens/faelira-expressoes-v0002.png",
+      "bytes": 2655504,
+      "sha256": "58c1cebea882be9f90bd032272fb9a50d8ed03d8ef6f390ea16a561db2c2f2d7",
+      "git_blob_sha1": "18a4c54f127de2ade02410093e12c8893ef73fb0",
+      "dimensions": [
+        1983,
+        793
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/faelira-referencia-v0001.png",
+      "bytes": 1837006,
+      "sha256": "d9a141bebe666c975966a8c8a7c0b0f9146445d3b74547e8d75f199264486d51",
+      "git_blob_sha1": "5a6fa19cfb60b07dc9e09651f6a8c54ee1a66c85",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/faelira-token-vtt-v0001.png",
+      "bytes": 296309,
+      "sha256": "daf5ea7c83ced443a35df2cd5b87f054c6a98fe00d712b0e889e4e4e1faf81d1",
+      "git_blob_sha1": "98a57ae78cbd392e4b70b3cc4e5f98055a1f971e",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    }
+  ],
+  "coverage": {
+    "retrato": "na prancha coletiva",
+    "token": "presente",
+    "vistas": "presente",
+    "acoes": "presente",
+    "expressoes": "limitadas às poses"
+  },
+  "license": {
+    "status": "não definida por este inventário",
+    "note": "Preservar atribuições existentes; a publicação anterior não estabelece licença de reutilização."
+  },
+  "regeneration": {
+    "exact_pixels_guaranteed": false,
+    "seed": null,
+    "note": "Preservar arquivos originais e hashes para reutilização exata. Nova geração é uma interpretação sujeita à revisão."
+  },
+  "notes": "Cinco vistas e caminhada/conversa verificadas nos pixels. Retrato individual usa token e prancha coletiva; expressões dedicadas não existem.",
+  "status": "candidate_for_exact_publication_review",
+  "reproduction_note": "Bytes and hashes permit exact reuse. AI regeneration is nondeterministic. Private production records do not belong in this public package."
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "npc_id": "blink-dogs",
+  "source_commit": "8db41acbbf9288b95001fa51beb99dbfa5a3dd2c",
+  "description": "descricao.md",
+  "assets": [
+    {
+      "path": "imagens/blink-dog-token-vtt-v0001.png",
+      "bytes": 2597989,
+      "sha256": "f99ace2eec1c8d8058893f50657d022fc823c540368697e5fb22fb04a14ab38d",
+      "git_blob_sha1": "c7875fa799765f560bfd86f94d1bb424de40a6cd",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "path": "imagens/blink-dog-vistas-acoes-v0001.png",
+      "bytes": 2378478,
+      "sha256": "c5e775aae1fba6734469eb24e7ece79b4a6d547afa72ed9a96e5b034e6d24fe8",
+      "git_blob_sha1": "7150f6e0a8eb71db326473e1d4997a06c55b5340",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    }
+  ],
+  "coverage": {
+    "retrato": "no token",
+    "token": "presente",
+    "vistas": "prévia nova",
+    "acoes": "prévia nova",
+    "expressoes": "não dedicada"
+  },
+  "license": {
+    "status": "não definida por este inventário",
+    "note": "Preservar atribuições existentes; a publicação anterior não estabelece licença de reutilização."
+  },
+  "regeneration": {
+    "exact_pixels_guaranteed": false,
+    "seed": null,
+    "note": "Preservar arquivos originais e hashes para reutilização exata. Nova geração é uma interpretação sujeita à revisão."
+  },
+  "notes": "",
+  "status": "candidate_for_exact_publication_review",
+  "reproduction_note": "Bytes and hashes permit exact reuse. AI regeneration is nondeterministic. Private production records do not belong in this public package."
+}

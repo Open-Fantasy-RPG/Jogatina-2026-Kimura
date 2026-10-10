@@ -23,3 +23,17 @@ As referências são específicas da campanha Jogatina Kimura 2026. Originais de
 
 
 
+
+## Pacotes recuperados para revisão
+
+- [supervisor-da-prisao](supervisor-da-prisao/README.md)
+- [aldous-merrin](aldous-merrin/README.md)
+- [promotor](promotor/README.md)
+- [juiz](juiz/README.md)
+- [taverneiro-do-manometro](taverneiro-do-manometro/README.md)
+- [william](william/README.md)
+- [irmao-de-bram](irmao-de-bram/README.md)
+- [atendente-idoso](atendente-idoso/README.md)
+- [companheiros-de-prisao/companheiro-01](companheiros-de-prisao/companheiro-01/README.md)
+- [companheiros-de-prisao/companheiro-03](companheiros-de-prisao/companheiro-03/README.md)
+- [companheiros-de-prisao/companheiro-02](companheiros-de-prisao/companheiro-02/README.md)

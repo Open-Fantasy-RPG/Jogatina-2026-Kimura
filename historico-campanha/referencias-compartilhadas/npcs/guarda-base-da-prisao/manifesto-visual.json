@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "npc_id": "guarda-base-da-prisao",
+  "source_commit": "8db41acbbf9288b95001fa51beb99dbfa5a3dd2c",
+  "description": "descricao.md",
+  "assets": [
+    {
+      "path": "imagens/guarda-base-da-prisao-atividades-v0001.png",
+      "bytes": 2353183,
+      "sha256": "76c7803156df73555c90ad64f2895283ac87b9a9f265e2a23e6481fbe139351f",
+      "git_blob_sha1": "098cce10adc861fac16b59b1e86b4d056145564f",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/guarda-base-da-prisao-expressoes-v0001.png",
+      "bytes": 2608023,
+      "sha256": "165ebf216971cb48e555e3f2ffa59076e358be128431e5f1dbe1a46358672254",
+      "git_blob_sha1": "3fe520bcdd7643613b36f9c53d373227a25d50cc",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/guarda-base-da-prisao-referencia-v0001.png",
+      "bytes": 2427953,
+      "sha256": "3b58254d49b87d9cde2ead1ed11653a5878e39c024363bd12b16fc327b913119",
+      "git_blob_sha1": "e7cef8bd6fd274943fbcccd81f7a401cf4971559",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/guarda-base-da-prisao-retrato-v0001.png",
+      "bytes": 2528014,
+      "sha256": "a5ea51ce14068dc5e138c60558873453b456d03e75093a805170ba0cfcfe3f15",
+      "git_blob_sha1": "044f8a566e3243f90f473c405b84965a83b34120",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/guarda-base-da-prisao-token-vtt-v0001.png",
+      "bytes": 2417139,
+      "sha256": "015c4a46d45f92b635f84997256e90f2edff15c6d54541518c54075d91df1eda",
+      "git_blob_sha1": "bc52d0c52da639de2cc4a30501803696f7cfae35",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    }
+  ],
+  "coverage": {
+    "retrato": "presente",
+    "token": "presente",
+    "vistas": "presente",
+    "acoes": "presente",
+    "expressoes": "presente"
+  },
+  "license": {
+    "status": "não definida por este inventário",
+    "note": "Preservar atribuições existentes; a publicação anterior não estabelece licença de reutilização."
+  },
+  "regeneration": {
+    "exact_pixels_guaranteed": false,
+    "seed": null,
+    "note": "Preservar arquivos originais e hashes para reutilização exata. Nova geração é uma interpretação sujeita à revisão."
+  },
+  "notes": "",
+  "status": "candidate_for_exact_publication_review",
+  "reproduction_note": "Bytes and hashes permit exact reuse. AI regeneration is nondeterministic. Private production records do not belong in this public package."
+}

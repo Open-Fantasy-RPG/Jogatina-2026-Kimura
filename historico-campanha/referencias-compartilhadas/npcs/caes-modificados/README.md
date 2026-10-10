@@ -38,3 +38,9 @@ O original continua intacto na cena de origem, sem duplicação. As regiões rec
 - [Descrição visual completa](descricao.md)
 - [Movimento e ataques, com fontes e propostas separadas](assinaturas-visuais.md)
 - [Catálogo e inventário da campanha](../catalogo-visual-criaturas.md)
+
+## Integridade e reutilização
+
+[Manifesto dos arquivos e cobertura](manifesto-visual.json). Preserve o arquivo original para reutilizar exatamente a arte. Novas vistas ou poses devem partir do retrato aprovado e do descritivo deste cadastro, conservando identidade, roupa e equipamento. Detalhes reconstruídos devem permanecer identificados e passar por revisão. A geração por IA não garante pixels idênticos; este índice não estabelece licença de reutilização nem acrescenta capacidades ou fatos de campanha.
+
+- [Movimento baixo, bote e salto](imagens/cao-acoes-v0001.png) — estudo visual; não acrescenta acontecimentos.

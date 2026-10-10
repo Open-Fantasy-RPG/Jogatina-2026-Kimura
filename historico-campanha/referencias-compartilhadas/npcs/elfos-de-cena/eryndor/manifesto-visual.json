@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "npc_id": "elfos-de-cena/eryndor",
+  "source_commit": "8db41acbbf9288b95001fa51beb99dbfa5a3dd2c",
+  "description": "descricao.md",
+  "assets": [
+    {
+      "path": "imagens/eryndor-expressoes-v0002.png",
+      "bytes": 2653280,
+      "sha256": "b6d19ca831bf2ece48e082417719c16f1ee1861bfe6e1548305e79045e932dac",
+      "git_blob_sha1": "4704c288d092aeb0991945d117f824da9c709aa8",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/eryndor-referencia-v0001.png",
+      "bytes": 1831213,
+      "sha256": "ea6537a5c21d3468d1443aedf8ef0f2570380259ab7e7a3b0495e22681a0b554",
+      "git_blob_sha1": "2f6f49ae63f21a5a49de3bdb83fb3d1642961b27",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "imagens/eryndor-token-vtt-v0001.png",
+      "bytes": 316133,
+      "sha256": "bb906236923261e54a36bf158b054a6cfb54274a5baa416e1c51c1ffb8a5a29f",
+      "git_blob_sha1": "6b4bb90f2d124f2dbaf12f7ffe6bb77a93b74f55",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    }
+  ],
+  "coverage": {
+    "retrato": "na prancha coletiva",
+    "token": "presente",
+    "vistas": "presente",
+    "acoes": "presente",
+    "expressoes": "limitadas às poses"
+  },
+  "license": {
+    "status": "não definida por este inventário",
+    "note": "Preservar atribuições existentes; a publicação anterior não estabelece licença de reutilização."
+  },
+  "regeneration": {
+    "exact_pixels_guaranteed": false,
+    "seed": null,
+    "note": "Preservar arquivos originais e hashes para reutilização exata. Nova geração é uma interpretação sujeita à revisão."
+  },
+  "notes": "Cinco vistas e caminhada/conversa verificadas nos pixels. Retrato individual usa token e prancha coletiva; expressões dedicadas não existem.",
+  "status": "candidate_for_exact_publication_review",
+  "reproduction_note": "Bytes and hashes permit exact reuse. AI regeneration is nondeterministic. Private production records do not belong in this public package."
+}

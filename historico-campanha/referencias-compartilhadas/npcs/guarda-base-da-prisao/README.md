@@ -18,3 +18,7 @@ O retrato fixa a identidade deste modelo. As vistas, expressões e poses complem
 
 [Capítulo 003](../../../capitulos/003-prisao-conflito-e-julgamento/README.md) · [Capítulo 004](../../../capitulos/004-fuga-de-asura-a-eldervan/README.md) · [Prisão de Asura](../../../capitulos/003-prisao-conflito-e-julgamento/cenas/01-carceragem-e-patio/README.md#descrição-do-local)
 
+
+## Integridade e reutilização
+
+[Manifesto dos arquivos e cobertura](manifesto-visual.json). Preserve o arquivo original para reutilizar exatamente a arte. Novas vistas ou poses devem partir do retrato aprovado e do descritivo deste cadastro, conservando identidade, roupa e equipamento. Detalhes reconstruídos devem permanecer identificados e passar por revisão. A geração por IA não garante pixels idênticos; este índice não estabelece licença de reutilização nem acrescenta capacidades ou fatos de campanha.
