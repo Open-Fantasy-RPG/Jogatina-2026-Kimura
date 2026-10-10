@@ -1,6 +1,6 @@
 # Investigação, combate e Fratura
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-08-08-cidade-alta-e-prisao/02-manometro-e-fratura`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -17,7 +17,7 @@ A investigação chega à Taverna do Manômetro Quebrado. A alegação sobre Kes
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafos 2–3.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafos 2–3.
 
 - [asura-jewel.jpeg](../../../../referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg)
 

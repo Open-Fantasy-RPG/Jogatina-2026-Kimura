@@ -1,6 +1,6 @@
 # Chegada a Eldervan
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-03-fuga-de-azura-a-eldervan/05-chegada-a-eldervan`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -16,7 +16,7 @@ A chegada a Eldervan encerra a viagem iniciada na prisão. A cidade élfica pass
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafo final.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafo final.
 
 - [eldervan.jpeg](../../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg)
 - [eldervan-2.jpeg](../../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan-2.jpeg)

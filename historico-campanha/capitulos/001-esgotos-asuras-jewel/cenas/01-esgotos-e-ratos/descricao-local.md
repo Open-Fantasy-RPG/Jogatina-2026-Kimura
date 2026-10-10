@@ -1,6 +1,6 @@
 # Local — Esgotos de Asura’s Jewel
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,7 +18,7 @@ A ambientação deve destacar o percurso subterrâneo e a presença dos ratos al
 
 Usar o mapa urbano para estabelecer a cidade sobre os túneis; não convertê-lo numa planta interna dos esgotos.
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafo 1.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafo 1.
 
 ## Referências visuais
 

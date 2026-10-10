@@ -1,6 +1,6 @@
 # Local — Eldervan; salão do lorde
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,9 +18,9 @@ O caminho para a audiência sobe muitos andares. Pelas janelas é possível ver 
 
 Conservar a união entre arquitetura e árvore; evitar transformar o salão em castelo de pedra ou salão industrial.
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — resumo público, Resumo da sessão e Eventos principais 6–20.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — resumo público, Resumo da sessão e Eventos principais 6–20.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 17/09, narração do mestre em 00:15:46–00:19:21.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 17/09, narração do mestre em 00:15:46–00:19:21.
 
 ## Referências visuais
 

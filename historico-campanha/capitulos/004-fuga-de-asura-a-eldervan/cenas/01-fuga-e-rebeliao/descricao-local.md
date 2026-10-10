@@ -1,6 +1,6 @@
 # Local — Prisão de Asura
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,7 +18,7 @@ O retrato público de Jânia fornece a aparência da elfa encapuzada: capuz escu
 
 Conservar os corredores reconhecíveis da referência, mas não desenhar uma rota exata de fuga que a fonte não marca.
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafos 1–3.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafos 1–3.
 
 ## Referências visuais
 

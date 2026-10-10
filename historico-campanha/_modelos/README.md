@@ -13,3 +13,7 @@ Este modelo não autoriza divulgar transcrições novas, segredos, rascunhos do 
 ## Identidade por capítulo
 
 Consultar `../capitulos.json` antes de criar entradas. Capítulos novos usam `historico-campanha/capitulos/NNN-slug/`; guardar `chapter_id`, `chapter_number`, `title` e `session_date` separadamente em `chapter.json`. Duas datas iguais não fundem capítulos. Cenas e artefatos não incrementam a numeração. Fontes antigas continuam nos caminhos legados registrados, com navegação pela entrada canônica.
+
+## Estrutura do capítulo
+
+Dentro de `capitulos/NNN-slug/`, usar `transcricao/` para a transcrição e o resumo aprovados, `cenas/NN-slug/` para `descricao-cena.md`, `descricao-local.md` e `imagens/`, e `referencias/` para o índice de materiais do capítulo. Ausências reais ficam indicadas nos índices; este modelo não autoriza inventar fatos, gerar imagens ou divulgar fontes privadas.

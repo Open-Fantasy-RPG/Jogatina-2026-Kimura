@@ -6,7 +6,9 @@ Data registrada: **2026-09-03**. A data é um atributo do capítulo.
 
 ## Registros
 
-- [Relato/resumo](summary.md)
+[Transcrição e resumo](transcricao/README.md) · [Cenas](cenas/README.md) · [Referências](referencias/README.md)
+
+- [Relato/resumo](transcricao/summary.md)
 
 Relato resumido disponível no Git. Uma transcrição foi localizada no acervo privado; leitura integral e publicação seguem etapas próprias.
 

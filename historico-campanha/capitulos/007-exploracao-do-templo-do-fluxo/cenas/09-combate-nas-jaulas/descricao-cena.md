@@ -1,6 +1,6 @@
 # Combate nas Jaulas de Observação
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-24-exploracao-do-templo-do-fluxo/09-combate-nas-jaulas`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -17,9 +17,9 @@ O combate acontece no mesmo laboratório abandonado, com dois seres caninos alte
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../transcript.md) — transcrição, 01:10:19–01:52:07.
+**Fonte principal:** [registro público da sessão](../../transcricao/transcript.md) — transcrição, 01:10:19–01:52:07.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 24/09, 01:10:19–01:52:07; queda das jaulas em 01:19:32–01:20:15.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 24/09, 01:10:19–01:52:07; queda das jaulas em 01:19:32–01:20:15.
 
 - [templo-criatura1.jpeg](imagens/templo-criatura1.jpeg)
 - [templo-criatura2.jpeg](imagens/templo-criatura2.jpeg)

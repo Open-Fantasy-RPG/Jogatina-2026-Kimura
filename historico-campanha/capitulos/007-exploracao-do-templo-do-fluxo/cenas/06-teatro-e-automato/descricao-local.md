@@ -1,6 +1,6 @@
 # Local — Anfiteatro do primeiro subsolo
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,9 +18,9 @@ Antes da intervenção, a máquina está erguida e inativa. Depois da tentativa 
 
 Ruína atual, sem espectadores, demonstração funcional ou autômato combatendo. Para continuidade, escolher o estado anterior ou posterior ao desmonte conforme o momento da cena.
 
-**Fonte principal:** [registro público da sessão](../../transcript.md) — transcrição, 00:40:12–00:47:40.
+**Fonte principal:** [registro público da sessão](../../transcricao/transcript.md) — transcrição, 00:40:12–00:47:40.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 24/09, 00:40:12–00:47:40, incluindo ferrugem em 00:41:12 e desmonte em 00:44:21.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 24/09, 00:40:12–00:47:40, incluindo ferrugem em 00:41:12 e desmonte em 00:44:21.
 
 ## Referências visuais
 

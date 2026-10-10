@@ -1,6 +1,6 @@
 # Local — Tribunal; prisão
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,7 +18,7 @@ O mapa prisao.jpeg deve aparecer apenas quando a sequência retorna ao cárcere.
 
 O texto combina o ambiente confirmado pela fonte com a leitura dos arquivos de referência. A disposição espacial não descrita continua aberta para revisão do mestre.
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafos 4–5.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafos 4–5.
 
 ## Referências visuais
 

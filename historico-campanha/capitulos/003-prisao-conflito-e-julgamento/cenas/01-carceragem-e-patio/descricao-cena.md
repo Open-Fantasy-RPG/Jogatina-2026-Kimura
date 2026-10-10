@@ -1,6 +1,6 @@
 # Cárcere e confronto no pátio
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-08-20-prisao-conflito-e-julgamento/01-carceragem-e-patio`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -17,7 +17,7 @@ O grupo está preso, com seus bens confiscados, sob acusações ligadas à Fratu
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafos 1–2.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafos 1–2.
 
 - [prisao.jpeg](../../../002-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg)
 

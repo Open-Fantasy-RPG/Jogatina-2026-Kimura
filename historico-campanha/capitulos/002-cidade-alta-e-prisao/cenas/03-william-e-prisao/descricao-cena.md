@@ -1,6 +1,6 @@
 # William ordena a prisão
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-08-08-cidade-alta-e-prisao/03-william-e-prisao`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -16,7 +16,7 @@ A tentativa de resolver a situação com William transforma a fuga inicial em en
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafo 4.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafo 4.
 
 - [prisao.jpeg](imagens/prisao.jpeg)
 - [asura-jewel.jpeg](../../../../referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg)

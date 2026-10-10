@@ -1,6 +1,6 @@
 # Chegada ao portão
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-22-rumo-ao-templo-do-fluxo/04-portao-do-templo`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -15,11 +15,11 @@ Com a orientação de Tarvek, o grupo chega ao templo nas montanhas e encerra a 
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — resumo público, Resumo da sessão, item 6 e encerramento da História da sessão.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — resumo público, Resumo da sessão, item 6 e encerramento da História da sessão.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 22/09, 01:04:54–01:05:21 e 01:08:53–01:09:08; portão avariado retomado em 24/09 às 00:05:11.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 22/09, 01:04:54–01:05:21 e 01:08:53–01:09:08; portão avariado retomado em 24/09 às 00:05:11.
 
-**Retomada do estado do portão:** [registro de 24/09](../../../007-exploracao-do-templo-do-fluxo/transcript.md) — 00:05:11.
+**Retomada do estado do portão:** [registro de 24/09](../../../007-exploracao-do-templo-do-fluxo/transcricao/transcript.md) — 00:05:11.
 
 - [tempo-portao.jpeg](../../../../referencias-compartilhadas/locais/templo-do-fluxo-portao/imagens/tempo-portao.jpeg)
 

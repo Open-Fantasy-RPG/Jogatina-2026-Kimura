@@ -1,6 +1,6 @@
 # Café da manhã e manuscritos
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-22-rumo-ao-templo-do-fluxo/01-cafe-e-manuscritos`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -17,9 +17,9 @@ Na manhã seguinte, Jânia busca os visitantes em seus aposentos e os leva ao sa
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — resumo público, Resumo da sessão, itens 1–4.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — resumo público, Resumo da sessão, itens 1–4.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 22/09, narração do mestre em 00:05:01–00:05:06 e 00:08:59–00:10:28; entrega de registros no resumo.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 22/09, narração do mestre em 00:05:01–00:05:06 e 00:08:59–00:10:28; entrega de registros no resumo.
 
 - [eldervan.jpeg](../../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg)
 - [eldervan-2.jpeg](../../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan-2.jpeg)

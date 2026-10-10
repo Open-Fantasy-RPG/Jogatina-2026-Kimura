@@ -23,7 +23,7 @@ A assinatura pessoal tem peso, apoio e resolução: antecipação de ombro/quadr
 - **ID da instância:** `kimura.galen.maca-asurana`
 - **Assinatura-base:** `mundano.weapon.mace`
 - **Disponibilidade documentada:** Arma + mecanismo confirmados; falhas registradas.
-- **Fonte de titularidade/efeito:** [Identidade/equipamento de Galen](../README.md); [Descrição visual](descricao.md); [17/09, mecanismo e falhas](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/005-audiencia-em-eldervan/transcript.md#L51-L64). A definição mecânica permanece nessa fonte.
+- **Fonte de titularidade/efeito:** [Identidade/equipamento de Galen](../README.md); [Descrição visual](descricao.md); [17/09, mecanismo e falhas](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/transcript.md#L51-L64). A definição mecânica permanece nessa fonte.
 - **Proposta — paleta própria:** Metal/brônzeo da referência; pequenos fios azul-brancos apenas quando ativada.
 - **Proposta — motivo próprio:** Massa pesada, espinhos mecânicos e descargas curtas locais.
 - **Ajustes às cinco fases-base:** Antecipação: base firme e peso da maça legíveis. Ativação: espinhos abrem se o mecanismo estiver ativo. Movimento: arco pesado curto; eletricidade fica junto da cabeça. Impacto: TUM físico mais filetes locais se couber. Resíduo: mecanismo conserva estado, sem brilho em falha/desativada.
@@ -36,7 +36,7 @@ A assinatura pessoal tem peso, apoio e resolução: antecipação de ombro/quadr
 - **ID da instância:** `kimura.galen.javelin`
 - **Assinatura-base:** `mundano.weapon.javelin`
 - **Disponibilidade documentada:** Arremessos efetivamente documentados.
-- **Fonte de titularidade/efeito:** [24/09, 01:34:45–01:35:15](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md#L2205-L2215); [01/10, 00:41:13–00:42:05](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md#L361-L373). A definição mecânica permanece nessa fonte.
+- **Fonte de titularidade/efeito:** [24/09, 01:34:45–01:35:15](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md#L2205-L2215); [01/10, 00:41:13–00:42:05](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcricao/transcript.curated.md#L361-L373). A definição mecânica permanece nessa fonte.
 - **Proposta — paleta própria:** Madeira e metal; ocre/navy pertencem à roupa, não ao projétil.
 - **Proposta — motivo próprio:** Diagonal física sóbria.
 - **Ajustes às cinco fases-base:** Antecipação: ombro recua e define linha livre. Movimento: um projétil, trajetória fina. Impacto/resíduo: seguir acerto/erro e local realmente conhecidos.
@@ -75,7 +75,7 @@ A assinatura pessoal tem peso, apoio e resolução: antecipação de ombro/quadr
 - **ID da instância:** `kimura.galen.hunters-mark`
 - **Assinatura-base:** `pendente.dnd5e.spell.hunters-mark`
 - **Disponibilidade documentada:** Uso confirmado; edição/ficha completa pendentes.
-- **Fonte de titularidade/efeito:** [24/09, 01:33:59 e 01:37:24–01:37:46](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md#L2193-L2293); [01/10, 01:39:56–01:40:30](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md#L1135-L1139). A definição mecânica permanece nessa fonte.
+- **Fonte de titularidade/efeito:** [24/09, 01:33:59 e 01:37:24–01:37:46](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md#L2193-L2293); [01/10, 01:39:56–01:40:30](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcricao/transcript.curated.md#L1135-L1139). A definição mecânica permanece nessa fonte.
 - **Proposta — paleta própria:** Cobre escuro e âmbar.
 - **Proposta — motivo próprio:** Dois colchetes abertos, geométricos e só ao leitor.
 - **Ajustes às cinco fases-base:** Ativação: olhar de rastreamento. Movimento: motivo fica no alvo correto. Impacto: pequeno segundo acento no acerto elegível. Resíduo: não trocar alvo sem fonte.
@@ -88,7 +88,7 @@ A assinatura pessoal tem peso, apoio e resolução: antecipação de ombro/quadr
 - **ID da instância:** `kimura.galen.thunderous-smite`
 - **Assinatura-base:** `pendente.dnd5e.spell.thunderous-smite`
 - **Disponibilidade documentada:** Uso confirmado; edição/ficha completa pendentes.
-- **Fonte de titularidade/efeito:** [24/09, 00:43:58–00:46:53](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md#L972-L1054); [01/10, 00:52:57–00:54:44](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md#L531-L543). A definição mecânica permanece nessa fonte.
+- **Fonte de titularidade/efeito:** [24/09, 00:43:58–00:46:53](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md#L972-L1054); [01/10, 00:52:57–00:54:44](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcricao/transcript.curated.md#L531-L543). A definição mecânica permanece nessa fonte.
 - **Proposta — paleta própria:** Branco denso/charcoal com mínimo reflexo âmbar.
 - **Proposta — motivo próprio:** Anel quebrado de pressão sobre impacto da maça.
 - **Ajustes às cinco fases-base:** Ativação: pressão curta junto à arma. Movimento: herdar peso da maça. Impacto: anel e estrondo abrem o quadro. Resíduo: eco se afasta; descarga elétrica do equipamento continua uma camada distinta, se ativa.
@@ -101,7 +101,7 @@ A assinatura pessoal tem peso, apoio e resolução: antecipação de ombro/quadr
 - **ID da instância:** `kimura.galen.shield-of-faith`
 - **Assinatura-base:** `pendente.dnd5e.spell.shield-of-faith`
 - **Disponibilidade documentada:** Conjuração em si mesmo documentada.
-- **Fonte de titularidade/efeito:** [01/10, 01:17:08–01:17:29](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md#L787). A definição mecânica permanece nessa fonte.
+- **Fonte de titularidade/efeito:** [01/10, 01:17:08–01:17:29](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcricao/transcript.curated.md#L787). A definição mecânica permanece nessa fonte.
 - **Proposta — paleta própria:** Marfim/âmbar suave, sem o azul da maça.
 - **Proposta — motivo próprio:** Faixas largas e concêntricas próximas do torso.
 - **Ajustes às cinco fases-base:** Ativação: envelope fecha por cima da cota sem substituí-la. Resíduo: proteção discreta persiste somente conforme fonte. Impacto ofensivo inexistente.
@@ -114,7 +114,7 @@ A assinatura pessoal tem peso, apoio e resolução: antecipação de ombro/quadr
 - **ID da instância:** `kimura.galen.lay-on-hands`
 - **Assinatura-base:** `pendente.dnd5e.class.lay-on-hands`
 - **Disponibilidade documentada:** Cura por toque em si documentada.
-- **Fonte de titularidade/efeito:** [01/10, 01:38:30–01:40:13](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md#L1111-L1135). A definição mecânica permanece nessa fonte.
+- **Fonte de titularidade/efeito:** [01/10, 01:38:30–01:40:13](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcricao/transcript.curated.md#L1111-L1135). A definição mecânica permanece nessa fonte.
 - **Proposta — paleta própria:** Ouro suave/marfim apenas sob a palma.
 - **Proposta — motivo próprio:** Halo pequeno, arredondado, aderente à mão.
 - **Ajustes às cinco fases-base:** Ativação: mão toca o próprio corpo. Movimento: luz se adensa sob a palma. Impacto: gesto/rosto se recompõem conforme cura. Resíduo: apaga na mão.
@@ -127,7 +127,7 @@ A assinatura pessoal tem peso, apoio e resolução: antecipação de ombro/quadr
 - **ID da instância:** `kimura.galen.divine-smite`
 - **Assinatura-base:** `pendente.dnd5e.ability.divine-smite`
 - **Disponibilidade documentada:** Mencionado pelo mestre como disponível; lançamento não confirmado.
-- **Fonte de titularidade/efeito:** [24/09, 01:34:22–01:34:45](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md#L2196-L2206). A definição mecânica permanece nessa fonte.
+- **Fonte de titularidade/efeito:** [24/09, 01:34:22–01:34:45](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md#L2196-L2206). A definição mecânica permanece nessa fonte.
 - **Proposta — paleta própria:** Marfim quente e ouro contido.
 - **Proposta — motivo próprio:** Clarão axial compacto diferente do anel de Thunderous Smite.
 - **Ajustes às cinco fases-base:** Herdar golpe físico; acento somente quando uma execução futura/histórica for confirmada pela fonte.
@@ -140,7 +140,7 @@ A assinatura pessoal tem peso, apoio e resolução: antecipação de ombro/quadr
 - **ID da instância:** `kimura.galen.inspiring-leader`
 - **Assinatura-base:** `pendente.dnd5e.feat.inspiring-leader`
 - **Disponibilidade documentada:** PV temporários de liderança confirmados; nome fonético e edição pendentes.
-- **Fonte de titularidade/efeito:** [24/09, 01:13:57–01:14:38](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md#L1680-L1711). A definição mecânica permanece nessa fonte.
+- **Fonte de titularidade/efeito:** [24/09, 01:13:57–01:14:38](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md#L1680-L1711). A definição mecânica permanece nessa fonte.
 - **Proposta — paleta própria:** Luz ambiente, ocre de roupa; sem emissão mágica.
 - **Proposta — motivo próprio:** Horizonte comum alinhando cabeças/ombros do grupo.
 - **Ajustes às cinco fases-base:** Antecipação: grupo reunido. Ativação: fala. Manifestação: aliados firmam postura. Resíduo: benefício acompanha a cena sem halo obrigatório.
@@ -151,10 +151,10 @@ A assinatura pessoal tem peso, apoio e resolução: antecipação de ombro/quadr
 ## Estados da maça e exceções de cena
 
 - **Desativada ou falha:** metal/mecanismo continuam visíveis; não manter raios por hábito. A falha tecnológica em Erlingheim está registrada.
-- **Ativa normal:** espinhos e pequenos arcos locais conforme fonte. A assinatura registra o aspecto do mecanismo e não arbitra as estatísticas da arma. [Fonte](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/005-audiencia-em-eldervan/transcript.md#L51-L64).
-- **Sobrecarga de 24/09:** espinhos/raios frenéticos eram temporários e cessaram. Usar essa aparência apenas para o momento documentado, sem convertê-la em estado visual permanente. [Fonte, 01:51:20–01:52:04](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md#L2679-L2695).
-- **Arco para segunda sombra em 01/10:** efeito episódico de ressonância narrado no impacto; não relâmpago em cadeia disponível a cada golpe. Mostrar apenas as criaturas atingidas conforme resolução. [Fonte, 01:32:10–01:32:51](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md#L1007-L1015).
-- **Eco duplicado de Thunderous Smite em 24/09:** a repetição em outro lugar veio da ressonância da cena; não integra a magia-base. [Fonte, 00:46:46–00:46:53](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md#L1050-L1054).
+- **Ativa normal:** espinhos e pequenos arcos locais conforme fonte. A assinatura registra o aspecto do mecanismo e não arbitra as estatísticas da arma. [Fonte](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/transcript.md#L51-L64).
+- **Sobrecarga de 24/09:** espinhos/raios frenéticos eram temporários e cessaram. Usar essa aparência apenas para o momento documentado, sem convertê-la em estado visual permanente. [Fonte, 01:51:20–01:52:04](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md#L2679-L2695).
+- **Arco para segunda sombra em 01/10:** efeito episódico de ressonância narrado no impacto; não relâmpago em cadeia disponível a cada golpe. Mostrar apenas as criaturas atingidas conforme resolução. [Fonte, 01:32:10–01:32:51](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcricao/transcript.curated.md#L1007-L1015).
+- **Eco duplicado de Thunderous Smite em 24/09:** a repetição em outro lugar veio da ressonância da cena; não integra a magia-base. [Fonte, 00:46:46–00:46:53](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md#L1050-L1054).
 
 ## Controle de revisão
 

@@ -1,6 +1,6 @@
 # Local — Rota de Asura a Erlingheim
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,7 +18,7 @@ A única condição urbana específica destacada nesta parte do relato é a dest
 
 Usar o mapa como passagem de região e indicação de topônimos, sem inserir um traçado apresentado como oficial.
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafos 4–5.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafos 4–5.
 
 ## Referências visuais
 

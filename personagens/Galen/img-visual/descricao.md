@@ -6,7 +6,7 @@ Publicado a pedido do usuário em 4 de outubro de 2026 como piloto para revisão
 
 ## Aparência
 
-Galen é um **Paladino do Juramento da Vingança**, sobrevivente ligado ao grupo de refugiados de Oak's Crossing. A cota de malha está confirmada na cena de contemplação de 17/09, quando ele retira a armadura e o mestre a identifica como “chain mail” ([01:01:46–01:02:20](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/8e1ca868e58bd2dafaa9963dd051683484493eff/historico-campanha/capitulos/005-audiencia-em-eldervan/transcript.md#L1197-L1201)). A cota não confirma escudo, elmo, armadura de placas, brasão ou símbolo religioso. Espécie, olhos e altura exata ainda não têm descrição suficiente nas fontes narrativas consultadas.
+Galen é um **Paladino do Juramento da Vingança**, sobrevivente ligado ao grupo de refugiados de Oak's Crossing. A cota de malha está confirmada na cena de contemplação de 17/09, quando ele retira a armadura e o mestre a identifica como “chain mail” ([01:01:46–01:02:20](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/8e1ca868e58bd2dafaa9963dd051683484493eff/historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/transcript.md#L1197-L1201)). A cota não confirma escudo, elmo, armadura de placas, brasão ou símbolo religioso. Espécie, olhos e altura exata ainda não têm descrição suficiente nas fontes narrativas consultadas.
 
 Para o piloto, o usuário definiu Galen com corpo robusto e atarracado, rosto largo, cabelo preto curto e barba cheia preta. Manter essa identidade em duas opções de vestuário: traje civil em ocre e azul-marinho e versão com cota de malha. A constituição e a fisionomia são distintas das de Kaelen, apesar do parentesco. Pormenores novos das imagens permanecem sujeitos à revisão visual.
 
@@ -68,5 +68,5 @@ Conferir que rosto largo, corpo robusto, cabelo preto curto e barba cheia preta 
 
 - [Identidade, equipamento, ações e relações de Galen](../README.md)
 - [Kaelen Vane e sua trajetória](../../Kaelen Vane/README.md)
-- [Fuga da prisão e chegada a Eldervan](../../../historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/summary.md)
+- [Fuga da prisão e chegada a Eldervan](../../../historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/transcricao/summary.md)
 - [Índice do acervo visual](README.md)

@@ -23,7 +23,7 @@ O [perfil atual](../README.md) registra nível 4; a ficha numérica disponível 
 - **ID da instância:** `kimura.kaelen.espada`
 - **Assinatura-base:** `mundano.weapon.sword`
 - **Disponibilidade documentada:** Aparência e uso confirmados; modelo mecânico ainda pendente.
-- **Fonte de titularidade/efeito:** [Espada e magia](../espada-e-magia.md); [Ficha registrada, nível 3](../ficha-nivel-3.md); [17/09, 01:15:14–01:15:19](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/005-audiencia-em-eldervan/transcript.md#L1470-L1474). A definição mecânica permanece nessa fonte.
+- **Fonte de titularidade/efeito:** [Espada e magia](../espada-e-magia.md); [Ficha registrada, nível 3](../ficha-nivel-3.md); [17/09, 01:15:14–01:15:19](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/transcript.md#L1470-L1474). A definição mecânica permanece nessa fonte.
 - **Proposta — paleta própria:** Aço fosco, cinza de túnica; brilho só da luz ambiente.
 - **Proposta — motivo próprio:** Um eixo limpo, ranhuras discretas como veias no metal.
 - **Ajustes às cinco fases-base:** Antecipação: respiração curta e peso alinhado. Movimento: arco único econômico ou estocada conforme resolução; não escolher dano pela estética. Impacto: contato curto. Resíduo: metal volta ao repouso sem energia acesa.
@@ -36,7 +36,7 @@ O [perfil atual](../README.md) registra nível 4; a ficha numérica disponível 
 - **ID da instância:** `kimura.kaelen.mage-hand`
 - **Assinatura-base:** `dnd5e.2014.spell.mage-hand`
 - **Disponibilidade documentada:** Escolha registrada; uso confirmado.
-- **Fonte de titularidade/efeito:** [Ficha registrada, nível 3](../ficha-nivel-3.md); [24/09, 00:07:40–00:08:47](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md#L163-L190); [01/10, recusa no resgate](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md#L1423-L1439). A definição mecânica permanece nessa fonte.
+- **Fonte de titularidade/efeito:** [Ficha registrada, nível 3](../ficha-nivel-3.md); [24/09, 00:07:40–00:08:47](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md#L163-L190); [01/10, recusa no resgate](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcricao/transcript.curated.md#L1423-L1439). A definição mecânica permanece nessa fonte.
 - **Proposta — paleta própria:** Cinza translúcido com borda prata.
 - **Proposta — motivo próprio:** Mão fina com apenas um arco de alinhamento ao gesto.
 - **Ajustes às cinco fases-base:** Ativação: gesto econômico. Movimento: microtrajeto de objeto, como o manejo da manivela documentado em 24/09. Resíduo: objeto permanece conforme ação, mão não ganha força dramática.
@@ -49,7 +49,7 @@ O [perfil atual](../README.md) registra nível 4; a ficha numérica disponível 
 - **ID da instância:** `kimura.kaelen.friends`
 - **Assinatura-base:** `dnd5e.2014.spell.friends`
 - **Disponibilidade documentada:** Escolha expressa na ficha; uso confirmado.
-- **Fonte de titularidade/efeito:** [Ficha registrada, nível 3](../ficha-nivel-3.md); [17/09, 00:09:06](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/005-audiencia-em-eldervan/transcript.md#L219-L229). A definição mecânica permanece nessa fonte.
+- **Fonte de titularidade/efeito:** [Ficha registrada, nível 3](../ficha-nivel-3.md); [17/09, 00:09:06](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/transcript.md#L219-L229). A definição mecânica permanece nessa fonte.
 - **Proposta — paleta própria:** Cinza quente e um filete âmbar.
 - **Proposta — motivo próprio:** Olhares alinhados, sem espiral hipnótica.
 - **Ajustes às cinco fases-base:** Antecipação: escutar. Ativação: frase curta e foco. Impacto: resultado social conforme mesa. Resíduo: luz ambiente normal.
@@ -62,7 +62,7 @@ O [perfil atual](../README.md) registra nível 4; a ficha numérica disponível 
 - **ID da instância:** `kimura.kaelen.shield`
 - **Assinatura-base:** `dnd5e.2014.spell.shield`
 - **Disponibilidade documentada:** Escolha registrada e uso confirmado.
-- **Fonte de titularidade/efeito:** [Ficha registrada, nível 3](../ficha-nivel-3.md); [01/10, 01:45:18–01:46:47](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md#L1241-L1257). A definição mecânica permanece nessa fonte.
+- **Fonte de titularidade/efeito:** [Ficha registrada, nível 3](../ficha-nivel-3.md); [01/10, 01:45:18–01:46:47](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcricao/transcript.curated.md#L1241-L1257). A definição mecânica permanece nessa fonte.
 - **Proposta — paleta própria:** Branco frio, azul-cinza de baixa saturação.
 - **Proposta — motivo próprio:** Um plano curvo firme com dois arcos incompletos.
 - **Ajustes às cinco fases-base:** Antecipação: ameaça avança. Ativação: mão curta abre plano entre corpo e golpe. Impacto: a linha do ataque encontra a superfície. Resíduo: plano fino conforme duração resolvida.
@@ -140,7 +140,7 @@ O [perfil atual](../README.md) registra nível 4; a ficha numérica disponível 
 - **ID da instância:** `kimura.kaelen.salto`
 - **Assinatura-base:** `pendente.dnd5e.spell.jump`
 - **Disponibilidade documentada:** Uso em 03/09 confirmado; fora da lista de magias da ficha N3; edição/atualidade pendentes.
-- **Fonte de titularidade/efeito:** [03/09, fuga](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/summary.md#L7); [Ficha registrada, nível 3](../ficha-nivel-3.md). A definição mecânica permanece nessa fonte.
+- **Fonte de titularidade/efeito:** [03/09, fuga](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/transcricao/summary.md#L7); [Ficha registrada, nível 3](../ficha-nivel-3.md). A definição mecânica permanece nessa fonte.
 - **Proposta — paleta própria:** Cinza/prata sem emanação fixa.
 - **Proposta — motivo próprio:** Parábola limpa ligada aos pés.
 - **Ajustes às cinco fases-base:** Antecipação: flexão controlada. Movimento: trajetória física inteira. Impacto: destino conforme fonte. Resíduo: recobrar apoio.
@@ -153,7 +153,7 @@ O [perfil atual](../README.md) registra nível 4; a ficha numérica disponível 
 - **ID da instância:** `kimura.kaelen.luz-de-cena`
 - **Assinatura-base:** `pendente.dnd5e.effect.light`
 - **Disponibilidade documentada:** Efeito narrado confirmado; nome formal/origem/edição não identificados.
-- **Fonte de titularidade/efeito:** [01/10, 01:56:32–01:58:33](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md#L1391-L1409). A definição mecânica permanece nessa fonte.
+- **Fonte de titularidade/efeito:** [01/10, 01:56:32–01:58:33](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcricao/transcript.curated.md#L1391-L1409). A definição mecânica permanece nessa fonte.
 - **Proposta — paleta própria:** Branco neutro com cinza nas superfícies.
 - **Proposta — motivo próprio:** Volume arredondado local e contraluz.
 - **Ajustes às cinco fases-base:** Antecipação: aproximar-se de Jânia. Ativação: bola de luz narrada. Movimento: clareamento do espaço, sem disparo. Impacto: sombra muda de lugar por seu teleporte. Resíduo: iluminação sem corpo destruído.
@@ -189,9 +189,9 @@ O [perfil atual](../README.md) registra nível 4; a ficha numérica disponível 
 
 ## Continuidade especial de sessões já jogadas
 
-- O Escudo de 01/10 recebeu um efeito adicional de ressonância: interferência com metal. O mestre corrigiu a ideia de arremesso e o monge resistiu ao deslocamento. Preservar a resolução final se ilustrar esse momento; não colocar magnetismo, braço arrancado ou dano na assinatura normal de Shield. [Fonte, 01:45:18–01:46:47](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md#L1241-L1257).
-- A luz de 01/10 não mata nem dissipa a sombra; ela se teleporta. Separar ação de Kaelen e reação da criatura. [Fonte, 01:56:32–01:58:33](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md#L1391-L1409).
-- No resgate, Mão Mágica foi proposta e rejeitada. O resultado foi salto físico, agarrar Jânia e um tijolo solto; corda só depois. Não desenhar Mão Mágica, Queda Suave ou levitação nesse salvamento. [Fonte, 01:59:49–02:02:56](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md#L1423-L1455).
+- O Escudo de 01/10 recebeu um efeito adicional de ressonância: interferência com metal. O mestre corrigiu a ideia de arremesso e o monge resistiu ao deslocamento. Preservar a resolução final se ilustrar esse momento; não colocar magnetismo, braço arrancado ou dano na assinatura normal de Shield. [Fonte, 01:45:18–01:46:47](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcricao/transcript.curated.md#L1241-L1257).
+- A luz de 01/10 não mata nem dissipa a sombra; ela se teleporta. Separar ação de Kaelen e reação da criatura. [Fonte, 01:56:32–01:58:33](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcricao/transcript.curated.md#L1391-L1409).
+- No resgate, Mão Mágica foi proposta e rejeitada. O resultado foi salto físico, agarrar Jânia e um tijolo solto; corda só depois. Não desenhar Mão Mágica, Queda Suave ou levitação nesse salvamento. [Fonte, 01:59:49–02:02:56](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcricao/transcript.curated.md#L1423-L1455).
 - Salto da fuga de 03/09 não prova que toda acrobacia posterior utilizou essa magia. A invocação do “Fluxo” na fala do jogador não cria uma capacidade nova de prever teleporte.
 
 ## Controle de revisão

@@ -1,6 +1,6 @@
 # Local — Mesma área de observação
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -19,9 +19,9 @@ A primeira imagem de criatura oferece a forma escura, os membros alongados, a m�
 
 Conservar a continuidade da sala e mostrar a alteração do terreno no momento correto. As imagens das criaturas não autorizam novos adversários, nomes formais ou estatísticas.
 
-**Fonte principal:** [registro público da sessão](../../transcript.md) — transcrição, 01:10:19–01:52:07.
+**Fonte principal:** [registro público da sessão](../../transcricao/transcript.md) — transcrição, 01:10:19–01:52:07.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 24/09, 01:10:19–01:52:07; queda das jaulas em 01:19:32–01:20:15.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 24/09, 01:10:19–01:52:07; queda das jaulas em 01:19:32–01:20:15.
 
 ## Referências visuais
 

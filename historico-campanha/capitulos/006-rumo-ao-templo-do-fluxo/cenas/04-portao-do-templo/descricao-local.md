@@ -1,6 +1,6 @@
 # Local — Exterior do Templo do Fluxo / Ordem de Santa Elara
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,11 +18,11 @@ O estado atual deve mostrar abandono, desgaste e acesso forçado. Tarvek relata 
 
 Representar a fachada como ruína de uma construção outrora grandiosa. Preservar a imagem original como referência de desenho; uma eventual nova arte deverá incorporar o estado degradado.
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — resumo público, Resumo da sessão, item 6 e encerramento da História da sessão.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — resumo público, Resumo da sessão, item 6 e encerramento da História da sessão.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 22/09, 01:04:54–01:05:21 e 01:08:53–01:09:08; portão avariado retomado em 24/09 às 00:05:11.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 22/09, 01:04:54–01:05:21 e 01:08:53–01:09:08; portão avariado retomado em 24/09 às 00:05:11.
 
-**Retomada do estado do portão:** [registro de 24/09](../../../007-exploracao-do-templo-do-fluxo/transcript.md) — 00:05:11.
+**Retomada do estado do portão:** [registro de 24/09](../../../007-exploracao-do-templo-do-fluxo/transcricao/transcript.md) — 00:05:11.
 
 ## Referências visuais
 

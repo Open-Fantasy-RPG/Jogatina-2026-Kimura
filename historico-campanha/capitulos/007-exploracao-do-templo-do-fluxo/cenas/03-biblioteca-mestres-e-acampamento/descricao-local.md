@@ -1,6 +1,6 @@
 # Local — Biblioteca superior, Sala dos Mestres e acampamento
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -19,9 +19,9 @@ Na Sala dos Mestres, retratos de dirigentes antigos apresentam pintura craquelad
 
 O mapa organiza três ambientes distintos. Não reduzir tudo a uma única biblioteca nem fazer o acampamento parecer recém-ocupado.
 
-**Fonte principal:** [registro público da sessão](../../transcript.md) — transcrição, 00:14:38–00:32:07.
+**Fonte principal:** [registro público da sessão](../../transcricao/transcript.md) — transcrição, 00:14:38–00:32:07.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 24/09, 00:14:38–00:20:37, 00:23:12–00:25:56 e 00:27:10–00:32:07.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 24/09, 00:14:38–00:20:37, 00:23:12–00:25:56 e 00:27:10–00:32:07.
 
 ## Referências visuais
 

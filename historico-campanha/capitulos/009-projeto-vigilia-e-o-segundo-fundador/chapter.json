@@ -9,13 +9,13 @@
   "legacy_directories": [],
   "sources": [
     {
-      "path": "historico-campanha/capitulos/009-projeto-vigilia-e-o-segundo-fundador/summary.md",
+      "path": "historico-campanha/capitulos/009-projeto-vigilia-e-o-segundo-fundador/transcricao/summary.md",
       "kind": "summary",
       "git_blob_sha": "d345d07dd66f1b9d97d5dee869e2b09bab23ffaf",
       "size_bytes": 30628
     },
     {
-      "path": "historico-campanha/capitulos/009-projeto-vigilia-e-o-segundo-fundador/transcript.md",
+      "path": "historico-campanha/capitulos/009-projeto-vigilia-e-o-segundo-fundador/transcricao/transcript.md",
       "kind": "transcript",
       "git_blob_sha": "d5c1cdeed51e212ae4cc73a669c7d699ac141e50",
       "size_bytes": 72214

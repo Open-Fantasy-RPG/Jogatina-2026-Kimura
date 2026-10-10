@@ -1,6 +1,6 @@
 # Local — Taverna do Manômetro Quebrado
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,7 +18,7 @@ Após a interferência mágica, a referência canônica é a taverna destruída 
 
 O mapa da prisão não representa a taverna nem o esconderijo. Não reutilizá-lo como interior dessa cena.
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafos 2–3.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafos 2–3.
 
 ## Referências visuais
 

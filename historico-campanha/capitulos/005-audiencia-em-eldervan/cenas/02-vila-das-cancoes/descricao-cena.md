@@ -1,6 +1,6 @@
 # Canções e rumores
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-17-audiencia-em-eldervan/02-vila-das-cancoes`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -16,9 +16,9 @@ A Vila das Canções recebe Aeloria com conversa, risos, vinho e música de ala�
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — resumo público, Eventos principais 21–22 e 25–27.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — resumo público, Eventos principais 21–22 e 25–27.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 17/09, narração do mestre em 00:49:55–00:51:34; demais resultados no resumo público.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 17/09, narração do mestre em 00:49:55–00:51:34; demais resultados no resumo público.
 
 - [eldervan.jpeg](../../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg)
 - [eldervan-2.jpeg](../../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan-2.jpeg)

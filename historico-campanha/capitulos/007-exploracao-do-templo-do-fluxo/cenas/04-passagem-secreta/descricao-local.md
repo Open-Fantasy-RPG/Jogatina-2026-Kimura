@@ -1,6 +1,6 @@
 # Local — Escadaria secreta do nível superior
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,9 +18,9 @@ Os ruídos de mecanismos vêm de longe durante a descida. Ao chegar ao piso infe
 
 Conservar a arquitetura da referência em estado antigo e degradado. Não interpretar silhuetas/decorativos da imagem como novos encontros.
 
-**Fonte principal:** [registro público da sessão](../../transcript.md) — transcrição, 00:32:07–00:36:19.
+**Fonte principal:** [registro público da sessão](../../transcricao/transcript.md) — transcrição, 00:32:07–00:36:19.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 24/09, 00:32:07–00:36:19; fechamento por dentro em 01:00:37.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 24/09, 00:32:07–00:36:19; fechamento por dentro em 01:00:37.
 
 ## Referências visuais
 

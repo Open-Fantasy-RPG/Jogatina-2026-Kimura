@@ -52,5 +52,5 @@ Luz natural difusa no panorama, com lanternas suaves sob a cobertura. Para a ver
 ## Referências
 
 - [Esboço 02 aprovado como direção visual](imagens/vila-das-cancoes-L05-conceito-v001.png).
-- [Transcrição da sessão de 17/09/2026](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/b465d0fe1cacde9948d2d46de080dcf4fd540f96/historico-campanha/capitulos/005-audiencia-em-eldervan/transcript.md), horários indicados acima.
+- [Transcrição da sessão de 17/09/2026](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/b465d0fe1cacde9948d2d46de080dcf4fd540f96/historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/transcript.md), horários indicados acima.
 - [Aeloria](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/b465d0fe1cacde9948d2d46de080dcf4fd540f96/personagens/Aeloria/img-visual/descricao.md) e [Git](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/b465d0fe1cacde9948d2d46de080dcf4fd540f96/historico-campanha/referencias-compartilhadas/npcs/git/descricao.md).

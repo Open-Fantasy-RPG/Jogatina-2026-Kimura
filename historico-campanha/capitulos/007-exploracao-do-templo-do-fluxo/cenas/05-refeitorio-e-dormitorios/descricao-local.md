@@ -1,6 +1,6 @@
 # Local — Salas do primeiro subsolo
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,9 +18,9 @@ A impressão registrada é a de espaços cotidianos abandonados com os objetos a
 
 Não substituir esses ambientes pelo anfiteatro nem pelo laboratório. São salas de convivência e alojamento abandonadas.
 
-**Fonte principal:** [registro público da sessão](../../transcript.md) — transcrição, 00:36:19–00:40:10.
+**Fonte principal:** [registro público da sessão](../../transcricao/transcript.md) — transcrição, 00:36:19–00:40:10.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 24/09, 00:36:19–00:39:48.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 24/09, 00:36:19–00:39:48.
 
 ## Referências visuais
 

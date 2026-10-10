@@ -1,6 +1,6 @@
 # Refeitório e dormitórios
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-24-exploracao-do-templo-do-fluxo/05-refeitorio-e-dormitorios`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -17,9 +17,9 @@ O corredor inferior leva a espaços de vida coletiva que perderam seus ocupantes
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../transcript.md) — transcrição, 00:36:19–00:40:10.
+**Fonte principal:** [registro público da sessão](../../transcricao/transcript.md) — transcrição, 00:36:19–00:40:10.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 24/09, 00:36:19–00:39:48.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 24/09, 00:36:19–00:39:48.
 
 - Não há imagem específica confirmada desta cena.
 

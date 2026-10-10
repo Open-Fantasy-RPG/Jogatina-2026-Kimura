@@ -1,6 +1,6 @@
 # Local — Vestíbulo / porta interna
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,9 +18,9 @@ Há uma runa do lado esquerdo e uma manivela do lado direito. Pela fresta, é po
 
 Não desenhar a porta interna arrombada nem confundi-la com o portal externo. O mecanismo está conservado o suficiente para funcionar.
 
-**Fonte principal:** [registro público da sessão](../../transcript.md) — transcrição, 00:00:00–00:08:47.
+**Fonte principal:** [registro público da sessão](../../transcricao/transcript.md) — transcrição, 00:00:00–00:08:47.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 24/09, 00:00:09–00:00:41, 00:03:11–00:08:47.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 24/09, 00:00:09–00:00:41, 00:03:11–00:08:47.
 
 ## Referências visuais
 

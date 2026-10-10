@@ -31,4 +31,4 @@ Os frascos e ferramentas ilustrados não estabelecem quantidades de inventário,
 
 ## Fonte de campanha
 
-[Capítulo 006 — Rumo ao Templo do Fluxo](../../../capitulos/006-rumo-ao-templo-do-fluxo/README.md). Na [fonte pública da sessão](../../../capitulos/006-rumo-ao-templo-do-fluxo/transcript.md): 01:01:24–01:02:33, porte e reencontro; 01:02:46–01:03:44, vestido e música; 01:04:43–01:06:35, ervas, curandeiro e poção; 01:06:53, convite para casa.
+[Capítulo 006 — Rumo ao Templo do Fluxo](../../../capitulos/006-rumo-ao-templo-do-fluxo/README.md). Na [fonte pública da sessão](../../../capitulos/006-rumo-ao-templo-do-fluxo/transcricao/transcript.md): 01:01:24–01:02:33, porte e reencontro; 01:02:46–01:03:44, vestido e música; 01:04:43–01:06:35, ervas, curandeiro e poção; 01:06:53, convite para casa.

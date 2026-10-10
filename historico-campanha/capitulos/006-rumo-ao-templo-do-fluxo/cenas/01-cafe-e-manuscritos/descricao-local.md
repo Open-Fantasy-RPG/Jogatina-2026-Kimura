@@ -1,6 +1,6 @@
 # Local — Salão do lorde em Eldervan
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,9 +18,9 @@ O ambiente deve parecer ocupado e preparado para receber os convidados, sem impo
 
 Usar as imagens de Eldervan para a estrutura orgânica; o conteúdo do banquete vem da narração.
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — resumo público, Resumo da sessão, itens 1–4.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — resumo público, Resumo da sessão, itens 1–4.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 22/09, narração do mestre em 00:05:01–00:05:06 e 00:08:59–00:10:28; entrega de registros no resumo.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 22/09, narração do mestre em 00:05:01–00:05:06 e 00:08:59–00:10:28; entrega de registros no resumo.
 
 ## Referências visuais
 

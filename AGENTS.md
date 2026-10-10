@@ -52,3 +52,10 @@
 - Manter fontes e marcadores suficientes para revisar o descritivo. As imagens existentes permanecem intactas; criar ou substituir imagens é uma etapa separada e depende da autorização correspondente.
 
 - O mapa da prisão tem destino canônico em `historico-campanha/capitulos/002-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg`, na cena **William ordena a prisão** da sessão de 08/08/2026. Outras cenas de cárcere, julgamento e fuga devem apontar para esse arquivo; não recriar uma cópia na pasta compartilhada.
+
+## Estrutura interna de cada capítulo
+
+- Guardar a transcrição e o resumo já aprovados em `historico-campanha/capitulos/NNN-slug/transcricao/`: `transcript.md` (ou `transcript.curated.md`, quando curada), `summary.md` e um README de disponibilidade. Não manter fontes paralelas na raiz do capítulo ou em pastas de sessão.
+- Guardar cada cena em `cenas/NN-slug/`, com `descricao-cena.md`, `descricao-local.md` e `imagens/README.md`; imagens específicas ficam em `imagens/`. O índice pode apontar para originais compartilhados, sem duplicar binários.
+- Guardar o índice de referências e mapas do capítulo em `referencias/`. Manter referências comuns da campanha no acervo compartilhado e vinculá-las às cenas pertinentes.
+- Uma pasta ou índice não comprova a existência de conteúdo. Marcar explicitamente transcrições, resumos ou descritivos ausentes; nunca fabricá-los nem importar fontes privadas sob autorização de organização. As regras de aprovação de divulgação continuam integralmente válidas.

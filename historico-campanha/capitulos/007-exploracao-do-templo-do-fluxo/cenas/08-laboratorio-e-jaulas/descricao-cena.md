@@ -1,6 +1,6 @@
 # Laboratório e Jaulas de Observação
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-24-exploracao-do-templo-do-fluxo/08-laboratorio-e-jaulas`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -17,9 +17,9 @@ O grupo segue a passagem oeste e chega às Jaulas de Observação. A luz artific
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../transcript.md) — transcrição, 01:06:38–01:10:49 e identificação final da área em 01:52:07.
+**Fonte principal:** [registro público da sessão](../../transcricao/transcript.md) — transcrição, 01:06:38–01:10:49 e identificação final da área em 01:52:07.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 24/09, 01:07:18–01:10:58; nome da área confirmado em 01:52:07.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 24/09, 01:07:18–01:10:58; nome da área confirmado em 01:52:07.
 
 - [tempple-sub2-lab.jpeg](imagens/tempple-sub2-lab.jpeg)
 - [templo-sub2-lab-map.jpeg](imagens/templo-sub2-lab-map.jpeg)

@@ -1,6 +1,6 @@
 # Hilbert, runas e pistas
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-08-08-esgotos-asuras-jewel/02-hilbert-runas-e-trafico`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -16,7 +16,7 @@ Nos túneis, a investigação ganha um testemunho direto: Hilbert, debilitado, c
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafo 2.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafo 2.
 
 - [asura-jewel.jpeg](../../../../referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg)
 

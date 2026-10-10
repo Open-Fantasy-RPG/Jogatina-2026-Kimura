@@ -1,6 +1,6 @@
 # Local — Prisão de Asura
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,7 +18,7 @@ A ambientação deve combinar o confinamento já estabelecido com a mudança de 
 
 O texto combina o ambiente confirmado pela fonte com a leitura dos arquivos de referência. A disposição espacial não descrita continua aberta para revisão do mestre.
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafos 1–2.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafos 1–2.
 
 ## Referências visuais
 

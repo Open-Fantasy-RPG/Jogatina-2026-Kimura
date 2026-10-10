@@ -1,6 +1,6 @@
 # Entrada e audiência
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-17-audiencia-em-eldervan/01-entrada-e-audiencia`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -16,9 +16,9 @@ Jânia conduz os visitantes pela cidade branca e viva, onde casas, salões e at�
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — resumo público, Resumo da sessão e Eventos principais 6–20.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — resumo público, Resumo da sessão e Eventos principais 6–20.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 17/09, narração do mestre em 00:15:46–00:19:21.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 17/09, narração do mestre em 00:15:46–00:19:21.
 
 - [eldervan.jpeg](../../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg)
 - [eldervan-2.jpeg](../../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan-2.jpeg)

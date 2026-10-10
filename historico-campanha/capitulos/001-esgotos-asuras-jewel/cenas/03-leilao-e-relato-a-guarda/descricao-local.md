@@ -1,6 +1,6 @@
 # Local — Local do leilão; cidade
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,7 +18,7 @@ A cidade industrial serve de contexto externo para a investigação e para o con
 
 O texto combina o ambiente confirmado pela fonte com a leitura dos arquivos de referência. A disposição espacial não descrita continua aberta para revisão do mestre.
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafo 3.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafo 3.
 
 ## Referências visuais
 

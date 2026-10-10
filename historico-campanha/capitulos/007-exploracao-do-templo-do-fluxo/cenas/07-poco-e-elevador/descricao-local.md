@@ -1,6 +1,6 @@
 # Local — Poço de serviço entre os subsolos
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -22,9 +22,9 @@ Durante a vistoria paralela, os outros personagens leem cartas que mencionam lab
 
 A ruína não exige redesenhar a cabine como plataforma apoiada. Preservar sua suspensão e distinguir o elevador quebrado do estado após reparo.
 
-**Fonte principal:** [registro público da sessão](../../transcript.md) — transcrição, 00:48:40–01:08:49; revisita à galeria 00:58:21–01:00:37.
+**Fonte principal:** [registro público da sessão](../../transcricao/transcript.md) — transcrição, 00:48:40–01:08:49; revisita à galeria 00:58:21–01:00:37.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 24/09, 00:48:40–01:08:49; vistoria/galeria em 00:54:35–01:00:37.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 24/09, 00:48:40–01:08:49; vistoria/galeria em 00:54:35–01:00:37.
 
 ## Referências visuais
 

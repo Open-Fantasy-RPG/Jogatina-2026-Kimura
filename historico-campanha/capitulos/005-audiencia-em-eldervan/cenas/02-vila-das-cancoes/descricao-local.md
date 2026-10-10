@@ -1,6 +1,6 @@
 # Local — Vila das Canções
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,9 +18,9 @@ O clima de convivência leve contrasta com a sobriedade comercial atribuída a A
 
 O mapa localiza o ponto de interesse; não fornece um palco obrigatório nem uma planta do evento.
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — resumo público, Eventos principais 21–22 e 25–27.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — resumo público, Eventos principais 21–22 e 25–27.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 17/09, narração do mestre em 00:49:55–00:51:34; demais resultados no resumo público.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 17/09, narração do mestre em 00:49:55–00:51:34; demais resultados no resumo público.
 
 ## Referências visuais
 

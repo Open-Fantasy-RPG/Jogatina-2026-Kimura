@@ -1,6 +1,6 @@
 # Local — Túneis de fuga; saída vigiada
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,7 +18,7 @@ Os elementos de escala humana são claros: o grupo, a guia que agora tem nome e 
 
 O texto combina o ambiente confirmado pela fonte com a leitura dos arquivos de referência. A disposição espacial não descrita continua aberta para revisão do mestre.
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, fim do parágrafo 3 e início do 4.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, fim do parágrafo 3 e início do 4.
 
 ## Referências visuais
 

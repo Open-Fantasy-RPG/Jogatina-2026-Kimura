@@ -1,6 +1,6 @@
 # Local — Mercado das Raízes; caravana
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,9 +18,9 @@ Na viagem, a carroça é descrita como puxada por bois e lenta o suficiente para
 
 Não trocar os bois por cavalos nem desenhar como realizadas todas as paradas citadas durante a discussão.
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — resumo público, Resumo da sessão, item 5 e História da sessão.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — resumo público, Resumo da sessão, item 5 e História da sessão.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 22/09, 00:35:47–00:39:14; carroça puxada por bois em 00:51:30 (trecho da discussão da carroça).
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 22/09, 00:35:47–00:39:14; carroça puxada por bois em 00:51:30 (trecho da discussão da carroça).
 
 ## Referências visuais
 

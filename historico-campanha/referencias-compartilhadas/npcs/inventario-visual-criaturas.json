@@ -5,11 +5,11 @@
   "criterio": "Inspeção dos pixels e cruzamento com fontes públicas; arquivos originais preservados; nomes descritivos sem ficha ou espécie oficial.",
   "fontes_textuais": [
     {
-      "path": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md",
+      "path": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md",
       "blob_sha": "e3bec60324f17355914258b231d09c6a81b6b47e"
     },
     {
-      "path": "historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md",
+      "path": "historico-campanha/capitulos/008-andares-inferiores/transcricao/transcript.curated.md",
       "blob_sha": "bd9ab37d0e5bed280446e8159adda3fe71108f81"
     }
   ],

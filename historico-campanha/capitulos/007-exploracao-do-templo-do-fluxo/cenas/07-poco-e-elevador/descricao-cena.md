@@ -1,6 +1,6 @@
 # Reparo e descida pelo elevador
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-24-exploracao-do-templo-do-fluxo/07-poco-e-elevador`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -17,9 +17,9 @@ As notas de Aldrich citam um setor de integração, e a exploração chega ao po
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../transcript.md) — transcrição, 00:48:40–01:08:49; revisita à galeria 00:58:21–01:00:37.
+**Fonte principal:** [registro público da sessão](../../transcricao/transcript.md) — transcrição, 00:48:40–01:08:49; revisita à galeria 00:58:21–01:00:37.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 24/09, 00:48:40–01:08:49; vistoria/galeria em 00:54:35–01:00:37.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 24/09, 00:48:40–01:08:49; vistoria/galeria em 00:54:35–01:00:37.
 
 - [templo-sub1-descida.jpeg](imagens/templo-sub1-descida.jpeg)
 - [templo-map-nivel1.jpeg](../../referencias/mapas/templo-map-nivel1.jpeg)

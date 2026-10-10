@@ -1,6 +1,6 @@
 # Local — Cidade e prisão de Asura
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,7 +18,7 @@ A entrada dos personagens na condição de presos é o estado final confirmado. 
 
 O texto combina o ambiente confirmado pela fonte com a leitura dos arquivos de referência. A disposição espacial não descrita continua aberta para revisão do mestre.
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafo 4.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafo 4.
 
 ## Referências visuais
 

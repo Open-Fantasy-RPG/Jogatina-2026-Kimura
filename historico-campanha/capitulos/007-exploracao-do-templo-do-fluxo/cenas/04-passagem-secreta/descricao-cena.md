@@ -1,6 +1,6 @@
 # Passagem atrás da estante
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-24-exploracao-do-templo-do-fluxo/04-passagem-secreta`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -17,9 +17,9 @@ A carta de Aldrich Venn muda a leitura do corredor: uma estante encobre o caminh
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../transcript.md) — transcrição, 00:32:07–00:36:19.
+**Fonte principal:** [registro público da sessão](../../transcricao/transcript.md) — transcrição, 00:32:07–00:36:19.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 24/09, 00:32:07–00:36:19; fechamento por dentro em 01:00:37.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 24/09, 00:32:07–00:36:19; fechamento por dentro em 01:00:37.
 
 - [templo-nivel1-passagem-screta.jpeg](imagens/templo-nivel1-passagem-screta.jpeg)
 - [templo-map-nivel1.jpeg](../../referencias/mapas/templo-map-nivel1.jpeg)

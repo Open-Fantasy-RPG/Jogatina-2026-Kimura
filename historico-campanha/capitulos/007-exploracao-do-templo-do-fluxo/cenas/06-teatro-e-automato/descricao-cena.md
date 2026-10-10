@@ -1,6 +1,6 @@
 # Teatro e autômato
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-24-exploracao-do-templo-do-fluxo/06-teatro-e-automato`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -17,9 +17,9 @@ O grupo entra num anfiteatro em degraus, onde um grande autômato permanece imó
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../transcript.md) — transcrição, 00:40:12–00:47:40.
+**Fonte principal:** [registro público da sessão](../../transcricao/transcript.md) — transcrição, 00:40:12–00:47:40.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 24/09, 00:40:12–00:47:40, incluindo ferrugem em 00:41:12 e desmonte em 00:44:21.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 24/09, 00:40:12–00:47:40, incluindo ferrugem em 00:41:12 e desmonte em 00:44:21.
 
 - [templo-sub1-teatro.jpeg](imagens/templo-sub1-teatro.jpeg)
 

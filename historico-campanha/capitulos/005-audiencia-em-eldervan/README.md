@@ -6,8 +6,10 @@ Data registrada: **2026-09-17**. A data é um atributo do capítulo.
 
 ## Registros
 
-- [Relato/resumo](summary.md)
-- [Transcrição](transcript.md)
+[Transcrição e resumo](transcricao/README.md) · [Cenas](cenas/README.md) · [Referências](referencias/README.md)
+
+- [Relato/resumo](transcricao/summary.md)
+- [Transcrição](transcricao/transcript.md)
 
 Transcrição disponível.
 

@@ -1,6 +1,6 @@
 # Jânia e a saída dos túneis
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-03-fuga-de-azura-a-eldervan/02-tuneis-e-william`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -17,7 +17,7 @@ Nos túneis, a aliada se apresenta como Jânia Woodward. A saída não encerra i
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, fim do parágrafo 3 e início do 4.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, fim do parágrafo 3 e início do 4.
 
 - [prisao.jpeg](../../../002-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg)
 - [jaina-woodward.jpeg](../../../../referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg)

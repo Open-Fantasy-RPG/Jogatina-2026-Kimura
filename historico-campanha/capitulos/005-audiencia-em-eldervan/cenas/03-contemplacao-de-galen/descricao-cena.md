@@ -1,6 +1,6 @@
 # Contemplação de Galen
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-17-audiencia-em-eldervan/03-contemplacao-de-galen`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -16,9 +16,9 @@ Enquanto os companheiros seguem outras atividades, Galen procura um lugar para r
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — resumo público, Eventos principais 23 e 28.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — resumo público, Eventos principais 23 e 28.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 17/09, narração do mestre em 00:46:25–00:47:11.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 17/09, narração do mestre em 00:46:25–00:47:11.
 
 - [eldervan.jpeg](../../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg)
 

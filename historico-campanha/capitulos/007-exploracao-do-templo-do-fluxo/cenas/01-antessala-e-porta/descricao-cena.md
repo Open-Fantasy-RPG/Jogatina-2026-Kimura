@@ -1,6 +1,6 @@
 # Antessala e porta de manivela/runa
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-24-exploracao-do-templo-do-fluxo/01-antessala-e-porta`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -16,9 +16,9 @@ No interior da entrada, o grupo encontra uma antessala marcada pela passagem de 
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../transcript.md) — transcrição, 00:00:00–00:08:47.
+**Fonte principal:** [registro público da sessão](../../transcricao/transcript.md) — transcrição, 00:00:00–00:08:47.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 24/09, 00:00:09–00:00:41, 00:03:11–00:08:47.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 24/09, 00:00:09–00:00:41, 00:03:11–00:08:47.
 
 - [templo-map-nivel1.jpeg](../../referencias/mapas/templo-map-nivel1.jpeg)
 - [tempo-portao.jpeg](../../../../referencias-compartilhadas/locais/templo-do-fluxo-portao/imagens/tempo-portao.jpeg)

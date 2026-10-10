@@ -1,6 +1,6 @@
 # Fuga e rebelião
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-03-fuga-de-azura-a-eldervan/01-fuga-e-rebeliao`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -17,7 +17,7 @@ A fuga começa com a ajuda de uma elfa encapuzada e a recuperação dos equipame
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafos 1–3.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafos 1–3.
 
 - [prisao.jpeg](../../../002-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg)
 - [jaina-woodward.jpeg](../../../../referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg)

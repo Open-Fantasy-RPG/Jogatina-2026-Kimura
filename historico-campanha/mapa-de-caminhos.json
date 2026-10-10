@@ -13,15 +13,15 @@
     "imgs 1/jaina-woodward.jpeg": "historico-campanha/referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg",
     "imgs 1/lord-ilidan.jpeg": "historico-campanha/referencias-compartilhadas/npcs/lorde-illyrion/imagens/lord-ilidan.jpeg",
     "imgs 1/tempo-portao.jpeg": "historico-campanha/referencias-compartilhadas/locais/templo-do-fluxo-portao/imagens/tempo-portao.jpeg",
-    "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel.md": "historico-campanha/capitulos/001-esgotos-asuras-jewel/summary.md",
-    "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao.md": "historico-campanha/capitulos/002-cidade-alta-e-prisao/summary.md",
-    "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento.md": "historico-campanha/capitulos/003-prisao-conflito-e-julgamento/summary.md",
-    "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan.md": "historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/summary.md",
-    "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan.md": "historico-campanha/capitulos/005-audiencia-em-eldervan/transcript.md",
-    "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan-resumo.md": "historico-campanha/capitulos/005-audiencia-em-eldervan/summary.md",
-    "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo.md": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcript.md",
-    "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/summary.md",
-    "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo.md": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md",
+    "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel.md": "historico-campanha/capitulos/001-esgotos-asuras-jewel/transcricao/summary.md",
+    "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao.md": "historico-campanha/capitulos/002-cidade-alta-e-prisao/transcricao/summary.md",
+    "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento.md": "historico-campanha/capitulos/003-prisao-conflito-e-julgamento/transcricao/summary.md",
+    "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan.md": "historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/transcricao/summary.md",
+    "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan.md": "historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/transcript.md",
+    "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan-resumo.md": "historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/summary.md",
+    "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo.md": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcricao/transcript.md",
+    "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcricao/summary.md",
+    "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo.md": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md",
     "imgs 1/templo-map-nivel1.jpeg": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/referencias/mapas/templo-map-nivel1.jpeg",
     "imgs 1/templo-saguao.jpeg": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/cenas/02-saguao-de-elara/imagens/templo-saguao.jpeg",
     "imgs 1/templo-nivel1-passagem-screta.jpeg": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/cenas/04-passagem-secreta/imagens/templo-nivel1-passagem-screta.jpeg",
@@ -41,7 +41,7 @@
     "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel/cenas/02-hilbert-runas-e-trafico/descricao-local.md": "historico-campanha/capitulos/001-esgotos-asuras-jewel/cenas/02-hilbert-runas-e-trafico/descricao-local.md",
     "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel/cenas/03-leilao-e-relato-a-guarda/descricao-cena.md": "historico-campanha/capitulos/001-esgotos-asuras-jewel/cenas/03-leilao-e-relato-a-guarda/descricao-cena.md",
     "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel/cenas/03-leilao-e-relato-a-guarda/descricao-local.md": "historico-campanha/capitulos/001-esgotos-asuras-jewel/cenas/03-leilao-e-relato-a-guarda/descricao-local.md",
-    "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel/sessao-2026-08-08-esgotos-asuras-jewel.md": "historico-campanha/capitulos/001-esgotos-asuras-jewel/summary.md",
+    "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel/sessao-2026-08-08-esgotos-asuras-jewel.md": "historico-campanha/capitulos/001-esgotos-asuras-jewel/transcricao/summary.md",
     "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/README.md": "historico-campanha/capitulos/002-cidade-alta-e-prisao/README.md",
     "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/01-apresentacao-na-cidade-alta/descricao-cena.md": "historico-campanha/capitulos/002-cidade-alta-e-prisao/cenas/01-apresentacao-na-cidade-alta/descricao-cena.md",
     "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/01-apresentacao-na-cidade-alta/descricao-local.md": "historico-campanha/capitulos/002-cidade-alta-e-prisao/cenas/01-apresentacao-na-cidade-alta/descricao-local.md",
@@ -52,7 +52,7 @@
     "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/README.md": "historico-campanha/capitulos/002-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/README.md",
     "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg": "historico-campanha/capitulos/002-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg",
     "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/proveniencia-prisao.md": "historico-campanha/capitulos/002-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/proveniencia-prisao.md",
-    "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/sessao-2026-08-08-cidade-alta-e-prisao.md": "historico-campanha/capitulos/002-cidade-alta-e-prisao/summary.md",
+    "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/sessao-2026-08-08-cidade-alta-e-prisao.md": "historico-campanha/capitulos/002-cidade-alta-e-prisao/transcricao/summary.md",
     "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/README.md": "historico-campanha/capitulos/003-prisao-conflito-e-julgamento/README.md",
     "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/cenas/01-carceragem-e-patio/descricao-cena.md": "historico-campanha/capitulos/003-prisao-conflito-e-julgamento/cenas/01-carceragem-e-patio/descricao-cena.md",
     "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/cenas/01-carceragem-e-patio/descricao-local.md": "historico-campanha/capitulos/003-prisao-conflito-e-julgamento/cenas/01-carceragem-e-patio/descricao-local.md",
@@ -60,7 +60,7 @@
     "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/cenas/02-cela-cartas-e-chaves/descricao-local.md": "historico-campanha/capitulos/003-prisao-conflito-e-julgamento/cenas/02-cela-cartas-e-chaves/descricao-local.md",
     "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/cenas/03-tribunal-e-retorno/descricao-cena.md": "historico-campanha/capitulos/003-prisao-conflito-e-julgamento/cenas/03-tribunal-e-retorno/descricao-cena.md",
     "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/cenas/03-tribunal-e-retorno/descricao-local.md": "historico-campanha/capitulos/003-prisao-conflito-e-julgamento/cenas/03-tribunal-e-retorno/descricao-local.md",
-    "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/sessao-2026-08-20-prisao-conflito-e-julgamento.md": "historico-campanha/capitulos/003-prisao-conflito-e-julgamento/summary.md",
+    "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/sessao-2026-08-20-prisao-conflito-e-julgamento.md": "historico-campanha/capitulos/003-prisao-conflito-e-julgamento/transcricao/summary.md",
     "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/README.md": "historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/README.md",
     "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/01-fuga-e-rebeliao/descricao-cena.md": "historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/cenas/01-fuga-e-rebeliao/descricao-cena.md",
     "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/01-fuga-e-rebeliao/descricao-local.md": "historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/cenas/01-fuga-e-rebeliao/descricao-local.md",
@@ -72,7 +72,7 @@
     "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/04-blink-dogs/descricao-local.md": "historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/cenas/04-blink-dogs/descricao-local.md",
     "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/05-chegada-a-eldervan/descricao-cena.md": "historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/cenas/05-chegada-a-eldervan/descricao-cena.md",
     "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/05-chegada-a-eldervan/descricao-local.md": "historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/cenas/05-chegada-a-eldervan/descricao-local.md",
-    "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/sessao-2026-09-03-fuga-de-azura-a-eldervan.md": "historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/summary.md",
+    "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/sessao-2026-09-03-fuga-de-azura-a-eldervan.md": "historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/transcricao/summary.md",
     "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/README.md": "historico-campanha/capitulos/005-audiencia-em-eldervan/README.md",
     "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/cenas/01-entrada-e-audiencia/descricao-cena.md": "historico-campanha/capitulos/005-audiencia-em-eldervan/cenas/01-entrada-e-audiencia/descricao-cena.md",
     "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/cenas/01-entrada-e-audiencia/descricao-local.md": "historico-campanha/capitulos/005-audiencia-em-eldervan/cenas/01-entrada-e-audiencia/descricao-local.md",
@@ -90,8 +90,8 @@
     "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/cenas/04-git-anel-e-repouso/descricao-cena.md": "historico-campanha/capitulos/005-audiencia-em-eldervan/cenas/04-git-anel-e-repouso/descricao-cena.md",
     "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/cenas/04-git-anel-e-repouso/descricao-local.md": "historico-campanha/capitulos/005-audiencia-em-eldervan/cenas/04-git-anel-e-repouso/descricao-local.md",
     "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/cenas/04-git-anel-e-repouso/imagens/aneis-de-madeira-O01-conceito-v001.png": "historico-campanha/capitulos/005-audiencia-em-eldervan/cenas/04-git-anel-e-repouso/imagens/aneis-de-madeira-O01-conceito-v001.png",
-    "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan-resumo.md": "historico-campanha/capitulos/005-audiencia-em-eldervan/summary.md",
-    "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan.md": "historico-campanha/capitulos/005-audiencia-em-eldervan/transcript.md",
+    "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan-resumo.md": "historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/summary.md",
+    "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan.md": "historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/transcript.md",
     "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/README.md": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/README.md",
     "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/cenas/01-cafe-e-manuscritos/descricao-cena.md": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/cenas/01-cafe-e-manuscritos/descricao-cena.md",
     "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/cenas/01-cafe-e-manuscritos/descricao-local.md": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/cenas/01-cafe-e-manuscritos/descricao-local.md",
@@ -101,8 +101,8 @@
     "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/cenas/03-montanha-e-tarvek/descricao-local.md": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/cenas/03-montanha-e-tarvek/descricao-local.md",
     "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/cenas/04-portao-do-templo/descricao-cena.md": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/cenas/04-portao-do-templo/descricao-cena.md",
     "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/cenas/04-portao-do-templo/descricao-local.md": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/cenas/04-portao-do-templo/descricao-local.md",
-    "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/summary.md",
-    "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/sessao-2026-09-22-rumo-ao-templo-do-fluxo.md": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcript.md",
+    "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcricao/summary.md",
+    "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/sessao-2026-09-22-rumo-ao-templo-do-fluxo.md": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcricao/transcript.md",
     "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/README.md": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/README.md",
     "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/01-antessala-e-porta/descricao-cena.md": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/cenas/01-antessala-e-porta/descricao-cena.md",
     "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/01-antessala-e-porta/descricao-local.md": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/cenas/01-antessala-e-porta/descricao-local.md",
@@ -132,10 +132,23 @@
     "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura2.jpeg": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura2.jpeg",
     "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/referencias/README.md": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/referencias/README.md",
     "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/referencias/mapas/templo-map-nivel1.jpeg": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/referencias/mapas/templo-map-nivel1.jpeg",
-    "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/sessao-2026-09-24-exploracao-do-templo-do-fluxo.md": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md",
+    "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/sessao-2026-09-24-exploracao-do-templo-do-fluxo.md": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md",
     "historico-campanha/sessao-2026-10-01-andares-inferiores-441e1e188cc4b00b74901b904337b9cd1fd669468513102efce50859532f91ec/README.md": "historico-campanha/capitulos/008-andares-inferiores/README.md",
-    "historico-campanha/sessao-2026-10-01-andares-inferiores-441e1e188cc4b00b74901b904337b9cd1fd669468513102efce50859532f91ec/summary.md": "historico-campanha/capitulos/008-andares-inferiores/summary.md",
-    "historico-campanha/sessao-2026-10-01-andares-inferiores-441e1e188cc4b00b74901b904337b9cd1fd669468513102efce50859532f91ec/transcript.curated.md": "historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md"
+    "historico-campanha/sessao-2026-10-01-andares-inferiores-441e1e188cc4b00b74901b904337b9cd1fd669468513102efce50859532f91ec/summary.md": "historico-campanha/capitulos/008-andares-inferiores/transcricao/summary.md",
+    "historico-campanha/sessao-2026-10-01-andares-inferiores-441e1e188cc4b00b74901b904337b9cd1fd669468513102efce50859532f91ec/transcript.curated.md": "historico-campanha/capitulos/008-andares-inferiores/transcricao/transcript.curated.md",
+    "historico-campanha/capitulos/001-esgotos-asuras-jewel/summary.md": "historico-campanha/capitulos/001-esgotos-asuras-jewel/transcricao/summary.md",
+    "historico-campanha/capitulos/002-cidade-alta-e-prisao/summary.md": "historico-campanha/capitulos/002-cidade-alta-e-prisao/transcricao/summary.md",
+    "historico-campanha/capitulos/003-prisao-conflito-e-julgamento/summary.md": "historico-campanha/capitulos/003-prisao-conflito-e-julgamento/transcricao/summary.md",
+    "historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/summary.md": "historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/transcricao/summary.md",
+    "historico-campanha/capitulos/005-audiencia-em-eldervan/summary.md": "historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/summary.md",
+    "historico-campanha/capitulos/005-audiencia-em-eldervan/transcript.md": "historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/transcript.md",
+    "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/summary.md": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcricao/summary.md",
+    "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcript.md": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcricao/transcript.md",
+    "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md",
+    "historico-campanha/capitulos/008-andares-inferiores/summary.md": "historico-campanha/capitulos/008-andares-inferiores/transcricao/summary.md",
+    "historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md": "historico-campanha/capitulos/008-andares-inferiores/transcricao/transcript.curated.md",
+    "historico-campanha/capitulos/009-projeto-vigilia-e-o-segundo-fundador/summary.md": "historico-campanha/capitulos/009-projeto-vigilia-e-o-segundo-fundador/transcricao/summary.md",
+    "historico-campanha/capitulos/009-projeto-vigilia-e-o-segundo-fundador/transcript.md": "historico-campanha/capitulos/009-projeto-vigilia-e-o-segundo-fundador/transcricao/transcript.md"
   },
   "imagens": [
     {
@@ -340,7 +353,7 @@
       "id": "sessao-2026-08-08-esgotos-asuras-jewel",
       "indice": "historico-campanha/capitulos/001-esgotos-asuras-jewel/README.md",
       "fontes": [
-        "historico-campanha/capitulos/001-esgotos-asuras-jewel/summary.md"
+        "historico-campanha/capitulos/001-esgotos-asuras-jewel/transcricao/summary.md"
       ],
       "cenas": [
         {
@@ -383,7 +396,7 @@
       "id": "sessao-2026-08-08-cidade-alta-e-prisao",
       "indice": "historico-campanha/capitulos/002-cidade-alta-e-prisao/README.md",
       "fontes": [
-        "historico-campanha/capitulos/002-cidade-alta-e-prisao/summary.md"
+        "historico-campanha/capitulos/002-cidade-alta-e-prisao/transcricao/summary.md"
       ],
       "cenas": [
         {
@@ -427,7 +440,7 @@
       "id": "sessao-2026-08-20-prisao-conflito-e-julgamento",
       "indice": "historico-campanha/capitulos/003-prisao-conflito-e-julgamento/README.md",
       "fontes": [
-        "historico-campanha/capitulos/003-prisao-conflito-e-julgamento/summary.md"
+        "historico-campanha/capitulos/003-prisao-conflito-e-julgamento/transcricao/summary.md"
       ],
       "cenas": [
         {
@@ -470,7 +483,7 @@
       "id": "sessao-2026-09-03-fuga-de-azura-a-eldervan",
       "indice": "historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/README.md",
       "fontes": [
-        "historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/summary.md"
+        "historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/transcricao/summary.md"
       ],
       "cenas": [
         {
@@ -539,8 +552,8 @@
       "id": "sessao-2026-09-17-audiencia-em-eldervan",
       "indice": "historico-campanha/capitulos/005-audiencia-em-eldervan/README.md",
       "fontes": [
-        "historico-campanha/capitulos/005-audiencia-em-eldervan/transcript.md",
-        "historico-campanha/capitulos/005-audiencia-em-eldervan/summary.md"
+        "historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/transcript.md",
+        "historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/summary.md"
       ],
       "cenas": [
         {
@@ -556,7 +569,7 @@
           "fonte_trecho": "resumo público, Resumo da sessão e Eventos principais 6–20",
           "ambientacao_revisada": true,
           "fonte_ambientacao": {
-            "registro_publico": "historico-campanha/capitulos/005-audiencia-em-eldervan/transcript.md",
+            "registro_publico": "historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/transcript.md",
             "trechos": "17/09, narração do mestre em 00:15:46–00:19:21."
           }
         },
@@ -571,7 +584,7 @@
           "fonte_trecho": "resumo público, Eventos principais 21–22 e 25–27",
           "ambientacao_revisada": true,
           "fonte_ambientacao": {
-            "registro_publico": "historico-campanha/capitulos/005-audiencia-em-eldervan/transcript.md",
+            "registro_publico": "historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/transcript.md",
             "trechos": "17/09, narração do mestre em 00:49:55–00:51:34; demais resultados no resumo público."
           }
         },
@@ -585,7 +598,7 @@
           "fonte_trecho": "resumo público, Eventos principais 23 e 28",
           "ambientacao_revisada": true,
           "fonte_ambientacao": {
-            "registro_publico": "historico-campanha/capitulos/005-audiencia-em-eldervan/transcript.md",
+            "registro_publico": "historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/transcript.md",
             "trechos": "17/09, narração do mestre em 00:46:25–00:47:11."
           }
         },
@@ -600,7 +613,7 @@
           "fonte_trecho": "resumo público, Eventos principais 24 e 29–34",
           "ambientacao_revisada": true,
           "fonte_ambientacao": {
-            "registro_publico": "historico-campanha/capitulos/005-audiencia-em-eldervan/transcript.md",
+            "registro_publico": "historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/transcript.md",
             "trechos": "17/09, narração do mestre em 01:07:46–01:08:12; negociação e convocação no resumo público."
           }
         }
@@ -614,8 +627,8 @@
       "id": "sessao-2026-09-22-rumo-ao-templo-do-fluxo",
       "indice": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/README.md",
       "fontes": [
-        "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcript.md",
-        "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/summary.md"
+        "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcricao/transcript.md",
+        "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcricao/summary.md"
       ],
       "cenas": [
         {
@@ -631,7 +644,7 @@
           "fonte_trecho": "resumo público, Resumo da sessão, itens 1–4",
           "ambientacao_revisada": true,
           "fonte_ambientacao": {
-            "registro_publico": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcript.md",
+            "registro_publico": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcricao/transcript.md",
             "trechos": "22/09, narração do mestre em 00:05:01–00:05:06 e 00:08:59–00:10:28; entrega de registros no resumo."
           }
         },
@@ -647,7 +660,7 @@
           "fonte_trecho": "resumo público, Resumo da sessão, item 5 e História da sessão",
           "ambientacao_revisada": true,
           "fonte_ambientacao": {
-            "registro_publico": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcript.md",
+            "registro_publico": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcricao/transcript.md",
             "trechos": "22/09, 00:35:47–00:39:14; carroça puxada por bois em 00:51:30 (trecho da discussão da carroça)."
           }
         },
@@ -661,7 +674,7 @@
           "fonte_trecho": "resumo público, Resumo da sessão, item 6 e História da sessão",
           "ambientacao_revisada": true,
           "fonte_ambientacao": {
-            "registro_publico": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcript.md",
+            "registro_publico": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcricao/transcript.md",
             "trechos": "22/09, 00:54:25–00:56:40 e 01:00:21–01:06:35."
           }
         },
@@ -675,10 +688,10 @@
           "fonte_trecho": "resumo público, Resumo da sessão, item 6 e encerramento da História da sessão",
           "ambientacao_revisada": true,
           "fonte_ambientacao": {
-            "registro_publico": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcript.md",
+            "registro_publico": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcricao/transcript.md",
             "trechos": "22/09, 01:04:54–01:05:21 e 01:08:53–01:09:08; portão avariado retomado em 24/09 às 00:05:11.",
             "apoio": {
-              "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md",
+              "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md",
               "trecho": "00:05:11"
             }
           }
@@ -693,7 +706,7 @@
       "id": "sessao-2026-09-24-exploracao-do-templo-do-fluxo",
       "indice": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/README.md",
       "fontes": [
-        "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md"
+        "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md"
       ],
       "cenas": [
         {
@@ -707,7 +720,7 @@
           "fonte_trecho": "transcrição, 00:00:00–00:08:47",
           "ambientacao_revisada": true,
           "fonte_ambientacao": {
-            "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md",
+            "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md",
             "trechos": "24/09, 00:00:09–00:00:41, 00:03:11–00:08:47."
           }
         },
@@ -722,7 +735,7 @@
           "fonte_trecho": "transcrição, 00:09:11–00:14:28",
           "ambientacao_revisada": true,
           "fonte_ambientacao": {
-            "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md",
+            "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md",
             "trechos": "24/09, 00:09:11–00:09:56 e 00:13:05–00:14:28."
           }
         },
@@ -736,7 +749,7 @@
           "fonte_trecho": "transcrição, 00:14:38–00:32:07",
           "ambientacao_revisada": true,
           "fonte_ambientacao": {
-            "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md",
+            "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md",
             "trechos": "24/09, 00:14:38–00:20:37, 00:23:12–00:25:56 e 00:27:10–00:32:07."
           }
         },
@@ -751,7 +764,7 @@
           "fonte_trecho": "transcrição, 00:32:07–00:36:19",
           "ambientacao_revisada": true,
           "fonte_ambientacao": {
-            "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md",
+            "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md",
             "trechos": "24/09, 00:32:07–00:36:19; fechamento por dentro em 01:00:37."
           }
         },
@@ -763,7 +776,7 @@
           "fonte_trecho": "transcrição, 00:36:19–00:40:10",
           "ambientacao_revisada": true,
           "fonte_ambientacao": {
-            "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md",
+            "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md",
             "trechos": "24/09, 00:36:19–00:39:48."
           }
         },
@@ -777,7 +790,7 @@
           "fonte_trecho": "transcrição, 00:40:12–00:47:40",
           "ambientacao_revisada": true,
           "fonte_ambientacao": {
-            "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md",
+            "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md",
             "trechos": "24/09, 00:40:12–00:47:40, incluindo ferrugem em 00:41:12 e desmonte em 00:44:21."
           }
         },
@@ -792,7 +805,7 @@
           "fonte_trecho": "transcrição, 00:48:40–01:08:49; revisita à galeria 00:58:21–01:00:37",
           "ambientacao_revisada": true,
           "fonte_ambientacao": {
-            "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md",
+            "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md",
             "trechos": "24/09, 00:48:40–01:08:49; vistoria/galeria em 00:54:35–01:00:37."
           }
         },
@@ -807,7 +820,7 @@
           "fonte_trecho": "transcrição, 01:06:38–01:10:49 e identificação final da área em 01:52:07",
           "ambientacao_revisada": true,
           "fonte_ambientacao": {
-            "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md",
+            "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md",
             "trechos": "24/09, 01:07:18–01:10:58; nome da área confirmado em 01:52:07."
           }
         },
@@ -824,7 +837,7 @@
           "fonte_trecho": "transcrição, 01:10:19–01:52:07",
           "ambientacao_revisada": true,
           "fonte_ambientacao": {
-            "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md",
+            "registro_publico": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md",
             "trechos": "24/09, 01:10:19–01:52:07; queda das jaulas em 01:19:32–01:20:15."
           }
         }
@@ -838,8 +851,8 @@
       "id": "sessao-2026-10-01-andares-inferiores-441e1e188cc4b00b74901b904337b9cd1fd669468513102efce50859532f91ec",
       "indice": "historico-campanha/capitulos/008-andares-inferiores/README.md",
       "fontes": [
-        "historico-campanha/capitulos/008-andares-inferiores/summary.md",
-        "historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md"
+        "historico-campanha/capitulos/008-andares-inferiores/transcricao/summary.md",
+        "historico-campanha/capitulos/008-andares-inferiores/transcricao/transcript.curated.md"
       ],
       "cenas": [],
       "chapter_id": "kimura-andares-inferiores",
@@ -931,5 +944,6 @@
     }
   },
   "chapter_numbering_verified_date": "2026-10-04",
-  "chapter_storage_migration": "historico-campanha/migracao-capitulos-2026-10-10.json"
+  "chapter_storage_migration": "historico-campanha/migracao-capitulos-2026-10-10.json",
+  "source_directory_pattern": "historico-campanha/capitulos/NNN-slug/transcricao"
 }

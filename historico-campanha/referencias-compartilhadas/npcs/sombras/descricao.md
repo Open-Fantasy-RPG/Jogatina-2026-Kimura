@@ -34,6 +34,6 @@ Não classificar a sombra como criatura tentacular separada por causa de uma ext
 
 ## Fontes
 
-- [Registro público de 24/09/2026](../../../capitulos/007-exploracao-do-templo-do-fluxo/transcript.md).
-- [Transcrição curada pública de 01/10/2026](../../../capitulos/008-andares-inferiores/transcript.curated.md).
+- [Registro público de 24/09/2026](../../../capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md).
+- [Transcrição curada pública de 01/10/2026](../../../capitulos/008-andares-inferiores/transcricao/transcript.curated.md).
 - [Cena 09 de 24/09: combate nas jaulas](../../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/descricao-cena.md).

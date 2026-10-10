@@ -82,9 +82,9 @@ Estas referências distinguem dois estados visuais do mesmo personagem, para man
 
 ### Quando a aparência mudou
 
-No [capítulo 005, sessão de 17/09/2026](../../historico-campanha/capitulos/005-audiencia-em-eldervan/transcript.md), os trechos **01:27:14** e **01:28:27** associam o anel à mudança de aparência; em **01:28:43**, Kaelen adia seu uso.
+No [capítulo 005, sessão de 17/09/2026](../../historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/transcript.md), os trechos **01:27:14** e **01:28:27** associam o anel à mudança de aparência; em **01:28:43**, Kaelen adia seu uso.
 
-No início do [capítulo 006, sessão de 22/09/2026](../../historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcript.md), a reação de Jânia em **00:06:38** já registra a aparência transformada. Os horários são marcadores das gravações, não horas do mundo da campanha. O instante exato de colocar o anel não foi narrado explicitamente.
+No início do [capítulo 006, sessão de 22/09/2026](../../historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcricao/transcript.md), a reação de Jânia em **00:06:38** já registra a aparência transformada. Os horários são marcadores das gravações, não horas do mundo da campanha. O instante exato de colocar o anel não foi narrado explicitamente.
 
 Para a continuidade visual, a transição fica situada antes do encontro daquela manhã, na abertura do capítulo 006. Mostrar Kaelen colocando o anel nessa abertura é uma organização editorial da sequência; não deve ser citado como fala ou instante exato presente na transcrição. Os registros históricos permanecem preservados.
 

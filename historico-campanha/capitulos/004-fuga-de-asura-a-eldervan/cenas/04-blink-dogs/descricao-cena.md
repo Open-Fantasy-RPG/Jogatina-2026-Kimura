@@ -1,6 +1,6 @@
 # Ataque dos cães teleportadores
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-03-fuga-de-azura-a-eldervan/04-blink-dogs`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -16,7 +16,7 @@ Já em Erlingheim, cinco cães teleportadores atacam o grupo. O combate evidenci
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafo 6.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafo 6.
 
 - [Blink Dogs — descritivo e token próprios](../../../../referencias-compartilhadas/npcs/blink-dogs/README.md)
 - [mapa.jpeg](../../../../referencias-compartilhadas/mapas/aeldria/imagens/mapa.jpeg)

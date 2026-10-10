@@ -23,7 +23,7 @@ Base atual: D&D 2024, Barda 4, ficha e habilidades de nível 4. Cobertura: 12 tr
 - **ID da instância:** `kimura.aeloria.adagas`
 - **Assinatura-base:** `mundano.weapon.dagger-thrust`
 - **Disponibilidade documentada:** Equipamento atual e ataques documentados.
-- **Fonte de titularidade/efeito:** [Equipamentos e combate](../equipamentos-e-combate.md); [01/10, 01:19:07–01:21:49 e 01:51:14–01:51:31](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md#L817-L851). A definição mecânica permanece nessa fonte.
+- **Fonte de titularidade/efeito:** [Equipamentos e combate](../equipamentos-e-combate.md); [01/10, 01:19:07–01:21:49 e 01:51:14–01:51:31](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcricao/transcript.curated.md#L817-L851). A definição mecânica permanece nessa fonte.
 - **Proposta — paleta própria:** Prata fosca; azul-céu apenas nos tecidos.
 - **Proposta — motivo próprio:** Dois gestos compactos e independentes, não um X automático.
 - **Ajustes às cinco fases-base:** Antecipação: serenidade e corpo largo bem equilibrado. Ativação: mãos deixam a posição de repouso. Movimento: cada adaga tem trajetória curta própria; tecido desenha uma curva mais ampla. Impacto: um acento por acerto realmente resolvido. Resíduo: mãos voltam para guarda legível.
@@ -267,8 +267,8 @@ Base atual: D&D 2024, Barda 4, ficha e habilidades de nível 4. Cobertura: 12 tr
 
 ## Continuidade especial de sessões já jogadas
 
-- A ficha atual diz que Invisibility termina após ataque, dano ou magia. Na adaptação de 01/10, seguir o estado e os resultados efetivamente mantidos pela mesa; não “consertar” retroativamente a invisibilidade entre ataques. O roteiro deve registrar essa exceção como continuidade da sessão, sem transferi-la para cenas novas. Fonte: [01/10, ataques invisíveis e continuidade](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md#L817-L851).
-- Em 01/10, o primeiro e o segundo ataque têm resoluções próprias. Não transformar uma tentativa, correção de número ou descrição imaginada em novo acerto. [Conferir sequência final](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md#L1303-L1307).
+- A ficha atual diz que Invisibility termina após ataque, dano ou magia. Na adaptação de 01/10, seguir o estado e os resultados efetivamente mantidos pela mesa; não “consertar” retroativamente a invisibilidade entre ataques. O roteiro deve registrar essa exceção como continuidade da sessão, sem transferi-la para cenas novas. Fonte: [01/10, ataques invisíveis e continuidade](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcricao/transcript.curated.md#L817-L851).
+- Em 01/10, o primeiro e o segundo ataque têm resoluções próprias. Não transformar uma tentativa, correção de número ou descrição imaginada em novo acerto. [Conferir sequência final](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/29f52c4ab4fe7dd3df28d4a32672f9bbdd72d0ce/historico-campanha/capitulos/008-andares-inferiores/transcricao/transcript.curated.md#L1303-L1307).
 - Somente uma Concentração segundo a ficha atual: Heroism, Faerie Fire, Invisibility ou Suggestion. O desenho não autoriza acumulá-las. Mirror Image não é uma segunda Concentração, mas suas duplicatas precisam de contagem.
 - Linhas musicais, névoa editorial e contorno de invisível não são efeitos de área, fontes de iluminação ou pistas automáticas a inimigos.
 

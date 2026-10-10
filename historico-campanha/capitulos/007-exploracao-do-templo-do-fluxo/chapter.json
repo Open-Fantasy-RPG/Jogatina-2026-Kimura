@@ -12,7 +12,7 @@
   "legacy_index": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/README.md",
   "sources": [
     {
-      "path": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md",
+      "path": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcricao/transcript.md",
       "kind": "transcript",
       "git_blob_sha": "e3bec60324f17355914258b231d09c6a81b6b47e",
       "size_bytes": 93825

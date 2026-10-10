@@ -1,6 +1,6 @@
 # Local — Espaço de meditação em Eldervan
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,9 +18,9 @@ A arquitetura e a vegetação da cidade dão o contexto geral da visita, mas o a
 
 Preservar a distinção entre campo de meditação narrado e templo/igreja convencional.
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — resumo público, Eventos principais 23 e 28.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — resumo público, Eventos principais 23 e 28.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 17/09, narração do mestre em 00:46:25–00:47:11.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 17/09, narração do mestre em 00:46:25–00:47:11.
 
 ## Referências visuais
 

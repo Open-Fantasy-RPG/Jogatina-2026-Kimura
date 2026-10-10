@@ -61,6 +61,6 @@ Na folha de objeto, usar luz lateral suave e fundo neutro que revelem a profundi
 ## Referências
 
 - [Esboço 04 aprovado como direção da coleção](imagens/aneis-de-madeira-O01-conceito-v001.png).
-- [Transcrição da sessão de 17/09/2026](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/b465d0fe1cacde9948d2d46de080dcf4fd540f96/historico-campanha/capitulos/005-audiencia-em-eldervan/transcript.md), horários indicados acima.
+- [Transcrição da sessão de 17/09/2026](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/b465d0fe1cacde9948d2d46de080dcf4fd540f96/historico-campanha/capitulos/005-audiencia-em-eldervan/transcricao/transcript.md), horários indicados acima.
 - [Kaelen e a transição de aparência](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/b465d0fe1cacde9948d2d46de080dcf4fd540f96/personagens/Kaelen%20Vane/ficha-nivel-3.md#aparência-com-e-sem-o-anel).
 - [Hub](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/b465d0fe1cacde9948d2d46de080dcf4fd540f96/historico-campanha/referencias-compartilhadas/npcs/hub/descricao.md).

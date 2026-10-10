@@ -1,6 +1,6 @@
 # Travessia e paradas
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-03-fuga-de-azura-a-eldervan/03-viagem-e-vilas`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -17,7 +17,7 @@ A viagem é marcada pela condição de fugitivos. Cartazes circulam, Kaelen é r
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafos 4–5.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafos 4–5.
 
 - [mapa.jpeg](../../../../referencias-compartilhadas/mapas/aeldria/imagens/mapa.jpeg)
 - [jaina-woodward.jpeg](../../../../referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg)

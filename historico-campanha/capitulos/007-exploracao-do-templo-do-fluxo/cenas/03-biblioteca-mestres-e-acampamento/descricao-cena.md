@@ -1,6 +1,6 @@
 # Biblioteca, mestres e acampamento
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-24-exploracao-do-templo-do-fluxo/03-biblioteca-mestres-e-acampamento`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -17,9 +17,9 @@ A exploração segue pela biblioteca, onde a perda de grande parte do acervo con
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../transcript.md) — transcrição, 00:14:38–00:32:07.
+**Fonte principal:** [registro público da sessão](../../transcricao/transcript.md) — transcrição, 00:14:38–00:32:07.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 24/09, 00:14:38–00:20:37, 00:23:12–00:25:56 e 00:27:10–00:32:07.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 24/09, 00:14:38–00:20:37, 00:23:12–00:25:56 e 00:27:10–00:32:07.
 
 - [templo-map-nivel1.jpeg](../../referencias/mapas/templo-map-nivel1.jpeg)
 

@@ -1,6 +1,6 @@
 # Local — Trilha de montanha
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,9 +18,9 @@ A subida é longa e rochosa, com cuidado para distinguir apoios seguros de pedra
 
 Não transformar o símbolo em nova runa ativa ou fixar roupas/armas de Tarvek sem fonte.
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — resumo público, Resumo da sessão, item 6 e História da sessão.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — resumo público, Resumo da sessão, item 6 e História da sessão.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 22/09, 00:54:25–00:56:40 e 01:00:21–01:06:35.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 22/09, 00:54:25–00:56:40 e 01:00:21–01:06:35.
 
 ## Referências visuais
 

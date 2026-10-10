@@ -1,6 +1,6 @@
 # Mercado e partida
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-22-rumo-ao-templo-do-fluxo/02-mercado-e-caravana`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -16,9 +16,9 @@ O grupo procura os mercadores no Mercado das Raízes e combina acompanhar a rota
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — resumo público, Resumo da sessão, item 5 e História da sessão.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — resumo público, Resumo da sessão, item 5 e História da sessão.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 22/09, 00:35:47–00:39:14; carroça puxada por bois em 00:51:30 (trecho da discussão da carroça).
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 22/09, 00:35:47–00:39:14; carroça puxada por bois em 00:51:30 (trecho da discussão da carroça).
 
 - [eldervan.jpeg](../../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg)
 - [mapa.jpeg](../../../../referencias-compartilhadas/mapas/aeldria/imagens/mapa.jpeg)

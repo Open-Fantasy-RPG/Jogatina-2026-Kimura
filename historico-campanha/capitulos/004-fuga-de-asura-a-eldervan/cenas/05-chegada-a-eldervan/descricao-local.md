@@ -1,6 +1,6 @@
 # Local — Eldervan
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,7 +18,7 @@ O mapa nomeia diversos pontos, mas esta cena não afirma que o grupo os visita a
 
 A arquitetura orgânica também é confirmada pela narração de 17/09; aqui ela ambienta a chegada, sem transferir os acontecimentos da audiência para esta data.
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafo final.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafo final.
 
 ## Referências visuais
 

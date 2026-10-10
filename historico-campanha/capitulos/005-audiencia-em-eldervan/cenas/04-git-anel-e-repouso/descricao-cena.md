@@ -1,6 +1,6 @@
 # Git, o anel e nova convocação
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-17-audiencia-em-eldervan/04-git-anel-e-repouso`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -16,9 +16,9 @@ A negociação com Git é conduzida num ambiente em que o artesanato mágico tam
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — resumo público, Eventos principais 24 e 29–34.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — resumo público, Eventos principais 24 e 29–34.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 17/09, narração do mestre em 01:07:46–01:08:12; negociação e convocação no resumo público.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 17/09, narração do mestre em 01:07:46–01:08:12; negociação e convocação no resumo público.
 
 - [eldervan.jpeg](../../../../referencias-compartilhadas/locais/eldervan/imagens/eldervan.jpeg)
 - [jaina-woodward.jpeg](../../../../referencias-compartilhadas/npcs/jania-woodward/imagens/jaina-woodward.jpeg)

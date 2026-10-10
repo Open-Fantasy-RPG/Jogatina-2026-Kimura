@@ -1,6 +1,6 @@
 # Local — Salão de Elara
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,9 +18,9 @@ A imagem sustenta a composição principal: uma grande estátua de Elara junto a
 
 Estado canônico atual: ruínas. Preservar proporção, arquitetura e escultura da referência, aplicando a degradação narrada. Não recolocar habitantes ou serviço religioso em atividade.
 
-**Fonte principal:** [registro público da sessão](../../transcript.md) — transcrição, 00:09:11–00:14:28.
+**Fonte principal:** [registro público da sessão](../../transcricao/transcript.md) — transcrição, 00:09:11–00:14:28.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 24/09, 00:09:11–00:09:56 e 00:13:05–00:14:28.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 24/09, 00:09:11–00:09:56 e 00:13:05–00:14:28.
 
 ## Referências visuais
 

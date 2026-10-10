@@ -1,6 +1,6 @@
 # Apresentação e convite
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-08-08-cidade-alta-e-prisao/01-apresentacao-na-cidade-alta`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -16,7 +16,7 @@ Aeloria se apresenta e chama a atenção de Lorde Halden, ligado à indústria t
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafo 1.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafo 1.
 
 - [asura-jewel.jpeg](../../../../referencias-compartilhadas/locais/asuras-jewel/imagens/asura-jewel.jpeg)
 

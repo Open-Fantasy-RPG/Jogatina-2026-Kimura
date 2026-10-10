@@ -29,3 +29,11 @@ Os capítulos 001–002 não têm transcrição, conforme o responsável. Os cap
 ## Preservação e produção
 
 Os registros, cenas e imagens estão dentro de cada capítulo, sem pastas paralelas de sessão. Os binários e as transcrições mantêm seus bytes; referências de navegação foram atualizadas. Os aliases e hashes anteriores estão no mapa de caminhos e no registro da migração. Novos capítulos usam `capitulos/NNN-slug/`, com data nos metadados. Ler primeiro o capítulo e suas fontes, depois a cena, o local, as imagens originais e os documentos completos dos personagens. A organização deste acervo público não autoriza publicar HQs ou novos conteúdos reservados.
+
+## Dentro de cada capítulo
+
+- `transcricao/`: fontes públicas disponíveis, transcrição e resumo, com ausências indicadas.
+- `cenas/`: descrições de cena e local e índice de imagens de cada cena já documentada.
+- `referencias/`: mapas e referências pertinentes, sem duplicar arquivos compartilhados.
+
+Os capítulos 008–009 ainda não têm descritivos independentes de cena/local; o capítulo 007 ainda não tem resumo independente publicado. Esses materiais não foram removidos na organização.

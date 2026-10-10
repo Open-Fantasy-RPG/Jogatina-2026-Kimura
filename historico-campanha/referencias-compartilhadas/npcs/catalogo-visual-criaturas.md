@@ -46,8 +46,8 @@ Para completar a entrada, falta apontar o arquivo ou a imagem correta e confirma
 ## Uso por cena
 
 - [24/09, combate nas jaulas](../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/descricao-cena.md): duas criaturas caninas e uma sombra; barricada formada durante a ação. Não antecipar o obstáculo.
-- [01/10, cães e primeiro monge](../../capitulos/008-andares-inferiores/transcript.curated.md#03-cães-e-primeiro-monge): perseguição, ácido, mordida, soco e chutes.
-- [01/10, sombras e segundo monge](../../capitulos/008-andares-inferiores/transcript.curated.md#05-sombras-e-segundo-monge): desaparecimento, medo, garras, chutes e projeção de energia.
-- [01/10, poço e resgate](../../capitulos/008-andares-inferiores/transcript.curated.md#06-poço-e-resgate): agarrão da sombra, soltura breve, novo agarrão e afastamento diante da luz; o risco de queda continua.
+- [01/10, cães e primeiro monge](../../capitulos/008-andares-inferiores/transcricao/transcript.curated.md#03-cães-e-primeiro-monge): perseguição, ácido, mordida, soco e chutes.
+- [01/10, sombras e segundo monge](../../capitulos/008-andares-inferiores/transcricao/transcript.curated.md#05-sombras-e-segundo-monge): desaparecimento, medo, garras, chutes e projeção de energia.
+- [01/10, poço e resgate](../../capitulos/008-andares-inferiores/transcricao/transcript.curated.md#06-poço-e-resgate): agarrão da sombra, soltura breve, novo agarrão e afastamento diante da luz; o risco de queda continua.
 
 O guia visual não substitui a leitura das fontes da cena. Propostas não entram retroativamente no relato como acontecimentos.

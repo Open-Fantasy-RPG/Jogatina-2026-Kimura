@@ -1,6 +1,6 @@
 # Investigação da cela
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-08-20-prisao-conflito-e-julgamento/02-cela-cartas-e-chaves`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -16,7 +16,7 @@ A investigação se desloca para a cela do homem morto no pátio. Kaelen encontr
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafo 3.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafo 3.
 
 - [prisao.jpeg](../../../002-cidade-alta-e-prisao/cenas/03-william-e-prisao/imagens/prisao.jpeg)
 

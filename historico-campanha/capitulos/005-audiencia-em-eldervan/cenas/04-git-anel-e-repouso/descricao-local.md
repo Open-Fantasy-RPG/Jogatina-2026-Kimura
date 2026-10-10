@@ -1,6 +1,6 @@
 # Local — Loja de Git; aposentos de hóspedes
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,9 +18,9 @@ O espaço de Git não possui planta ou mobília detalhadas nas fontes consultada
 
 A aparência dos anéis está documentada; o descritivo não fixa por isso todos os efeitos ou o nome mecânico do item comprado.
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — resumo público, Eventos principais 24 e 29–34.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — resumo público, Eventos principais 24 e 29–34.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 17/09, narração do mestre em 01:07:46–01:08:12; negociação e convocação no resumo público.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 17/09, narração do mestre em 01:07:46–01:08:12; negociação e convocação no resumo público.
 
 ## Referências visuais
 

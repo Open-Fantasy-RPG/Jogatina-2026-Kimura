@@ -1,6 +1,6 @@
 # Saguão e estátua de Elara
 
-[Índice da sessão](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
+[Índice do capítulo](../../README.md) · [Ambiente e elementos presentes](descricao-local.md)
 
 - **Identificador:** `sessao-2026-09-24-exploracao-do-templo-do-fluxo/02-saguao-de-elara`
 - **Critério:** ambientação editorial baseada na narração pública e nas imagens existentes; sem novos acontecimentos.
@@ -16,9 +16,9 @@ A porta se abre para um saguão amplo, dominado pela estátua de Santa Elara. A 
 
 ## Referências
 
-**Fonte principal:** [registro público da sessão](../../transcript.md) — transcrição, 00:09:11–00:14:28.
+**Fonte principal:** [registro público da sessão](../../transcricao/transcript.md) — transcrição, 00:09:11–00:14:28.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 24/09, 00:09:11–00:09:56 e 00:13:05–00:14:28.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 24/09, 00:09:11–00:09:56 e 00:13:05–00:14:28.
 
 - [templo-saguao.jpeg](imagens/templo-saguao.jpeg)
 - [templo-map-nivel1.jpeg](../../referencias/mapas/templo-map-nivel1.jpeg)

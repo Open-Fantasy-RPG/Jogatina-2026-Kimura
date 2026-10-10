@@ -12,7 +12,7 @@
   "legacy_index": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/README.md",
   "sources": [
     {
-      "path": "historico-campanha/capitulos/002-cidade-alta-e-prisao/summary.md",
+      "path": "historico-campanha/capitulos/002-cidade-alta-e-prisao/transcricao/summary.md",
       "kind": "summary",
       "git_blob_sha": "0ec572e868c718c55f34e5a3cf43575205927f62",
       "size_bytes": 960

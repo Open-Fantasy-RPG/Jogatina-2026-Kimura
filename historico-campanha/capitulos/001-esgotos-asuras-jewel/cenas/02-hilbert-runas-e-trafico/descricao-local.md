@@ -1,6 +1,6 @@
 # Local — Túneis sob a cidade
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -18,7 +18,7 @@ A imagem de Asura’s Jewel fornece o contexto de uma cidade extensa, com acesso
 
 O mapa continental e o mapa urbano não substituem o mapa encontrado pelos personagens.
 
-**Fonte principal:** [registro público da sessão](../../summary.md) — relato público, parágrafo 2.
+**Fonte principal:** [registro público da sessão](../../transcricao/summary.md) — relato público, parágrafo 2.
 
 ## Referências visuais
 

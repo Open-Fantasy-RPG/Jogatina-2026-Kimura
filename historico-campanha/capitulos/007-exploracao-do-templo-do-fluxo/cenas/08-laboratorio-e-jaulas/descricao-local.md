@@ -1,6 +1,6 @@
 # Local — Segundo subsolo / área de observação
 
-[Voltar à cena](descricao-cena.md) · [Índice da sessão](../../README.md)
+[Voltar à cena](descricao-cena.md) · [Índice do capítulo](../../README.md)
 
 ## Descritivo do ambiente
 
@@ -19,9 +19,9 @@ A referência visual ajuda a organizar corredor, grades, jaulas suspensas, mesas
 
 Eliminar da leitura atual qualquer impressão de luz solar, instalação intacta, cobaias vivas em todas as celas ou ferimentos recentes. A arte orienta a forma; a narração determina presença, luz e conservação.
 
-**Fonte principal:** [registro público da sessão](../../transcript.md) — transcrição, 01:06:38–01:10:49 e identificação final da área em 01:52:07.
+**Fonte principal:** [registro público da sessão](../../transcricao/transcript.md) — transcrição, 01:06:38–01:10:49 e identificação final da área em 01:52:07.
 
-**Narração conferida:** [registro integral já público](../../transcript.md) — 24/09, 01:07:18–01:10:58; nome da área confirmado em 01:52:07.
+**Narração conferida:** [registro integral já público](../../transcricao/transcript.md) — 24/09, 01:07:18–01:10:58; nome da área confirmado em 01:52:07.
 
 ## Referências visuais
 
