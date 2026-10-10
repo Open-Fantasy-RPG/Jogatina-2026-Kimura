@@ -12,10 +12,10 @@
 
 ## Cenas que usam esta referência
 
-- [sessao-2026-09-03-fuga-de-azura-a-eldervan/03-viagem-e-vilas — Travessia e paradas](../../../sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/03-viagem-e-vilas/descricao-cena.md)
-- [sessao-2026-09-03-fuga-de-azura-a-eldervan/04-blink-dogs — Ataque dos cães teleportadores](../../../sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/04-blink-dogs/descricao-cena.md)
-- [sessao-2026-09-22-rumo-ao-templo-do-fluxo/02-mercado-e-caravana — Mercado e partida](../../../sessao-2026-09-22-rumo-ao-templo-do-fluxo/cenas/02-mercado-e-caravana/descricao-cena.md)
-- [sessao-2026-09-22-rumo-ao-templo-do-fluxo/03-montanha-e-tarvek — Montanha e encontro com Tarvek](../../../sessao-2026-09-22-rumo-ao-templo-do-fluxo/cenas/03-montanha-e-tarvek/descricao-cena.md)
+- [sessao-2026-09-03-fuga-de-azura-a-eldervan/03-viagem-e-vilas — Travessia e paradas](../../../capitulos/004-fuga-de-asura-a-eldervan/cenas/03-viagem-e-vilas/descricao-cena.md)
+- [sessao-2026-09-03-fuga-de-azura-a-eldervan/04-blink-dogs — Ataque dos cães teleportadores](../../../capitulos/004-fuga-de-asura-a-eldervan/cenas/04-blink-dogs/descricao-cena.md)
+- [sessao-2026-09-22-rumo-ao-templo-do-fluxo/02-mercado-e-caravana — Mercado e partida](../../../capitulos/006-rumo-ao-templo-do-fluxo/cenas/02-mercado-e-caravana/descricao-cena.md)
+- [sessao-2026-09-22-rumo-ao-templo-do-fluxo/03-montanha-e-tarvek — Montanha e encontro com Tarvek](../../../capitulos/006-rumo-ao-templo-do-fluxo/cenas/03-montanha-e-tarvek/descricao-cena.md)
 
 ## Edição do mestre — somente informação pública
 

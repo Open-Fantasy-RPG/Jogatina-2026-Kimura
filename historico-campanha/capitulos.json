@@ -9,7 +9,7 @@
   "organization": "chapter_number_and_title; session_date_is_metadata",
   "identity_policy": "chapter_id is immutable once assigned and independent of later title/date/number corrections; scenes, summaries, transcripts and versions do not create additional chapters",
   "same_date_policy": "The first two records are separate chapters even though both record 2026-08-08. Date is not identity.",
-  "compatibility_policy": "Existing source, scene and binary paths are retained unchanged. Canonical chapter entries link to their preserved storage. Do not create a second editable copy of a source or silently rename existing paths.",
+  "compatibility_policy": "Canonical chapters contain the active sources, scenes and binaries. Historical aliases resolve through mapa-de-caminhos.json; old session directories were removed after migration verification. Chapter and scene identities are preserved.",
   "chapters": [
     {
       "chapter_id": "kimura-esgotos-asuras-jewel",
@@ -25,7 +25,7 @@
       "legacy_index": "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel/README.md",
       "sources": [
         {
-          "path": "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel/sessao-2026-08-08-esgotos-asuras-jewel.md",
+          "path": "historico-campanha/capitulos/001-esgotos-asuras-jewel/summary.md",
           "kind": "summary",
           "git_blob_sha": "f5bd438682022ed6036870ce3d5c9263d6e6c350",
           "size_bytes": 920
@@ -33,7 +33,8 @@
       ],
       "transcript_status": "unavailable_confirmed",
       "scene_count": 3,
-      "transcript_note": "Sem transcrição, conforme confirmação do responsável pela organização; relato público preservado."
+      "transcript_note": "Sem transcrição, conforme confirmação do responsável pela organização; relato público preservado.",
+      "legacy_storage_status": "migrated_to_canonical_directory"
     },
     {
       "chapter_id": "kimura-cidade-alta-e-prisao",
@@ -49,7 +50,7 @@
       "legacy_index": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/README.md",
       "sources": [
         {
-          "path": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/sessao-2026-08-08-cidade-alta-e-prisao.md",
+          "path": "historico-campanha/capitulos/002-cidade-alta-e-prisao/summary.md",
           "kind": "summary",
           "git_blob_sha": "0ec572e868c718c55f34e5a3cf43575205927f62",
           "size_bytes": 960
@@ -57,7 +58,8 @@
       ],
       "transcript_status": "unavailable_confirmed",
       "scene_count": 3,
-      "transcript_note": "Sem transcrição, conforme confirmação do responsável pela organização; relato público preservado."
+      "transcript_note": "Sem transcrição, conforme confirmação do responsável pela organização; relato público preservado.",
+      "legacy_storage_status": "migrated_to_canonical_directory"
     },
     {
       "chapter_id": "kimura-prisao-conflito-e-julgamento",
@@ -73,7 +75,7 @@
       "legacy_index": "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/README.md",
       "sources": [
         {
-          "path": "historico-campanha/sessao-2026-08-20-prisao-conflito-e-julgamento/sessao-2026-08-20-prisao-conflito-e-julgamento.md",
+          "path": "historico-campanha/capitulos/003-prisao-conflito-e-julgamento/summary.md",
           "kind": "summary",
           "git_blob_sha": "7b2a50e0806cb18456aa3471ff69dc993561f3ca",
           "size_bytes": 1125
@@ -81,7 +83,8 @@
       ],
       "transcript_status": "private_source_located_pending_full_audit",
       "scene_count": 3,
-      "transcript_note": "O Git contém apenas relato resumido. Uma transcrição foi localizada no acervo privado depois do inventário inicial; leitura integral e eventual publicação são etapas separadas."
+      "transcript_note": "O Git contém apenas relato resumido. Uma transcrição foi localizada no acervo privado depois do inventário inicial; leitura integral e eventual publicação são etapas separadas.",
+      "legacy_storage_status": "migrated_to_canonical_directory"
     },
     {
       "chapter_id": "kimura-fuga-de-asura-a-eldervan",
@@ -97,7 +100,7 @@
       "legacy_index": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/README.md",
       "sources": [
         {
-          "path": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/sessao-2026-09-03-fuga-de-azura-a-eldervan.md",
+          "path": "historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/summary.md",
           "kind": "summary",
           "git_blob_sha": "b5cb773d344db4880bd5729f14a3e972b2f80f4d",
           "size_bytes": 1684
@@ -109,7 +112,8 @@
       "recording_date_local": "2026-09-02",
       "legacy_record_date": "2026-09-03",
       "date_status": "conflicting_sources_needs_reconciliation",
-      "date_note": "A gravação corresponde a 02/09 em America/Sao_Paulo; o registro histórico informa 03/09. session_date preserva a data legada até reconciliação explícita. A divergência não cria outro capítulo."
+      "date_note": "A gravação corresponde a 02/09 em America/Sao_Paulo; o registro histórico informa 03/09. session_date preserva a data legada até reconciliação explícita. A divergência não cria outro capítulo.",
+      "legacy_storage_status": "migrated_to_canonical_directory"
     },
     {
       "chapter_id": "kimura-audiencia-em-eldervan",
@@ -125,20 +129,21 @@
       "legacy_index": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/README.md",
       "sources": [
         {
-          "path": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan-resumo.md",
+          "path": "historico-campanha/capitulos/005-audiencia-em-eldervan/summary.md",
           "kind": "summary",
-          "git_blob_sha": "b34d28a6772d711ac7d81bba4d7f7ffa9d536c33",
-          "size_bytes": 18185
+          "git_blob_sha": "7130447a90dc612e911807b9f4d17aa3458153d8",
+          "size_bytes": 18156
         },
         {
-          "path": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan.md",
+          "path": "historico-campanha/capitulos/005-audiencia-em-eldervan/transcript.md",
           "kind": "transcript",
           "git_blob_sha": "0a41760091fa3913a9a2819a333dbd010c304580",
           "size_bytes": 76060
         }
       ],
       "transcript_status": "available",
-      "scene_count": 4
+      "scene_count": 4,
+      "legacy_storage_status": "migrated_to_canonical_directory"
     },
     {
       "chapter_id": "kimura-rumo-ao-templo-do-fluxo",
@@ -154,20 +159,21 @@
       "legacy_index": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/README.md",
       "sources": [
         {
-          "path": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md",
+          "path": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/summary.md",
           "kind": "summary",
-          "git_blob_sha": "13016e67144d1c448c544dec11209a7a0c1a12e4",
-          "size_bytes": 20458
+          "git_blob_sha": "8cf7b67f2430d855b26789d02f00882716e9aeb5",
+          "size_bytes": 20427
         },
         {
-          "path": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/sessao-2026-09-22-rumo-ao-templo-do-fluxo.md",
+          "path": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcript.md",
           "kind": "transcript",
           "git_blob_sha": "cb22b46692dcd1771c393f86ad7b1a1fb745a38c",
           "size_bytes": 57684
         }
       ],
       "transcript_status": "available",
-      "scene_count": 4
+      "scene_count": 4,
+      "legacy_storage_status": "migrated_to_canonical_directory"
     },
     {
       "chapter_id": "kimura-exploracao-do-templo-do-fluxo",
@@ -183,14 +189,15 @@
       "legacy_index": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/README.md",
       "sources": [
         {
-          "path": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/sessao-2026-09-24-exploracao-do-templo-do-fluxo.md",
+          "path": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md",
           "kind": "transcript",
           "git_blob_sha": "e3bec60324f17355914258b231d09c6a81b6b47e",
           "size_bytes": 93825
         }
       ],
       "transcript_status": "available",
-      "scene_count": 9
+      "scene_count": 9,
+      "legacy_storage_status": "migrated_to_canonical_directory"
     },
     {
       "chapter_id": "kimura-andares-inferiores",
@@ -206,13 +213,13 @@
       "legacy_index": "historico-campanha/sessao-2026-10-01-andares-inferiores-441e1e188cc4b00b74901b904337b9cd1fd669468513102efce50859532f91ec/README.md",
       "sources": [
         {
-          "path": "historico-campanha/sessao-2026-10-01-andares-inferiores-441e1e188cc4b00b74901b904337b9cd1fd669468513102efce50859532f91ec/summary.md",
+          "path": "historico-campanha/capitulos/008-andares-inferiores/summary.md",
           "kind": "summary",
           "git_blob_sha": "615fe275a718f5001d742c82dac923ed567692b5",
           "size_bytes": 6940
         },
         {
-          "path": "historico-campanha/sessao-2026-10-01-andares-inferiores-441e1e188cc4b00b74901b904337b9cd1fd669468513102efce50859532f91ec/transcript.curated.md",
+          "path": "historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md",
           "kind": "curated_transcript",
           "git_blob_sha": "bd9ab37d0e5bed280446e8159adda3fe71108f81",
           "size_bytes": 115976
@@ -220,7 +227,8 @@
       ],
       "transcript_status": "available_curated",
       "scene_count": null,
-      "source_identity_sha256": "441e1e188cc4b00b74901b904337b9cd1fd669468513102efce50859532f91ec"
+      "source_identity_sha256": "441e1e188cc4b00b74901b904337b9cd1fd669468513102efce50859532f91ec",
+      "legacy_storage_status": "migrated_to_canonical_directory"
     },
     {
       "chapter_id": "kimura-projeto-vigilia-e-o-segundo-fundador",
@@ -249,5 +257,6 @@
       "scene_count": null,
       "source_identity_sha256": "edf652a7529afe2af523a0a2fcfc827a9ad7018bf7cad76768606b7ad4fa8b13"
     }
-  ]
+  ],
+  "storage_migrated_date": "2026-10-10"
 }

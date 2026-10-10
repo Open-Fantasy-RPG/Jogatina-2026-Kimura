@@ -12,8 +12,8 @@
 
 ## Cenas que usam esta referência
 
-- [sessao-2026-09-17-audiencia-em-eldervan/01-entrada-e-audiencia — Entrada e audiência](../../../sessao-2026-09-17-audiencia-em-eldervan/cenas/01-entrada-e-audiencia/descricao-cena.md)
-- [sessao-2026-09-22-rumo-ao-templo-do-fluxo/01-cafe-e-manuscritos — Café da manhã e manuscritos](../../../sessao-2026-09-22-rumo-ao-templo-do-fluxo/cenas/01-cafe-e-manuscritos/descricao-cena.md)
+- [sessao-2026-09-17-audiencia-em-eldervan/01-entrada-e-audiencia — Entrada e audiência](../../../capitulos/005-audiencia-em-eldervan/cenas/01-entrada-e-audiencia/descricao-cena.md)
+- [sessao-2026-09-22-rumo-ao-templo-do-fluxo/01-cafe-e-manuscritos — Café da manhã e manuscritos](../../../capitulos/006-rumo-ao-templo-do-fluxo/cenas/01-cafe-e-manuscritos/descricao-cena.md)
 
 ## Edição do mestre — somente informação pública
 

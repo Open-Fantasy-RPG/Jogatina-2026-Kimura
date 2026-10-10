@@ -10,7 +10,7 @@ Irmão de Kaelen. Tata é a referência usada nos relatos recentes; Galen é o n
 
 Sobrevivente ligado ao grupo de refugiados de Oak's Crossing. Atua na proteção dos companheiros e cobra limites morais, inclusive do próprio irmão.
 
-Possui uma **maça +1 asurana**: seu mecanismo abre espinhos e produz descargas elétricas como descrição visual. Isso não estabelece dano elétrico adicional. A arma tecnológica apresentou falhas em Erlingheim, onde a Possibilidade interfere na tecnologia. A **cota de malha** está confirmada na sessão de 17/09 ([01:02:20](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/8e1ca868e58bd2dafaa9963dd051683484493eff/historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan.md#L1200-L1201)).
+Possui uma **maça +1 asurana**: seu mecanismo abre espinhos e produz descargas elétricas como descrição visual. Isso não estabelece dano elétrico adicional. A arma tecnológica apresentou falhas em Erlingheim, onde a Possibilidade interfere na tecnologia. A **cota de malha** está confirmada na sessão de 17/09 ([01:02:20](https://github.com/Open-Fantasy-RPG/Jogatina-2026-Kimura/blob/8e1ca868e58bd2dafaa9963dd051683484493eff/historico-campanha/capitulos/005-audiencia-em-eldervan/transcript.md#L1200-L1201)).
 
 ## Participação na campanha
 

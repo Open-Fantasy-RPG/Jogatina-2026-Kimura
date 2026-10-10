@@ -12,12 +12,13 @@
   "legacy_index": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/README.md",
   "sources": [
     {
-      "path": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/sessao-2026-09-24-exploracao-do-templo-do-fluxo.md",
+      "path": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md",
       "kind": "transcript",
       "git_blob_sha": "e3bec60324f17355914258b231d09c6a81b6b47e",
       "size_bytes": 93825
     }
   ],
   "transcript_status": "available",
-  "scene_count": 9
+  "scene_count": 9,
+  "legacy_storage_status": "migrated_to_canonical_directory"
 }

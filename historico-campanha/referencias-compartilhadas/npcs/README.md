@@ -4,7 +4,7 @@
 
 - [Sombras: imagens aprovadas](sombras/README.md)
 - [Cães modificados: imagens aprovadas](caes-modificados/README.md)
-- [Jânia Woodward: acervo visual canônico](../../../personagens/Jania%20Woodward/img-visual/README.md)
+- [Jânia Woodward: acervo visual canônico](../../../personagens/Jania Woodward/img-visual/README.md)
 - [Lorde Illyrion](lorde-illyrion/descricao.md)
 - [Tarvek: descrição e conjunto visual](tarvek/README.md)
 - [Git: descrição e retrato](git/README.md)

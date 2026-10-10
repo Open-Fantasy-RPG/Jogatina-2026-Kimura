@@ -11,4 +11,4 @@ Referências gerais da campanha, como cidades, mapa regional e NPCs: um arquivo 
 
 [Histórico da campanha](../README.md)
 
-Mapas de locais concretos podem permanecer na cena correspondente mesmo quando reaparecem em outras sessões. O [mapa da prisão fica na cena William ordena a prisão](../sessao-2026-08-08-cidade-alta-e-prisao/cenas/03-william-e-prisao/descricao-cena.md).
+Mapas de locais concretos podem permanecer na cena correspondente mesmo quando reaparecem em outras sessões. O [mapa da prisão fica na cena William ordena a prisão](../capitulos/002-cidade-alta-e-prisao/cenas/03-william-e-prisao/descricao-cena.md).

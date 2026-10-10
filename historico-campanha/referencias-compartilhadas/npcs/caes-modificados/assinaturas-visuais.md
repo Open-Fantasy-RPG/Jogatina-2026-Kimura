@@ -45,6 +45,6 @@ Em 24/09 01:37:49, um cão dá um grunhido, seus tubos racham/quebram e ele cai 
 
 ## Fontes
 
-- [Registro público de 24/09/2026](../../../sessao-2026-09-24-exploracao-do-templo-do-fluxo/sessao-2026-09-24-exploracao-do-templo-do-fluxo.md).
-- [Transcrição curada pública de 01/10/2026](../../../sessao-2026-10-01-andares-inferiores-441e1e188cc4b00b74901b904337b9cd1fd669468513102efce50859532f91ec/transcript.curated.md).
-- [Cena 09 de 24/09: combate nas jaulas](../../../sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/descricao-cena.md).
+- [Registro público de 24/09/2026](../../../capitulos/007-exploracao-do-templo-do-fluxo/transcript.md).
+- [Transcrição curada pública de 01/10/2026](../../../capitulos/008-andares-inferiores/transcript.curated.md).
+- [Cena 09 de 24/09: combate nas jaulas](../../../capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/descricao-cena.md).

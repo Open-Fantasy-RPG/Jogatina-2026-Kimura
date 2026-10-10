@@ -12,18 +12,19 @@
   "legacy_index": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/README.md",
   "sources": [
     {
-      "path": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan-resumo.md",
+      "path": "historico-campanha/capitulos/005-audiencia-em-eldervan/summary.md",
       "kind": "summary",
-      "git_blob_sha": "b34d28a6772d711ac7d81bba4d7f7ffa9d536c33",
-      "size_bytes": 18185
+      "git_blob_sha": "7130447a90dc612e911807b9f4d17aa3458153d8",
+      "size_bytes": 18156
     },
     {
-      "path": "historico-campanha/sessao-2026-09-17-audiencia-em-eldervan/sessao-2026-09-17-audiencia-em-eldervan.md",
+      "path": "historico-campanha/capitulos/005-audiencia-em-eldervan/transcript.md",
       "kind": "transcript",
       "git_blob_sha": "0a41760091fa3913a9a2819a333dbd010c304580",
       "size_bytes": 76060
     }
   ],
   "transcript_status": "available",
-  "scene_count": 4
+  "scene_count": 4,
+  "legacy_storage_status": "migrated_to_canonical_directory"
 }

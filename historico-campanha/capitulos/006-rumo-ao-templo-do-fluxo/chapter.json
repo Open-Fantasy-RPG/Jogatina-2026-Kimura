@@ -12,18 +12,19 @@
   "legacy_index": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/README.md",
   "sources": [
     {
-      "path": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/sessao-2026-09-22-rumo-ao-templo-do-fluxo-resumo.md",
+      "path": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/summary.md",
       "kind": "summary",
-      "git_blob_sha": "13016e67144d1c448c544dec11209a7a0c1a12e4",
-      "size_bytes": 20458
+      "git_blob_sha": "8cf7b67f2430d855b26789d02f00882716e9aeb5",
+      "size_bytes": 20427
     },
     {
-      "path": "historico-campanha/sessao-2026-09-22-rumo-ao-templo-do-fluxo/sessao-2026-09-22-rumo-ao-templo-do-fluxo.md",
+      "path": "historico-campanha/capitulos/006-rumo-ao-templo-do-fluxo/transcript.md",
       "kind": "transcript",
       "git_blob_sha": "cb22b46692dcd1771c393f86ad7b1a1fb745a38c",
       "size_bytes": 57684
     }
   ],
   "transcript_status": "available",
-  "scene_count": 4
+  "scene_count": 4,
+  "legacy_storage_status": "migrated_to_canonical_directory"
 }

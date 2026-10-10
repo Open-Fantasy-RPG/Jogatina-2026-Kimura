@@ -28,4 +28,4 @@ Os capítulos 001–002 não têm transcrição, conforme o responsável. Os cap
 
 ## Preservação e produção
 
-Os registros originais, cenas e imagens já existentes mantêm seus caminhos e bytes. As entradas por capítulo organizam a leitura e os metadados sem duplicar fontes ou quebrar referências. Novos capítulos usam `capitulos/NNN-slug/`, com data nos metadados. Ler primeiro o capítulo e suas fontes, depois a cena, o local, as imagens originais e os documentos completos dos personagens. A organização deste acervo público não autoriza publicar HQs ou novos conteúdos reservados.
+Os registros, cenas e imagens estão dentro de cada capítulo, sem pastas paralelas de sessão. Os binários e as transcrições mantêm seus bytes; referências de navegação foram atualizadas. Os aliases e hashes anteriores estão no mapa de caminhos e no registro da migração. Novos capítulos usam `capitulos/NNN-slug/`, com data nos metadados. Ler primeiro o capítulo e suas fontes, depois a cena, o local, as imagens originais e os documentos completos dos personagens. A organização deste acervo público não autoriza publicar HQs ou novos conteúdos reservados.

@@ -6,5 +6,5 @@ Esta é a pasta única de Aeloria. A história, as fichas e os materiais de inte
 - [Descrição visual e interpretação completas](img-visual/descricao.md) — aparência, movimento, presença e comportamento reunidos integralmente.
 - [Pasta principal e ficha atual](README.md)
 - [História da personagem](historia-background.md)
-- [Histórias adicionais](Historias-background-adicionais/)
-- [Fichas de níveis anteriores](Niveis-anteriores/)
+- [Histórias adicionais](Historias-background-adicionais)
+- [Fichas de níveis anteriores](Niveis-anteriores)

@@ -43,5 +43,5 @@ Azul-petróleo dessaturado, aço escurecido, couro castanho e tecido cru. O cont
 
 Os relatos públicos estabelecem o contexto da prisão, do conflito, do julgamento e da fuga. O rosto, o figurino e a atitude deste modelo seguem a direção visual aprovada para o guarda-base. As poses são estudos reutilizáveis, sem acrescentar fatos à cronologia.
 
-[Relato do capítulo 003](../../../sessao-2026-08-20-prisao-conflito-e-julgamento/sessao-2026-08-20-prisao-conflito-e-julgamento.md) · [Relato do capítulo 004](../../../sessao-2026-09-03-fuga-de-azura-a-eldervan/sessao-2026-09-03-fuga-de-azura-a-eldervan.md) · [Índice visual](README.md)
+[Relato do capítulo 003](../../../capitulos/003-prisao-conflito-e-julgamento/summary.md) · [Relato do capítulo 004](../../../capitulos/004-fuga-de-asura-a-eldervan/summary.md) · [Índice visual](README.md)
 

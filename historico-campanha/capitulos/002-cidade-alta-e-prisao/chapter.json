@@ -12,7 +12,7 @@
   "legacy_index": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/README.md",
   "sources": [
     {
-      "path": "historico-campanha/sessao-2026-08-08-cidade-alta-e-prisao/sessao-2026-08-08-cidade-alta-e-prisao.md",
+      "path": "historico-campanha/capitulos/002-cidade-alta-e-prisao/summary.md",
       "kind": "summary",
       "git_blob_sha": "0ec572e868c718c55f34e5a3cf43575205927f62",
       "size_bytes": 960
@@ -20,5 +20,6 @@
   ],
   "transcript_status": "unavailable_confirmed",
   "scene_count": 3,
-  "transcript_note": "Sem transcrição, conforme confirmação do responsável pela organização; relato público preservado."
+  "transcript_note": "Sem transcrição, conforme confirmação do responsável pela organização; relato público preservado.",
+  "legacy_storage_status": "migrated_to_canonical_directory"
 }

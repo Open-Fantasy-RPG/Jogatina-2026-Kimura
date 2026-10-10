@@ -6,12 +6,28 @@ Data registrada: **2026-08-08**. A data é um atributo do capítulo.
 
 ## Registros
 
-- [Relato/resumo](../../sessao-2026-08-08-esgotos-asuras-jewel/sessao-2026-08-08-esgotos-asuras-jewel.md)
+- [Relato/resumo](summary.md)
 
 Sem transcrição; relato resumido disponível.
 
-## Cenas e referências
+Os arquivos de origem foram movidos sem resumir ou reescrever seu conteúdo. Os descritivos de cena são navegação editorial complementar, não substituem os registros.
 
-[Acervo preservado deste capítulo](../../sessao-2026-08-08-esgotos-asuras-jewel/README.md). Os registros, cenas e imagens existentes mantêm seus caminhos para preservar links e automações. Esta é a entrada canônica de navegação por capítulo; não é uma segunda cópia editável das fontes.
+Os dois registros de 08/08 correspondem a capítulos distintos, conforme confirmação do responsável pela organização. Não inferir horários ou durações da data compartilhada.
 
-[Próximo capítulo](../002-cidade-alta-e-prisao/README.md)
+## Cenas
+
+| Ordem | Cena | Local editável | Referências |
+| --- | --- | --- | --- |
+| 01 | [Exploração dos esgotos](cenas/01-esgotos-e-ratos/descricao-cena.md) | [Esgotos de Asura’s Jewel](cenas/01-esgotos-e-ratos/descricao-local.md) | 1 |
+| 02 | [Hilbert, runas e pistas](cenas/02-hilbert-runas-e-trafico/descricao-cena.md) | [Túneis sob a cidade](cenas/02-hilbert-runas-e-trafico/descricao-local.md) | 1 |
+| 03 | [Leilão e comunicação à guarda](cenas/03-leilao-e-relato-a-guarda/descricao-cena.md) | [Local do leilão; cidade](cenas/03-leilao-e-relato-a-guarda/descricao-local.md) | 1 |
+
+## Como o mestre complementa
+
+Editar `cenas/NN-slug/descricao-cena.md` e `descricao-local.md`, preenchendo somente detalhes liberados aos jogadores. Manter a fonte de cada fato e separar observação da imagem, relato da mesa e pontos ainda incertos. Usar os modelos em [modelos públicos](../../_modelos/README.md).
+
+## Limites do acervo
+
+Cada arquivo de imagem tem um único destino canônico. Reutilizações são feitas por links; nenhuma cópia binária foi criada. Nomes antigos e hashes estão no inventário. A ausência de imagem é registrada, sem gerar substitutos nem fingir uma correspondência.
+
+

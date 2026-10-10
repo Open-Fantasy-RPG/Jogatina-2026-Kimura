@@ -5,18 +5,18 @@
   "criterio": "Inspeção dos pixels e cruzamento com fontes públicas; arquivos originais preservados; nomes descritivos sem ficha ou espécie oficial.",
   "fontes_textuais": [
     {
-      "path": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/sessao-2026-09-24-exploracao-do-templo-do-fluxo.md",
+      "path": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/transcript.md",
       "blob_sha": "e3bec60324f17355914258b231d09c6a81b6b47e"
     },
     {
-      "path": "historico-campanha/sessao-2026-10-01-andares-inferiores-441e1e188cc4b00b74901b904337b9cd1fd669468513102efce50859532f91ec/transcript.curated.md",
+      "path": "historico-campanha/capitulos/008-andares-inferiores/transcript.curated.md",
       "blob_sha": "bd9ab37d0e5bed280446e8159adda3fe71108f81"
     }
   ],
   "imagens": [
     {
       "id": "sombra",
-      "path": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura1.jpeg",
+      "path": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura1.jpeg",
       "tipo": "retrato-base de criatura",
       "inspecao_visual": "Pixels abertos e conferidos em 2026-10-04",
       "dimensoes_px": [
@@ -32,7 +32,7 @@
     },
     {
       "id": "cao",
-      "path": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura2.jpeg",
+      "path": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/cenas/09-combate-nas-jaulas/imagens/templo-criatura2.jpeg",
       "tipo": "retrato-base de criatura",
       "inspecao_visual": "Pixels abertos e conferidos em 2026-10-04",
       "dimensoes_px": [
@@ -48,7 +48,7 @@
     },
     {
       "id": "laboratorio",
-      "path": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/imagens/tempple-sub2-lab.jpeg",
+      "path": "historico-campanha/capitulos/007-exploracao-do-templo-do-fluxo/cenas/08-laboratorio-e-jaulas/imagens/tempple-sub2-lab.jpeg",
       "tipo": "contexto de cenário",
       "inspecao_visual": "Pixels abertos e conferidos em 2026-10-04",
       "dimensoes_px": [

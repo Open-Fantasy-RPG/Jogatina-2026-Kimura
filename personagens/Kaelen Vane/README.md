@@ -41,6 +41,6 @@ Kaelen e Kaelen Vane são o mesmo personagem. O material antes separado está re
 - [Espada, magia e interpretação](espada-e-magia.md)
 - [Progressão planejada](progressao.md)
 - [Fontes, divergências e pendências](fontes-e-pendencias.md)
-- [Documentos históricos](historico/)
-- [Fontes de origem](fontes/)
+- [Documentos históricos](historico)
+- [Fontes de origem](fontes)
 

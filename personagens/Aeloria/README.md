@@ -58,7 +58,7 @@ O último registro termina com a **chegada a Eldervan em 03/09/2026 e avanço ao
 ## Documentos
 
 - [Acervo visual e referências para ilustrações](img-visual/README.md)
-- [Histórias adicionais da personagem](Historias-background-adicionais/)
+- [Histórias adicionais da personagem](Historias-background-adicionais)
 
 - [Ficha mecânica atual — nível 5](ficha-nivel-5.md)
 - [Ficha visual atual — nível 5](img-visual/ficha-nivel-5.png)
@@ -68,7 +68,7 @@ O último registro termina com a **chegada a Eldervan em 03/09/2026 e avanço ao
 - [Ficha histórica — nível 1](Niveis-anteriores/ficha-nivel-1.md)
 - [História](historia-background.md)
 - [Histórico da campanha](../../historico-campanha/README.md)
-- [Última sessão — Fuga e Eldervan](../../historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/sessao-2026-09-03-fuga-de-azura-a-eldervan.md)
+- [Última sessão — Fuga e Eldervan](../../historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/summary.md)
 - [Companheiros da GAR15](../README.md)
 - [Aparência, personalidade e interpretação](img-visual/descricao.md)
 - [Habilidades e magias](habilidades-e-magias.md)

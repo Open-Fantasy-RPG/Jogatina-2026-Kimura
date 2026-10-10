@@ -12,7 +12,7 @@
   "legacy_index": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/README.md",
   "sources": [
     {
-      "path": "historico-campanha/sessao-2026-09-03-fuga-de-azura-a-eldervan/sessao-2026-09-03-fuga-de-azura-a-eldervan.md",
+      "path": "historico-campanha/capitulos/004-fuga-de-asura-a-eldervan/summary.md",
       "kind": "summary",
       "git_blob_sha": "b5cb773d344db4880bd5729f14a3e972b2f80f4d",
       "size_bytes": 1684
@@ -24,5 +24,6 @@
   "recording_date_local": "2026-09-02",
   "legacy_record_date": "2026-09-03",
   "date_status": "conflicting_sources_needs_reconciliation",
-  "date_note": "A gravação corresponde a 02/09 em America/Sao_Paulo; o registro histórico informa 03/09. session_date preserva a data legada até reconciliação explícita. A divergência não cria outro capítulo."
+  "date_note": "A gravação corresponde a 02/09 em America/Sao_Paulo; o registro histórico informa 03/09. session_date preserva a data legada até reconciliação explícita. A divergência não cria outro capítulo.",
+  "legacy_storage_status": "migrated_to_canonical_directory"
 }

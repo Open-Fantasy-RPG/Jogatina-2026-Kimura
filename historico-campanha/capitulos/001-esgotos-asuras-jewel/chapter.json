@@ -12,7 +12,7 @@
   "legacy_index": "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel/README.md",
   "sources": [
     {
-      "path": "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel/sessao-2026-08-08-esgotos-asuras-jewel.md",
+      "path": "historico-campanha/capitulos/001-esgotos-asuras-jewel/summary.md",
       "kind": "summary",
       "git_blob_sha": "f5bd438682022ed6036870ce3d5c9263d6e6c350",
       "size_bytes": 920
@@ -20,5 +20,6 @@
   ],
   "transcript_status": "unavailable_confirmed",
   "scene_count": 3,
-  "transcript_note": "Sem transcrição, conforme confirmação do responsável pela organização; relato público preservado."
+  "transcript_note": "Sem transcrição, conforme confirmação do responsável pela organização; relato público preservado.",
+  "legacy_storage_status": "migrated_to_canonical_directory"
 }

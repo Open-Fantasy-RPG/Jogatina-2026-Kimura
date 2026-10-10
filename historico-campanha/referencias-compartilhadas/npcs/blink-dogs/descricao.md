@@ -4,7 +4,7 @@
 
 ## Identidade e uso na campanha
 
-Criatura canina feérica usada como referência dos Blink Dogs da viagem por Erlingheim. Na [cena pública](../../../sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/04-blink-dogs/descricao-cena.md), cinco cães atacam o grupo; quatro são mortos e um foge. O cadastro visual não acrescenta nomes, motivos para o ataque, história ou características individuais.
+Criatura canina feérica usada como referência dos Blink Dogs da viagem por Erlingheim. Na [cena pública](../../../capitulos/004-fuga-de-asura-a-eldervan/cenas/04-blink-dogs/descricao-cena.md), cinco cães atacam o grupo; quatro são mortos e um foge. O cadastro visual não acrescenta nomes, motivos para o ataque, história ou características individuais.
 
 ## Aparência escolhida
 
@@ -26,7 +26,7 @@ Este descritivo não substitui a ficha usada pelo mestre nem altera a mecânica 
 
 - [Imagem indicada como direção visual](https://i.redd.it/sw7g0444ghr61.jpg), acessada em 8 de outubro de 2026. O cartão original não é reproduzido neste acervo.
 - [Token próprio da campanha](imagens/blink-dog-token-vtt-v0001.png): novo retrato com composição própria, sem a ficha, os textos ou o fundo da imagem indicada.
-- [Registro público da cena](../../../sessao-2026-09-03-fuga-de-azura-a-eldervan/cenas/04-blink-dogs/descricao-cena.md): fonte da quantidade e do desfecho dos animais.
+- [Registro público da cena](../../../capitulos/004-fuga-de-asura-a-eldervan/cenas/04-blink-dogs/descricao-cena.md): fonte da quantidade e do desfecho dos animais.
 
 Os cães modificados do Templo do Fluxo pertencem a outro encontro. Suas referências não substituem este design.
 
