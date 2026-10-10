@@ -1,0 +1,55 @@
+# Descritivo visual — Local do leilão; cidade
+
+<a id="descrição-do-local"></a>
+
+- Registro: [local.md](local.md).
+- Versão: migração documental de 10/10/2026.
+- Fontes: cenas e referências abaixo; nenhuma aparência nova foi criada.
+- Descrições por período preservam diferenças de conservação e estados sucessivos.
+
+## Estado documentado — 001 / 03-leilao-e-relato-a-guarda
+
+
+### Local — Local do leilão; cidade
+
+[Voltar à cena](../../../sessoes/s001_2026-08-08/cenas/03-leilao-e-relato-a-guarda/README.md#descrição-da-cena) · [Índice do capítulo](../../../sessoes/s001_2026-08-08/README.md)
+
+#### Descritivo do ambiente
+
+O ambiente do leilão é definido pelo que ocorre nele: uma pessoa é oferecida, há participação de um aristocrata e Aeloria precisa escapar quando sua presença é percebida. Roupas caras são um detalhe observado do participante; não confirmam por si um palácio, salão luxuoso ou identidade.
+
+A cidade industrial serve de contexto externo para a investigação e para o contato posterior com a guarda. Não há imagem específica do recinto do leilão. O descritivo mantém livres a arquitetura, os acessos, a quantidade de participantes e o mobiliário, em vez de preencher essas lacunas com elementos de outra cena.
+
+#### O que está presente nesta sequência
+
+- Pessoa com aptidão mágica apresentada no leilão.
+- Aristocrata com roupas caras e lance de 10.000 PO.
+- Aeloria como observadora descoberta; comunicação posterior à guarda.
+
+#### Narração e imagem: aplicação nesta cena
+
+O texto combina o ambiente confirmado pela fonte com a leitura dos arquivos de referência. A disposição espacial não descrita continua aberta para revisão do mestre.
+
+**Fonte principal:** [registro público da sessão](../../../sessoes/s001_2026-08-08/anexos/fontes-originais/summary.md) — relato público, parágrafo 3.
+
+#### Referências visuais
+
+- [asura-jewel.jpeg](../../../mapas/asuras-jewel.jpeg)
+
+#### Pontos a confirmar
+
+Não existe imagem específica comprovada para o leilão. A proteção anterior de Sara aparece como antecedente, sem posição cronológica definida nesta sequência.
+
+#### Complementos públicos do mestre
+
+- Aparência, iluminação ou materiais adicionais confirmados: [preencher]
+- Disposição espacial e diferenças por momento da cena: [preencher]
+- Revisão (data/responsável): [preencher]
+
+> Preencher somente informações liberadas. Uma descrição de ambiente não autoriza acrescentar um acontecimento ou segredo.
+
+
+
+## Vistas reproduzíveis e pendências
+
+As relações espaciais, medidas e condições sem evidência continuam pendentes. As referências históricas não determinam o estado jogado. Revalidar completude para cada uso antes da produção visual.

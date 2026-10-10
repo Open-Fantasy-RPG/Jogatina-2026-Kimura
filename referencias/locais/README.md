@@ -1,0 +1,41 @@
+# Locais — Kimura
+
+- [abrigo-nas-celas](abrigo-nas-celas/README.md).
+- [anfiteatro-do-primeiro-subsolo](anfiteatro-do-primeiro-subsolo/README.md).
+- [asuras-jewel](asuras-jewel/README.md).
+- [biblioteca-superior-sala-dos-mestres-e-acampamento](biblioteca-superior-sala-dos-mestres-e-acampamento/README.md).
+- [cela-barricada-do-complexo](cela-barricada-do-complexo/README.md).
+- [cidade-alta-de-asuras-jewel](cidade-alta-de-asuras-jewel/README.md).
+- [eldervan](eldervan/README.md).
+- [elevador-do-complexo](elevador-do-complexo/README.md).
+- [erlingheim-durante-a-viagem](erlingheim-durante-a-viagem/README.md).
+- [escadaria-secreta-do-nivel-superior](escadaria-secreta-do-nivel-superior/README.md).
+- [esgotos-de-asuras-jewel](esgotos-de-asuras-jewel/README.md).
+- [espaco-de-meditacao-em-eldervan](espaco-de-meditacao-em-eldervan/README.md).
+- [exterior-do-templo-do-fluxo-ordem-de-santa-elara](exterior-do-templo-do-fluxo-ordem-de-santa-elara/README.md).
+- [fosso-de-sucata](fosso-de-sucata/README.md).
+- [laboratorio-do-patrulheiro](laboratorio-do-patrulheiro/README.md).
+- [local-do-leilao-cidade](local-do-leilao-cidade/README.md).
+- [loja-de-git-aposentos-de-hospedes](loja-de-git-aposentos-de-hospedes/README.md).
+- [mercado-das-raizes-caravana](mercado-das-raizes-caravana/README.md).
+- [oficina-dos-automatos](oficina-dos-automatos/README.md).
+- [poco-de-servico-entre-os-subsolos](poco-de-servico-entre-os-subsolos/README.md).
+- [prisao-de-asura](prisao-de-asura/README.md).
+- [rota-de-asura-a-erlingheim](rota-de-asura-a-erlingheim/README.md).
+- [rota-do-disfarce-e-perseguicao](rota-do-disfarce-e-perseguicao/README.md).
+- [sala-de-energia](sala-de-energia/README.md).
+- [sala-do-segundo-fundador](sala-do-segundo-fundador/README.md).
+- [salao-das-criaturas-fericas](salao-das-criaturas-fericas/README.md).
+- [salao-de-elara](salao-de-elara/README.md).
+- [salao-do-lorde-em-eldervan](salao-do-lorde-em-eldervan/README.md).
+- [salas-do-primeiro-subsolo](salas-do-primeiro-subsolo/README.md).
+- [segundo-subsolo-area-de-observacao](segundo-subsolo-area-de-observacao/README.md).
+- [taverna-do-manometro-quebrado](taverna-do-manometro-quebrado/README.md).
+- [templo-do-fluxo-portao](templo-do-fluxo-portao/README.md).
+- [trilha-de-montanha](trilha-de-montanha/README.md).
+- [tuneis-de-fuga-saida-vigiada](tuneis-de-fuga-saida-vigiada/README.md).
+- [tuneis-sob-a-cidade](tuneis-sob-a-cidade/README.md).
+- [vestibulo-porta-interna](vestibulo-porta-interna/README.md).
+- [vila-das-cancoes](vila-das-cancoes/README.md).
+
+Cadastros preservam fontes e pendências. Referências de figurantes não confirmam participação em uma sessão.

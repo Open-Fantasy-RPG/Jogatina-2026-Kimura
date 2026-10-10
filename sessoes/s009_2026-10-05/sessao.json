@@ -1,0 +1,29 @@
+{
+  "chapter_id": "kimura-projeto-vigilia-e-o-segundo-fundador",
+  "chapter_number": 9,
+  "title": "Projeto Vigília e o segundo fundador",
+  "session_date": "2026-10-05",
+  "timezone": "America/Sao_Paulo",
+  "canonical_directory": "sessoes/s009_2026-10-05",
+  "canonical_index": "sessoes/s009_2026-10-05/README.md",
+  "legacy_directories": [],
+  "sources": [
+    {
+      "path": "sessoes/s009_2026-10-05/anexos/fontes-originais/summary.md",
+      "kind": "summary",
+      "git_blob_sha": "d345d07dd66f1b9d97d5dee869e2b09bab23ffaf",
+      "size_bytes": 30628
+    },
+    {
+      "path": "sessoes/s009_2026-10-05/anexos/fontes-originais/transcript.md",
+      "kind": "transcript",
+      "git_blob_sha": "d5c1cdeed51e212ae4cc73a669c7d699ac141e50",
+      "size_bytes": 72214
+    }
+  ],
+  "transcript_status": "available",
+  "scene_count": 10,
+  "source_identity_sha256": "edf652a7529afe2af523a0a2fcfc827a9ad7018bf7cad76768606b7ad4fa8b13",
+  "session_id": "s009",
+  "hq_chapter": "cap009_s009"
+}

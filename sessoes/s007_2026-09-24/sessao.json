@@ -1,0 +1,26 @@
+{
+  "chapter_id": "kimura-exploracao-do-templo-do-fluxo",
+  "chapter_number": 7,
+  "title": "Exploração do Templo do Fluxo",
+  "session_date": "2026-09-24",
+  "timezone": "America/Sao_Paulo",
+  "canonical_directory": "sessoes/s007_2026-09-24",
+  "canonical_index": "sessoes/s007_2026-09-24/README.md",
+  "legacy_directories": [
+    "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo"
+  ],
+  "legacy_index": "historico-campanha/sessao-2026-09-24-exploracao-do-templo-do-fluxo/README.md",
+  "sources": [
+    {
+      "path": "sessoes/s007_2026-09-24/anexos/fontes-originais/transcript.md",
+      "kind": "transcript",
+      "git_blob_sha": "e3bec60324f17355914258b231d09c6a81b6b47e",
+      "size_bytes": 93825
+    }
+  ],
+  "transcript_status": "available",
+  "scene_count": 9,
+  "legacy_storage_status": "migrated_to_canonical_directory",
+  "session_id": "s007",
+  "hq_chapter": "cap007_s007"
+}

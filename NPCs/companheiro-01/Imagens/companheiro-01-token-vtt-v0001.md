@@ -1,0 +1,31 @@
+# companheiro-01-token-vtt-v0001
+
+- Arquivo: [companheiro-01-token-vtt-v0001.png](companheiro-01-token-vtt-v0001.png).
+- Finalidade: token.
+- Entidade ou contexto: [Registro de origem](../npc.md).
+- Descritivo visual: [Descritivo canônico](../descritivo-visual.md).
+- Origem: arquivo preexistente do acervo público; bytes preservados.
+- Nome histórico: `historico-campanha/referencias-compartilhadas/npcs/companheiros-de-prisao/companheiro-01/imagens/companheiro-01-token-vtt-v0001.png`.
+- Versão: preservada do nome e dos registros anteriores; migração em 10/10/2026.
+- SHA-256: `40ba9a228cf57d522399692d76e74e67a5dce015593299901555b5e3c2fdddc3`.
+
+## Descrição e período da representação
+
+Token VTT individual, com transparência externa
+
+Identidade ou ambiente do cadastro, sem nova interpretação dos pixels: Este cadastro corresponde à figura da esquerda da referência coletiva aprovada. A identificação numérica serve somente para manter a continuidade do acervo. Nome, idade exata, história e estatísticas não foram definidos neste conjunto.
+
+Descrições acima derivam de textos públicos anteriores. Período, identidade individual e estado jogado dependem das fontes; estudos e visões imaginadas não são acontecimentos.
+
+## Referências utilizadas
+
+- [descricao.md — NPCs/companheiro-01](../descritivo-visual.md)
+- [README.md — NPCs/companheiro-01](../README.md)
+
+## Geração ou edição
+
+Nenhuma geração ou edição nesta migração. Ferramenta, prompt e parâmetros históricos: consultar registros anteriores; quando ausentes, permanecem pendentes.
+
+## Conferência
+
+Integridade binária conferida por SHA-256; coerência visual para novo uso ainda exige revisão das fontes. Mídia ignorada pelo Git, disponível localmente.

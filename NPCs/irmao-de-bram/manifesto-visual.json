@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "npc_id": "irmao-de-bram",
+  "source_commit": null,
+  "description": "descritivo-visual.md",
+  "assets": [
+    {
+      "path": "Imagens/irmao-de-bram-atividades-v0001.png",
+      "bytes": 2318530,
+      "sha256": "d4e06293942844cc772437f0a9c206dd0253f3e0049707b2872c67bbb7ab267f",
+      "git_blob_sha1": "00670715b90b621d43b4292eec9a2a64b02191b5",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "Imagens/irmao-de-bram-expressoes-v0001.png",
+      "bytes": 2514164,
+      "sha256": "55ee9db78672c0647b575100ba116cf5b29a1c07ae63cee79b9391c7948d3231",
+      "git_blob_sha1": "4945f4a295a3d663c7dd1f153dd84ccf0f9d3e58",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "Imagens/irmao-de-bram-referencia-v0001.png",
+      "bytes": 2362702,
+      "sha256": "d89d7e2c3b615b3cb36f5cbf9b427a5f79268fbd6cce0886249cba1e48b9aacf",
+      "git_blob_sha1": "1025a0a72d2a471d975c3a79041a5a180b869362",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "Imagens/irmao-de-bram-retrato-v0001.png",
+      "bytes": 2529408,
+      "sha256": "66b17f91f7decc53807fa5d3d0568f2e599a0f2cc1175e4f1ab394db70882e7f",
+      "git_blob_sha1": "954e422f5578da87285b6ad61d40b406b6f8fc3a",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "Imagens/irmao-de-bram-token-vtt-v0002.png",
+      "bytes": 1935690,
+      "sha256": "7d0a376801f087df0c834abdba7f9351ef13f1e1c1b23f09655c202144b79e20",
+      "git_blob_sha1": "054fd187dc61922a3c1f9f0145a4c7eb869ed596",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    }
+  ],
+  "coverage": {
+    "retrato": "recuperado",
+    "token": "recuperado",
+    "vistas": "recuperado",
+    "acoes": "recuperado",
+    "expressoes": "recuperado"
+  },
+  "license": {
+    "status": "não especificada; não presumir licença de reutilização"
+  },
+  "regeneration": {
+    "exact_pixels_guaranteed": false,
+    "seed": null
+  },
+  "status": "candidate_for_exact_publication_review",
+  "reproduction_note": "Bytes and hashes permit exact reuse. AI regeneration is nondeterministic. Private production records do not belong in this public package."
+}

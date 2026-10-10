@@ -1,0 +1,27 @@
+{
+  "chapter_id": "kimura-esgotos-asuras-jewel",
+  "chapter_number": 1,
+  "title": "Esgotos de Asura’s Jewel",
+  "session_date": "2026-08-08",
+  "timezone": "America/Sao_Paulo",
+  "canonical_directory": "sessoes/s001_2026-08-08",
+  "canonical_index": "sessoes/s001_2026-08-08/README.md",
+  "legacy_directories": [
+    "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel"
+  ],
+  "legacy_index": "historico-campanha/sessao-2026-08-08-esgotos-asuras-jewel/README.md",
+  "sources": [
+    {
+      "path": "sessoes/s001_2026-08-08/anexos/fontes-originais/summary.md",
+      "kind": "summary",
+      "git_blob_sha": "f5bd438682022ed6036870ce3d5c9263d6e6c350",
+      "size_bytes": 920
+    }
+  ],
+  "transcript_status": "unavailable_confirmed",
+  "scene_count": 3,
+  "transcript_note": "Sem transcrição, conforme confirmação do responsável pela organização; relato público preservado.",
+  "legacy_storage_status": "migrated_to_canonical_directory",
+  "session_id": "s001",
+  "hq_chapter": "cap001_s001"
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "npc_id": "elfos-de-cena/lethiel",
+  "source_commit": "8db41acbbf9288b95001fa51beb99dbfa5a3dd2c",
+  "description": "descritivo-visual.md",
+  "assets": [
+    {
+      "path": "Imagens/lethiel-expressoes-v0002.png",
+      "bytes": 2512205,
+      "sha256": "a2346e31bd08f72e37d0ec4cd0ba5a8dd9b96bafcbb27f2a24207064b63a5cec",
+      "git_blob_sha1": "740ab0ebd21b8ba7fba280b886583f8f97330cc7",
+      "dimensions": [
+        2172,
+        724
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "Imagens/lethiel-referencia-v0001.png",
+      "bytes": 1911013,
+      "sha256": "d8ca4b7a061816a00e595cd92cc4ee4492da41f00cd3da273ce273f7f77f6a10",
+      "git_blob_sha1": "faa40c0b15a20a43c3379a0d926b27314586ec3c",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "Imagens/lethiel-token-vtt-v0001.png",
+      "bytes": 299276,
+      "sha256": "6fd7fb76be9774609cc92f06962bc702660c42786668c6ab14dbd82cc071a455",
+      "git_blob_sha1": "06893f3c7dbbf99bbcfeca1ac0ecd34f44dc398b",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    }
+  ],
+  "coverage": {
+    "retrato": "na prancha coletiva",
+    "token": "presente",
+    "vistas": "presente",
+    "acoes": "presente",
+    "expressoes": "limitadas às poses"
+  },
+  "license": {
+    "status": "não definida por este inventário",
+    "note": "Preservar atribuições existentes; a publicação anterior não estabelece licença de reutilização."
+  },
+  "regeneration": {
+    "exact_pixels_guaranteed": false,
+    "seed": null,
+    "note": "Preservar arquivos originais e hashes para reutilização exata. Nova geração é uma interpretação sujeita à revisão."
+  },
+  "notes": "Cinco vistas e caminhada/conversa verificadas nos pixels. Retrato individual usa token e prancha coletiva; expressões dedicadas não existem.",
+  "status": "candidate_for_exact_publication_review",
+  "reproduction_note": "Bytes and hashes permit exact reuse. AI regeneration is nondeterministic. Private production records do not belong in this public package."
+}

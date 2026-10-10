@@ -1,0 +1,5 @@
+*.md text eol=lf
+*.json text eol=lf
+**/anexos/fontes-originais/** -text -whitespace
+campanha/migracoes/migracao-capitulos-2026-10-10.json -text whitespace=cr-at-eol
+campanha/migracoes/migracao-cenas-2026-10-10.json -text whitespace=cr-at-eol

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "npc_id": "elfos-de-cena/sylwen",
+  "source_commit": "8db41acbbf9288b95001fa51beb99dbfa5a3dd2c",
+  "description": "descritivo-visual.md",
+  "assets": [
+    {
+      "path": "Imagens/sylwen-expressoes-v0001.png",
+      "bytes": 2443357,
+      "sha256": "969375d8358ccace4484fb7853432f86660f8a83a6caa9f346bc8bcf169f545b",
+      "git_blob_sha1": "7a015e51045daeeb2627ad3b631682ddaa094ddc",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "Imagens/sylwen-referencia-v0001.png",
+      "bytes": 1903995,
+      "sha256": "763400b961535272aeb5e5f32b88121e0d74651507e35c47745077cbab03b154",
+      "git_blob_sha1": "04bf3898c968a8563e8f7a87b49817408b2cccec",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "Imagens/sylwen-token-vtt-v0001.png",
+      "bytes": 305822,
+      "sha256": "6cd4247789fe6ce5d84f00bdcb3a8bf3fb828daaff4d4190b31f16897c1c67a9",
+      "git_blob_sha1": "13c25e9e850b4595b39926cc6fcaebb89833cc03",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    }
+  ],
+  "coverage": {
+    "retrato": "na prancha coletiva",
+    "token": "presente",
+    "vistas": "presente",
+    "acoes": "presente",
+    "expressoes": "limitadas às poses"
+  },
+  "license": {
+    "status": "não definida por este inventário",
+    "note": "Preservar atribuições existentes; a publicação anterior não estabelece licença de reutilização."
+  },
+  "regeneration": {
+    "exact_pixels_guaranteed": false,
+    "seed": null,
+    "note": "Preservar arquivos originais e hashes para reutilização exata. Nova geração é uma interpretação sujeita à revisão."
+  },
+  "notes": "Cinco vistas e caminhada/conversa verificadas nos pixels. Retrato individual usa token e prancha coletiva; expressões dedicadas não existem.",
+  "status": "candidate_for_exact_publication_review",
+  "reproduction_note": "Bytes and hashes permit exact reuse. AI regeneration is nondeterministic. Private production records do not belong in this public package."
+}

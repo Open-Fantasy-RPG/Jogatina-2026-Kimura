@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "npc_id": "hub",
+  "source_commit": "8db41acbbf9288b95001fa51beb99dbfa5a3dd2c",
+  "description": "descritivo-visual.md",
+  "assets": [
+    {
+      "path": "Imagens/hub-atividades-v0001.png",
+      "bytes": 2471159,
+      "sha256": "f89ed81fa0a7346369eda6c522496b3f6aa0cbef38754eceb51533bf751e9576",
+      "git_blob_sha1": "2cbdec41b9a2dcdcbb6a28151fd79672af6cce16",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "Imagens/hub-expressoes-v0001.png",
+      "bytes": 2619573,
+      "sha256": "580fd948f8cfa7f008c2562be35646ed1336df50b19e467db7358eb24d635ce7",
+      "git_blob_sha1": "39bba4ea9ef2f6f013cca4f321eb10e8ac8ea2f9",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "Imagens/hub-referencia-v0001.png",
+      "bytes": 2390249,
+      "sha256": "02fd6c24e8bb65893ea96ef760cfb963b58d6b85b4191aae2912c3c9acf40c02",
+      "git_blob_sha1": "15226fa01a87b875893a44bcc4e37b4f3c4b6db1",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "Imagens/hub-retrato-v0001.png",
+      "bytes": 2420574,
+      "sha256": "42ee7b3e87904b22fc62f02e6b6d761566e6bf93602efe4f2b31cd9ddd62283b",
+      "git_blob_sha1": "9740b3002ae8b1e2fcb6712e6d9f82e51881c307",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "Imagens/hub-token-vtt-v0001.png",
+      "bytes": 1435149,
+      "sha256": "3d9f2025ca488f9da1dc61a305983f6bf94cc029fbad8f521f0fc31a9fdedcf3",
+      "git_blob_sha1": "5a32b278b51fdd4d52878e6e5569aaea16b8e2b7",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    }
+  ],
+  "coverage": {
+    "retrato": "presente",
+    "token": "presente",
+    "vistas": "presente",
+    "acoes": "presente",
+    "expressoes": "presente"
+  },
+  "license": {
+    "status": "não definida por este inventário",
+    "note": "Preservar atribuições existentes; a publicação anterior não estabelece licença de reutilização."
+  },
+  "regeneration": {
+    "exact_pixels_guaranteed": false,
+    "seed": null,
+    "note": "Preservar arquivos originais e hashes para reutilização exata. Nova geração é uma interpretação sujeita à revisão."
+  },
+  "notes": "",
+  "status": "candidate_for_exact_publication_review",
+  "reproduction_note": "Bytes and hashes permit exact reuse. AI regeneration is nondeterministic. Private production records do not belong in this public package."
+}

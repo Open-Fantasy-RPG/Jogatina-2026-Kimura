@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personagens/Kaelen Vane/Background.md",
+                "file": "Personagens/kaelen-vane/background.md",
                 "mode": "source",
                 "source": false
               },
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personagens/Kaelen Vane/Background.md",
+                "file": "Personagens/kaelen-vane/background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personagens/Kaelen Vane/Background.md",
+                "file": "Personagens/kaelen-vane/background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personagens/Kaelen Vane/Background.md",
+                "file": "Personagens/kaelen-vane/background.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,19 +190,19 @@
   },
   "active": "942e395d4c14a62d",
   "lastOpenFiles": [
-    "personagens/Kaelen Vane/historico/Kaelen_Vane_Ficha_do_Fluxo.docx",
-    "personagens/Kaelen Vane/historico/kaelen-vane-ficha-web.html",
+    "Personagens/kaelen-vane/historico/kaelen-vane-ficha-do-fluxo.docx",
+    "Personagens/kaelen-vane/historico/kaelen-vane-ficha-web.html",
     "personagens/Kaelen Vane/historico",
-    "personagens/Kaelen Vane/fontes/jedi-em-dnd-5e.md",
-    "personagens/Kaelen Vane/fontes/criar-ficha-de-kaelen-vane.md",
+    "Personagens/kaelen-vane/fontes/jedi-em-dnd-5e.md",
+    "Personagens/kaelen-vane/fontes/criar-ficha-de-kaelen-vane.md",
     "personagens/Kaelen Vane/fontes",
-    "personagens/Kaelen Vane/dossie-de-origem.md",
-    "personagens/Kaelen Vane/progressao.md",
-    "personagens/Kaelen Vane/historia-e-fluxo.md",
-    "personagens/Kaelen Vane/fontes-e-pendencias.md",
-    "personagens/Kaelen Vane/ficha-nivel-3.md",
-    "personagens/Kaelen Vane/espada-e-magia.md",
-    "personagens/Kaelen Vane/Background.md",
+    "Personagens/kaelen-vane/dossie-de-origem.md",
+    "Personagens/kaelen-vane/progressao.md",
+    "Personagens/kaelen-vane/historia-e-fluxo.md",
+    "Personagens/kaelen-vane/fontes-e-pendencias.md",
+    "Personagens/kaelen-vane/ficha/ficha-nivel-3.md",
+    "Personagens/kaelen-vane/espada-e-magia.md",
+    "Personagens/kaelen-vane/background.md",
     "personagens/Kaelen Vane"
   ]
 }

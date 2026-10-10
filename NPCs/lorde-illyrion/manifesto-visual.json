@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "npc_id": "lorde-illyrion",
+  "source_commit": "8db41acbbf9288b95001fa51beb99dbfa5a3dd2c",
+  "description": "descritivo-visual.md",
+  "assets": [
+    {
+      "path": "Imagens/illyrion-acoes-expressoes-v0001.png",
+      "bytes": 2979212,
+      "sha256": "5b5d209943976ab6eb6ddb96414e2136f395d17a0770f13d4b6e6168d3eea8b6",
+      "git_blob_sha1": "a642d8f5622b07d88b09d65c026efbbc95f4dc7e",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "Imagens/illyrion-token-vtt-v0001.png",
+      "bytes": 2840518,
+      "sha256": "94bb6aa2d6725bac52ab77af8b5a32668e891513a35df8dbe2159c6488a1d0a0",
+      "git_blob_sha1": "13d1fa89c29eb775e8e68cc37f85310ab7d25d19",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "path": "Imagens/illyrion-vistas-v0001.png",
+      "bytes": 2822984,
+      "sha256": "3285ef03ae1bafffa0f5f87dadf92feff4a3d4aaceeb279fd348cb2a3755194d",
+      "git_blob_sha1": "28c6b4c00c8863acccbbd8e656bac698eca03df1",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    },
+    {
+      "path": "Imagens/lord-ilidan.jpeg",
+      "bytes": 459305,
+      "sha256": "cd02ffea7c05f2cf84fed267f89edba22b3db9355f31463421b1caefcccc84dc",
+      "git_blob_sha1": "25ca4b2dcd7b932ed9e8192b48245d1632e7fc71",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "mode": "RGB",
+      "alpha_extrema": null
+    }
+  ],
+  "coverage": {
+    "retrato": "presente",
+    "token": "prévia nova",
+    "vistas": "prévia nova",
+    "acoes": "prévia nova",
+    "expressoes": "prévia nova"
+  },
+  "license": {
+    "status": "não definida por este inventário",
+    "note": "Preservar atribuições existentes; a publicação anterior não estabelece licença de reutilização."
+  },
+  "regeneration": {
+    "exact_pixels_guaranteed": false,
+    "seed": null,
+    "note": "Preservar arquivos originais e hashes para reutilização exata. Nova geração é uma interpretação sujeita à revisão."
+  },
+  "notes": "",
+  "status": "candidate_for_exact_publication_review",
+  "reproduction_note": "Bytes and hashes permit exact reuse. AI regeneration is nondeterministic. Private production records do not belong in this public package."
+}
