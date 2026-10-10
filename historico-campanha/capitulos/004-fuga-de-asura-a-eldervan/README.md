@@ -19,3 +19,10 @@ Relato resumido disponível no Git. Uma transcrição foi localizada no acervo p
 ## Divergência de data
 
 Gravação: **02/09/2026** em America/Sao_Paulo. Registro histórico: **03/09/2026**, preservado acima e nos arquivos originais até reconciliação. A divergência não altera o número do capítulo.
+
+
+## Edição final em HQ
+
+Versão final registrada: **v004**, com **15 páginas**. [Metadados da edição](hq-final.json).
+
+Este registro cataloga a edição final. PDFs e imagens não estão incluídos neste commit; roteiros de produção, fontes e evidências reservadas permanecem no acervo privado.

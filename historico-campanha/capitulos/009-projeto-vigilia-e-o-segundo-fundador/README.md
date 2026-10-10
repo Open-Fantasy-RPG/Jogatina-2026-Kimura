@@ -16,3 +16,10 @@ Transcrição integral e resumo disponíveis.
 Este capítulo ainda não possui cenas editoriais ou imagens classificadas. Os registros acima são as fontes públicas disponíveis.
 
 [Capítulo anterior](../008-andares-inferiores/README.md)
+
+
+## Edição final em HQ
+
+Versão final registrada: **v003b**, com **23 páginas**, **155 quadros**. [Metadados da edição](hq-final.json).
+
+Este registro cataloga a edição final. PDFs e imagens não estão incluídos neste commit; roteiros de produção, fontes e evidências reservadas permanecem no acervo privado.
